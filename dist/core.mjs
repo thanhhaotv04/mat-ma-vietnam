@@ -1,5 +1,5 @@
 export const normalize = s => s.normalize('NFD').replace(/\p{Diacritic}/gu, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
-export function fresh(name, region) { return {version:1,name:name.trim().slice(0,40),starts:[region],earned:[],lastRegion:region}; }
+export function fresh(name, region) { return {version:1,name:name.trim().slice(0,40),starts:[region],earned:[],shiny:[],lastRegion:region}; }
 export function completed(data,state,id){return data.regions.find(r=>r.id===id)?.cards.filter(c=>state.earned.includes(c)).length>=3;}
 export function access(data,state){
  const regions=new Set(state.starts),chapters=new Set();
@@ -15,7 +15,7 @@ export function restore(data,raw){
  try{const s=JSON.parse(raw);if(s.version!==1||typeof s.name!=='string'||!s.name.trim()||!Array.isArray(s.starts)||!s.starts.length||!Array.isArray(s.earned))return null;
  const rids=new Set(data.regions.map(r=>r.id)),cids=new Set(data.cards.map(c=>c.id));
  if(!s.starts.every(x=>rids.has(x))||!s.earned.every(x=>cids.has(x)))return null;
- return {version:1,name:s.name.slice(0,40),starts:[...new Set(s.starts)],earned:[...new Set(s.earned)],lastRegion:rids.has(s.lastRegion)?s.lastRegion:s.starts[0]};
+ return {version:1,name:s.name.slice(0,40),starts:[...new Set(s.starts)],earned:[...new Set(s.earned)],shiny:[...new Set((Array.isArray(s.shiny)?s.shiny:[]).filter(id=>s.earned.includes(id)))],lastRegion:rids.has(s.lastRegion)?s.lastRegion:s.starts[0]};
  }catch{return null;}
 }
 export function achievements(data,state){

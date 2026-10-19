@@ -24,3 +24,7 @@ test('Authored questions ask a fact, keep an explanation, and shuffle positions'
  const first=makeQuestion(data,c,'clue',()=>.01).options.map(x=>x.id).join(',');const second=makeQuestion(data,c,'clue',()=>.99).options.map(x=>x.id).join(',');assert.notEqual(first,second);
 });
 test('Landmark distractors prioritize comparable places',()=>{const c=data.cards.find(c=>c.name==='Chùa Một Cột');const options=distractors(data,c,fixed);assert(options.every(o=>/chùa|đền|miếu|nhà thờ|tòa thánh/i.test(o.label)));});
+
+test('Image questions keep the cultural cloze instead of a generic image prompt',()=>{
+ for(const c of data.cards){const image=makeQuestion(data,c,'image',()=>.5),clue=makeQuestion(data,c,'clue',()=>.5);assert.equal(image.passage,clue.passage);assert.equal(image.correct,c.id);assert.equal(image.options.length,4);}
+});

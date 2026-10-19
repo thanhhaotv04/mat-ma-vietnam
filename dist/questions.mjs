@@ -91,6 +91,16 @@ const FOOD_HINTS = {
  'Cao lầu':'Phân biệt cách dùng nước với một bát mì nước thông thường.'
 };
 const SPECIAL_OPTIONS = {
+ 'Cua biển':['Cua biển','Tôm hùm','Tôm sú','Bề bề'],
+ 'Hạt dẻ':['Hạt dẻ','Hạt điều','Hạt mắc ca','Hạt óc chó'],
+ 'Hạt điều':['Hạt điều','Hạt dẻ','Hạt mắc ca','Hạt hạnh nhân'],
+ 'Nhãn lồng':['Nhãn lồng','Vải thiều','Chôm chôm','Bòn bon'],
+ 'Vải thiều':['Vải thiều','Nhãn lồng','Chôm chôm','Bòn bon'],
+ 'Vú sữa':['Vú sữa','Măng cụt','Hồng xiêm','Lê'],
+ 'Khóm':['Khóm','Mít','Mãng cầu','Sầu riêng'],
+ 'Khoai lang':['Khoai lang','Khoai môn','Khoai sọ','Sắn'],
+ 'Kem bơ':['Kem bơ','Kem dừa','Kem sầu riêng','Chè đậu xanh'],
+ 'Cà phê':['Cà phê','Trà đen','Ca cao','Trà gạo rang'],
  'Bánh tằm bì':['Bánh tráng nướng','Bánh canh','Bánh tằm bì','Bánh cuốn'],
  'Bánh tráng nướng':['Bánh tráng nướng','Bánh căn','Bánh cuốn','Bánh khọt'],
  'Bánh canh hẹ':['Bánh canh hẹ','Bánh đa cua','Bún chả cá','Hủ tiếu'],
@@ -105,6 +115,10 @@ const SPECIAL_OPTIONS = {
 const LANDMARK_GROUPS = [
  ['temple',/chùa|đền|miếu|thiền viện|tòa thánh|nhà thờ/],
  ['tower',/tháp|thành |cổng|dinh |ngọ môn|văn miếu|nhà cổ|hoàng thành|đình /],
+ ['waterfall',/thác/],
+ ['cave',/động|hang /],
+ ['lake',/hồ |ao /],
+ ['coast',/biển|vịnh|đảo|hòn |cù lao/],
  ['water',/hồ |vịnh|suối|biển|thác|động|hang |đảo|hòn |cù lao|kênh|tràng an|ao /],
  ['mountain',/núi|đèo|đồi|fansipan|pù luông|langbiang|mù cang chải|chư /],
  ['history',/di tích|nhà tù|nhà đày|địa đạo|lán |hầm|làng sen|lưu niệm|mường phăng/],
@@ -116,7 +130,7 @@ export function foodEditorial(cards){return cards.filter(c=>c.type==='food').map
 function shuffled(xs,rng){const out=[...xs];for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]];}return out;}
 export function distractors(data,c,rng=Math.random){
  const own=byRegion(data,c.region),group=topic(c),answer=c.type==='food'?foodName(c):c.name;
- const ranked=shuffled(data.cards.filter(x=>x.type===c.type&&x.id!==c.id),rng).map(x=>{const r=byRegion(data,x.region);return {c:x,score:(topic(x)===group?12:0)+(r?.macro===own?.macro?3:0)+(x.region===c.region?2:0)};}).sort((a,b)=>b.score-a.score);
+ const ranked=shuffled(data.cards.filter(x=>x.type===c.type&&x.id!==c.id),rng).map(x=>{const r=byRegion(data,x.region);return {c:x,score:(topic(x)===group?20:0)+normalize(x.name).split(/\s+/).filter(w=>w.length>2&&normalize(c.name).split(/\s+/).includes(w)).length*2+(r?.macro===own?.macro?3:0)+(x.region===c.region?2:0)};}).sort((a,b)=>b.score-a.score);
  const seen=new Set([normalize(answer)]),out=[];for(const x of ranked){const label=c.type==='food'?foodName(x.c):x.c.name;const n=normalize(label);if(seen.has(n))continue;seen.add(n);out.push({id:x.c.id,label});if(out.length===3)break;}return out;
 }
 function byRegion(data,id){return data.regions.find(r=>r.id===id);}
@@ -126,7 +140,7 @@ function obscureName(text,c,data){
  return result;
 }
 export function makeQuestion(data,c,mode='clue',rng=Math.random){
- if(mode==='clue'&&c.question){const q=c.question;const options=shuffled(q.options.map((label,i)=>({id:i===q.answer?c.id:`${c.id}:option:${i}`,label})),rng);return {passage:q.passage,options,correct:c.id,hint:q.hint,explanation:q.explanation,source:q.source||c.source,level:'Vừa'};}
+ if((mode==='clue'||mode==='image')&&c.question){const q=c.question;const options=shuffled(q.options.map((label,i)=>({id:i===q.answer?c.id:`${c.id}:option:${i}`,label})),rng);return {passage:q.passage,options,correct:c.id,hint:q.hint,explanation:q.explanation,source:q.source||c.source,level:'Vừa'};}
  if(mode==='geo'){
   const r=byRegion(data,c.region),siblings=data.regions.filter(x=>x.id!==r.id),same=siblings.filter(x=>x.macro===r.macro),pool=shuffled([...same,...siblings.filter(x=>x.macro!==r.macro)],rng).sort((a,b)=>(a.macro===r.macro?0:1)-(b.macro===r.macro?0:1));
   const options=shuffled([{id:r.id,label:r.name},...pool.slice(0,3).map(x=>({id:x.id,label:x.name}))],rng);
@@ -136,6 +150,6 @@ export function makeQuestion(data,c,mode='clue',rng=Math.random){
  const other=c.type==='food'&&SPECIAL_OPTIONS[label]?SPECIAL_OPTIONS[label].filter(x=>normalize(x)!==normalize(label)).map((x,i)=>({id:`${c.id}:other:${i}`,label:x})):distractors(data,c,rng);
  const options=shuffled([{id:c.id,label},...other],rng);
  let passage=c.type==='food'?c.questionPassage:`${obscureName(c.intro,c,data)} Địa danh được mô tả trong đoạn này là {{blank}}.`;
- if(mode==='image')passage=c.type==='food'?'Quan sát nguyên liệu, cách bày và hình dạng món ăn trong phần tranh được hé lộ. Món xuất hiện trong hình là {{blank}}.':'Quan sát hình khối và kiến trúc trong phần tranh được hé lộ. Địa danh trong bức tranh là {{blank}}.';
+
  return {passage,options,correct:c.id,hint:c.type==='food'?FOOD_HINTS[label]||'So sánh nguyên liệu chính và cách chế biến, thay vì đoán theo tên vùng.':'So sánh loại công trình hoặc cảnh quan với từng lựa chọn.',explanation:c.intro,source:c.source,level:'Vừa'};
 }

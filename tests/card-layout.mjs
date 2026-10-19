@@ -4,7 +4,7 @@ const browser=await chromium.launch({headless:true});const page=await browser.ne
 await page.goto('http://localhost:4173');await page.locator('#player-name').fill('Cà Mau');await page.locator('[data-start="ca-mau"]').click();await page.locator('#begin').click();
 assert.equal(await page.locator('.region-switcher,.map-key').count(),0);
 await page.getByRole('button',{name:'Món ăn',exact:true}).click();await expect(page.locator('.collection-page>h2')).toHaveText('Đặc Sản');
-await page.locator('[data-card="ca-mau-3"]').click();await page.locator('[data-mode=clue]').click();await page.locator('[data-answer="ca-mau-3"]').click();
+await page.locator('[data-card="ca-mau-3"]').click();await page.locator('[data-answer="ca-mau-3"]').click();
 await expect(page.locator('.reward-card h2')).toHaveText('Cua Cà Mau');
 async function square(selector){const b=await page.locator(selector).boundingBox();assert(Math.abs(b.width-b.height)<1,`${selector}: ${b.width}×${b.height}`);}
 for(const width of [375,768,1024,1440]){await page.setViewportSize({width,height:1050});await square('.reward-art');assert.equal(await page.locator('.reward-art .art').evaluate(e=>getComputedStyle(e).backgroundSize),'400% 400%');}

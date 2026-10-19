@@ -64,3 +64,9 @@ Thiết kế cập nhật và tài liệu tham khảo: [docs/web-game-design.md]
 Kiểm tra luồng địa danh: `node tests/landmark-flow.mjs` khi máy chủ cục bộ đang chạy.
 
 Danh sách thẻ chỉ hiện ảnh vuông và tên. Chọn vùng trên bản đồ; tiêu đề trang đổi theo tab Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Trả lời đúng tự hiện thẻ với hiệu ứng và giới thiệu rút gọn (tối đa khoảng 220 ký tự). Các khung ảnh danh sách/câu hỏi/nhận thẻ/xem lại cùng tỉ lệ 1:1.
+
+### Nhận diện hình ảnh
+
+Chạm thẻ để vào câu đố trực tiếp. Lưới 4×4 che ảnh và hé một ô ngẫu nhiên mỗi 500 ms, không lặp, hết sau 8 giây. Bên dưới là câu hỏi điền khuyết văn hóa, với bốn đáp án gần nhau về chủ đề. Đồng hồ bắt đầu khi ảnh đã tải/giải mã xong và đáp án được bật. Trả lời đúng trước 2000 ms lưu thẻ lấp lánh trong tiến độ; có thể đạt khi chơi lại. Thẻ thường đã nhận cũng có thể nâng thành lấp lánh. Hiệu ứng xuất hiện ở thẻ nhận được, danh sách và khi mở lại, tôn trọng cài đặt giảm chuyển động.
+
+`node tests/reveal-flow.mjs` kiểm tra các mốc 499/500/1999/2000/8000 ms, lưu trạng thái, đóng câu hỏi và màn hình điện thoại.

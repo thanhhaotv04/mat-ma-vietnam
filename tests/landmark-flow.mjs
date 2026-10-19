@@ -7,7 +7,7 @@ const page=await browser.newPage({viewport:{width:1440,height:1050}}),errors=[];
 page.on('pageerror',e=>errors.push(e.message));
 await page.goto('http://localhost:4173');
 await page.locator('#player-name').fill('Khám phá');await page.locator('[data-start="ha-noi"]').click();await page.locator('#begin').click();
-await page.locator('.card-row[data-card="ha-noi-2"]').click();await page.locator('[data-mode=clue]').click();
+await page.locator('.card-row[data-card="ha-noi-2"]').click();
 await page.locator('.answers button:not([data-answer="ha-noi-2"])').first().click();
 assert.equal(await page.locator('dialog[data-view=reward]').count(),0);
 await page.locator('[data-answer="ha-noi-2"]').click();
