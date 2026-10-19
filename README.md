@@ -70,3 +70,5 @@ Danh sách thẻ chỉ hiện ảnh vuông và tên. Chọn vùng trên bản đ
 Chạm thẻ để vào câu đố trực tiếp. Lưới 4×4 che ảnh và hé một ô ngẫu nhiên mỗi 500 ms, không lặp, hết sau 8 giây. Bên dưới là câu hỏi điền khuyết văn hóa, với bốn đáp án gần nhau về chủ đề. Đồng hồ bắt đầu khi ảnh đã tải/giải mã xong và đáp án được bật. Trả lời đúng trước 2000 ms lưu thẻ lấp lánh trong tiến độ; có thể đạt khi chơi lại. Thẻ thường đã nhận cũng có thể nâng thành lấp lánh. Hiệu ứng xuất hiện ở thẻ nhận được, danh sách và khi mở lại, tôn trọng cài đặt giảm chuyển động.
 
 `node tests/reveal-flow.mjs` kiểm tra các mốc 499/500/1999/2000/8000 ms, lưu trạng thái, đóng câu hỏi và màn hình điện thoại.
+
+Cửa sổ câu hỏi được tối giản: chỉ tiêu đề Nhận diện hình ảnh, tranh 4×4, đoạn điền khuyết và bốn đáp án; không có nút gợi ý hay lời giải thích/counter.

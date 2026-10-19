@@ -74,18 +74,15 @@ async function startQuiz(c){
  quiz={card:c.id,correct:item.correct,done:false,item,attempts:0,startedAt:null};const current=quiz;
  const parts=item.passage.split('{{blank}}');
  const passage=`${esc(parts[0])}<span class="question-blank" aria-label="chỗ trống">…</span>${esc(parts[1]||'')}`;
- showDialog(`<div class="question-heading"><span class="eyebrow">NHẬN DIỆN HÌNH ẢNH</span></div><h2>Bức tranh đang hé mở</h2><p class="question-instruction">Mỗi 0,5 giây hé một ô. Trả lời đúng dưới 2 giây để nhận thẻ lấp lánh.</p><div class="quiz-image">${art(c,'',false)}<div class="tile-mask" aria-hidden="true">${Array.from({length:16},(_,i)=>`<span data-tile="${i}"></span>`).join('')}</div></div><div class="reveal-progress" role="status">Đang chuẩn bị tranh…</div><div class="cloze-passage">${passage}</div>${answerButtons(item.options)}<div class="question-tools"><button id="question-hint" class="text-button">${icon('book')} Gợi ý</button></div><p id="hint-text" class="hint-text" hidden>${esc(item.hint)}</p><div id="answer-feedback" role="status" aria-live="polite"></div>`);
+ showDialog(`<h2>Nhận diện hình ảnh</h2><div class="quiz-image">${art(c,'',false)}<div class="tile-mask" aria-hidden="true">${Array.from({length:16},(_,i)=>`<span data-tile="${i}"></span>`).join('')}</div></div><div class="cloze-passage">${passage}</div>${answerButtons(item.options)}<div id="answer-feedback" role="status" aria-live="polite"></div>`);
  dialog.dataset.view='question';
  const buttons=[...document.querySelectorAll('[data-answer]')];buttons.forEach(b=>{b.disabled=true;b.onclick=()=>answer(b.dataset.answer,b);});
- document.querySelector('#question-hint').onclick=()=>{const text=document.querySelector('#hint-text');text.hidden=!text.hidden;document.querySelector('#question-hint').setAttribute('aria-expanded',String(!text.hidden));};
- document.querySelector('#question-hint').setAttribute('aria-expanded','false');
  const image=new Image();const background=getComputedStyle(document.querySelector('.quiz-image .art')).backgroundImage;image.src=background.slice(5,-2);
- try{await image.decode();}catch{if(quiz===current&&dialog.dataset.view==='question')document.querySelector('.reveal-progress').textContent='Chưa tải được tranh. Đóng và mở lại để thử lại.';return;}
+ try{await image.decode();}catch{if(quiz===current&&dialog.dataset.view==='question')document.querySelector('#answer-feedback').textContent='Chưa tải được tranh. Đóng và mở lại để thử lại.';return;}
  if(quiz!==current||!dialog.open||dialog.dataset.view!=='question')return;
  current.startedAt=performance.now();buttons.forEach(b=>b.disabled=false);
  const order=shuffled([...Array(16).keys()]);let shown=0;
- const progress=document.querySelector('.reveal-progress');progress.textContent='0/16 ô · Bắt đầu!';
- revealTimer=setInterval(()=>{if(quiz!==current||current.done||!dialog.open){stopReveal();return;}document.querySelector(`[data-tile="${order[shown++]}"]`).classList.add('revealed');progress.textContent=`${shown}/16 ô đã hé`;if(shown===16)stopReveal();},500);
+ revealTimer=setInterval(()=>{if(quiz!==current||current.done||!dialog.open){stopReveal();return;}document.querySelector(`[data-tile="${order[shown++]}"]`).classList.add('revealed');if(shown===16)stopReveal();},500);
 }
 function answerButtons(options){return `<div class="answers">${options.map((o,i)=>`<button data-answer="${esc(o.id)}"><span>${'ABCD'[i]}</span>${esc(o.label)}</button>`).join('')}</div>`;}
 function answer(id,button){
@@ -93,7 +90,7 @@ function answer(id,button){
  if(id!==quiz.correct){
   quiz.attempts++;
   document.querySelectorAll('[data-answer]').forEach(el=>{if(el.dataset.answer===id){el.classList.add('wrong');el.setAttribute('aria-disabled','true');if(el.tagName.toLowerCase()==='button')el.disabled=true;}});
-  document.querySelector('#answer-feedback').innerHTML='<p class="incorrect">Chưa chính xác. So sánh lại nguyên liệu hoặc đặc điểm trong đoạn văn; bạn có thể mở gợi ý.</p>';
+  document.querySelector('#answer-feedback').innerHTML='<p class="incorrect">Chưa đúng. Thử lại nhé.</p>';
   return;
  }
  const elapsed=performance.now()-quiz.startedAt;quiz.done=true;stopReveal();
