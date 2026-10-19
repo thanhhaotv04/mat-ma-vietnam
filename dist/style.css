@@ -20,3 +20,5 @@ dialog[data-view=reward] .reward-heading svg{background:#f5e7b4;color:#a87e2c;an
 @keyframes card-arrival{from{opacity:0;transform:translateY(22px) scale(.92)}to{opacity:1;transform:translateY(0) scale(1)}}
 @keyframes reward-spark{0%{transform:rotate(-55deg) scale(.3)}65%{transform:rotate(12deg) scale(1.2)}100%{transform:rotate(0) scale(1)}}
 @media(max-width:767px){.thumb{width:88px;flex-basis:88px}.card-title{font-size:14px}.collection-page h2{font-size:24px}.reward-art{aspect-ratio:1}.reward-card{max-width:300px}.reward-story>p{font-size:13px!important;line-height:1.65}}
+
+@media(max-width:420px){.brand-wordmark{font-size:16px;letter-spacing:-.5px}.brand small{font-size:8px}.brand{gap:7px}.profile{max-width:100px}}

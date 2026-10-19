@@ -1,4 +1,4 @@
-# Sổ Việt
+# Mật Mã Việt Nam
 
 Game trình duyệt khám phá Việt Nam theo giao diện sổ hành trình đã duyệt. Đây là bản chơi thử đầu tiên, chạy bằng HTML/CSS/JavaScript thuần; không có phụ thuộc runtime hoặc khóa API.
 
