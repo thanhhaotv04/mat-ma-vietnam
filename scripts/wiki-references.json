@@ -1,0 +1,1182 @@
+{
+  "ha-noi-0": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ho%C3%A0n_Ki%E1%BA%BFm",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-noi-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_%E2%80%93_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-noi-2": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_M%E1%BB%99t_C%E1%BB%99t",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-noi-3": {
+    "source": "https://vi.wikipedia.org/wiki/Ph%E1%BB%9F",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tuyen-quang-2": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Na_Hang",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-giang-0": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_L%C5%A9ng_C%C3%BA",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.31563333,
+      23.36794444
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_L%C5%A9ng_C%C3%BA"
+  },
+  "ha-giang-1": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.410942,
+      23.240808
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng"
+  },
+  "ha-giang-2": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_%C4%90%C3%B4i_Qu%E1%BA%A3n_B%E1%BA%A1",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "cao-bang-0": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1c_B%E1%BA%A3n_Gi%E1%BB%91c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.722501,
+      22.855897
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_B%E1%BA%A3n_Gi%E1%BB%91c"
+  },
+  "cao-bang-1": {
+    "source": "https://vi.wikipedia.org/wiki/Su%E1%BB%91i_L%C3%AA_Nin",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "cao-bang-2": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Ngao",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.70617,
+      22.845328
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Ngao"
+  },
+  "lai-chau-2": {
+    "source": "https://vi.wikipedia.org/wiki/Pu_Sam_C%C3%A1p",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      103.47720793,
+      22.20990999
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Pu_Sam_C%C3%A1p"
+  },
+  "lao-cai-1": {
+    "source": "https://vi.wikipedia.org/wiki/Gi%C3%A1o_x%E1%BB%A9_Sa_Pa",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "lao-cai-2": {
+    "source": "https://vi.wikipedia.org/wiki/Dinh_Ho%C3%A0ng_A_T%C6%B0%E1%BB%9Fng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      104.295633,
+      22.54099
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Dinh_Ho%C3%A0ng_A_T%C6%B0%E1%BB%9Fng"
+  },
+  "yen-bai-1": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Th%C3%A1c_B%C3%A0",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.023108,
+      21.749029
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Th%C3%A1c_B%C3%A0"
+  },
+  "yen-bai-2": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Khau_Ph%E1%BA%A1",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      104.27166667,
+      21.775
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Khau_Ph%E1%BA%A1"
+  },
+  "thai-nguyen-0": {
+    "source": "https://vi.wikipedia.org/wiki/T%C3%A2n_C%C6%B0%C6%A1ng_(x%C3%A3)",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "thai-nguyen-1": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_N%C3%BAi_C%E1%BB%91c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "thai-nguyen-2": {
+    "source": "https://vi.wikipedia.org/wiki/An_to%C3%A0n_khu_%C4%90%E1%BB%8Bnh_H%C3%B3a",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "bac-kan-0": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ba_B%E1%BB%83",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "bac-kan-1": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Pu%C3%B4ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.65777778,
+      22.4575
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Pu%C3%B4ng"
+  },
+  "bac-kan-2": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1c_%C4%90%E1%BA%A7u_%C4%90%E1%BA%B3ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.570412,
+      22.4526
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_%C4%90%E1%BA%A7u_%C4%90%E1%BA%B3ng"
+  },
+  "dien-bien-2": {
+    "source": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_Ph%C4%83ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      103.135915,
+      21.449364
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_Ph%C4%83ng"
+  },
+  "lang-son-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Tam_Thanh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.74333333,
+      21.85583333
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Tam_Thanh"
+  },
+  "lang-son-1": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_T%C3%B4_Th%E1%BB%8B",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.73333333,
+      21.85
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_T%C3%B4_Th%E1%BB%8B"
+  },
+  "lang-son-2": {
+    "source": "https://vi.wikipedia.org/wiki/Chi_L%C4%83ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "son-la-1": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1c_D%E1%BA%A3i_Y%E1%BA%BFm",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      104.591076,
+      20.820206
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_D%E1%BA%A3i_Y%E1%BA%BFm"
+  },
+  "son-la-2": {
+    "source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_S%C6%A1n_La",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "son-la-3": {
+    "source": "https://vi.wikipedia.org/wiki/N%E1%BA%B7m_p%E1%BB%8Ba",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "phu-tho-0": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.3214424,
+      21.3682242
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng"
+  },
+  "phu-tho-3": {
+    "source": "https://vi.wikipedia.org/wiki/Th%E1%BB%8Bt_chua",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "vinh-phuc-1": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_B%C3%ACnh_S%C6%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "vinh-phuc-2": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_%C4%90%E1%BA%A1i_L%E1%BA%A3i",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hoa-binh-1": {
+    "source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_Th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.32388889,
+      20.80833333
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_Th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh"
+  },
+  "hoa-binh-2": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Thung_Khe",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.136795,
+      20.665807
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Thung_Khe"
+  },
+  "bac-ninh-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_D%C3%A2u",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "bac-ninh-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.0222,
+      21.06083
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p"
+  },
+  "bac-ninh-2": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90%C3%B4",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.9601644,
+      21.1071575
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90%C3%B4"
+  },
+  "bac-giang-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%E1%BB%95_%C4%90%C3%A0",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "bac-giang-2": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_C%E1%BA%A5m_S%C6%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.565012,
+      21.534781
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_C%E1%BA%A5m_S%C6%A1n"
+  },
+  "quang-ninh-0": {
+    "source": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_H%E1%BA%A1_Long",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.2,
+      20.9
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_H%E1%BA%A1_Long"
+  },
+  "quang-ninh-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C4%90%E1%BB%93ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hai-phong-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Lan_H%E1%BA%A1",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.04638889,
+      20.72361111
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Lan_H%E1%BA%A1"
+  },
+  "hai-phong-2": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%C4%83ng_H%C3%B2n_D%E1%BA%A5u",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hai-phong-3": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_%C4%91a_cua",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hai-duong-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_C%C3%B4n_S%C6%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hai-duong-1": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Ki%E1%BA%BFp_B%E1%BA%A1c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hai-duong-2": {
+    "source": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Mao_%C4%90i%E1%BB%81n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.18611111,
+      20.935
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Mao_%C4%90i%E1%BB%81n"
+  },
+  "hai-duong-3": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_%C4%91%E1%BA%ADu_xanh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hung-yen-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Chu%C3%B4ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hung-yen-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_X%C3%ADch_%C4%90%E1%BA%B1ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.04888889,
+      20.66194444
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_X%C3%ADch_%C4%90%E1%BA%B1ng"
+  },
+  "thai-binh-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Keo_Th%C3%A1i_B%C3%ACnh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.29722222,
+      20.36055556
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Keo_Th%C3%A1i_B%C3%ACnh"
+  },
+  "thai-binh-1": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_(Long_H%C6%B0ng)",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.14369,
+      20.601857
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_(Long_H%C6%B0ng)"
+  },
+  "ninh-binh-0": {
+    "source": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_danh_th%E1%BA%AFng_Tr%C3%A0ng_An",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.89638889,
+      20.25666667
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_danh_th%E1%BA%AFng_Tr%C3%A0ng_An"
+  },
+  "ninh-binh-1": {
+    "source": "https://vi.wikipedia.org/wiki/Hang_M%C3%BAa",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.931667,
+      20.228611
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Hang_M%C3%BAa"
+  },
+  "ninh-binh-2": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%A1i_%C4%90%C3%ADnh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.86277778,
+      20.27694444
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%A1i_%C4%90%C3%ADnh"
+  },
+  "ninh-binh-3": {
+    "source": "https://vi.wikipedia.org/wiki/C%C6%A1m_ch%C3%A1y",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-nam-0": {
+    "source": "https://vi.wikipedia.org/wiki/Khu_du_l%E1%BB%8Bch_Tam_Ch%C3%BAc",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-nam-2": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_Th%C6%B0%C6%A1ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.1037476,
+      20.5761573
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_Th%C6%B0%C6%A1ng"
+  },
+  "nam-dinh-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Ph%E1%BB%95_Minh_(Nam_%C4%90%E1%BB%8Bnh)",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "thanh-hoa-0": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_nh%C3%A0_H%E1%BB%93",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "thanh-hoa-1": {
+    "source": "https://vi.wikipedia.org/wiki/P%C3%B9_Lu%C3%B4ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.1795013,
+      20.44468433
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/P%C3%B9_Lu%C3%B4ng"
+  },
+  "thanh-hoa-2": {
+    "source": "https://vi.wikipedia.org/wiki/Lam_Kinh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "thanh-hoa-4": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_t%E1%BA%BB",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "nghe-an-0": {
+    "source": "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.552,
+      18.67986111
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn"
+  },
+  "ha-tinh-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ng%C3%A3_ba_%C4%90%E1%BB%93ng_L%E1%BB%99c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-tinh-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%C6%B0%C6%A1ng_T%C3%ADch",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.785,
+      18.52833333
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%C6%B0%C6%A1ng_T%C3%ADch"
+  },
+  "ha-tinh-3": {
+    "source": "https://vi.wikipedia.org/wiki/K%E1%BA%B9o_Cu_%C4%90%C6%A1",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "quang-tri-0": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.186772,
+      16.751672
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B"
+  },
+  "quang-tri-1": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.05144444,
+      17.00388889
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng"
+  },
+  "quang-tri-2": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_V%E1%BB%8Bnh_M%E1%BB%91c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.111,
+      17.073
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_V%E1%BB%8Bnh_M%E1%BB%91c"
+  },
+  "quang-binh-0": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.283125,
+      17.581325
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha"
+  },
+  "quang-binh-1": {
+    "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.222972,
+      17.519514
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng"
+  },
+  "hue-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.58,
+      16.453
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5"
+  },
+  "hue-2": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C6%B0%E1%BB%9Dng_Ti%E1%BB%81n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.58861111,
+      16.46888889
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C6%B0%E1%BB%9Dng_Ti%E1%BB%81n"
+  },
+  "hue-3": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hue-4": {
+    "source": "https://vi.wikipedia.org/wiki/K%E1%BA%B9o_m%C3%A8_x%E1%BB%ADng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "da-nang-0": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BB%93ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "da-nang-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ng%C5%A9_H%C3%A0nh_S%C6%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "da-nang-2": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%A0ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "quang-nam-1": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.11666667,
+      15.76666667
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+  },
+  "quang-nam-2": {
+    "source": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Ch%C3%A0m",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.52305556,
+      15.95111111
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Ch%C3%A0m"
+  },
+  "quang-nam-4": {
+    "source": "https://vi.wikipedia.org/wiki/M%C3%AC_Qu%E1%BA%A3ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "quang-ngai-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Thi%C3%AAn_%E1%BA%A4n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "kon-tum-0": {
+    "source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_Kon_Tum",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "gia-lai-1": {
+    "source": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_H%E1%BB%93_(x%C3%A3)",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.01145164,
+      14.0359171
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_H%E1%BB%93_(x%C3%A3)"
+  },
+  "binh-dinh-1": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A3i_K%E1%BB%B3_Co",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-dinh-2": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_%C4%90%C3%B4i",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-dinh-3": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_gai",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dak-lak-0": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_L%E1%BA%AFk",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dak-lak-2": {
+    "source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%91%C3%A0y_Bu%C3%B4n_Ma_Thu%E1%BB%99t",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "phu-yen-0": {
+    "source": "https://vi.wikipedia.org/wiki/G%C3%A0nh_%C4%90%C3%A1_%C4%90%C4%A9a",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      109.293787,
+      13.354066
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/G%C3%A0nh_%C4%90%C3%A1_%C4%90%C4%A9a"
+  },
+  "phu-yen-1": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Nh%E1%BA%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      109.29722222,
+      13.07777778
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Nh%E1%BA%A1n"
+  },
+  "khanh-hoa-1": {
+    "source": "https://vi.wikipedia.org/wiki/H%C3%B2n_Ch%E1%BB%93ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ninh-thuan-0": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Klong_Garai",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.9442935,
+      11.601831
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Klong_Garai"
+  },
+  "ninh-thuan-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_V%C4%A9nh_Hy",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      109.20277778,
+      11.71666667
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_V%C4%A9nh_Hy"
+  },
+  "lam-dong-0": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Xu%C3%A2n_H%C6%B0%C6%A1ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "lam-dong-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.45555556,
+      11.94222222
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t"
+  },
+  "lam-dong-2": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_Langbiang",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dak-nong-0": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_%C4%90%E1%BB%93ng_Nai_3",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dak-nong-1": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Li%C3%AAng_Nung",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.731252,
+      11.951233
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Li%C3%AAng_Nung"
+  },
+  "binh-thuan-0": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A0u_Tr%E1%BA%AFng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-thuan-1": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%C4%83ng_K%C3%AA_G%C3%A0",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-thuan-2": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_T%C3%A0_C%C3%BA",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.88277778,
+      10.82805556
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_T%C3%A0_C%C3%BA"
+  },
+  "dong-nai-0": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_Ch%E1%BB%A9a_Chan",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.379064,
+      10.941019
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_Ch%E1%BB%A9a_Chan"
+  },
+  "dong-nai-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.8015,
+      10.9648
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn"
+  },
+  "dong-nai-2": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Giang_%C4%90i%E1%BB%81n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-phuoc-0": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_R%C3%A1",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.000906,
+      11.816906
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_R%C3%A1"
+  },
+  "binh-phuoc-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_B%C3%B9_Gia_M%E1%BA%ADp",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-phuoc-2": {
+    "source": "https://vi.wikipedia.org/wiki/Bom_Bo",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tay-ninh-0": {
+    "source": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_%C4%90en",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.171175,
+      11.381431
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_%C4%90en"
+  },
+  "tay-ninh-1": {
+    "source": "https://vi.wikipedia.org/wiki/T%C3%B2a_Th%C3%A1nh_T%C3%A2y_Ninh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.133717,
+      11.303746
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/T%C3%B2a_Th%C3%A1nh_T%C3%A2y_Ninh"
+  },
+  "tay-ninh-2": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_B%C3%ACnh_Th%E1%BA%A1nh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tay-ninh-3": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_tr%C3%A1ng_ph%C6%A1i_s%C6%B0%C6%A1ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "long-an-0": {
+    "source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_tr%C4%83m_c%E1%BB%99t",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "long-an-1": {
+    "source": "https://vi.wikipedia.org/wiki/R%E1%BB%ABng_tr%C3%A0m_T%C3%A2n_L%E1%BA%ADp",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "long-an-2": {
+    "source": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_%C4%91%E1%BA%A5t_ng%E1%BA%ADp_n%C6%B0%E1%BB%9Bc_L%C3%A1ng_Sen",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tphcm-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.69801918,
+      10.77252069
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh"
+  },
+  "tphcm-1": {
+    "source": "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.695441,
+      10.777108
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp"
+  },
+  "tphcm-2": {
+    "source": "https://vi.wikipedia.org/wiki/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%A0i_G%C3%B2n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.699943,
+      10.779884
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%A0i_G%C3%B2n"
+  },
+  "tphcm-4": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC_Vi%E1%BB%87t_Nam",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "binh-duong-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%E1%BB%99i_Kh%C3%A1nh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ba-ria---vung-tau-0": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%C4%83ng_V%C5%A9ng_T%C3%A0u",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ba-ria---vung-tau-1": {
+    "source": "https://vi.wikipedia.org/wiki/T%C6%B0%E1%BB%A3ng_Ch%C3%BAa_Kit%C3%B4_Vua_(V%C5%A9ng_T%C3%A0u)",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.084,
+      10.3264
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/T%C6%B0%E1%BB%A3ng_Ch%C3%BAa_Kit%C3%B4_Vua_(V%C5%A9ng_T%C3%A0u)"
+  },
+  "ba-ria---vung-tau-2": {
+    "source": "https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_Dinh",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dong-thap-0": {
+    "source": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Tr%C3%A0m_Chim",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dong-thap-1": {
+    "source": "https://vi.wikipedia.org/wiki/L%C3%A0ng_hoa_Sa_%C4%90%C3%A9c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dong-thap-2": {
+    "source": "https://vi.wikipedia.org/wiki/G%C3%B2_Th%C3%A1p",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dong-thap-3": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%A7_ti%E1%BA%BFu",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "dong-thap-4": {
+    "source": "https://vi.wikipedia.org/wiki/Nem_chua_Lai_Vung",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tien-giang-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_V%C4%A9nh_Tr%C3%A0ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tien-giang-1": {
+    "source": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.33013889,
+      10.33236111
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n"
+  },
+  "tien-giang-3": {
+    "source": "https://vi.wikipedia.org/wiki/V%C3%BA_s%E1%BB%AFa_L%C3%B2_R%C3%A8n_V%C4%A9nh_Kim",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tien-giang-4": {
+    "source": "https://vi.wikipedia.org/wiki/H%E1%BB%A7_ti%E1%BA%BFu_M%E1%BB%B9_Tho",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "an-giang-0": {
+    "source": "https://vi.wikipedia.org/wiki/Mi%E1%BA%BFu_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9_N%C3%BAi_Sam",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "an-giang-1": {
+    "source": "https://vi.wikipedia.org/wiki/R%E1%BB%ABng_tr%C3%A0m_Tr%C3%A0_S%C6%B0",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "kien-giang-0": {
+    "source": "https://vi.wikipedia.org/wiki/Dinh_C%E1%BA%ADu",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      103.956414,
+      10.217239
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Dinh_C%E1%BA%ADu"
+  },
+  "kien-giang-1": {
+    "source": "https://vi.wikipedia.org/wiki/H%C3%B2n_Ph%E1%BB%A5_T%E1%BB%AD",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "kien-giang-4": {
+    "source": "https://vi.wikipedia.org/wiki/G%E1%BB%8Fi_c%C3%A1_tr%C3%ADch",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "vinh-long-0": {
+    "source": "https://vi.wikipedia.org/wiki/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "vinh-long-1": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.90997222,
+      10.27755556
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn"
+  },
+  "vinh-long-2": {
+    "source": "https://vi.wikipedia.org/wiki/L%C3%A0ng_g%E1%BA%A1ch_Mang_Th%C3%ADt",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ben-tre-0": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.3565,
+      10.33330556
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng"
+  },
+  "ben-tre-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%C4%A9nh_Th%C3%A0nh,_V%C4%A9nh_Long",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.21528425,
+      10.20143344
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%C4%A9nh_Th%C3%A0nh,_V%C4%A9nh_Long"
+  },
+  "ben-tre-4": {
+    "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_tr%C3%A1ng_M%E1%BB%B9_L%E1%BB%93ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tra-vinh-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ao_B%C3%A0_Om",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "tra-vinh-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C3%82ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "can-tho-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "can-tho-1": {
+    "source": "https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Ninh_Ki%E1%BB%81u",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "can-tho-2": {
+    "source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_c%E1%BB%95_B%C3%ACnh_Th%E1%BB%A7y",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "hau-giang-0": {
+    "source": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_Lung_Ng%E1%BB%8Dc_Ho%C3%A0ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      105.69991667,
+      9.72275
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_Lung_Ng%E1%BB%8Dc_Ho%C3%A0ng"
+  },
+  "hau-giang-4": {
+    "source": "https://vi.wikipedia.org/wiki/Kh%C3%B3m_C%E1%BA%A7u_%C4%90%C3%BAc",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "soc-trang-0": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_D%C6%A1i",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "soc-trang-1": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Som_Rong",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "soc-trang-2": {
+    "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_S%C3%A0_L%C3%B4n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ca-mau-0": {
+    "source": "https://vi.wikipedia.org/wiki/M%C5%A9i_C%C3%A0_Mau",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ca-mau-1": {
+    "source": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_U_Minh_H%E1%BA%A1",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ca-mau-2": {
+    "source": "https://vi.wikipedia.org/wiki/H%C3%B2n_%C4%90%C3%A1_B%E1%BA%A1c",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      104.800278,
+      9.179166
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/H%C3%B2n_%C4%90%C3%A1_B%E1%BA%A1c"
+  },
+  "bac-lieu-2": {
+    "source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_V%C4%A9nh_H%C6%B0ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "ha-noi-extra-4": {
+    "source": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_th%C3%A0nh_Th%C4%83ng_Long",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "thanh-hoa-extra-5": {
+    "source": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_H%E1%BA%A1_Long",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      107.2,
+      20.9
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_H%E1%BA%A1_Long"
+  },
+  "thanh-hoa-extra-6": {
+    "source": "https://vi.wikipedia.org/wiki/Su%E1%BB%91i_C%C3%A1_th%E1%BA%A7n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "quang-nam-extra-5": {
+    "source": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_c%E1%BB%95_H%E1%BB%99i_An",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.33333333,
+      15.88333333
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_c%E1%BB%95_H%E1%BB%99i_An"
+  },
+  "hai-phong-extra-5": {
+    "source": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_C%C3%A1t_B%C3%A0",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      106.93333333,
+      20.78333333
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_C%C3%A1t_B%C3%A0"
+  },
+  "tphcm-extra-5": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%91ng",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found"
+  },
+  "da-nang-extra-4": {
+    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%B4ng_H%C3%A0n",
+    "sourceLabel": "Wikipedia",
+    "referenceStatus": "article-found",
+    "coordinates": [
+      108.226802,
+      16.072146
+    ],
+    "coordinatesSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%B4ng_H%C3%A0n"
+  }
+}
