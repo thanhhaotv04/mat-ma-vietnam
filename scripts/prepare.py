@@ -117,5 +117,6 @@ assert len(regions)==63 and len(chapters)==34 and len(geoms)==34
 assert all(len(r['cards'])>=4 for r in regions)
 (ROOT/'dist/data.json').write_text(json.dumps({'chapters':list(chapters.values()),'regions':regions,'cards':cards,'heritages':heritages},ensure_ascii=False,separators=(',',':')))
 shutil.copyfile(SOURCE/'LICENSE',ROOT/'dist/assets/provinces-LICENSE.txt')
+subprocess.run(['node',str(ROOT/'scripts/update-questions.mjs')],check=True)
 print(f'{len(chapters)} chapters, {len(regions)} regions, {len(cards)} cards, {len(heritages)} shared heritage profiles')
 print('Isolated chapters:',[c['name'] for c in chapters.values() if not c['neighbors']])

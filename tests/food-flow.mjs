@@ -1,0 +1,27 @@
+import {chromium,expect} from '@playwright/test';
+import assert from 'node:assert/strict';
+import {mkdirSync} from 'node:fs';
+mkdirSync('artifacts',{recursive:true});
+const browser=await chromium.launch({headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1050}}),errors=[];
+page.on('pageerror',e=>errors.push(e.message));
+await page.addInitScript(()=>{window.__successNotes=0;const Base=window.AudioContext;window.AudioContext=class extends Base{createOscillator(){window.__successNotes++;return super.createOscillator();}};});
+await page.goto('http://localhost:4173',{waitUntil:'domcontentloaded'});
+await page.locator('#player-name').fill('Hào Thanh');await page.locator('#start-search').fill('Bạc Liêu');await page.locator('[data-start="bac-lieu"]').click();await page.locator('#begin').click();
+await page.getByRole('button',{name:'Món ăn',exact:true}).click();await page.locator('.card-row[data-card="bac-lieu-3"]').click();assert.equal(await page.locator('[data-mode=geo]').count(),0);await page.locator('[data-mode=clue]').click();
+await expect(page.locator('.question-blank')).toBeVisible();
+const options=await page.locator('.answers button').allTextContents();assert.deepEqual(options.map(s=>s.slice(1)).sort(),['Bánh tráng nướng','Bánh canh','Bánh tằm bì','Bánh cuốn'].sort());
+const text=await page.locator('dialog').innerText();assert(!text.includes('Ngan Dừa'));assert(!text.includes('Bạc Liêu'));assert.equal(await page.evaluate(()=>window.__successNotes),0);
+await page.screenshot({path:'artifacts/food-question-desktop.png',fullPage:true});await page.setViewportSize({width:375,height:812});await page.screenshot({path:'artifacts/food-question-mobile.png',fullPage:true});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+await page.locator('[data-answer="bac-lieu-3:other:2"]').click();assert(await page.locator('[data-answer="bac-lieu-3:other:2"]').isDisabled());assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('so-viet-player-v1'))).earned.length,0);assert.equal(await page.evaluate(()=>window.__successNotes),0);
+await page.locator('[data-answer="bac-lieu-3"]').focus();await page.keyboard.press('Enter');
+await page.waitForFunction(()=>window.__successNotes===3);
+await expect(page.locator('dialog[data-view=reward] .reward-card h2')).toHaveText('Bánh tằm Ngan Dừa');
+await expect(page.locator('.reward-story')).toContainText('Bạc Liêu');
+assert((await page.locator('.reward-art .food-atlas').getAttribute('style')).includes('food-atlas-4.png'));
+await page.screenshot({path:'artifacts/food-reward-mobile.png',fullPage:true});await page.setViewportSize({width:1440,height:1050});await page.screenshot({path:'artifacts/food-reward-desktop.png',fullPage:true});
+await page.locator('.dialog-close').click();await expect(page.locator('.card-row[data-card="bac-lieu-3"]')).toHaveClass(/unlocked/);await page.getByRole('button',{name:'Tắt âm thanh',exact:true}).click();
+await page.locator('.card-row[data-card="bac-lieu-3"]').click();await page.locator('#practice').click();await page.locator('[data-mode=clue]').click();await page.locator('[data-answer="bac-lieu-3"]').click();await expect(page.locator('dialog[data-view=reward]')).toBeVisible();assert.equal(await page.evaluate(()=>window.__successNotes),3);
+assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('so-viet-player-v1'))).earned.length,1);await page.locator('#claim').click();await page.reload();await expect(page.getByRole('button',{name:'Bật âm thanh',exact:true})).toBeVisible();
+for(const width of [375,768,1024,1440]){await page.setViewportSize({width,height:1050});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`overflow ${width}`);}
+assert.deepEqual(errors,[]);console.log('Food flow PASS: exact alternatives, no regional spoilers, wrong answer gives no reward/audio, keyboard correct answer plays three notes and opens illustrated story, mute persists, no duplicate cards, four viewport widths.');await browser.close();
