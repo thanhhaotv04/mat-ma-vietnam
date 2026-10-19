@@ -56,3 +56,11 @@ npm audit --audit-level=moderate
 Tranh atlas theo thứ tự 4 cột × 3 hàng, trường `art` trong dữ liệu chỉ ô 0–11. Thẻ mới không có tranh để `art: null`.
 
 Thiết kế cập nhật và tài liệu tham khảo: [docs/web-game-design.md](docs/web-game-design.md). Prompt và quy cách atlas món ăn: [docs/food-art-prompts.md](docs/food-art-prompts.md). Sau khi tái tạo dữ liệu, `scripts/update-questions.mjs` được gọi để giữ tên trả lời, đoạn hỏi và ánh xạ tranh món ăn.
+
+### Thẻ địa danh
+
+198 địa danh có tranh minh họa hoạt hình. Trả lời đúng mở thẻ có ảnh ở trên, giới thiệu/lịch sử và liên kết nguồn ở dưới; mở lại thẻ đã nhận để đọc tiếp. 190 tranh bổ sung nằm trong `dist/assets/landmark-atlas-*.png`, ánh xạ bằng ID tại `scripts/landmark-art.json`; prompt tại `docs/landmark-art-prompts.md`. Tranh minh họa cần duyệt hình dáng công trình trước bản phát hành chính thức.
+
+Kiểm tra luồng địa danh: `node tests/landmark-flow.mjs` khi máy chủ cục bộ đang chạy.
+
+Danh sách thẻ chỉ hiện ảnh vuông và tên. Chọn vùng trên bản đồ; tiêu đề trang đổi theo tab Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Trả lời đúng tự hiện thẻ với hiệu ứng và giới thiệu rút gọn (tối đa khoảng 220 ký tự). Các khung ảnh danh sách/câu hỏi/nhận thẻ/xem lại cùng tỉ lệ 1:1.

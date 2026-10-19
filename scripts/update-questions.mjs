@@ -22,5 +22,8 @@ for(const c of d.cards)if(authored[c.name])c.question=authored[c.name];
 const tam=d.cards.find(c=>c.name==='Bánh tằm Ngan Dừa');
 tam.intro='Bánh tằm Ngan Dừa gắn với vùng Hồng Dân, Bạc Liêu. Bột gạo được khuấy, se thành sợi rồi hấp; bánh thường ăn cùng bì, thịt, rau và nước xốt. Điểm nhận diện là sợi bánh mềm, dai và phần ăn kèm phong phú.';
 tam.source='https://congan.baclieu.gov.vn/ch10/629.prt';tam.sourceLabel='Cổng thông tin Công an Bạc Liêu';tam.reviewed=true;
+const landmarkArt=JSON.parse(readFileSync(new URL('./landmark-art.json',import.meta.url)));
+const histories=JSON.parse(readFileSync(new URL('./landmark-stories.json',import.meta.url)));
+for(const c of d.cards){if(landmarkArt[c.id])c.landmarkArt=landmarkArt[c.id];if(histories[c.name])Object.assign(c,histories[c.name]);}
 writeFileSync(new URL('../dist/data.json',import.meta.url),JSON.stringify(d));
 console.log(`Updated ${foods.length} food passages and ${Object.keys(authored).length} authored landmark questions.`);
