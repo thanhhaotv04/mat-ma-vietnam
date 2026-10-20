@@ -40,7 +40,8 @@ node scripts/update-questions.mjs
 - `scripts/content.py`, `scripts/prepare.py` và `scripts/wiki-references.json`: nguồn dữ liệu ban đầu. `update-questions.mjs` áp dụng phần biên tập và ánh xạ ảnh sau khi tái tạo.
 - Bản đồ sách giữ polygon WGS84 từ Vietnamese Provinces Database và phép ghép 63 vùng bằng mã lịch sử. Tiếp giáp chapter tính theo đường bao; hình học đã giản lược, không dùng xác định địa giới pháp lý.
 - `dist/world-map.json`: silhouette phẳng từ `App/VietNam-map-checkin/assets/vietnam-provinces.geojson`, ghép thành 34 chapter, có các đảo/quần đảo. Lớp này dùng riêng để vẽ bản đồ, không phải kinh/vĩ độ. `scripts/prepare-world-map.py` tái tạo bằng Python + Shapely.
-- Chỉ đặt pin khi có tọa độ tra cứu phù hợp vùng; không tự đặt điểm vào tâm tỉnh. `scripts/enrich-new-places.py` bổ sung tọa độ cho nhóm mới.
+- Hoàng Sa/Trường Sa dùng bố cục thu gọn gần bờ để phần đất liền dễ nhìn; hình học gốc và tọa độ GPS giữ riêng. Nhãn thu gọn phân biệt bố cục hiển thị với vị trí thật.
+- `scripts/coordinate-review.json` và `docs/coordinate-review.md`: rà đủ 94 pin ban đầu, giữ 82 có nguồn tọa độ và ẩn 12 pin chưa đủ căn cứ. Chỉ đặt pin có `coordinateVerified`; không dùng tâm xã/phường hay tâm tỉnh. `scripts/enrich-new-places.py` bổ sung tọa độ cho nhóm mới.
 - Danh hiệu UNESCO thuộc đúng hồ sơ quần thể. Di sản phi vật thể có hồ sơ dùng chung, không giả làm địa điểm tham quan.
 - Tranh là minh họa hoạt hình, cần tiếp tục duyệt chi tiết kiến trúc/ẩm thực. Nguồn, giấy phép font và dữ liệu có trong `dist/credits.html`.
 
@@ -54,6 +55,7 @@ node tests/browser.mjs
 node tests/reveal-flow.mjs
 node tests/minimal-map-flow.mjs
 node tests/map-progress-flow.mjs
+node tests/compact-map-flow.mjs
 node tests/food-flow.mjs
 node tests/card-layout.mjs
 node tests/landmark-flow.mjs

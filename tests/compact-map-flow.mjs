@@ -1,0 +1,12 @@
+import {chromium,expect} from '@playwright/test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';import {fresh} from '../dist/core.mjs';
+const d=JSON.parse(readFileSync('dist/data.json')),browser=await chromium.launch(),errors=[];
+for(const [id,width] of [['da-nang',1440],['khanh-hoa',375],['ha-noi',1440]]){
+ const page=await browser.newPage({viewport:{width,height:1050}});page.on('pageerror',e=>errors.push(e.message));const s=fresh('Bản đồ',id);s.earned=d.regions.find(r=>r.id===id).cards;
+ await page.addInitScript(s=>localStorage.setItem('so-viet-player-v1',JSON.stringify(s)),s);await page.goto('http://localhost:4173');await expect(page.locator('.chapter-map')).toBeVisible();
+ for(const c of d.cards.filter(c=>c.region===id&&c.coordinates)){
+  const pin=page.locator(`.map-pin[data-card="${c.id}"] circle`).first();await expect(pin).toBeAttached();assert(Math.abs(Number(await pin.getAttribute('cx'))-c.coordinates[0]*.94)<1e-10);assert(Math.abs(Number(await pin.getAttribute('cy'))+c.coordinates[1])<1e-10);
+ }
+ if(id!=='ha-noi'){await page.addInitScript(s=>localStorage.setItem('so-viet-player-v1',JSON.stringify(s)),fresh('Bản đồ',id));await page.reload();await expect(page.locator('.chapter-map')).toBeVisible();await expect(page.locator('.chapter-map .island-label')).toContainText('thu gọn');const lock=page.locator('.chapter-map .map-lock');await expect(lock).toHaveCount(1);assert.equal(await lock.locator('rect').count(),1);assert(!await page.locator('.chapter-map').textContent().then(s=>s.includes('▣')));await page.screenshot({path:`artifacts/compact-${id}-${width}.png`});}
+ await page.locator('.all-button').click();await page.locator('[data-area="central"]').click();await expect(page.locator('.national .map-lock')).not.toHaveCount(0);await expect(page.locator('.national .region-label')).toHaveCount(11);await expect(page.locator('.national')).toContainText('Hoàng Sa');await expect(page.locator('.national')).toContainText('Trường Sa');assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:`artifacts/compact-central-${width}.png`});await page.close();
+}
+assert.deepEqual(errors,[]);await browser.close();console.log('Compact map PASS: readable mainland and SVG locks; actual GPS projection for every displayed pin; central labels and mobile layout.');

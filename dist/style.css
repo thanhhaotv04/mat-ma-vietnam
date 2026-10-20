@@ -35,3 +35,5 @@ dialog[data-view=reward] .reward-heading svg{background:#f5e7b4;color:#a87e2c;an
 /* Collection progress is independent from the three-card route unlock. */
 .province.available,.province.active{fill:#f2d47b}.province.available:hover,.province.active:hover{fill:#f6df9a}.province.done,.province.done:hover{fill:#8ec5a4}.province.locked{fill:#d6ded8}
 .area-tabs{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.area-tabs button{min-height:44px;padding:10px 18px;border:1px solid #b8cdbf;border-radius:22px;background:#fffaf0;font-weight:800;font-size:14px}.area-tabs button[aria-pressed=true]{background:#176f77;color:#fff;border-color:#176f77}.area-label{fill:#476c65;font-weight:900;paint-order:stroke;stroke:#edf5ed;stroke-width:3px}@media(max-width:767px){.area-tabs{gap:6px}.area-tabs button{flex:1;padding:10px 8px;font-size:13px}}
+
+.chapter-map .island-label,.chapter-select-map .island-label{stroke:none;pointer-events:none}.map-lock{overflow:visible}
