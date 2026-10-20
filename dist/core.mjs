@@ -3,7 +3,7 @@ export function fresh(name, region) { return {version:1,name:name.trim().slice(0
 export function completed(data,state,id){return data.regions.find(r=>r.id===id)?.cards.filter(c=>state.earned.includes(c)).length>=3;}
 export function collectionComplete(data,state,regionIds){const ids=new Set(regionIds),cards=data.cards.filter(c=>ids.has(c.region)&&!c.easterEgg&&['landmark','food'].includes(c.type));return cards.length>0&&cards.every(c=>state.earned.includes(c.id));}
 export function eggRegions(data,c){const req=c.easterEgg;if(!req)return [];return [...new Set([...(req.requiredRegions||[]),...(req.requiredChapters||[]).flatMap(id=>data.chapters.find(ch=>ch.id===id)?.regions||[])])];}
-export function eggUnlocked(data,state,c){const req=c.easterEgg;if(!req)return false;const regions=eggRegions(data,c);return regions.length>0&&(req.requiredChapters||[]).every(id=>data.chapters.some(ch=>ch.id===id))&&regions.every(id=>data.regions.some(r=>r.id===id))&&collectionComplete(data,state,regions);}
+export function eggUnlocked(data,state,c){const req=c.easterEgg;if(!req)return false;const regions=eggRegions(data,c),minimum=req.minimumRegions||2;if(!Number.isInteger(minimum)||minimum<2||minimum>regions.length||(req.requiredChapters||[]).length||!regions.every(id=>data.regions.some(r=>r.id===id)))return false;const opened=access(data,state).regions;return regions.filter(id=>opened.has(id)).length>=minimum;}
 export function eggRelated(data,c,region){return eggRegions(data,c).includes(region);}
 export function access(data,state){
  const regions=new Set([...state.starts,...data.cards.filter(c=>!c.easterEgg&&state.earned.includes(c.id)).map(c=>c.region)]),chapters=new Set();

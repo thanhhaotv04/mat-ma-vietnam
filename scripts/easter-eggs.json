@@ -13,51 +13,16 @@
     ],
     "referenceStatus": "article-found",
     "image": "assets/cards/vinh-long-1.webp",
-    "requiredChapters": [
-      "dong-thap",
+    "existing": true,
+    "requiredRegions": [
+      "tien-giang",
       "vinh-long"
     ],
-    "existing": true
-  },
-  {
-    "id": "egg-cau-my-thuan-2",
-    "name": "Cầu Mỹ Thuận 2",
-    "region": "vinh-long",
-    "type": "landmark",
-    "intro": "Cầu Mỹ Thuận 2 bắc qua sông Tiền, nằm trên tuyến cao tốc Bắc–Nam phía Đông. Cầu mới chia sẻ vai trò kết nối với cầu Mỹ Thuận hiện hữu.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_2",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-my-thuan-2.webp",
-    "requiredChapters": [
-      "dong-thap",
-      "vinh-long"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Mỹ Thuận 2 cable-stayed highway bridge spanning the broad brown Tiền River, tall paired concrete pylons and symmetrical fan cables, viewed obliquely from above; flat lush Mekong delta riverbanks. Depict the new bridge, not the older Mỹ Thuận bridge. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-can-tho",
-    "name": "Cầu Cần Thơ",
-    "region": "can-tho",
-    "type": "landmark",
-    "intro": "Cầu Cần Thơ bắc qua sông Hậu, nối Cần Thơ với Vĩnh Long. Dáng cầu dây văng nổi bật trên trục giao thông qua đồng bằng.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BA%A7n_Th%C6%A1",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-can-tho.webp",
-    "requiredChapters": [
-      "can-tho",
-      "vinh-long"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Cần Thơ cable-stayed bridge crossing the wide Hậu River, characteristic tall concrete pylons and long fan cables, broad level Mekong delta banks and a small distant river boat. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-cau-rach-mieu-1",
-    "name": "Cầu Rạch Miễu 1",
+    "name": "Cầu Rạch Miễu",
     "region": "ben-tre",
     "type": "landmark",
     "intro": "Cầu Rạch Miễu nối vùng Mỹ Tho và Bến Tre qua sông Tiền. Công trình giúp kết nối đường bộ của vùng đất cù lao với các tuyến giao thông lớn.",
@@ -67,29 +32,12 @@
       "cau"
     ],
     "image": "assets/cards/egg-cau-rach-mieu-1.webp",
-    "requiredChapters": [
-      "dong-thap",
-      "vinh-long"
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Original Rạch Miễu cable-stayed bridge above the Tiền River near Thới Sơn island, slender roadway and two concrete cable pylons, green coconut-growing delta islands. Distinguish the original bridge from the wider Rạch Miễu 2. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
+      "tien-giang",
+      "ben-tre"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Original Rạch Miễu cable-stayed bridge above the Tiền River near Thới Sơn island, slender roadway and two concrete cable pylons, green coconut-growing delta islands. Distinguish the original bridge from the wider Rạch Miễu 2. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-rach-mieu-2",
-    "name": "Cầu Rạch Miễu 2",
-    "region": "ben-tre",
-    "type": "landmark",
-    "intro": "Cầu Rạch Miễu 2 được khánh thành năm 2025, kết nối Đồng Tháp và Vĩnh Long qua sông Tiền. Cầu nằm về phía thượng lưu so với Rạch Miễu 1.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_Mi%E1%BB%85u_2",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-rach-mieu-2.webp",
-    "requiredChapters": [
-      "dong-thap",
-      "vinh-long"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Rạch Miễu 2 cable-stayed bridge crossing the Tiền River, modern wide road deck and its actual tall concrete cable towers, airy aerial view with lush delta banks and Thới Sơn island. No invented suspension-bridge curved main cables. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-cau-vam-cong",
@@ -103,108 +51,19 @@
       "cau"
     ],
     "image": "assets/cards/egg-cau-vam-cong.webp",
-    "requiredChapters": [
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Vàm Cống cable-stayed bridge with tall concrete towers and clean symmetrical fan cables across a wide brown Hậu River; quiet flat green Mekong delta landscape. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
       "dong-thap",
       "can-tho"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Vàm Cống cable-stayed bridge with tall concrete towers and clean symmetrical fan cables across a wide brown Hậu River; quiet flat green Mekong delta landscape. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-dong-nai",
-    "name": "Cầu Đồng Nai",
-    "region": "dong-nai",
-    "type": "landmark",
-    "intro": "Cầu Đồng Nai trên Quốc lộ 1 bắc qua sông Đồng Nai, kết nối khu vực Biên Hòa và Dĩ An. Đây là một điểm nối giao thông quan trọng ở cửa ngõ miền Đông.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%E1%BB%93ng_Nai",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-dong-nai.webp",
-    "requiredChapters": [
-      "dong-nai",
-      "tp-ho-chi-minh"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. The Đồng Nai bridge on National Highway 1 between Biên Hòa and Dĩ An, low repeated concrete girder spans over a broad river with parallel road bridge structures and urban greenery. Not Đồng Nai 2 elsewhere, not a cable-stayed bridge. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-bach-dang",
-    "name": "Cầu Bạch Đằng",
-    "region": "quang-ninh",
-    "type": "landmark",
-    "intro": "Cầu Bạch Đằng vượt sông Bạch Đằng, kết nối Quảng Ninh và Hải Phòng trên tuyến cao tốc. Ba trụ tháp dây văng tạo nên hình dáng đặc trưng của công trình.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-bach-dang.webp",
-    "requiredChapters": [
-      "quang-ninh",
-      "hai-phong"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Bạch Đằng cable-stayed bridge near Hải Phòng and Quảng Ninh, its three distinctive concrete cable pylons forming repeated H-like silhouettes, broad estuary and low green banks. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-vinh-thinh",
-    "name": "Cầu Vĩnh Thịnh",
-    "region": "vinh-phuc",
-    "type": "landmark",
-    "intro": "Cầu Vĩnh Thịnh vượt sông Hồng, nối Sơn Tây với vùng Vĩnh Phúc. Công trình tạo thêm một hướng liên kết giữa Hà Nội và tỉnh Phú Thọ hiện nay.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C4%A9nh_Th%E1%BB%8Bnh",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-vinh-thinh.webp",
-    "requiredChapters": [
-      "ha-noi",
-      "phu-tho"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Vĩnh Thịnh bridge crossing the Red River, long low prestressed concrete box-girder roadway on repeated piers, ochre river water and agricultural floodplain. No cable towers or suspension cables. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-ben-thuy-1",
-    "name": "Cầu Bến Thủy 1",
-    "region": "nghe-an",
-    "type": "landmark",
-    "intro": "Cầu Bến Thủy 1 bắc qua sông Lam, nối vùng Vinh và Nghi Xuân. Những nhịp dàn thép là nét nhận diện của cây cầu được khánh thành năm 1990.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%BFn_Th%E1%BB%A7y",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-ben-thuy-1.webp",
-    "requiredChapters": [
-      "nghe-an",
-      "ha-tinh"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Original Bến Thủy I bridge across the Lam River, repeated dark steel through-truss spans on concrete piers, low mountains and green riverbanks. Show the steel trusses clearly; no cable-stayed towers. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cau-ben-thuy-2",
-    "name": "Cầu Bến Thủy 2",
-    "region": "nghe-an",
-    "type": "landmark",
-    "intro": "Cầu Bến Thủy 2 vượt sông Lam giữa Nghệ An và Hà Tĩnh. Cầu được xây dựng để chia sẻ lưu lượng với Bến Thủy 1 trên tuyến Quốc lộ 1.",
-    "source": "https://baochinhphu.vn/thong-xe-cau-ben-thuy-2-va-mo-rong-quoc-lo-1a-tuyen-tranh-tp-ha-tinh-102130600.htm",
-    "sourceLabel": "Báo Chính phủ",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-ben-thuy-2.webp",
-    "requiredChapters": [
-      "nghe-an",
-      "ha-tinh"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Bến Thủy II concrete bridge crossing the Lam River, low continuous concrete box-girder spans on repeated piers, broad road deck, calm water and green foothills; no steel through-trusses or cable towers. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-hai-van",
-    "name": "Hải Vân – Hải Vân Quan",
+    "name": "Đèo Hải Vân",
     "region": "hue",
     "type": "landmark",
-    "intro": "Đèo Hải Vân vượt dãy núi vươn ra biển giữa Huế và Đà Nẵng. Hải Vân Quan nằm trên đỉnh đèo, gắn với tuyến đường qua cửa ải này.",
+    "intro": "Đèo Hải Vân uốn theo sườn núi giữa Huế và Đà Nẵng, một phía là núi rừng, một phía là biển. Trên đỉnh đèo còn có Hải Vân Quan, dấu tích của cửa ải xưa.",
     "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_H%E1%BA%A3i_V%C3%A2n",
     "sourceLabel": "Wikipedia",
     "tags": [
@@ -212,11 +71,12 @@
       "di-tich"
     ],
     "image": "assets/cards/egg-hai-van.webp",
-    "requiredChapters": [
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Hải Vân mountain pass descending toward the blue sea, winding road and misty green coastal mountains, with the small historic Hải Vân Quan brick-and-stone gate on the summit as a restrained foreground feature. Not a grand invented castle. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
       "hue",
       "da-nang"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Hải Vân mountain pass descending toward the blue sea, winding road and misty green coastal mountains, with the small historic Hải Vân Quan brick-and-stone gate on the summit as a restrained foreground feature. Not a grand invented castle. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-deo-ca",
@@ -230,48 +90,12 @@
       "deo"
     ],
     "image": "assets/cards/egg-deo-ca.webp",
-    "requiredChapters": [
-      "dak-lak",
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Đèo Cả coastal mountain pass along the Đại Lãnh range between former Phú Yên and Khánh Hòa, winding hillside road above blue sea and sheltered bays, lush slopes and rocky headlands. No fantasy stone gateway. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
+      "phu-yen",
       "khanh-hoa"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Đèo Cả coastal mountain pass along the Đại Lãnh range between former Phú Yên and Khánh Hòa, winding hillside road above blue sea and sheltered bays, lush slopes and rocky headlands. No fantasy stone gateway. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-cu-mong",
-    "name": "Đèo Cù Mông",
-    "region": "binh-dinh",
-    "type": "landmark",
-    "intro": "Đèo Cù Mông nằm giữa vùng Bình Định và Phú Yên trên Quốc lộ 1. Con đường qua dãy núi ven biển là một dấu nối địa lý của hai vùng.",
-    "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_C%C3%B9_M%C3%B4ng",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "deo"
-    ],
-    "image": "assets/cards/egg-cu-mong.webp",
-    "requiredChapters": [
-      "gia-lai",
-      "dak-lak"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Cù Mông mountain pass between former Bình Định and Phú Yên, compact winding asphalt road through dry-green coastal hills, glimpses of blue bay beyond the ridge, distinct natural mountain-road scenery. No monument. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
-  },
-  {
-    "id": "egg-ho-dau-tieng",
-    "name": "Hồ Dầu Tiếng",
-    "region": "tay-ninh",
-    "type": "landmark",
-    "intro": "Hồ Dầu Tiếng là hồ thủy lợi lớn trên thượng nguồn sông Sài Gòn. Mặt hồ trải qua vùng Tây Ninh, Bình Dương và Bình Phước, nối ba chapter hiện tại.",
-    "source": "https://tphcm.chinhphu.vn/tphcm-de-nghi-su-dung-cat-tai-ho-dau-tieng-de-lam-duong-vanh-dai-3-101230410202012142.htm",
-    "sourceLabel": "Báo Chính phủ",
-    "tags": [
-      "ho"
-    ],
-    "image": "assets/cards/egg-ho-dau-tieng.webp",
-    "requiredChapters": [
-      "tay-ninh",
-      "tp-ho-chi-minh",
-      "dong-nai"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Dầu Tiếng reservoir, broad tranquil freshwater lake, low grassy shore and distant rolling hills beneath a pale blue sky, a few reeds and a subtle irrigation embankment. Not a steep karst lake. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "dong-nai-visit-vuon-quoc-gia-cat-tien",
@@ -287,11 +111,13 @@
     ],
     "visitKind": "checkin",
     "image": "assets/cards/dong-nai-visit-vuon-quoc-gia-cat-tien.webp",
-    "requiredChapters": [
+    "existing": true,
+    "requiredRegions": [
       "dong-nai",
+      "binh-phuoc",
       "lam-dong"
     ],
-    "existing": true
+    "minimumRegions": 2
   },
   {
     "id": "egg-vuon-quoc-gia-cuc-phuong",
@@ -305,12 +131,13 @@
       "vuon-quoc-gia"
     ],
     "image": "assets/cards/egg-vuon-quoc-gia-cuc-phuong.webp",
-    "requiredChapters": [
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Cúc Phương National Park limestone rainforest, immense ancient broadleaf tree with buttress roots beside a narrow forest path, a few small butterflies, layered lush green canopy. No temple or building. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
       "ninh-binh",
-      "phu-tho",
+      "hoa-binh",
       "thanh-hoa"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Cúc Phương National Park limestone rainforest, immense ancient broadleaf tree with buttress roots beside a narrow forest path, a few small butterflies, layered lush green canopy. No temple or building. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-vuon-quoc-gia-tam-dao",
@@ -324,12 +151,13 @@
       "vuon-quoc-gia"
     ],
     "image": "assets/cards/egg-vuon-quoc-gia-tam-dao.webp",
-    "requiredChapters": [
-      "phu-tho",
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Tam Đảo National Park, three layers of misty blue-green forested mountain ridges with dense humid evergreen canopy, ferns and a quiet woodland trail in foreground. Do not depict the stone church or resort town. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
+      "vinh-phuc",
       "thai-nguyen",
       "tuyen-quang"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Tam Đảo National Park, three layers of misty blue-green forested mountain ridges with dense humid evergreen canopy, ferns and a quiet woodland trail in foreground. Do not depict the stone church or resort town. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-vuon-quoc-gia-hoang-lien",
@@ -343,11 +171,12 @@
       "vuon-quoc-gia"
     ],
     "image": "assets/cards/egg-vuon-quoc-gia-hoang-lien.webp",
-    "requiredChapters": [
+    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Hoàng Liên National Park in the Hoàng Liên Sơn mountains, soaring rugged misty ridges, high-elevation evergreen forest and dwarf bamboo, a few native rhododendron flowers, natural cloud-filled scenery. No cable car or summit buildings. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
+    "requiredRegions": [
       "lao-cai",
       "lai-chau"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Hoàng Liên National Park in the Hoàng Liên Sơn mountains, soaring rugged misty ridges, high-elevation evergreen forest and dwarf bamboo, a few native rhododendron flowers, natural cloud-filled scenery. No cable car or summit buildings. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-ha-long-cat-ba",
@@ -362,10 +191,6 @@
       "vinh"
     ],
     "image": "assets/cards/egg-ha-long-cat-ba.webp",
-    "requiredChapters": [
-      "quang-ninh",
-      "hai-phong"
-    ],
     "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. A single sweeping Hạ Long Bay–Cát Bà Archipelago seascape, many distinct forest-capped limestone karst islands rising from emerald-blue water, varied silhouettes and a small distant excursion boat. A continuous natural panorama, not a split collage or map. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
     "heritage": {
       "name": "Vịnh Hạ Long – Quần đảo Cát Bà",
@@ -374,70 +199,12 @@
       "extensionYear": 2023,
       "source": "https://whc.unesco.org/en/list/672/"
     },
-    "kind": "serial"
-  },
-  {
-    "id": "egg-yen-tu-vinh-nghiem-con-son-kiep-bac",
-    "name": "Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
-    "region": "quang-ninh",
-    "type": "landmark",
-    "intro": "Quần thể di tích và danh thắng được UNESCO ghi danh năm 2025, gắn với Phật giáo Trúc Lâm và lịch sử nhà Trần. Các thành phần nằm ở ba chapter hiện tại.",
-    "source": "https://whc.unesco.org/en/list/1732/",
-    "sourceLabel": "UNESCO World Heritage Centre",
-    "tags": [
-      "di-san"
-    ],
-    "image": "assets/cards/egg-yen-tu-vinh-nghiem-con-son-kiep-bac.webp",
-    "requiredChapters": [
+    "kind": "serial",
+    "requiredRegions": [
       "quang-ninh",
-      "bac-ninh",
       "hai-phong"
     ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. An evocative continuous Trúc Lâm heritage landscape anchored by the real small bronze Đồng Pagoda on rocky Yên Tử summit, misty forested mountains beyond, restrained historic Vietnamese pagoda roof silhouettes low in the distant landscape. Do not invent a giant palace, do not combine sites into a false architectural compound; no montage. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
-    "heritage": {
-      "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
-      "kind": "Di sản thế giới",
-      "year": 2025,
-      "source": "https://whc.unesco.org/en/list/1732/"
-    },
-    "kind": "serial"
-  },
-  {
-    "id": "egg-tau-ket-noi-di-san",
-    "name": "Tàu Kết nối di sản miền Trung",
-    "region": "hue",
-    "type": "landmark",
-    "intro": "Tuyến tàu du lịch Huế–Đà Nẵng đi qua cảnh quan ven biển và đèo Hải Vân. Hành trình kết hợp ngắm cảnh với trải nghiệm văn hóa địa phương.",
-    "source": "https://sdl.hue.gov.vn/tin-trong-tinh/khai-truong-tuyen-tau-hoa-hue-da-nang-phuc-vu-du-lich.html",
-    "sourceLabel": "Sở Du lịch Huế",
-    "tags": [
-      "duong-sat"
-    ],
-    "image": "assets/cards/egg-tau-ket-noi-di-san.webp",
-    "requiredChapters": [
-      "hue",
-      "da-nang"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Vietnamese heritage-connection tourist train on the coastal railway between Huế and Đà Nẵng at Hải Vân, a diesel locomotive pulling passenger coaches around a gentle curve on a green hillside above the blue sea, realistic narrow-gauge track. Use an authentic Vietnamese locomotive silhouette, not a steam locomotive or Japanese bullet train; no lettering. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments.",
-    "kind": "route"
-  },
-  {
-    "id": "egg-cau-co-chien",
-    "name": "Cầu Cổ Chiên",
-    "region": "ben-tre",
-    "type": "landmark",
-    "intro": "Cầu Cổ Chiên vượt sông Cổ Chiên trên Quốc lộ 60, nối hai vùng Bến Tre và Trà Vinh. Hai đầu cầu hiện cùng thuộc chapter Vĩnh Long.",
-    "source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%95_Chi%C3%AAn",
-    "sourceLabel": "Wikipedia",
-    "tags": [
-      "cau"
-    ],
-    "image": "assets/cards/egg-cau-co-chien.webp",
-    "requiredRegions": [
-      "ben-tre",
-      "tra-vinh"
-    ],
-    "artPrompt": "Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Cổ Chiên bridge on National Highway 60, low long prestressed concrete box-girder bridge over the broad Cổ Chiên River, repeated concrete piers, lush flat coconut-growing Mekong delta banks. No cable-stayed towers. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments."
+    "minimumRegions": 2
   },
   {
     "id": "egg-dan-ca-quan-ho",
@@ -476,6 +243,7 @@
       "explanation": "Quan họ là lối hát đối đáp của cộng đồng Kinh Bắc, gắn với các làng ở Bắc Ninh và Bắc Giang. UNESCO ghi danh di sản phi vật thể này năm 2009.",
       "source": "https://ich.unesco.org/en/RL/quan-ho-bac-ninh-folk-songs-00183",
       "hint": "Một hình thức hát đối đáp ở Kinh Bắc."
-    }
+    },
+    "minimumRegions": 2
   }
 ]
