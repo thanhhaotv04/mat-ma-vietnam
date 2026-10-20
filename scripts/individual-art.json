@@ -1672,10 +1672,10 @@
     "status": "generated"
   },
   "ha-noi-visit-nha-tu-hoa-lo": {
-    "image": "assets/cards/ha-noi-visit-nha-tu-hoa-lo.webp",
+    "image": "assets/cards/ha-noi-visit-nha-tu-hoa-lo-v2.webp",
     "status": "generated",
-    "prompt": "Individual illustrated prison historical site based on actual photo reference; clean ink outlines and animation shading; square composition with safe margins, no violence or text.",
-    "referenceSource": "https://hoalo.vn/images/banner1.png"
+    "prompt": "User-approved front-on Hoa Lo facade based on supplied photo: yellow walls, three teal louvered upper window groups, dark rounded MAISON CENTRALE portal, central Vietnamese flag, pale stone infill panels and trees. Hand ink contours, painted animation shading. No people, exhibition posters or bunting.",
+    "referenceSource": "User-approved illustration exec-262fa06b-025a-4790-980e-a024b164dd84.png"
   },
   "kien-giang-visit-nha-tu-phu-quoc": {
     "image": "assets/cards/kien-giang-visit-nha-tu-phu-quoc-v2.webp",
