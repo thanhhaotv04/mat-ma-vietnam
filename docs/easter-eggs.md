@@ -1,6 +1,6 @@
 # Địa điểm bí mật
 
-Chỉ giữ 11 thẻ đã chọn. Mở khóa bất kỳ **2 vùng nhỏ liên quan trong 63 vùng** là đủ; không cần hoàn thành chapter 34 tỉnh mới hoặc thu thập hết thẻ. Với các vườn quốc gia trải qua 3 vùng, chọn bất kỳ 2 vùng trong danh sách. Thẻ bí mật chỉ nhận một lần và không tham gia mở đường hoặc điều kiện tô xanh bản đồ.
+Có 13 thẻ bí mật liên vùng. Mở khóa bất kỳ **2 vùng nhỏ liên quan trong 63 vùng** là đủ; không cần hoàn thành chapter 34 tỉnh mới hoặc thu thập hết thẻ. Với các vườn quốc gia trải qua 3 vùng, chọn bất kỳ 2 vùng trong danh sách. Thẻ bí mật chỉ nhận một lần và không tham gia mở đường hoặc điều kiện tô xanh bản đồ.
 
 | Thẻ | Vùng nhỏ liên quan (mở 2 vùng) | Nguồn biên tập |
 |---|---|---|
@@ -17,3 +17,7 @@ Chỉ giữ 11 thẻ đã chọn. Mở khóa bất kỳ **2 vùng nhỏ liên qu
 | Dân ca Quan họ Bắc Ninh | Bắc Ninh, Bắc Giang | [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/quan-ho-bac-ninh-folk-songs-00183) |
 
 Giữ ID Mỹ Thuận và Cát Tiên để tiếp nối tiến trình cũ. 13 thẻ bỏ khỏi danh mục được ghi trong `scripts/retired-easter-eggs.json`; khi đọc bản lưu cũ chỉ bỏ các ID đã ngừng dùng, giữ toàn bộ tiến trình hợp lệ còn lại. Nguồn được lưu trong dữ liệu để biên tập, không hiện link đọc thêm trong cửa sổ thẻ.
+
+
+| Vườn quốc gia Yok Đôn | Đắk Lắk + Đắk Nông | https://nbca.gov.vn/vuon-quoc-gia-yok-don/ |
+| Dân ca Ví, Giặm Nghệ Tĩnh | Nghệ An + Hà Tĩnh | https://ich.unesco.org/en/RL/01008 |

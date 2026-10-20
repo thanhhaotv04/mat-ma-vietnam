@@ -900,5 +900,37 @@
     "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_Ph%C3%BA_Qu%E1%BB%91c",
     "coordinateVerified": true,
     "coordinateNote": "Wikidata has a nearby coarse point; use the more precise named-POI coordinate in the vi article, not an island centre."
+  },
+  "lang-son-visit-mau-son": {
+    "coordinates": [
+      107.00426111,
+      21.87711111
+    ],
+    "coordinateSource": "https://en.wikipedia.org/wiki/Mount_M%E1%BA%ABu_S%C6%A1n",
+    "coordinateVerified": true
+  },
+  "hue-visit-lang-minh-mang": {
+    "coordinates": [
+      107.56777778,
+      16.38777778
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/L%C4%83ng_Minh_M%E1%BA%A1ng",
+    "coordinateVerified": true
+  },
+  "tien-giang-visit-trai-ran-dong-tam": {
+    "coordinates": [
+      106.296846,
+      10.352873
+    ],
+    "coordinateSource": "https://dulich.dongthap.gov.vn/vi/trairandongtam",
+    "coordinateVerified": true
+  },
+  "egg-vuon-quoc-gia-yok-don": {
+    "coordinates": [
+      107.671,
+      12.8038
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q286546",
+    "coordinateVerified": true
   }
 }

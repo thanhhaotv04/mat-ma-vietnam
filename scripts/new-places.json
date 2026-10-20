@@ -758,5 +758,256 @@
       "source": "https://dsvh.gov.vn/di-tich-lich-su-trai-giam-phu-quoc-2988",
       "hint": "So sánh dấu tích kiến trúc và lịch sử của các di tích."
     }
+  },
+  {
+    "id": "lang-son-visit-mau-son",
+    "name": "Mẫu Sơn",
+    "region": "lang-son",
+    "source": "https://vietnamtourism.vn/index.php/tourism/items/1265",
+    "type": "landmark",
+    "intro": "Mẫu Sơn là vùng núi cao ở Lạng Sơn, nổi tiếng với cảnh quan mây núi và khí hậu mát lạnh. Những ngôi biệt thự cũ cùng đường đèo uốn quanh sườn núi tạo nên nét riêng của điểm nghỉ dưỡng này.",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "tags": [
+      "nui"
+    ],
+    "question": {
+      "passage": "Vùng núi phía đông thành phố Lạng Sơn có khí hậu mát lạnh và dấu tích những biệt thự nghỉ dưỡng cũ. Điểm đến có thể xuất hiện băng giá trong những đợt rét mạnh này là {{blank}}.",
+      "options": [
+        "Mẫu Sơn",
+        "Phia Oắc",
+        "Phia Đén",
+        "Ngân Sơn"
+      ],
+      "answer": 0,
+      "hint": "Phân biệt vùng núi ở Lạng Sơn với các dãy núi lân cận Đông Bắc.",
+      "source": "https://vietnamtourism.vn/index.php/tourism/items/1265",
+      "explanation": "Mẫu Sơn là điểm nghỉ dưỡng núi cao tiêu biểu của Lạng Sơn; băng giá chỉ xuất hiện khi điều kiện thời tiết phù hợp."
+    },
+    "reviewed": true,
+    "image": "assets/cards/lang-son-visit-mau-son.webp",
+    "coordinateNote": "Điểm đại diện núi Mẫu Sơn, không centroid xã hoặc vị trí cổng khu du lịch.",
+    "coordinates": [
+      107.00426111,
+      21.87711111
+    ],
+    "coordinateSource": "https://en.wikipedia.org/wiki/Mount_M%E1%BA%ABu_S%C6%A1n",
+    "coordinateVerified": true,
+    "visitKind": "checkin"
+  },
+  {
+    "id": "nam-dinh-visit-phu-day",
+    "name": "Phủ Dầy",
+    "region": "nam-dinh",
+    "source": "https://vietnamtourism.vn/index.php/tourism/items/1478/2",
+    "referenceImage": "/home/thanhhao/thanhhao/Github/Web/mat-ma-viet-nam/artifacts/new-content-refs/phu-day.jpg",
+    "type": "landmark",
+    "intro": "Phủ Dầy là quần thể di tích ở vùng Vụ Bản, Nam Định, gắn với tín ngưỡng thờ Thánh Mẫu Liễu Hạnh. Phủ Tiên Hương, phủ Vân Cát và lăng Mẫu là những thành phần nổi bật của quần thể.",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "tags": [
+      "di-tich",
+      "den-phu"
+    ],
+    "question": {
+      "passage": "Quần thể thờ Thánh Mẫu Liễu Hạnh ở vùng Vụ Bản gồm phủ Tiên Hương, phủ Vân Cát và lăng Mẫu. Tên chung của quần thể này là {{blank}}.",
+      "options": [
+        "Phủ Tây Hồ",
+        "Đền Sòng Sơn",
+        "Phủ Dầy",
+        "Đền Bắc Lệ"
+      ],
+      "answer": 2,
+      "hint": "Chọn tên quần thể gồm nhiều phủ ở Vụ Bản.",
+      "source": "https://vietnamtourism.vn/index.php/tourism/items/1478/2",
+      "explanation": "Phủ Dầy gồm các di tích thờ Thánh Mẫu Liễu Hạnh, trong đó có phủ Tiên Hương và phủ Vân Cát."
+    },
+    "reviewed": true,
+    "image": "assets/cards/nam-dinh-visit-phu-day.webp",
+    "coordinateNote": "Omitted: chưa xác minh điểm của một thành phần cụ thể; không suy GPS từ tâm Vụ Bản.",
+    "visitKind": "checkin"
+  },
+  {
+    "id": "hue-visit-lang-minh-mang",
+    "name": "Lăng Minh Mạng",
+    "region": "hue",
+    "source": "https://vietnam.travel/vi/things-to-do/an-inside-guide-hue-tombs",
+    "referenceImage": "/home/thanhhao/thanhhao/Github/Web/mat-ma-viet-nam/artifacts/new-content-refs/minh-mang-official.jpg",
+    "type": "landmark",
+    "intro": "Lăng Minh Mạng, còn gọi là Hiếu Lăng, nổi bật với bố cục cân xứng giữa kiến trúc, hồ nước và đồi cây. Công trình hoàn thành năm 1843 và là một thành phần của Quần thể di tích Cố đô Huế.",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "tags": [
+      "di-tich",
+      "lang-tam"
+    ],
+    "question": {
+      "passage": "Quần thể lăng có tên chữ Hiếu Lăng, với kiến trúc bố trí cân xứng và lầu Minh Lâu trong khuôn viên. Đây là lăng của hoàng đế {{blank}}.",
+      "options": [
+        "Gia Long",
+        "Thiệu Trị",
+        "Tự Đức",
+        "Minh Mạng"
+      ],
+      "answer": 3,
+      "hint": "Đối chiếu tên chữ Hiếu Lăng với các lăng vua Nguyễn.",
+      "source": "https://vietnam.travel/vi/things-to-do/an-inside-guide-hue-tombs",
+      "explanation": "Hiếu Lăng là lăng Minh Mạng; tên chữ khác với Thiên Thọ Lăng, Xương Lăng và Khiêm Lăng."
+    },
+    "reviewed": true,
+    "image": "assets/cards/hue-visit-lang-minh-mang.webp",
+    "coordinates": [
+      107.56777778,
+      16.38777778
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/L%C4%83ng_Minh_M%E1%BA%A1ng",
+    "coordinateVerified": true,
+    "heritage": {
+      "name": "Quần thể di tích Cố đô Huế",
+      "year": 1993,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/678/maps/",
+      "component": "678-012"
+    },
+    "visitKind": "checkin"
+  },
+  {
+    "id": "tien-giang-visit-trai-ran-dong-tam",
+    "name": "Trại rắn Đồng Tâm",
+    "region": "tien-giang",
+    "source": "https://dulich.dongthap.gov.vn/vi/trairandongtam",
+    "type": "landmark",
+    "intro": "Trại rắn Đồng Tâm ở vùng Mỹ Tho kết hợp nuôi bảo tồn, nghiên cứu dược liệu và điều trị rắn cắn. Khu tham quan giúp du khách tìm hiểu các loài rắn và hoạt động của trung tâm thuộc Quân khu 9.",
+    "sourceLabel": "Cổng du lịch tỉnh Đồng Tháp",
+    "tags": [
+      "tham-quan",
+      "dong-vat"
+    ],
+    "question": {
+      "passage": "Trung tâm nghiên cứu dược liệu thuộc Quân khu 9 ở vùng Mỹ Tho vừa nuôi bảo tồn rắn, vừa điều trị rắn cắn. Điểm tham quan này thường được gọi là {{blank}}.",
+      "options": [
+        "Trung tâm cứu hộ Đảo Tiên",
+        "Trại rắn Đồng Tâm",
+        "Trung tâm cứu hộ Cúc Phương",
+        "Trung tâm cứu hộ Sóc Sơn"
+      ],
+      "answer": 1,
+      "hint": "Chọn tên điểm tham quan gắn với nghiên cứu và nuôi rắn ở Mỹ Tho.",
+      "source": "https://dulich.dongthap.gov.vn/vi/trairandongtam",
+      "explanation": "Trại rắn Đồng Tâm là tên quen thuộc của trung tâm nghiên cứu dược liệu thuộc Quân khu 9."
+    },
+    "reviewed": true,
+    "image": "assets/cards/tien-giang-visit-trai-ran-dong-tam.webp",
+    "coordinateNote": "Map marker công bố ngay trang POI: Latlng=new google.maps.LatLng(10.352873,106.296846). Region lịch sử là Tiền Giang; nguồn dùng tên tỉnh Đồng Tháp hiện tại.",
+    "coordinates": [
+      106.296846,
+      10.352873
+    ],
+    "coordinateSource": "https://dulich.dongthap.gov.vn/vi/trairandongtam",
+    "coordinateVerified": true,
+    "visitKind": "checkin"
+  },
+  {
+    "id": "ha-noi-food-banh-cuon-thanh-tri",
+    "name": "Bánh cuốn Thanh Trì",
+    "region": "ha-noi",
+    "type": "food",
+    "source": "https://sovhtt.hanoi.gov.vn/nghe-lam-banh-cuon-thanh-tri-la-di-san-van-hoa-phi-vat-the-quoc-gia/",
+    "intro": "Bánh cuốn Thanh Trì được tráng từ bột gạo thành những lá bánh mỏng, mềm. Món ăn gắn với làng nghề Hà Nội, thường dùng cùng hành phi, chả quế và nước chấm.",
+    "sourceLabel": "Sở Văn hóa và Thể thao Hà Nội",
+    "tags": [],
+    "question": {
+      "passage": "Lá bánh bột gạo được tráng hấp thật mỏng rồi xếp mềm trên đĩa, ăn cùng hành phi, chả quế và nước chấm. Món bánh truyền thống này là {{blank}}.",
+      "options": [
+        "Bánh giò",
+        "Bánh gối",
+        "Bánh cuốn",
+        "Bánh đúc"
+      ],
+      "answer": 2,
+      "hint": "Chú ý cách tráng thành lá bánh mỏng bằng hơi nước.",
+      "source": "https://sovhtt.hanoi.gov.vn/nghe-lam-banh-cuon-thanh-tri-la-di-san-van-hoa-phi-vat-the-quoc-gia/",
+      "explanation": "Bánh cuốn Thanh Trì được tráng từ bột gạo thành những lá bánh mỏng, mềm. Món ăn gắn với làng nghề Hà Nội, thường dùng cùng hành phi, chả quế và nước chấm."
+    },
+    "reviewed": true,
+    "image": "assets/cards/ha-noi-food-banh-cuon-thanh-tri.webp",
+    "answerName": "Bánh cuốn"
+  },
+  {
+    "id": "hue-food-banh-khoai",
+    "name": "Bánh khoái Huế",
+    "region": "hue",
+    "type": "food",
+    "source": "https://cuoituan.tuoitre.vn/khong-co-nuoc-leo-banh-khoai-ve-dau-20240307101414663.htm",
+    "intro": "Bánh khoái là món bánh đổ khuôn nhỏ với vỏ bột gạo vàng, ăn kèm rau sống. Nét riêng của món Huế này là nước lèo sánh, thường có vị bùi của gan, đậu phộng và mè.",
+    "sourceLabel": "Tuổi Trẻ Cuối Tuần",
+    "tags": [],
+    "question": {
+      "passage": "Bánh bột gạo đổ trong khuôn nhỏ có vỏ vàng và phần nhân mặn, dùng với rau sống cùng nước lèo sánh vị gan, đậu phộng, mè. Món bánh đặc trưng này là {{blank}}.",
+      "options": [
+        "Bánh khoái",
+        "Bánh khọt",
+        "Bánh căn",
+        "Bánh ép"
+      ],
+      "answer": 0,
+      "hint": "Phân biệt bằng nước lèo sánh, thay vì chỉ nhìn vỏ bánh.",
+      "source": "https://cuoituan.tuoitre.vn/khong-co-nuoc-leo-banh-khoai-ve-dau-20240307101414663.htm",
+      "explanation": "Bánh khoái là món bánh đổ khuôn nhỏ với vỏ bột gạo vàng, ăn kèm rau sống. Nét riêng của món Huế này là nước lèo sánh, thường có vị bùi của gan, đậu phộng và mè."
+    },
+    "reviewed": true,
+    "image": "assets/cards/hue-food-banh-khoai.webp",
+    "answerName": "Bánh khoái"
+  },
+  {
+    "id": "khanh-hoa-food-bun-sua-nha-trang",
+    "name": "Bún sứa Nha Trang",
+    "region": "khanh-hoa",
+    "type": "food",
+    "source": "https://dulichso.khanhhoa.gov.vn/explore/bun-sua-nha-trang-vi-ngot-thanh-khiet-mat-lanh-tu-dai-duong-605",
+    "intro": "Bún sứa Nha Trang kết hợp sợi bún với những miếng sứa giòn trong nước dùng thanh. Chả cá ăn kèm làm đậm thêm hương vị biển của món đặc sản phố biển.",
+    "sourceLabel": "Cổng du lịch số Khánh Hòa",
+    "tags": [
+      "bun"
+    ],
+    "question": {
+      "passage": "Tô bún có nước dùng trong thanh, chả cá và những miếng trắng trong giòn sần sật lấy từ biển. Với thành phần tạo độ giòn ấy, món ăn được gọi là {{blank}}.",
+      "options": [
+        "Bún cá",
+        "Bún riêu",
+        "Bún thang",
+        "Bún sứa"
+      ],
+      "answer": 3,
+      "hint": "Tập trung vào thành phần trắng trong có kết cấu giòn.",
+      "source": "https://dulichso.khanhhoa.gov.vn/explore/bun-sua-nha-trang-vi-ngot-thanh-khiet-mat-lanh-tu-dai-duong-605",
+      "explanation": "Bún sứa Nha Trang kết hợp sợi bún với những miếng sứa giòn trong nước dùng thanh. Chả cá ăn kèm làm đậm thêm hương vị biển của món đặc sản phố biển."
+    },
+    "reviewed": true,
+    "image": "assets/cards/khanh-hoa-food-bun-sua-nha-trang.webp",
+    "answerName": "Bún sứa"
+  },
+  {
+    "id": "tay-ninh-food-banh-canh-trang-bang",
+    "name": "Bánh canh Trảng Bàng",
+    "region": "tay-ninh",
+    "type": "food",
+    "source": "https://dulich.tayninh.gov.vn/tin-tuc/banh-canh-trang-bang-tinh-hoa-am-thuc-cua-tay-ninh-1823",
+    "intro": "Bánh canh Trảng Bàng nổi bật với sợi bột gạo tẻ mềm dai và nước dùng ngọt thanh. Thịt heo, giò heo và rau ăn kèm tạo nên tô bánh canh đặc trưng của Tây Ninh.",
+    "sourceLabel": "Cổng du lịch Tây Ninh",
+    "tags": [],
+    "question": {
+      "passage": "Sợi bánh tròn khá lớn làm từ gạo tẻ nằm trong nước dùng trong ngọt, ăn cùng thịt heo, giò heo và rau. Nhóm món sợi này được gọi là {{blank}}.",
+      "options": [
+        "Bún thang",
+        "Bánh canh",
+        "Hủ tiếu",
+        "Mì sợi"
+      ],
+      "answer": 1,
+      "hint": "So sánh đường kính và hình dáng sợi bánh.",
+      "source": "https://dulich.tayninh.gov.vn/tin-tuc/banh-canh-trang-bang-tinh-hoa-am-thuc-cua-tay-ninh-1823",
+      "explanation": "Bánh canh Trảng Bàng nổi bật với sợi bột gạo tẻ mềm dai và nước dùng ngọt thanh. Thịt heo, giò heo và rau ăn kèm tạo nên tô bánh canh đặc trưng của Tây Ninh."
+    },
+    "reviewed": true,
+    "image": "assets/cards/tay-ninh-food-banh-canh-trang-bang.webp",
+    "answerName": "Bánh canh"
   }
 ]

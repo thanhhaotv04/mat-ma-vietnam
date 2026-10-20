@@ -245,5 +245,86 @@
       "hint": "Một hình thức hát đối đáp ở Kinh Bắc."
     },
     "minimumRegions": 2
+  },
+  {
+    "id": "egg-vuon-quoc-gia-yok-don",
+    "name": "Vườn quốc gia Yok Đôn",
+    "region": "dak-lak",
+    "source": "https://nbca.gov.vn/vuon-quoc-gia-yok-don/",
+    "type": "landmark",
+    "intro": "Vườn quốc gia Yok Đôn trải qua vùng Đắk Lắk và Đắk Nông, nổi bật với hệ sinh thái rừng khộp. Những cánh rừng thưa thay lá theo mùa tạo nên cảnh quan khác biệt của khu bảo tồn.",
+    "sourceLabel": "Cục Bảo tồn thiên nhiên và Đa dạng sinh học",
+    "tags": [
+      "vuon-quoc-gia"
+    ],
+    "question": {
+      "passage": "Khu rừng bảo tồn trải qua vùng Đắk Lắk và Đắk Nông có đặc trưng rừng khộp rụng lá theo mùa. Vườn quốc gia mang tên một ngọn núi trong vùng này là {{blank}}.",
+      "options": [
+        "Yok Đôn",
+        "Chư Yang Sin",
+        "Kon Ka Kinh",
+        "Bidoup – Núi Bà"
+      ],
+      "answer": 0,
+      "hint": "Phân biệt rừng khộp với các vườn chủ yếu có rừng núi cao.",
+      "source": "https://nbca.gov.vn/vuon-quoc-gia-yok-don/",
+      "explanation": "Yok Đôn nổi tiếng với rừng khộp và có phạm vi ở Đắk Lắk, Đắk Nông lịch sử."
+    },
+    "reviewed": true,
+    "image": "assets/cards/egg-vuon-quoc-gia-yok-don.webp",
+    "coordinateNote": "Điểm đại diện vườn trong Wikidata, không phải cửa vào; không dùng trung tâm tỉnh.",
+    "coordinates": [
+      107.671,
+      12.8038
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q286546",
+    "coordinateVerified": true,
+    "requiredChapters": [],
+    "requiredRegions": [
+      "dak-lak",
+      "dak-nong"
+    ],
+    "minimumRegions": 2
+  },
+  {
+    "id": "egg-dan-ca-vi-giam",
+    "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+    "region": "nghe-an",
+    "kind": "culture",
+    "source": "https://ich.unesco.org/en/RL/01008",
+    "type": "landmark",
+    "intro": "Ví, Giặm là những hình thức hát dân gian được cộng đồng Nghệ An và Hà Tĩnh gìn giữ trong đời sống. Di sản gắn với lao động, giao tiếp và tình cảm cộng đồng, được UNESCO ghi danh năm 2014.",
+    "sourceLabel": "UNESCO Intangible Cultural Heritage",
+    "tags": [
+      "van-hoa",
+      "phi-vat-the"
+    ],
+    "question": {
+      "passage": "Những làn điệu được hát trong sinh hoạt, khi dệt vải, làm ruộng hoặc chèo thuyền ở Nghệ An và Hà Tĩnh, thường không có nhạc cụ đệm, thuộc di sản {{blank}}.",
+      "options": [
+        "Ca trù",
+        "Dân ca Quan họ",
+        "Ví, Giặm",
+        "Hát Xoan"
+      ],
+      "answer": 2,
+      "hint": "Nghĩ đến hai hình thức dân ca gắn với vùng Nghệ Tĩnh.",
+      "source": "https://ich.unesco.org/en/RL/01008",
+      "explanation": "Ví và Giặm được thực hành tại Nghệ An, Hà Tĩnh; UNESCO ghi danh năm 2014."
+    },
+    "reviewed": true,
+    "image": "assets/cards/egg-dan-ca-vi-giam.webp",
+    "heritage": {
+      "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+      "kind": "Di sản phi vật thể UNESCO",
+      "year": 2014,
+      "source": "https://ich.unesco.org/en/RL/01008"
+    },
+    "requiredChapters": [],
+    "requiredRegions": [
+      "nghe-an",
+      "ha-tinh"
+    ],
+    "minimumRegions": 2
   }
 ]

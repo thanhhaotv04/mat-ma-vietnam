@@ -5,7 +5,7 @@ const browser=await chromium.launch();const page=await browser.newPage({viewport
 await page.route('**/firebase-config.json',r=>r.fulfill({status:404,body:'{}'}));
 await page.addInitScript(s=>localStorage.setItem('mat-ma-viet-nam-player-v1',JSON.stringify(s)),fresh('Kiểm tra','ba-ria---vung-tau'));
 await page.goto('http://localhost:4173');await expect(page.locator('.chapter-map .island-label')).toContainText('Côn Đảo');
-assert.equal(await page.locator('.map-bookmarks button').count(),2);assert.equal(await page.locator('.collection-page .bookmark-tabs [data-tab="landmark"]').count(),0);
+assert.equal(await page.locator('.map-bookmarks button').count(),5);assert.equal(await page.locator('.collection-page .bookmark-tabs [data-tab="landmark"]').count(),0);
 const pin=page.locator('.chapter-map [data-card="ba-ria---vung-tau-visit-con-dao"]');await expect(pin).toHaveAttribute('aria-label','Địa danh chưa khám phá');
 assert(await page.locator('.chapter-map').evaluate(el=>{const svg=el.querySelector('svg');return [...svg.children].findIndex(x=>x.matches('.map-pin'))<[...svg.children].findIndex(x=>x.matches('.region-label'));}));
 await pin.click();await expect(page.locator('.question-blank')).toBeVisible();await page.locator('[data-answer="ba-ria---vung-tau-visit-con-dao"]').click();await expect(page.locator('.reward-art .art')).toBeVisible();await page.screenshot({path:'artifacts/con-dao-reward.png'});await page.locator('#claim').click();

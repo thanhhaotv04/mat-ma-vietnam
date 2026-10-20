@@ -1682,5 +1682,55 @@
     "status": "generated",
     "prompt": "User approved full-compound aerial cartoon illustration: all barracks in parallel rows, gray/rust roofs, perimeter wire fence and four corner watchtowers, tropical woodland and distant hill. Square full scene; no cropping, text or logo.",
     "referenceSource": "User-approved aerial illustration, exec-4abe6fb3-8450-40a1-8873-fe17e1cf3b89.png"
+  },
+  "lang-son-visit-mau-son": {
+    "image": "assets/cards/lang-son-visit-mau-son.webp",
+    "prompt": "Single standalone square hand-painted animated travel illustration, restrained detail, coherent real geography, no text/logos/frame/collage, whole primary subject inside frame with clear margins. Mẫu Sơn mountain in Lạng Sơn: misty rounded green highland ridges and a winding mountain road with a few modest old French-era stone villa ruins nestled on the hillside; cool blue-green palette, lush grasses and low shrubs, avoid Swiss chalet village, no fantasy castle or snow guaranteed all year.",
+    "status": "generated"
+  },
+  "nam-dinh-visit-phu-day": {
+    "image": "assets/cards/nam-dinh-visit-phu-day.webp",
+    "prompt": "Single standalone square hand-painted animated travel illustration, restrained detail, coherent real geography, no text/logos/frame/collage, whole primary subject inside frame with clear margins. Use supplied actual Phủ Dầy photograph for architecture: modest Vietnamese temple façade with two stacked red-tiled roof levels and delicate ridge ornaments, central steps and two tall decorative stone columns, stone-paved courtyard. Simplify festival flags and bright ribbons; preserve the exact overall real façade proportions, no invented giant palace.",
+    "status": "generated"
+  },
+  "hue-visit-lang-minh-mang": {
+    "image": "assets/cards/hue-visit-lang-minh-mang.webp",
+    "prompt": "Single standalone square hand-painted animated travel illustration, restrained detail, coherent real geography, no text/logos/frame/collage, whole primary subject inside frame with clear margins. Minh Mạng imperial tomb at Huế, depict the actual Minh Lâu pavilion with light stone/plaster walls, red columns and ochre tiled double roof using supplied official photograph, with tiled double roof, symmetrical stone terrace and balustrades, mature pines and a tranquil garden. Keep real building proportions and visible complete roof/base; do not invent a giant palace or conflate with Khải Định tomb.",
+    "status": "generated"
+  },
+  "tien-giang-visit-trai-ran-dong-tam": {
+    "image": "assets/cards/tien-giang-visit-trai-ran-dong-tam.webp",
+    "prompt": "Single standalone square hand-painted animated travel illustration, restrained detail, coherent real geography, no text/logos/frame/collage, whole primary subject inside frame with clear margins. Đồng Tâm snake farm near Mỹ Tho: a clearly recognizable real snake resting naturally on a branch above a simple safe naturalistic research-zoo enclosure, low concrete pool edge and discreet wire-mesh fencing, leafy tropical garden background. Restrained educational wildlife scene, one realistic snake with correct anatomy and one head, no giant monster snake, no magical building, no attack or distressed person.",
+    "status": "generated"
+  },
+  "egg-vuon-quoc-gia-yok-don": {
+    "image": "assets/cards/egg-vuon-quoc-gia-yok-don.webp",
+    "prompt": "Single square standalone hand-painted animated travel landscape of Yok Đôn National Park: spacious dry deciduous dipterocarp forest with tall straight trunks, open understory, golden leaf litter and one calm Asian elephant in its natural habitat at a respectful distance. Not a dense tropical jungle, no elephant riding, no temple, no collage or text. Keep the whole elephant inside frame with margins.",
+    "status": "generated"
+  },
+  "egg-dan-ca-vi-giam": {
+    "image": "assets/cards/egg-dan-ca-vi-giam.webp",
+    "prompt": "Single square standalone hand-painted animated Vietnamese cultural scene of Ví and Giặm folk singing in Nghệ Tĩnh, a small group of adult men and women in simple traditional indigo/brown rural long-sleeve garments, women wearing modest headscarves, singing conversationally beside a woven mat and handloom in a simple village courtyard. Unaccompanied community singing, no microphones, no instruments, no Quan họ wide hats, no royal costume, complete figures with clear margins, no lettering or montage.",
+    "status": "generated"
+  },
+  "ha-noi-food-banh-cuon-thanh-tri": {
+    "image": "assets/cards/ha-noi-food-banh-cuon-thanh-tri.webp",
+    "prompt": "Bánh cuốn Thanh Trì: very thin delicate soft white steamed rice flour sheets, folded loosely in a neat serving, light fried shallots on top, small separate clear amber dipping sauce. NOT fat tightly stuffed springrolls. Hanoi leafy old-quarter courtyard background.",
+    "status": "generated"
+  },
+  "hue-food-banh-khoai": {
+    "image": "assets/cards/hue-food-banh-khoai.webp",
+    "prompt": "Bánh khoái Huế: ONE small thick crisp golden rice pancake folded halfmoon, with shrimp, pork, mung bean sprouts, on ceramic plate, small brown dipping sauce bowl, a few greens at side. Distinct from huge thin southern bánh xèo. Warm Hue garden courtyard behind.",
+    "status": "generated"
+  },
+  "khanh-hoa-food-bun-sua-nha-trang": {
+    "image": "assets/cards/khanh-hoa-food-bun-sua-nha-trang.webp",
+    "prompt": "Bún sứa Nha Trang: bowl of thin white rice vermicelli in clear golden fish broth with translucent ivory jellyfish pieces and a few white fishcake slices, green herbs, tomatoes sparingly. Whole ceramic bowl visible. Coastal Nha Trang light-blue sea and foliage softly behind.",
+    "status": "generated"
+  },
+  "tay-ninh-food-banh-canh-trang-bang": {
+    "image": "assets/cards/tay-ninh-food-banh-canh-trang-bang.webp",
+    "prompt": "Bánh canh Trảng Bàng: ceramic bowl with THICK round white rice noodles in clear pork broth, sliced pork and one small pork hock piece, scallions. Small saucer of fish sauce, few greens. Not crab orange broth, no pizza or ricepaper. Southern Vietnamese tiled-eave courtyard and greenery behind.",
+    "status": "generated"
   }
 }

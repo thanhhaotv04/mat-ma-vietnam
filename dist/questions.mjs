@@ -126,7 +126,7 @@ const LANDMARK_GROUPS = [
 ];
 function topic(c){const n=normalize(c.name);if(c.type==='landmark'){return LANDMARK_GROUPS.find(([,rx])=>rx.test(c.name.toLowerCase()))?.[0]||'place';}const name=foodName(c);if(/^(Bánh|Kẹo|Mè|Khẩu|Cốm)/.test(name))return 'cake';if(/^(Bún|Phở|Hủ|Mì|Miến|Cao|Canh|Cháo)/.test(name))return 'noodle';if(/^(Gỏi|Nem|Chả|Lạp|Thịt|Vịt|Cá|Thắng|Nậm)/.test(name))return 'savory';if(/^(Cơm|Xôi)/.test(name))return 'rice';return 'produce';}
 export function foodName(c){return c.answerName||c.name;}
-export function foodEditorial(cards){return cards.filter(c=>c.type==='food').map(c=>{const i=FOOD_IDS.indexOf(c.id);return {id:c.id,answerName:FOOD_NAMES[i],passage:FOOD_PASSAGES[i],foodArt:{sheet:Math.floor(i/16),tile:i%16}};});}
+export function foodEditorial(cards){return cards.filter(c=>c.type==='food'&&FOOD_IDS.includes(c.id)).map(c=>{const i=FOOD_IDS.indexOf(c.id);return {id:c.id,answerName:FOOD_NAMES[i],passage:FOOD_PASSAGES[i],foodArt:{sheet:Math.floor(i/16),tile:i%16}};});}
 function shuffled(xs,rng){const out=[...xs];for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]];}return out;}
 export function distractors(data,c,rng=Math.random){
  const own=byRegion(data,c.region),group=topic(c),answer=c.type==='food'?foodName(c):c.name;
