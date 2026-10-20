@@ -1,4 +1,4 @@
-import {lockMarker} from './map-layout.mjs?v=20261020-clean-ui';
+import {lockMarker} from './map-layout.mjs?v=20261020-con-dao-pins';
 import {access,collectionComplete} from './core.mjs?v=20261020-clean-ui';
 export const mapAreas=[
  {id:'north',name:'Miền Bắc',chapters:['tuyen-quang','cao-bang','lai-chau','dien-bien','lang-son','son-la','lao-cai','thai-nguyen','phu-tho','ha-noi','quang-ninh','hai-phong','bac-ninh','hung-yen','ninh-binh']},

@@ -1,7 +1,7 @@
 import {chromium,expect} from '@playwright/test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';import {fresh} from '../dist/core.mjs';
 const d=JSON.parse(readFileSync('dist/data.json')),browser=await chromium.launch(),errors=[];
 for(const [id,width] of [['da-nang',1440],['khanh-hoa',375],['ha-noi',1440]]){
- const page=await browser.newPage({viewport:{width,height:1050}});page.on('pageerror',e=>errors.push(e.message));const s=fresh('Bản đồ',id);s.earned=d.regions.find(r=>r.id===id).cards;
+ const page=await browser.newPage({viewport:{width,height:1050}});page.on('pageerror',e=>errors.push(e.message));await page.route('**/firebase-config.json',route=>route.fulfill({status:404,body:'{}'}));const s=fresh('Bản đồ',id);s.earned=d.regions.find(r=>r.id===id).cards;
  await page.addInitScript(s=>localStorage.setItem('mat-ma-viet-nam-player-v1',JSON.stringify(s)),s);await page.goto('http://localhost:4173');await expect(page.locator('.chapter-map')).toBeVisible();
  for(const c of d.cards.filter(c=>c.region===id&&c.coordinates)){
   const pin=page.locator(`.map-pin[data-card="${c.id}"] circle`).first();await expect(pin).toBeAttached();assert(Math.abs(Number(await pin.getAttribute('cx'))-c.coordinates[0]*.94)<1e-10);assert(Math.abs(Number(await pin.getAttribute('cy'))+c.coordinates[1])<1e-10);

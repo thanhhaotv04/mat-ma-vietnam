@@ -702,5 +702,185 @@
     ],
     "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_C%E1%BA%A5m",
     "coordinateVerified": true
+  },
+  "thai-nguyen-1": {
+    "coordinates": [
+      105.69388889,
+      21.57944444
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_N%C3%BAi_C%E1%BB%91c",
+    "coordinateVerified": true,
+    "coordinateNote": "Điểm của địa danh trong bài Wikipedia; hồ là điểm đại diện, không phải cổng vào."
+  },
+  "vinh-phuc-2": {
+    "coordinates": [
+      105.71472222,
+      21.325
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_%C4%90%E1%BA%A1i_L%E1%BA%A3i",
+    "coordinateVerified": true,
+    "coordinateNote": "Điểm của địa danh trong bài Wikipedia; hồ là điểm đại diện, không phải cổng vào."
+  },
+  "quang-ninh-visit-bao-tang-quang-ninh": {
+    "coordinates": [
+      107.097504,
+      20.94878383
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Qu%E1%BA%A3ng_Ninh",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ đúng công trình/địa danh, không phải tâm tỉnh."
+  },
+  "nam-dinh-0": {
+    "coordinates": [
+      106.16333333,
+      20.45444444
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748515",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "kon-tum-0": {
+    "coordinates": [
+      108.013158,
+      14.345037
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10800901",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "binh-dinh-2": {
+    "coordinates": [
+      109.2110825,
+      13.7862534
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10825860",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "dak-lak-0": {
+    "coordinates": [
+      108.18194444,
+      12.42166667
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_L%E1%BA%AFk",
+    "coordinateVerified": true,
+    "coordinateNote": "Điểm của địa danh trong bài Wikipedia; hồ là điểm đại diện, không phải cổng vào."
+  },
+  "khanh-hoa-2": {
+    "coordinates": [
+      109.18777778,
+      12.24694444
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C3%BAi_Nha_Trang",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ đúng công trình/địa danh, không phải tâm tỉnh."
+  },
+  "long-an-0": {
+    "coordinates": [
+      106.69138889,
+      10.4825
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_tr%C4%83m_c%E1%BB%99t",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ đúng công trình/địa danh, không phải tâm tỉnh."
+  },
+  "binh-duong-0": {
+    "coordinates": [
+      106.65963889,
+      10.98102778
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q5877747",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "dong-thap-2": {
+    "coordinates": [
+      105.824948,
+      10.597419
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10763514",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "tra-vinh-1": {
+    "coordinates": [
+      106.30355,
+      9.91583056
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C3%82ng",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ đúng công trình/địa danh, không phải tâm tỉnh."
+  },
+  "can-tho-0": {
+    "coordinates": [
+      105.746,
+      10.005
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748803",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "soc-trang-0": {
+    "coordinates": [
+      105.97220444,
+      9.57894002
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748406",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể."
+  },
+  "bac-lieu-2": {
+    "coordinates": [
+      105.578109,
+      9.392035
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1p_V%C4%A9nh_H%C6%B0ng",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ đúng công trình/địa danh, không phải tâm tỉnh."
+  },
+  "tuyen-quang-0": {
+    "coordinates": [
+      105.47111111,
+      21.77555556
+    ],
+    "coordinateSource": "https://moit.gov.vn/upload/2005517/20210623/_TT22-2013-BTNMT.pdf",
+    "coordinateVerified": true,
+    "coordinateNote": "Danh mục địa danh Bộ TNMT ghi đình Tân Trào:21°46′32″N,105°28′16″E. Đây là vị trí tương đối của chính đối tượng trong danh mục, không phải khảo sát cổng vào."
+  },
+  "ba-ria---vung-tau-visit-con-dao": {
+    "coordinates": [
+      106.6147995,
+      8.68889999
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q2879088",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của Côn Đảo Prison/Nhà tù Côn Đảo; thay điểm đại diện toàn quần đảo nếu thẻ tập trung hệ thống nhà tù. Không xác nhận đây là riêng cổng Trại Phú Hải."
+  },
+  "lai-chau-0": {
+    "coordinates": [
+      103.5114086,
+      22.489202
+    ],
+    "coordinateSource": "https://dulich.laichau.gov.vn/vi/place/details/sin-suoi-ho-20",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ POI Sin Suối Hồ được trang du lịch tỉnh công bố trực tiếp: CreateMapMarkerByLeaflet('map20','Sin Suối Hồ',22.489202,103.5114086,9). Điểm đại diện bản du lịch, không centroid tỉnh/xã từ Wikipedia."
+  },
+  "dien-bien-0": {
+    "coordinates": [
+      103.01805556,
+      21.38277778
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q31400429",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của thực thể A1 Hill, hill in Vietnam; P131 Điện Biên Phủ, tham chiếu Geographic Names Server2018 mã12629374. Điểm đại diện đồi, không khẳng định cửa vào."
+  },
+  "quang-ngai-2": {
+    "coordinates": [
+      109.13208333,
+      15.38302778
+    ],
+    "coordinateSource": "https://www.wikidata.org/wiki/Q78339129",
+    "coordinateVerified": true,
+    "coordinateNote": "P625 của đúng Đỉnh Thới Lới, mô tả Mount of volcano tại Việt Nam; không dùng hồ Thới Lới hay tâm huyện Lý Sơn."
   }
 }

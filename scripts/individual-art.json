@@ -970,8 +970,8 @@
     "status": "generated"
   },
   "tay-ninh-3": {
-    "image": "assets/cards/tay-ninh-3.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Bánh tráng phơi sương, Vietnam (tay-ninh). Bánh tráng Trảng Bàng được nướng và phơi sương để tạo độ mềm dẻo. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Show ONE complete serving or plate of this regional specialty with recognizable ingredients, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
+    "image": "assets/cards/tay-ninh-3-v2.webp",
+    "prompt": "Standalone cartoon illustration of soft pale translucent rice paper on a complete bamboo tray, wooden table with folded linen, peaceful southern Vietnamese countryside courtyard, foliage, bamboo fence and tiled eaves. Warm natural illustrated travel-card style matching the existing food illustrations. No pork, meat, sauce bowls, vegetables, other food, text or border. Full tray visible with safe margins.",
     "status": "generated"
   },
   "long-an-0": {
@@ -1663,6 +1663,11 @@
   "egg-dan-ca-quan-ho": {
     "image": "assets/cards/egg-dan-ca-quan-ho.webp",
     "prompt": "Use case illustration-story. ONE independently generated square cartoon travel-journal collectible illustration. Single standalone square collectible illustration for a Vietnamese travel game, charming hand-painted animation style, warm natural colours, crisp readable shapes, restrained detail, no text, no labels, no logos, no frame, no montage. Respectful Vietnamese Quan họ folk singing scene in Kinh Bắc: two adult women in authentic áo tứ thân and head scarves holding flat round nón quai thao hats, singing opposite two adult men in dark traditional áo the and khăn xếp beside a quiet village pond and traditional communal-house courtyard. Small coherent group, complete figures, no stage microphones, no invented costume. Keep the complete main structure or subject visible with generous margins. Geography and architecture must match the named real place; avoid invented monuments. Charming clean ink contours, flat teal green and warm ochre colours, cream paper light. Whole main subject fully visible with generous15 percent safe margins, all bowl/building/bridge endpoints and props within the canvas. No text, no lettering, no logos, no frame, no grid, no collage or sprite atlas. One coherent scene.",
+    "status": "generated"
+  },
+  "ba-ria---vung-tau-visit-con-dao": {
+    "image": "assets/cards/ba-ria---vung-tau-visit-con-dao.webp",
+    "prompt": "Cartoon collectible illustration faithfully based on the user-provided prison entrance photo: three arches, two rooftop guard buildings with red tiled roofs, central vertical monument, weathered ochre masonry and trees. Clean dark ink outlines, painted animation shading, entire gate with safe margins. No text, watermark, people or violence.",
     "status": "generated"
   }
 }

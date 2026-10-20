@@ -11,11 +11,11 @@ export function compactIslands(features,ids,sharedMainland=true){
   const src=geometryBounds([{geometry:{type:'MultiPolygon',coordinates:offshore}}]),bb=sharedMainland?allBounds:geometryBounds([mainland[i]]),w=bb[2]-bb[0],h=bb[3]-bb[1],span=Math.max(w,h),scale=Math.min(span*.28/(src[2]-src[0]),span*.35/(src[3]-src[1])),x=bb[2]+span*.09,y=(bb[1]+bb[3])/2-(src[3]-src[1])*scale/2;
   const transform=p=>[x+(p[0]-src[0])*scale,y+(p[1]-src[1])*scale];
   const box=[x,y,x+(src[2]-src[0])*scale,y+(src[3]-src[1])*scale];
-  insets.push({id:f.id,name:f.id==='da-nang'?'QĐ. Hoàng Sa':'QĐ. Trường Sa',box,sourceBounds:src,transform});
+  insets.push({id:f.id,name:({'da-nang':'QĐ. Hoàng Sa','khanh-hoa':'QĐ. Trường Sa','tp-ho-chi-minh':'Côn Đảo','ba-ria---vung-tau':'Côn Đảo'})[f.id],box,sourceBounds:src,transform});
   return {...f,geometry:{type:'MultiPolygon',coordinates:polygons(f.geometry).map(p=>offshore.includes(p)?p.map(r=>r.map(transform)):p)}};
  });
  return {features:laidOut,insets,point:(id,p)=>{const inset=insets.find(t=>t.id===id&&p[0]>=t.sourceBounds[0]&&p[0]<=t.sourceBounds[2]&&p[1]>=t.sourceBounds[1]&&p[1]<=t.sourceBounds[3]);return inset?inset.transform(p):p;}};
 }
 export function lockMarker(x,y,size){return `<svg class="map-lock" x="${x-size/2}" y="${y-size/2}" width="${size}" height="${size}" style="width:${size}px;height:${size}px" viewBox="0 0 24 24" fill="none" stroke="#536b66" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pointer-events="none" aria-hidden="true"><rect x="5" y="10" width="14" height="11" rx="3" fill="#fffaf0"/><path d="M8 10V7a4 4 0 0 1 8 0v3M12 14v3"/></svg>`;}
 
-export function compactWorld(world){const layout=compactIslands(world.features,['da-nang','khanh-hoa'],false),bb=geometryBounds(layout.features);return {...world,features:layout.features.map(f=>({...f,displayBounds:geometryBounds([f])})),bounds:[bb[0],bb[1],bb[2]-bb[0],bb[3]-bb[1]],labels:world.labels.map(l=>{const inset=layout.insets.find(t=>t.name===l.name);return inset?{...l,point:[(inset.box[0]+inset.box[2])/2,inset.box[3]]}:l;})};}
+export function compactWorld(world){const layout=compactIslands(world.features,['da-nang','khanh-hoa','tp-ho-chi-minh'],false),bb=geometryBounds(layout.features);return {...world,features:layout.features.map(f=>({...f,displayBounds:geometryBounds([f])})),bounds:[bb[0],bb[1],bb[2]-bb[0],bb[3]-bb[1]],labels:world.labels.map(l=>{const inset=layout.insets.find(t=>t.name===l.name);return inset?{...l,point:[(inset.box[0]+inset.box[2])/2,inset.box[3]]}:l;})};}

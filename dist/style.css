@@ -52,3 +52,4 @@ dialog[data-view=reward] .reward-heading svg{background:#f5e7b4;color:#a87e2c;an
 .geographic-map .map-pin:focus-visible circle:first-of-type{stroke:var(--deep);stroke-width:3px;vector-effect:non-scaling-stroke}
 .searchbox:focus-within{border-color:var(--teal);outline:2px solid var(--teal);outline-offset:-2px}
 .searchbox input:focus,.searchbox input:focus-visible{outline:none;box-shadow:none}
+.landmark-tab{background:#709e82}.map-pin.is-locked{opacity:.45}.map-bookmarks{gap:10px}

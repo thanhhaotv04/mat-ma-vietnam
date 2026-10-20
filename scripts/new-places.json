@@ -678,5 +678,33 @@
     "tags": [],
     "visitKind": "checkin",
     "coordinatesSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_C%E1%BA%A5m"
+  },
+  {
+    "id": "ba-ria---vung-tau-visit-con-dao",
+    "region": "ba-ria---vung-tau",
+    "name": "Côn Đảo",
+    "type": "landmark",
+    "intro": "Hệ thống di tích nhà tù Côn Đảo lưu giữ những khu trại, nhà giam và công trình gắn với lịch sử quần đảo. Đây là điểm tham quan giúp tìm hiểu quá khứ và tưởng nhớ những người từng bị giam giữ tại đây.",
+    "source": "https://dsvh.gov.vn/di-tich-lich-su-nha-tu-con-dao-2956",
+    "sourceLabel": "Cục Di sản văn hóa",
+    "reviewed": true,
+    "coordinates": null,
+    "tags": [
+      "bien-dao"
+    ],
+    "visitKind": "checkin",
+    "question": {
+      "passage": "Hệ thống di tích nhà tù trên quần đảo từng được gọi là Poulo Condore lưu giữ nhiều khu trại lịch sử. Tên quần đảo cần điền là {{blank}}.",
+      "options": [
+        "Côn Đảo",
+        "Cát Bà",
+        "Phú Quốc",
+        "Lý Sơn"
+      ],
+      "answer": 0,
+      "explanation": "Hệ thống di tích nhà tù Côn Đảo lưu giữ những khu trại, nhà giam và công trình gắn với lịch sử quần đảo. Đây là điểm tham quan giúp tìm hiểu quá khứ và tưởng nhớ những người từng bị giam giữ tại đây.",
+      "hint": "Quần đảo gắn với Bãi Đầm Trầu.",
+      "source": "https://dsvh.gov.vn/di-tich-lich-su-nha-tu-con-dao-2956"
+    }
   }
 ]

@@ -1,0 +1,13 @@
+import {chromium,expect} from '@playwright/test';
+import assert from 'node:assert/strict';
+import {fresh} from '../dist/core.mjs';
+const browser=await chromium.launch();const page=await browser.newPage({viewport:{width:1440,height:1050}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.route('**/firebase-config.json',r=>r.fulfill({status:404,body:'{}'}));
+await page.addInitScript(s=>localStorage.setItem('mat-ma-viet-nam-player-v1',JSON.stringify(s)),fresh('Kiểm tra','ba-ria---vung-tau'));
+await page.goto('http://localhost:4173');await expect(page.locator('.chapter-map .island-label')).toContainText('Côn Đảo');
+assert.equal(await page.locator('.map-bookmarks button').count(),2);assert.equal(await page.locator('.collection-page .bookmark-tabs [data-tab="landmark"]').count(),0);
+const pin=page.locator('.chapter-map [data-card="ba-ria---vung-tau-visit-con-dao"]');await expect(pin).toHaveAttribute('aria-label','Địa danh chưa khám phá');
+assert(await page.locator('.chapter-map').evaluate(el=>{const svg=el.querySelector('svg');return [...svg.children].findIndex(x=>x.matches('.map-pin'))<[...svg.children].findIndex(x=>x.matches('.region-label'));}));
+await pin.click();await expect(page.locator('.question-blank')).toBeVisible();await page.locator('[data-answer="ba-ria---vung-tau-visit-con-dao"]').click();await expect(page.locator('.reward-art .art')).toBeVisible();await page.screenshot({path:'artifacts/con-dao-reward.png'});await page.locator('#claim').click();
+await page.locator('.all-button').click();await page.locator('.national [data-chapter="tp-ho-chi-minh"]').focus();await page.keyboard.press('Enter');await page.locator('.chapter-select-map [data-card="ba-ria---vung-tau-visit-con-dao"]').click();await expect(page.locator('#practice')).toBeVisible();
+assert.deepEqual(errors,[]);await browser.close();console.log('PASS: Con Dao inset, hidden unearned name, label priority, left controls, reward and chapter modal pin.');

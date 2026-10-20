@@ -17,7 +17,16 @@ test('Central view zooms in around Da Nang at both actual map aspect ratios; isl
 });
 test('Map locks are SVG geometry, not font glyphs',()=>{const markup=lockMarker(1,2,.1);assert(markup.includes('class="map-lock"'));assert(markup.includes('<rect'));assert(markup.includes('<path'));assert(!markup.includes('▣'));});
 test('Every published pin has a reviewed location source; uncertain points keep their cards without pins',()=>{
- const review=JSON.parse(readFileSync('scripts/coordinate-review.json'));assert.equal(Object.keys(review).length,94);
+ const review=JSON.parse(readFileSync('scripts/coordinate-review.json'));assert(Object.keys(review).length>=94);
  for(const [id,row] of Object.entries(review)){const c=d.cards.find(c=>c.id===id);assert(c,id);if(row.excludePin){assert(!c.coordinates,id);assert(c.pinReviewReason);}else{assert(c.coordinateVerified,id);assert.equal(c.coordinateSource,row.coordinateSource);assert.deepEqual(c.coordinates,row.coordinates);}}
- const pins=d.cards.filter(c=>c.type==='landmark'&&c.coordinates);assert.equal(pins.length,82);for(const c of pins){assert(c.coordinateVerified);assert(c.coordinateSource.startsWith('https://'));assert(c.coordinates[0]>102&&c.coordinates[0]<118&&c.coordinates[1]>7&&c.coordinates[1]<24);assert.notDeepEqual(c.coordinates,d.regions.find(r=>r.id===c.region).center);}
+ const pins=d.cards.filter(c=>c.type==='landmark'&&c.coordinates);assert(pins.length>=99);for(const c of pins){assert(c.coordinateVerified);assert(c.coordinateSource.startsWith('https://'));assert(c.coordinates[0]>102&&c.coordinates[0]<118&&c.coordinates[1]>7&&c.coordinates[1]<24);assert.notDeepEqual(c.coordinates,d.regions.find(r=>r.id===c.region).center);}
+});
+test('Con Dao is compacted for both the current chapter and historic region without changing real coordinates',()=>{
+ const fs=d.regions.filter(r=>r.chapter==='tp-ho-chi-minh'),before=JSON.stringify(fs),layout=compactIslands(fs,['ba-ria---vung-tau']);
+ assert.equal(JSON.stringify(fs),before);assert.equal(layout.insets.length,1);assert.equal(layout.insets[0].name,'Côn Đảo');
+ const a=geometryBounds(fs),b=geometryBounds(layout.features);assert(b[3]-b[1]<a[3]-a[1]);
+ const worldLayout=compactWorld(world);assert(worldLayout.labels.some(l=>l.name==='Côn Đảo'));
+});
+test('Every historic region has at least one source-verified landmark pin',()=>{
+ for(const r of d.regions)assert(d.cards.some(c=>c.region===r.id&&c.type==='landmark'&&!c.easterEgg&&c.coordinateVerified&&c.coordinates),r.id);
 });

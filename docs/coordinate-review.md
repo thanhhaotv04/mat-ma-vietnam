@@ -104,3 +104,31 @@ Sửa rõ ràng: Thiên Mụ lệch khoảng3,9km; Tam Thanh lệch khoảng1,3k
 | `hai-phong-visit-cau-binh` · Cầu Bính | [106.66777778, 20.87527778] | [106.66777778, 20.87527778] | Giữ | [Nguồn](https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ADnh) · Tọa độ chính của chính bài địa danh; không lấy tâm tỉnh. |
 | `hue-visit-lang-khai-dinh` · Lăng Khải Định | [107.59027778, 16.39888889] | [107.59027778, 16.39888889] | Giữ | [Nguồn](https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh) · Tọa độ chính của chính bài địa danh; không lấy tâm tỉnh. |
 | `an-giang-visit-nui-cam` · Núi Cấm | [104.979246, 10.496887] | [104.979246, 10.496887] | Giữ | [Nguồn](https://vi.wikipedia.org/wiki/N%C3%BAi_C%E1%BA%A5m) · Tọa độ chính của chính bài địa danh; không lấy tâm tỉnh. |
+
+
+## Bổ sung ngày 20/10/2026
+
+Cả 63 vùng đều có ít nhất một địa danh với tọa độ đã đối chiếu nguồn. Tọa độ dưới đây là tọa độ thực; vị trí đảo trên bản đồ minh họa được dịch riêng khi hiển thị.
+
+| Thẻ | Tọa độ | Nguồn và ghi chú |
+| --- | --- | --- |
+| `thai-nguyen-1` | [105.69388889, 21.57944444] | https://vi.wikipedia.org/wiki/H%E1%BB%93_N%C3%BAi_C%E1%BB%91c · Điểm của địa danh trong bài Wikipedia; hồ là điểm đại diện, không phải cổng vào. |
+| `vinh-phuc-2` | [105.71472222, 21.325] | https://vi.wikipedia.org/wiki/H%E1%BB%93_%C4%90%E1%BA%A1i_L%E1%BA%A3i · Điểm của địa danh trong bài Wikipedia; hồ là điểm đại diện, không phải cổng vào. |
+| `quang-ninh-visit-bao-tang-quang-ninh` | [107.097504, 20.94878383] | https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Qu%E1%BA%A3ng_Ninh · Tọa độ đúng công trình/địa danh, không phải tâm tỉnh. |
+| `nam-dinh-0` | [106.16333333, 20.45444444] | https://www.wikidata.org/wiki/Q10748515 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `kon-tum-0` | [108.013158, 14.345037] | https://www.wikidata.org/wiki/Q10800901 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `binh-dinh-2` | [109.2110825, 13.7862534] | https://www.wikidata.org/wiki/Q10825860 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `dak-lak-0` | [108.18194444, 12.42166667] | https://vi.wikipedia.org/wiki/H%E1%BB%93_L%E1%BA%AFk · Điểm của địa danh trong bài Wikipedia; hồ là điểm đại diện, không phải cổng vào. |
+| `khanh-hoa-2` | [109.18777778, 12.24694444] | https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C3%BAi_Nha_Trang · Tọa độ đúng công trình/địa danh, không phải tâm tỉnh. |
+| `long-an-0` | [106.69138889, 10.4825] | https://vi.wikipedia.org/wiki/Nh%C3%A0_tr%C4%83m_c%E1%BB%99t · Tọa độ đúng công trình/địa danh, không phải tâm tỉnh. |
+| `binh-duong-0` | [106.65963889, 10.98102778] | https://www.wikidata.org/wiki/Q5877747 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `dong-thap-2` | [105.824948, 10.597419] | https://www.wikidata.org/wiki/Q10763514 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `tra-vinh-1` | [106.30355, 9.91583056] | https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C3%82ng · Tọa độ đúng công trình/địa danh, không phải tâm tỉnh. |
+| `can-tho-0` | [105.746, 10.005] | https://www.wikidata.org/wiki/Q10748803 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `soc-trang-0` | [105.97220444, 9.57894002] | https://www.wikidata.org/wiki/Q10748406 · P625 của đúng công trình/địa danh; đã kiểm tra nhãn và mô tả thực thể. |
+| `bac-lieu-2` | [105.578109, 9.392035] | https://vi.wikipedia.org/wiki/Th%C3%A1p_V%C4%A9nh_H%C6%B0ng · Tọa độ đúng công trình/địa danh, không phải tâm tỉnh. |
+| `tuyen-quang-0` | [105.47111111, 21.77555556] | https://moit.gov.vn/upload/2005517/20210623/_TT22-2013-BTNMT.pdf · Danh mục địa danh Bộ TNMT ghi đình Tân Trào:21°46′32″N,105°28′16″E. Đây là vị trí tương đối của chính đối tượng trong danh mục, không phải khảo sát cổng vào. |
+| `ba-ria---vung-tau-visit-con-dao` | [106.6147995, 8.68889999] | https://www.wikidata.org/wiki/Q2879088 · P625 của Côn Đảo Prison/Nhà tù Côn Đảo; thay điểm đại diện toàn quần đảo nếu thẻ tập trung hệ thống nhà tù. Không xác nhận đây là riêng cổng Trại Phú Hải. |
+| `lai-chau-0` | [103.5114086, 22.489202] | https://dulich.laichau.gov.vn/vi/place/details/sin-suoi-ho-20 · Tọa độ POI Sin Suối Hồ được trang du lịch tỉnh công bố trực tiếp: CreateMapMarkerByLeaflet('map20','Sin Suối Hồ',22.489202,103.5114086,9). Điểm đại diện bản du lịch, không centroid tỉnh/xã từ Wikipedia. |
+| `dien-bien-0` | [103.01805556, 21.38277778] | https://www.wikidata.org/wiki/Q31400429 · P625 của thực thể A1 Hill, hill in Vietnam; P131 Điện Biên Phủ, tham chiếu Geographic Names Server2018 mã12629374. Điểm đại diện đồi, không khẳng định cửa vào. |
+| `quang-ngai-2` | [109.13208333, 15.38302778] | https://www.wikidata.org/wiki/Q78339129 · P625 của đúng Đỉnh Thới Lới, mô tả Mount of volcano tại Việt Nam; không dùng hồ Thới Lới hay tâm huyện Lý Sơn. |
