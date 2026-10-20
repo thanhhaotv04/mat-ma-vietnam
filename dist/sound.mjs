@@ -1,5 +1,5 @@
 // Short feedback only, initiated by a correct-answer click. No background audio or network request.
-import {SOUND_KEY,readSoundPreference} from './storage.mjs';
+import {SOUND_KEY,readSoundPreference} from './storage.mjs?v=20261020-clean-ui';
 const KEY=SOUND_KEY;
 let enabled=true,context;
 try{enabled=readSoundPreference(localStorage)!=='off';}catch{}

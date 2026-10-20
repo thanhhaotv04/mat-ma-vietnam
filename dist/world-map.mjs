@@ -1,5 +1,5 @@
-import {lockMarker} from './map-layout.mjs';
-import {access,collectionComplete} from './core.mjs';
+import {lockMarker} from './map-layout.mjs?v=20261020-clean-ui';
+import {access,collectionComplete} from './core.mjs?v=20261020-clean-ui';
 export const mapAreas=[
  {id:'north',name:'Miền Bắc',chapters:['tuyen-quang','cao-bang','lai-chau','dien-bien','lang-son','son-la','lao-cai','thai-nguyen','phu-tho','ha-noi','quang-ninh','hai-phong','bac-ninh','hung-yen','ninh-binh']},
  {id:'central',name:'Miền Trung',chapters:['hue','thanh-hoa','nghe-an','ha-tinh','da-nang','quang-tri','quang-ngai','khanh-hoa','gia-lai','dak-lak','lam-dong']},

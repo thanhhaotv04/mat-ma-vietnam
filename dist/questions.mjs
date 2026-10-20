@@ -1,4 +1,4 @@
-import {normalize} from './core.mjs';
+import {normalize} from './core.mjs?v=20261020-clean-ui';
 
 // Answers intentionally omit localities. Regional variants keep their full names on the reward card.
 const FOOD_NAMES = `Phở|Bánh gai|Bánh tam giác mạch|Hạt dẻ|Xôi tím|Thắng cố|Cốm|Bánh chưng|Miến dong|Khẩu xén|Vịt quay|Nậm pịa|Thịt chua|Bánh trùng mật mía|Cơm lam|Bánh phu thê|Mì gạo|Vải thiều|Chả mực|Bánh đa cua|Bánh mì cay|Bánh đậu xanh|Nhãn lồng|Bánh cáy|Canh cá|Cơm cháy|Cá kho niêu|Kẹo Sìu Châu|Nem chua|Bánh răng bừa|Cháo lươn|Kẹo cu đơ|Bánh bột lọc|Khoai deo|Bún bò|Mè xửng|Bún chả cá|Cao lầu|Mì Quảng|Don|Gỏi lá|Phở khô|Bánh ít lá gai|Bún đỏ|Bánh canh hẹ|Nem nướng|Bánh căn|Bánh tráng nướng|Kem bơ|Cà phê|Lẩu thả|Gỏi cá|Hạt điều|Bánh tráng phơi sương|Lạp xưởng|Cơm tấm|Bánh mì|Gỏi gà măng cụt|Bánh khọt|Hủ tiếu|Nem|Vú sữa|Hủ tiếu|Bún cá|Bánh bò thốt nốt|Bún quậy|Gỏi cá trích|Khoai lang|Kẹo dừa|Bánh tráng dừa|Bún nước lèo|Bánh tét|Bánh cống|Chả cá thác lác|Khóm|Bánh pía|Bún nước sụ|Cua biển|Bánh tằm bì`.split('|');
