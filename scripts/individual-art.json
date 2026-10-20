@@ -230,9 +230,10 @@
     "status": "generated"
   },
   "son-la-2": {
-    "image": "assets/cards/son-la-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Nhà tù Sơn La, Vietnam (son-la). Di tích lưu giữ dấu tích về các chiến sĩ cách mạng từng bị giam giữ. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/son-la-2-v2.webp",
+    "prompt": "Faithful standalone cartoon illustration based on Nhatusonla.jpg photo: roofless gray plaster/red brick ruins and surviving white veranda building with tiled roof. No invented castle or towers. Dark ink outlines, painted cel shading, square composition.",
+    "status": "generated",
+    "referenceSource": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nhatusonla.jpg"
   },
   "son-la-3": {
     "image": "assets/cards/son-la-3.webp",
@@ -1666,8 +1667,20 @@
     "status": "generated"
   },
   "ba-ria---vung-tau-visit-con-dao": {
-    "image": "assets/cards/ba-ria---vung-tau-visit-con-dao.webp",
-    "prompt": "Cartoon collectible illustration faithfully based on the user-provided prison entrance photo: three arches, two rooftop guard buildings with red tiled roofs, central vertical monument, weathered ochre masonry and trees. Clean dark ink outlines, painted animation shading, entire gate with safe margins. No text, watermark, people or violence.",
+    "image": "assets/cards/ba-ria---vung-tau-visit-con-dao-v2.webp",
+    "prompt": "Faithful cartoon illustration based on user courtyard photo: long low weathered cells on left, white veranda columns and red tile roof block on right, gravel courtyard receding to stone wall and mountain. No entrance gateway. Dark hand ink contours, painted animation shading, square composition.",
     "status": "generated"
+  },
+  "ha-noi-visit-nha-tu-hoa-lo": {
+    "image": "assets/cards/ha-noi-visit-nha-tu-hoa-lo.webp",
+    "status": "generated",
+    "prompt": "Individual illustrated prison historical site based on actual photo reference; clean ink outlines and animation shading; square composition with safe margins, no violence or text.",
+    "referenceSource": "https://hoalo.vn/images/banner1.png"
+  },
+  "kien-giang-visit-nha-tu-phu-quoc": {
+    "image": "assets/cards/kien-giang-visit-nha-tu-phu-quoc.webp",
+    "status": "generated",
+    "prompt": "Individual illustrated prison historical site based on actual photo reference; clean ink outlines and animation shading; square composition with safe margins, no violence or text.",
+    "referenceSource": "https://vietnamtourism.vn/index.php/tourism/items/2918"
   }
 }

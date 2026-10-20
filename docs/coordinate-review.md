@@ -132,3 +132,10 @@ Cả 63 vùng đều có ít nhất một địa danh với tọa độ đã đ�
 | `lai-chau-0` | [103.5114086, 22.489202] | https://dulich.laichau.gov.vn/vi/place/details/sin-suoi-ho-20 · Tọa độ POI Sin Suối Hồ được trang du lịch tỉnh công bố trực tiếp: CreateMapMarkerByLeaflet('map20','Sin Suối Hồ',22.489202,103.5114086,9). Điểm đại diện bản du lịch, không centroid tỉnh/xã từ Wikipedia. |
 | `dien-bien-0` | [103.01805556, 21.38277778] | https://www.wikidata.org/wiki/Q31400429 · P625 của thực thể A1 Hill, hill in Vietnam; P131 Điện Biên Phủ, tham chiếu Geographic Names Server2018 mã12629374. Điểm đại diện đồi, không khẳng định cửa vào. |
 | `quang-ngai-2` | [109.13208333, 15.38302778] | https://www.wikidata.org/wiki/Q78339129 · P625 của đúng Đỉnh Thới Lới, mô tả Mount of volcano tại Việt Nam; không dùng hồ Thới Lới hay tâm huyện Lý Sơn. |
+
+
+## Bổ sung các di tích nhà tù
+
+- Nhà tù Hỏa Lò: [105.84638889, 21.02527778], đối chiếu [Wikipedia](https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_H%E1%BB%8Fa_L%C3%B2) và [Wikidata Q1359941](https://www.wikidata.org/wiki/Q1359941).
+- Nhà tù Phú Quốc: [104.018179, 10.043948], tọa độ POI trên [Wikipedia](https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_Ph%C3%BA_Qu%E1%BB%91c), đối chiếu Wikidata Q10800918.
+- Nhà tù Sơn La: cập nhật thẻ hiện có `son-la-2`; giữ chưa có pin riêng vì chưa xác minh được tọa độ POI. Không thay bằng tọa độ máy ảnh hay tâm tỉnh.

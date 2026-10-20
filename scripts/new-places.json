@@ -682,7 +682,7 @@
   {
     "id": "ba-ria---vung-tau-visit-con-dao",
     "region": "ba-ria---vung-tau",
-    "name": "Côn Đảo",
+    "name": "Nhà tù Côn Đảo",
     "type": "landmark",
     "intro": "Hệ thống di tích nhà tù Côn Đảo lưu giữ những khu trại, nhà giam và công trình gắn với lịch sử quần đảo. Đây là điểm tham quan giúp tìm hiểu quá khứ và tưởng nhớ những người từng bị giam giữ tại đây.",
     "source": "https://dsvh.gov.vn/di-tich-lich-su-nha-tu-con-dao-2956",
@@ -694,17 +694,69 @@
     ],
     "visitKind": "checkin",
     "question": {
-      "passage": "Hệ thống di tích nhà tù trên quần đảo từng được gọi là Poulo Condore lưu giữ nhiều khu trại lịch sử. Tên quần đảo cần điền là {{blank}}.",
+      "passage": "Di tích trên quần đảo từng được gọi là Poulo Condore còn lưu giữ các dãy buồng giam và sân trại. Hệ thống di tích được nhắc đến là {{blank}}.",
       "options": [
-        "Côn Đảo",
-        "Cát Bà",
-        "Phú Quốc",
-        "Lý Sơn"
+        "Nhà tù Côn Đảo",
+        "Nhà tù Phú Quốc",
+        "Nhà tù Hỏa Lò",
+        "Nhà tù Sơn La"
       ],
       "answer": 0,
       "explanation": "Hệ thống di tích nhà tù Côn Đảo lưu giữ những khu trại, nhà giam và công trình gắn với lịch sử quần đảo. Đây là điểm tham quan giúp tìm hiểu quá khứ và tưởng nhớ những người từng bị giam giữ tại đây.",
-      "hint": "Quần đảo gắn với Bãi Đầm Trầu.",
+      "hint": "So sánh dấu tích kiến trúc và lịch sử của các di tích.",
       "source": "https://dsvh.gov.vn/di-tich-lich-su-nha-tu-con-dao-2956"
+    }
+  },
+  {
+    "id": "ha-noi-visit-nha-tu-hoa-lo",
+    "region": "ha-noi",
+    "name": "Nhà tù Hỏa Lò",
+    "type": "landmark",
+    "visitKind": "checkin",
+    "intro": "Di tích nằm trên phố Hỏa Lò, được xây dựng từ năm 1896 trên đất làng Phụ Khánh. Những kiến trúc và hiện vật còn lại giới thiệu lịch sử nhà tù cùng câu chuyện của những người từng bị giam giữ.",
+    "source": "https://hoalo.vn/Articles/38/48/qua-trinh-hinh-thanh-va-xay-dung.html",
+    "sourceLabel": "Ban Quản lý Di tích Nhà tù Hỏa Lò",
+    "reviewed": true,
+    "coordinates": null,
+    "tags": [],
+    "question": {
+      "passage": "Nhà tù được xây từ năm 1896 trên đất làng Phụ Khánh, có cổng mang dòng chữ Maison Centrale. Di tích được nhắc đến là {{blank}}.",
+      "options": [
+        "Nhà tù Sơn La",
+        "Nhà tù Hỏa Lò",
+        "Nhà tù Côn Đảo",
+        "Nhà tù Phú Quốc"
+      ],
+      "answer": 1,
+      "explanation": "Di tích nằm trên phố Hỏa Lò, được xây dựng từ năm 1896 trên đất làng Phụ Khánh. Những kiến trúc và hiện vật còn lại giới thiệu lịch sử nhà tù cùng câu chuyện của những người từng bị giam giữ.",
+      "source": "https://hoalo.vn/Articles/38/48/qua-trinh-hinh-thanh-va-xay-dung.html",
+      "hint": "So sánh dấu tích kiến trúc và lịch sử của các di tích."
+    }
+  },
+  {
+    "id": "kien-giang-visit-nha-tu-phu-quoc",
+    "region": "kien-giang",
+    "name": "Nhà tù Phú Quốc",
+    "type": "landmark",
+    "visitKind": "checkin",
+    "intro": "Di tích trại giam ở phía nam đảo Phú Quốc lưu giữ và phục dựng các dãy nhà giam cùng hệ thống hàng rào. Không gian trưng bày giúp tìm hiểu lịch sử trại giam và những câu chuyện vượt ngục.",
+    "source": "https://dsvh.gov.vn/di-tich-lich-su-trai-giam-phu-quoc-2988",
+    "sourceLabel": "Cục Di sản văn hóa",
+    "reviewed": true,
+    "coordinates": null,
+    "tags": [],
+    "question": {
+      "passage": "Di tích trại giam còn được biết đến với tên Nhà lao Cây Dừa, nằm ở phía nam một hòn đảo trong vịnh Thái Lan. Địa điểm đó là {{blank}}.",
+      "options": [
+        "Nhà tù Côn Đảo",
+        "Nhà tù Hỏa Lò",
+        "Nhà tù Sơn La",
+        "Nhà tù Phú Quốc"
+      ],
+      "answer": 3,
+      "explanation": "Di tích trại giam ở phía nam đảo Phú Quốc lưu giữ và phục dựng các dãy nhà giam cùng hệ thống hàng rào. Không gian trưng bày giúp tìm hiểu lịch sử trại giam và những câu chuyện vượt ngục.",
+      "source": "https://dsvh.gov.vn/di-tich-lich-su-trai-giam-phu-quoc-2988",
+      "hint": "So sánh dấu tích kiến trúc và lịch sử của các di tích."
     }
   }
 ]

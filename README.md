@@ -13,7 +13,7 @@ Mở http://localhost:4173. Có thể phục vụ `dist/` bằng static web serv
 
 ## Nội dung và cách chơi
 
-- 34 chapter theo tỉnh thành hiện tại, 63 vùng xuất phát; 334 thẻ gồm 256 địa danh và 78 đặc sản. Trong đó có 11 thẻ bí mật liên vùng; mở khi đã mở khóa 2 vùng nhỏ liên quan (trong 63 vùng), không cần hoàn thành cả chapter hoặc toàn bộ thẻ. Thẻ bí mật không tính vào điều kiện hoàn thành tỉnh và được nhận một lần duy nhất. Xem [danh sách và nguồn](docs/easter-eggs.md).
+- 34 chapter theo tỉnh thành hiện tại, 63 vùng xuất phát; 336 thẻ gồm 258 địa danh và 78 đặc sản. Trong đó có 11 thẻ bí mật liên vùng; mở khi đã mở khóa 2 vùng nhỏ liên quan (trong 63 vùng), không cần hoàn thành cả chapter hoặc toàn bộ thẻ. Thẻ bí mật không tính vào điều kiện hoàn thành tỉnh và được nhận một lần duy nhất. Xem [danh sách và nguồn](docs/easter-eggs.md).
 - Bản đồ sách chọn vùng bằng cách chạm vào hình. Tab icon bên trái mở bản đồ sát tỉnh hiện tại; kéo, lăn chuột hoặc chụm hai ngón để đổi khung nhìn, không có các nút miền/zoom.
 - Màu vàng là vùng còn thẻ địa danh/đặc sản chưa mở; chỉ thu thập đủ mới xanh. Mốc 3 thẻ để mở đường giữ nguyên. Phân nhóm địa lý trong dữ liệu giữ theo 34 tỉnh hiện tại; giao diện bản đồ tập trung tỉnh đang chơi.
 - Thẻ có tỷ lệ 3:4, ảnh vuông nguyên vẹn ở trên, tên bên dưới. Tab Bộ Sưu Tập gom thẻ đã có trên toàn hành trình với ba tab nhỏ Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Bộ Sưu Tập hiển thị 3 thẻ mỗi hàng và số đã mở/tổng thẻ riêng cho từng nhóm. 10 thẻ Thành Tựu có ảnh riêng, bấm để xem điều kiện và tiến độ. Logo UNESCO trắng trên nền xanh ở góc thẻ đã mở thuộc hồ sơ UNESCO; nguồn và phạm vi ở `docs/unesco-badge.md`.
@@ -37,7 +37,7 @@ node scripts/update-questions.mjs
 ## Nguồn nội dung và bản đồ
 
 - `scripts/food-review.json` và `docs/food-review.md`: đối chiếu 79 món ban đầu; giữ 78, tạm bỏ Bún nước sụ. Bánh cống Đại Tâm chuyển về vùng Sóc Trăng, vẫn giữ ID để tương thích tiến độ.
-- `scripts/new-places.json`: 49 địa danh thêm, trải trên 34 chapter, kèm giới thiệu và nguồn. Bãi Xép được thay bằng Đầm Ô Loan vì thông tin tiếp cận chưa rõ.
+- `scripts/new-places.json`: 51 địa danh thêm, trải trên 34 chapter, kèm giới thiệu và nguồn. Bãi Xép được thay bằng Đầm Ô Loan vì thông tin tiếp cận chưa rõ.
 - `scripts/content.py`, `scripts/prepare.py` và `scripts/wiki-references.json`: nguồn dữ liệu ban đầu. `update-questions.mjs` áp dụng phần biên tập và ánh xạ ảnh sau khi tái tạo.
 - Bản đồ sách giữ polygon WGS84 từ Vietnamese Provinces Database và phép ghép 63 vùng bằng mã lịch sử. Tiếp giáp chapter tính theo đường bao; hình học đã giản lược, không dùng xác định địa giới pháp lý.
 - `dist/world-map.json`: silhouette phẳng từ `App/VietNam-map-checkin/assets/vietnam-provinces.geojson`, ghép thành 34 chapter, có các đảo/quần đảo. Lớp này dùng riêng để vẽ bản đồ, không phải kinh/vĩ độ. `scripts/prepare-world-map.py` tái tạo bằng Python + Shapely.
@@ -64,7 +64,7 @@ node tests/card-layout.mjs
 node tests/landmark-flow.mjs
 ```
 
-Kiểm tra bao gồm điều kiện mở vùng, khôi phục tiến độ cũ, chuyển vùng đặc sản, 49 địa danh bổ sung, tiêu điểm bản đồ và đảo, các mốc 499/500/1999/2000/8000 ms, ảnh vuông, bố cục điện thoại và lưu thẻ lấp lánh. Ảnh QA nằm trong `artifacts/` (gitignored).
+Kiểm tra bao gồm điều kiện mở vùng, khôi phục tiến độ cũ, chuyển vùng đặc sản, 51 địa danh bổ sung, tiêu điểm bản đồ và đảo, các mốc 499/500/1999/2000/8000 ms, ảnh vuông, bố cục điện thoại và lưu thẻ lấp lánh. Ảnh QA nằm trong `artifacts/` (gitignored).
 
 ## Chơi qua Firebase
 

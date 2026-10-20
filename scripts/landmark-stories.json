@@ -34,5 +34,24 @@
   },
   "Ga Đà Lạt": {
     "history": "Ga Đà Lạt được xây dựng từ năm 1932 đến năm 1938, từng là đầu mối của tuyến đường sắt Tháp Chàm – Đà Lạt. Ba mái nhọn tạo nên hình dáng rất riêng, thường được liên hệ với các đỉnh Langbiang và mái nhà rông Tây Nguyên. Công trình hiện là điểm tham quan và gắn với tuyến tàu du lịch đi Trại Mát."
+  },
+  "Nhà tù Sơn La": {
+    "intro": "Di tích trên đồi Khau Cả được xây dựng từ năm 1908, hiện còn những bức tường đá, nền nhà giam và dấu tích các khu trại. Đây là nơi lưu giữ câu chuyện về những chiến sĩ cách mạng từng bị giam cầm, trong đó có Tô Hiệu.",
+    "source": "https://dsvh.gov.vn/di-tich-lich-su-nha-tu-son-la-1214",
+    "sourceLabel": "Cục Di sản văn hóa",
+    "reviewed": true,
+    "question": {
+      "passage": "Nhà tù được xây dựng năm 1908 trên đồi Khau Cả, gắn với câu chuyện về Tô Hiệu và phong trào đấu tranh của tù chính trị. Di tích cần điền là {{blank}}.",
+      "options": [
+        "Nhà tù Hỏa Lò",
+        "Nhà tù Phú Quốc",
+        "Nhà tù Sơn La",
+        "Nhà tù Côn Đảo"
+      ],
+      "answer": 2,
+      "explanation": "Nhà tù Sơn La nằm trên đồi Khau Cả và được xây dựng từ năm 1908.",
+      "source": "https://dsvh.gov.vn/di-tich-lich-su-nha-tu-son-la-1214",
+      "hint": "Chú ý ngọn đồi gắn với di tích."
+    }
   }
 }

@@ -882,5 +882,23 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q78339129",
     "coordinateVerified": true,
     "coordinateNote": "P625 của đúng Đỉnh Thới Lới, mô tả Mount of volcano tại Việt Nam; không dùng hồ Thới Lới hay tâm huyện Lý Sơn."
+  },
+  "ha-noi-visit-nha-tu-hoa-lo": {
+    "coordinates": [
+      105.84638889,
+      21.02527778
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_H%E1%BB%8Fa_L%C3%B2",
+    "coordinateVerified": true,
+    "coordinateNote": "Tọa độ POI đối chiếu Wikipedia và Wikidata; không dùng tâm tỉnh."
+  },
+  "kien-giang-visit-nha-tu-phu-quoc": {
+    "coordinates": [
+      104.018179,
+      10.043948
+    ],
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_Ph%C3%BA_Qu%E1%BB%91c",
+    "coordinateVerified": true,
+    "coordinateNote": "Wikidata has a nearby coarse point; use the more precise named-POI coordinate in the vi article, not an island centre."
   }
 }
