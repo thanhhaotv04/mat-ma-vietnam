@@ -1,6 +1,6 @@
 # Mật Mã Việt Nam
 
-Game trình duyệt khám phá Việt Nam qua bản đồ, câu đố hình ảnh và thẻ sưu tập. Bản static HTML/CSS/JavaScript, không có phụ thuộc runtime hoặc khóa API.
+Game trình duyệt khám phá Việt Nam qua bản đồ, câu đố hình ảnh và thẻ sưu tập. Bản static HTML/CSS/JavaScript, dùng Firebase Authentication và Cloud Firestore để lưu tiến trình riêng theo tài khoản.
 
 ## Chạy
 
@@ -21,7 +21,7 @@ Mở http://localhost:4173. Có thể phục vụ `dist/` bằng static web serv
 - Chạm thẻ mở thẳng câu đố Nhận diện hình ảnh: 16 ô hé ngẫu nhiên mỗi 500 ms, không lặp; bên dưới là đoạn văn điền khuyết và bốn đáp án cùng chủ đề. Không có bước chọn chế độ hoặc gợi ý.
 - Đồng hồ bắt đầu khi ảnh tải/giải mã xong. Đúng dưới 2000 ms nhận thẻ lấp lánh, lưu cùng tiến độ. Chơi lại có thể nâng thẻ thường thành lấp lánh; không nhân đôi thẻ.
 - Đáp án đúng tự hiện ảnh thẻ, giới thiệu ngắn và nguồn. Ba thẻ khác nhau mở các vùng còn lại trong chapter; hoàn thành mọi vùng mở chapter tiếp giáp.
-- Hồ sơ localStorage, xuất/nhập JSON. Chưa có máy chủ tài khoản hoặc đồng bộ. Bản xuất không được ký/chống gian lận.
+- Hồ sơ khách hoặc email/mật khẩu, đồng bộ Firebase theo UID; vẫn lưu cục bộ và hỗ trợ xuất/nhập JSON. Tiến trình chưa có chống gian lận ở server.
 
 ## Ảnh riêng cho từng thẻ
 
@@ -65,3 +65,9 @@ node tests/landmark-flow.mjs
 ```
 
 Kiểm tra bao gồm điều kiện mở vùng, khôi phục tiến độ cũ, chuyển vùng đặc sản, 48 địa danh bổ sung, tiêu điểm bản đồ và đảo, các mốc 499/500/1999/2000/8000 ms, ảnh vuông, bố cục điện thoại và lưu thẻ lấp lánh. Ảnh QA nằm trong `artifacts/` (gitignored).
+
+## Chơi qua Firebase
+
+Link gửi cho người chơi: https://mat-ma-viet-nam-hao.web.app
+
+Xem [cấu hình, tài khoản và đồng bộ tiến trình](docs/firebase.md). Build SDK bằng `npm run build:cloud` sau khi sửa `src/cloud.mjs`.

@@ -1,0 +1,23 @@
+rules_version = '2';
+service cloud.firestore {
+ match /databases/{database}/documents {
+  match /players/{uid} {
+   function owner() { return request.auth != null && request.auth.uid == uid; }
+   function valid() {
+    let p = request.resource.data.progress;
+    return request.resource.data.keys().hasOnly(['progress','updatedAt'])
+     && request.resource.data.updatedAt == request.time
+     && p.keys().hasAll(['version','name','starts','earned','shiny','lastRegion'])
+     && p.keys().hasOnly(['version','name','starts','earned','shiny','lastRegion'])
+     && p.version == 1 && p.name is string && p.name.size() > 0 && p.name.size() <= 40
+     && p.starts is list && p.starts.size() > 0 && p.starts.size() <= 63
+     && p.earned is list && p.earned.size() <= 346
+     && p.shiny is list && p.shiny.size() <= 346
+     && p.lastRegion is string && p.lastRegion.size() <= 80;
+   }
+   allow get, delete: if owner();
+   allow list: if false;
+   allow create, update: if owner() && valid();
+  }
+ }
+}

@@ -8,3 +8,5 @@ __pycache__/
 /output/card-originals/
 
 /output/achievement-originals/
+firebase-debug*.log
+.firebase/
