@@ -1,6 +1,7 @@
 export const normalize = s => s.normalize('NFD').replace(/\p{Diacritic}/gu, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
 export function fresh(name, region) { return {version:1,name:name.trim().slice(0,40),starts:[region],earned:[],shiny:[],lastRegion:region}; }
 export function completed(data,state,id){return data.regions.find(r=>r.id===id)?.cards.filter(c=>state.earned.includes(c)).length>=3;}
+export function collectionComplete(data,state,regionIds){const ids=new Set(regionIds),cards=data.cards.filter(c=>ids.has(c.region)&&['landmark','food'].includes(c.type));return cards.length>0&&cards.every(c=>state.earned.includes(c.id));}
 export function access(data,state){
  const regions=new Set([...state.starts,...data.cards.filter(c=>state.earned.includes(c.id)).map(c=>c.region)]),chapters=new Set();
  for(const id of regions){const r=data.regions.find(r=>r.id===id);if(r)chapters.add(r.chapter);}

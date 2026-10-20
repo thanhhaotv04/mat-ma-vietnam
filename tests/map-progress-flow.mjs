@@ -1,0 +1,12 @@
+import {chromium,expect} from '@playwright/test';
+import {readFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+import {fresh} from '../dist/core.mjs';
+const d=JSON.parse(readFileSync('dist/data.json')),b=await chromium.launch(),p=await b.newPage({viewport:{width:1440,height:1050}}),errors=[];p.on('pageerror',e=>errors.push(e.message));
+const r=d.regions.find(r=>r.id==='ha-noi'),s=fresh('Kiểm tra',r.id),food=d.cards.find(c=>c.region===r.id&&c.type==='food');s.earned=r.cards.filter(id=>id!==food.id);
+await p.addInitScript(s=>localStorage.setItem('so-viet-player-v1',JSON.stringify(s)),s);await p.goto('http://localhost:4173');
+const local=p.locator('.chapter-map [data-region="ha-noi"]');await expect(local).toBeVisible();await expect(local).not.toHaveClass(/done/);assert.equal(await local.evaluate(e=>getComputedStyle(e).fill),'rgb(242, 212, 123)');
+await p.locator('.all-button').click();const national=p.locator('[data-chapter="ha-noi"]');await expect(national).not.toHaveClass(/done/);
+for(const [id,count] of [['north',15],['central',11],['south',8]]){await p.locator(`[data-area="${id}"]`).click();await expect(p.locator(`[data-area="${id}"]`)).toHaveAttribute('aria-pressed','true');assert.equal(await p.locator(`[data-map-area="${id}"] path`).count(),count);}
+await p.setViewportSize({width:375,height:812});await p.screenshot({path:'artifacts/areas-mobile.png'});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await p.getByRole('button',{name:'Toàn bộ Việt Nam',exact:true}).click();await expect(p.locator('.area-label')).toHaveCount(3);await expect(p.locator('.island-label')).toHaveCount(4);
+await p.addInitScript(s=>localStorage.setItem('so-viet-player-v1',JSON.stringify(s)),{...s,earned:r.cards});await p.reload();await expect(p.locator('.chapter-map [data-region="ha-noi"]')).toHaveClass(/done/);assert.equal(await p.locator('.chapter-map [data-region="ha-noi"]').evaluate(e=>getComputedStyle(e).fill),'rgb(142, 197, 164)');await p.locator('.all-button').click();await expect(p.locator('[data-chapter="ha-noi"]')).toHaveClass(/done/);await p.setViewportSize({width:1440,height:1050});await p.getByRole('button',{name:'Toàn bộ Việt Nam',exact:true}).click();await p.screenshot({path:'artifacts/areas-desktop.png'});assert.deepEqual(errors,[]);await b.close();console.log('Map progress PASS: missing food stays yellow; complete turns green on both maps; 15/11/8 area controls, islands and mobile layout.');
