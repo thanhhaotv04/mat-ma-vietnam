@@ -46,3 +46,9 @@ dialog[data-view=reward] .reward-heading svg{background:#f5e7b4;color:#a87e2c;an
 
 .secret-section{margin-top:24px;border-top:1px dashed #c9a45d;padding-top:18px}.secret-section h3{font-size:17px;color:#947127}.card-row.secret-card{border-color:#c4a052;box-shadow:0 3px 0 #dfc98b}.secret-unlock{padding:12px;border-radius:12px;background:#f6e9b9;color:#725524;font-weight:900;text-align:center;animation:card-arrival .55s ease both}
 #account-form input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #a9bca4;border-radius:12px;background:#fffdf3;color:#174f5b;font:inherit}#account-error{color:#a13f32;min-height:1.5em}
+/* SVG focus follows the province outline instead of its rectangular bounding box. */
+.geographic-map [tabindex]:focus{outline:none}
+.geographic-map .province:focus-visible{outline:none;stroke:var(--deep)!important;stroke-width:3px!important;stroke-dasharray:5 3;vector-effect:non-scaling-stroke}
+.geographic-map .map-pin:focus-visible circle:first-of-type{stroke:var(--deep);stroke-width:3px;vector-effect:non-scaling-stroke}
+.searchbox:focus-within{border-color:var(--teal);outline:2px solid var(--teal);outline-offset:-2px}
+.searchbox input:focus,.searchbox input:focus-visible{outline:none;box-shadow:none}
