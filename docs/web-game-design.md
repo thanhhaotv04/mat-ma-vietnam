@@ -11,7 +11,7 @@
 
 ### Nhận diện
 
-Giữ màu giấy và phong cách cuốn sổ. Thay biểu tượng ứng dụng bo tròn nổi bằng nét vẽ sổ tay phẳng; chữ Sổ Việt dùng Be Vietnam Pro SemiBold với đủ dấu tiếng Việt. Bỏ khẩu hiệu viết hoa giãn chữ. Dòng tên hành trình viết thường tự nhiên. Không đổi thương hiệu hoặc đổi toàn bộ game sang phong cách khác.
+Giữ màu giấy và phong cách cuốn sổ. Thay biểu tượng ứng dụng bo tròn nổi bằng nét vẽ sổ tay phẳng; chữ Mật Mã Việt Nam dùng Be Vietnam Pro SemiBold với đủ dấu tiếng Việt. Bỏ khẩu hiệu viết hoa giãn chữ. Dòng tên hành trình viết thường tự nhiên. Không đổi thương hiệu hoặc đổi toàn bộ game sang phong cách khác.
 
 ### Câu hỏi
 

@@ -10,7 +10,7 @@ for offset in range(0,len(cards),30):
  batch=cards[offset:offset+30];titles=[aliases.get(c['name'],c['name']) for c in batch]
  query=urllib.parse.urlencode({'action':'query','prop':'coordinates|info|pageprops','inprop':'url','titles':'|'.join(titles),'redirects':1,'format':'json'})
  try:
-  req=urllib.request.Request('https://vi.wikipedia.org/w/api.php?'+query,headers={'User-Agent':'SoVietPrototype/0.1 (educational local prototype)'})
+  req=urllib.request.Request('https://vi.wikipedia.org/w/api.php?'+query,headers={'User-Agent':'mat-ma-viet-nam/0.1 (educational local prototype)'})
   result=json.load(urllib.request.urlopen(req,timeout=25))['query'];pages={p['title']:p for p in result['pages'].values()};redirect={x['from']:x['to'] for x in result.get('normalized',[])+result.get('redirects',[])}
   for c,title in zip(batch,titles):
    seen=set()

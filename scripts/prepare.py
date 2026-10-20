@@ -1,6 +1,6 @@
 import sys,json,glob,unicodedata,shutil
 from pathlib import Path
-sys.path.insert(0,'/tmp/so-viet-geo')
+sys.path.insert(0,'/tmp/mat-ma-viet-nam-geo')
 from shapely.geometry import shape,mapping
 from shapely.ops import unary_union
 import subprocess,bisect

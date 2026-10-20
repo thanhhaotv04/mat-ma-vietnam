@@ -8,7 +8,7 @@ await page.locator('#player-name').fill('Nhà thám hiểm');await page.locator(
 await page.getByRole('heading',{name:'Hưng Yên',exact:true}).waitFor();assert.equal(await page.locator('.collection-page .bookmark-tabs button').count(),4);assert.equal(await page.locator('[data-switch],.map-key').count(),0);
 await page.screenshot({path:'artifacts/book-desktop.png',fullPage:true});
 for(const c of d.cards.filter(c=>c.region==='thai-binh'&&c.type==='landmark').slice(0,3)){
- await page.locator(`.card-row[data-card="${c.id}"]`).click();await page.locator('.question-blank').waitFor();if(c.id==='thai-binh-0'){await page.locator(`button[data-answer]:not([data-answer="${c.id}"])`).first().click();assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('so-viet-player-v1'))).earned.length,0);await page.screenshot({path:'artifacts/question-desktop.png',fullPage:true});}await page.locator(`[data-answer="${c.id}"]`).click();await page.locator('dialog[data-view="reward"] .reward-art .art').waitFor();await page.locator('#claim').click();
+ await page.locator(`.card-row[data-card="${c.id}"]`).click();await page.locator('.question-blank').waitFor();if(c.id==='thai-binh-0'){await page.locator(`button[data-answer]:not([data-answer="${c.id}"])`).first().click();assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('mat-ma-viet-nam-player-v1'))).earned.length,0);await page.screenshot({path:'artifacts/question-desktop.png',fullPage:true});}await page.locator(`[data-answer="${c.id}"]`).click();await page.locator('dialog[data-view="reward"] .reward-art .art').waitFor();await page.locator('#claim').click();
 }
 assert((await page.locator('.chapter-map [data-region="hung-yen"]').getAttribute('class')).includes('available'));assert.equal(await page.locator('.map-pin').count(),2);
 await page.reload();await page.getByRole('heading',{name:'Hưng Yên',exact:true}).waitFor();assert.equal(await page.locator('.map-pin').count(),2);
@@ -19,7 +19,7 @@ await page.setViewportSize({width:375,height:812});await page.screenshot({path:'
 for(const width of [768,1024]){await page.setViewportSize({width,height:1050});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Overflow at ${width}`);assert(await page.evaluate(()=>[...document.querySelectorAll('.book>.page')].every(el=>el.getBoundingClientRect().bottom<=document.querySelector('.book').getBoundingClientRect().bottom+2)),`Book overflow at ${width}`);}
 // Image practice cannot duplicate a card.
 await page.setViewportSize({width:1440,height:1050});await page.locator('.card-row[data-card="thai-binh-0"]').click();await page.locator('#practice').click();await page.locator('[data-answer="thai-binh-0"]').click();await page.locator('#claim').click();
-assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('so-viet-player-v1'))).earned.length,3);
+assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('mat-ma-viet-nam-player-v1'))).earned.length,3);
 
 await page.locator('.profile').click();const download=page.waitForEvent('download');await page.locator('#export').click();assert.equal((await download).suggestedFilename(),'mat-ma-viet-nam-tien-do.json');await page.locator('.dialog-close').click();
 assert.deepEqual(errors,[]);console.log('Browser PASS: onboarding, quiz x3, unlock, persistence, all four tabs, accent-insensitive search, map zoom, 375/768/1024/1440 layouts, image practice, export, no runtime errors.');

@@ -1,7 +1,8 @@
 // Short feedback only, initiated by a correct-answer click. No background audio or network request.
-const KEY='so-viet-sound-v1';
+import {SOUND_KEY,readSoundPreference} from './storage.mjs';
+const KEY=SOUND_KEY;
 let enabled=true,context;
-try{enabled=localStorage.getItem(KEY)!=='off';}catch{}
+try{enabled=readSoundPreference(localStorage)!=='off';}catch{}
 export function soundEnabled(){return enabled;}
 export function setSoundEnabled(value){enabled=Boolean(value);try{localStorage.setItem(KEY,enabled?'on':'off');}catch{}if(!enabled&&context?.state==='running')void context.suspend().catch(()=>{});}
 export async function playSuccessSound(){
