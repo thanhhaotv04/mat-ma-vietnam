@@ -1678,9 +1678,9 @@
     "referenceSource": "https://hoalo.vn/images/banner1.png"
   },
   "kien-giang-visit-nha-tu-phu-quoc": {
-    "image": "assets/cards/kien-giang-visit-nha-tu-phu-quoc.webp",
+    "image": "assets/cards/kien-giang-visit-nha-tu-phu-quoc-v2.webp",
     "status": "generated",
-    "prompt": "Individual illustrated prison historical site based on actual photo reference; clean ink outlines and animation shading; square composition with safe margins, no violence or text.",
-    "referenceSource": "https://vietnamtourism.vn/index.php/tourism/items/2918"
+    "prompt": "User approved full-compound aerial cartoon illustration: all barracks in parallel rows, gray/rust roofs, perimeter wire fence and four corner watchtowers, tropical woodland and distant hill. Square full scene; no cropping, text or logo.",
+    "referenceSource": "User-approved aerial illustration, exec-4abe6fb3-8450-40a1-8873-fe17e1cf3b89.png"
   }
 }
