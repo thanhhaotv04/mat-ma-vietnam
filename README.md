@@ -16,7 +16,8 @@ Mở http://localhost:4173. Có thể phục vụ `dist/` bằng static web serv
 - 34 chapter theo tỉnh thành hiện tại, 63 vùng xuất phát; 324 thẻ gồm 246 địa danh và 78 đặc sản.
 - Bản đồ sách chọn vùng bằng cách chạm vào hình. Tab icon bên trái mở bản đồ quanh chapter hiện tại và các tỉnh tiếp giáp; nút bản đồ trong màn này đưa về toàn bộ Việt Nam với các quần đảo.
 - Màu vàng là vùng còn thẻ địa danh/đặc sản chưa mở; chỉ thu thập đủ mới xanh. Mốc 3 thẻ để mở đường giữ nguyên. Bản đồ có ba miền theo 34 tỉnh hiện tại: Bắc (15), Trung (11), Nam (8), kèm nút chuyển khung nhìn.
-- Danh sách thẻ chỉ có ảnh vuông và tên; thẻ khóa bị mờ và ẩn tên. Trang bên phải đổi tiêu đề theo tab Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Vùng chưa có đặc sản đủ căn cứ không bị ép thêm thẻ món ăn.
+- Thẻ có tỷ lệ 3:4, ảnh vuông nguyên vẹn ở trên, tên bên dưới. Tab Bộ Sưu Tập gom thẻ đã có trên toàn hành trình với hai tab nhỏ Địa Danh Nổi Tiếng / Đặc Sản. Biểu trưng Di sản thế giới ở góc thẻ đã mở thuộc hồ sơ UNESCO; nguồn và phạm vi ở `docs/unesco-badge.md`.
+- Danh sách thẻ chỉ có ảnh và tên; thẻ khóa bị mờ và ẩn tên. Trang bên phải đổi tiêu đề theo tab Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Vùng chưa có đặc sản đủ căn cứ không bị ép thêm thẻ món ăn.
 - Chạm thẻ mở thẳng câu đố Nhận diện hình ảnh: 16 ô hé ngẫu nhiên mỗi 500 ms, không lặp; bên dưới là đoạn văn điền khuyết và bốn đáp án cùng chủ đề. Không có bước chọn chế độ hoặc gợi ý.
 - Đồng hồ bắt đầu khi ảnh tải/giải mã xong. Đúng dưới 2000 ms nhận thẻ lấp lánh, lưu cùng tiến độ. Chơi lại có thể nâng thẻ thường thành lấp lánh; không nhân đôi thẻ.
 - Đáp án đúng tự hiện ảnh thẻ, giới thiệu ngắn và nguồn. Ba thẻ khác nhau mở các vùng còn lại trong chapter; hoàn thành mọi vùng mở chapter tiếp giáp.
@@ -26,7 +27,7 @@ Mở http://localhost:4173. Có thể phục vụ `dist/` bằng static web serv
 
 Mỗi thẻ dùng một ảnh được tạo độc lập bằng imagegen, không cắt từ atlas hay collage. Tệp phục vụ trình duyệt ở `dist/assets/cards/<id>.webp`, bản PNG gốc giữ ở `output/card-originals/` (gitignored). `scripts/individual-art.json` lưu ID, đường dẫn và prompt cho từng ảnh.
 
-Khung danh sách, câu hỏi, nhận thẻ và xem lại đều vuông; ảnh hiển thị bằng `<img>` với `object-fit: contain`. Chuyển PNG sang WebP giữ nguyên toàn bộ khung và kích thước pixel:
+Khung thẻ trong danh sách, nhận thẻ và xem lại là 3:4; phần ảnh và ảnh câu hỏi đều vuông; ảnh hiển thị bằng `<img>` với `object-fit: contain`. Chuyển PNG sang WebP giữ nguyên toàn bộ khung và kích thước pixel:
 
 ```bash
 node scripts/optimize-card-art.mjs  # cần ffmpeg
@@ -56,6 +57,7 @@ node tests/reveal-flow.mjs
 node tests/minimal-map-flow.mjs
 node tests/map-progress-flow.mjs
 node tests/compact-map-flow.mjs
+node tests/collection-flow.mjs
 node tests/food-flow.mjs
 node tests/card-layout.mjs
 node tests/landmark-flow.mjs

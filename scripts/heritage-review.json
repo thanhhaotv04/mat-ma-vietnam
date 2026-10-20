@@ -1,0 +1,112 @@
+{
+  "hue-1": {
+    "heritage": {
+      "name": "Quần thể di tích Cố đô Huế",
+      "year": 1993,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/678/maps/",
+      "component": "678-002"
+    }
+  },
+  "hue-visit-lang-tu-duc": {
+    "heritage": {
+      "name": "Quần thể di tích Cố đô Huế",
+      "year": 1993,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/678/maps/",
+      "component": "678-007"
+    }
+  },
+  "hue-visit-lang-khai-dinh": {
+    "heritage": {
+      "name": "Quần thể di tích Cố đô Huế",
+      "year": 1993,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/678/maps/",
+      "component": "678-011"
+    }
+  },
+  "bac-giang-0": {
+    "heritage": {
+      "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+      "year": 2025,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/1732/"
+    }
+  },
+  "quang-ninh-1": {
+    "heritage": {
+      "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+      "year": 2025,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/1732/"
+    }
+  },
+  "hai-duong-0": {
+    "heritage": {
+      "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+      "year": 2025,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/1732/"
+    }
+  },
+  "hai-duong-1": {
+    "heritage": {
+      "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+      "year": 2025,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/1732/"
+    }
+  },
+  "ninh-binh-visit-tam-coc": {
+    "heritage": {
+      "name": "Quần thể danh thắng Tràng An",
+      "year": 2014,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/1438/"
+    }
+  },
+  "quang-nam-0": {
+    "heritage": {
+      "name": "Đô thị cổ Hội An",
+      "year": 1999,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/948/"
+    }
+  },
+  "quang-binh-1": {
+    "heritage": {
+      "name": "Vườn quốc gia Phong Nha – Kẻ Bàng và Hin Nam Nô",
+      "year": 2003,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/951/"
+    }
+  },
+  "quang-binh-visit-song-chay-hang-toi": {
+    "heritage": {
+      "name": "Vườn quốc gia Phong Nha – Kẻ Bàng và Hin Nam Nô",
+      "year": 2003,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/951/"
+    }
+  },
+  "hai-phong-1": {
+    "heritage": {
+      "name": "Vịnh Hạ Long – Quần đảo Cát Bà",
+      "year": 2023,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/672/"
+    }
+  },
+  "hai-phong-extra-5": {
+    "heritage": {
+      "name": "Vịnh Hạ Long – Quần đảo Cát Bà",
+      "year": 2023,
+      "kind": "Di sản thế giới",
+      "source": "https://whc.unesco.org/en/list/672/"
+    }
+  },
+  "thanh-hoa-extra-5": {
+    "heritage": null
+  }
+}

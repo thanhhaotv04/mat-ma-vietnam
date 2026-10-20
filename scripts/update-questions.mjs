@@ -36,6 +36,8 @@ for(const c of d.cards)if(individual[c.id])c.image=individual[c.id].image;
 for(const c of d.cards){delete c.art;delete c.foodArt;delete c.landmarkArt;}
 const coordinateReview=JSON.parse(readFileSync(new URL('./coordinate-review.json',import.meta.url)));
 for(const c of d.cards){const patch=coordinateReview[c.id];if(patch?.excludePin){delete c.coordinates;delete c.coordinatesSource;delete c.coordinateSource;delete c.coordinateVerified;c.pinReviewReason=patch.reason;}else if(patch){Object.assign(c,patch);delete c.coordinatesSource;delete c.pinReviewReason;}}
+const heritageReview=JSON.parse(readFileSync(new URL('./heritage-review.json',import.meta.url)));
+for(const c of d.cards)if(heritageReview[c.id])Object.assign(c,heritageReview[c.id]);
 for(const r of d.regions)r.cards=d.cards.filter(c=>c.region===r.id).map(c=>c.id);
 writeFileSync(new URL('../dist/data.json',import.meta.url),JSON.stringify(d));
 console.log(`Updated ${foods.length} food passages and ${Object.keys(authored).length} authored landmark questions.`);

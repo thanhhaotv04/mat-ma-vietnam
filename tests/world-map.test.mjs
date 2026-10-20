@@ -7,7 +7,7 @@ test('Three geographic areas partition all 34 current chapters and focus their m
  assert.deepEqual(mapAreas.map(a=>[a.name,a.chapters.length]),[['Miền Bắc',15],['Miền Trung',11],['Miền Nam',8]]);
  assert.deepEqual(mapAreas.flatMap(a=>a.chapters).sort(),d.chapters.map(c=>c.id).sort());
  assert(mapAreas[1].chapters.includes('lam-dong'));assert(mapAreas[1].chapters.includes('gia-lai'));assert(mapAreas[1].chapters.includes('dak-lak'));
- for(const area of mapAreas){const focus=focusArea(world,area.id),vb=worldViewBox(world,focus.zoom,focus.pan);for(const id of area.chapters){const [x,y,r,b]=world.features.find(f=>f.id===id).mainlandBounds;assert(x>=vb[0]&&y>=vb[1]&&r<=vb[0]+vb[2]&&b<=vb[1]+vb[3]);}}
+ for(const area of mapAreas){const focus=focusArea(world,area.id),vb=worldViewBox(world,focus.zoom,focus.pan);if(area.id==='central'){const center=world.features.find(f=>f.id==='da-nang').center;assert(Math.abs(vb[0]+vb[2]/2-center[0])<1e-8);assert(Math.abs(vb[1]+vb[3]/2-center[1])<1e-8);assert(focus.zoom>=3);continue;}for(const id of area.chapters){const [x,y,r,b]=world.features.find(f=>f.id===id).mainlandBounds;assert(x>=vb[0]&&y>=vb[1]&&r<=vb[0]+vb[2]&&b<=vb[1]+vb[3]);}}
 });
 test('Green requires every landmark and food card, independently of route unlock',()=>{
  const r=d.regions.find(r=>r.id==='ha-noi'),s=fresh('A',r.id),cards=d.cards.filter(c=>c.region===r.id);

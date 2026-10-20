@@ -10,5 +10,5 @@ for(const c of d.cards){assert(c.intro&&c.source.startsWith('https://'));assert(
 assert.equal(new Set(d.cards.map(c=>c.image)).size,d.cards.length);
 for(const c of d.cards){assert(c.image?.startsWith('assets/cards/'),`Missing individual image ${c.id}`);assert(existsSync('dist/'+c.image),`Missing file ${c.image}`);}
 for(const p of ['app.mjs','core.mjs','questions.mjs','sound.mjs','world-map.mjs','map-layout.mjs'])execFileSync(process.execPath,['--check','dist/'+p]);
-for(const p of ['index.html','style.css','world-map.json','assets/brand-mark.svg','assets/be-vietnam-pro-semibold.ttf','credits.html'])assert(existsSync('dist/'+p));
+for(const p of ['index.html','style.css','world-map.json','assets/brand-mark.svg','assets/unesco-heritage.svg','assets/be-vietnam-pro-semibold.ttf','credits.html'])assert(existsSync('dist/'+p));
 console.log(`Build verified: static dist · ${d.chapters.length} chapters · ${d.regions.length} regions · ${d.cards.length} cards`);

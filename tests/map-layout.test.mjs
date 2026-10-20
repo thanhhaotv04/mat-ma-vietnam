@@ -11,9 +11,9 @@ test('Island insets enlarge mainland without altering canonical geography or mai
   const inset=layout.insets[0],p=[(inset.sourceBounds[0]+inset.sourceBounds[2])/2,(inset.sourceBounds[1]+inset.sourceBounds[3])/2];assert.deepEqual(layout.point(chapter,p),inset.transform(p));
  }
 });
-test('Central view fits mainland at both actual map aspect ratios; island labels retained',()=>{
+test('Central view zooms in around Da Nang at both actual map aspect ratios; island labels retained',()=>{
  const compact=compactWorld(world);assert(compact.bounds[2]<world.bounds[2]*.7);assert(compact.labels.some(l=>l.name==='QĐ. Hoàng Sa (thu gọn)'));assert(compact.labels.some(l=>l.name==='QĐ. Trường Sa (thu gọn)'));
- for(const aspect of [.53,1.27]){compact.aspect=aspect;const f=focusArea(compact,'central'),vb=worldViewBox(compact,f.zoom,f.pan);assert(Math.abs(vb[2]/vb[3]-aspect)<1e-8);for(const id of ['thanh-hoa','da-nang','khanh-hoa','lam-dong']){const [x,y,r,b]=compact.features.find(f=>f.id===id).displayBounds;assert(x>=vb[0]&&y>=vb[1]&&r<=vb[0]+vb[2]&&b<=vb[1]+vb[3]);}}
+ for(const aspect of [.53,1.27]){compact.aspect=aspect;const f=focusArea(compact,'central'),vb=worldViewBox(compact,f.zoom,f.pan);assert(Math.abs(vb[2]/vb[3]-aspect)<1e-8);const center=compact.features.find(f=>f.id==='da-nang').center;assert(Math.abs(vb[0]+vb[2]/2-center[0])<1e-8);assert(Math.abs(vb[1]+vb[3]/2-center[1])<1e-8);assert(f.zoom>=3);}
 });
 test('Map locks are SVG geometry, not font glyphs',()=>{const markup=lockMarker(1,2,.1);assert(markup.includes('class="map-lock"'));assert(markup.includes('<rect'));assert(markup.includes('<path'));assert(!markup.includes('▣'));});
 test('Every published pin has a reviewed location source; uncertain points keep their cards without pins',()=>{
