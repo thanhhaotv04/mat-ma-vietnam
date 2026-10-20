@@ -7,7 +7,7 @@ await page.getByRole('button',{name:'Món ăn',exact:true}).click();await expect
 await page.locator('[data-card="ca-mau-3"]').click();await page.locator('[data-answer="ca-mau-3"]').click();
 await expect(page.locator('.reward-card h2')).toHaveText('Cua Cà Mau');
 async function square(selector){const b=await page.locator(selector).boundingBox();assert(Math.abs(b.width-b.height)<1,`${selector}: ${b.width}×${b.height}`);}
-for(const width of [375,768,1024,1440]){await page.setViewportSize({width,height:1050});await square('.reward-art');assert.equal(await page.locator('.reward-art .art').evaluate(e=>getComputedStyle(e).backgroundSize),'400% 400%');}
+for(const width of [375,768,1024,1440]){await page.setViewportSize({width,height:1050});await square('.reward-art');assert.equal(await page.locator('.reward-art img').evaluate(e=>getComputedStyle(e).objectFit),'contain');}
 await page.screenshot({path:'artifacts/crab-reward-desktop.png'});await page.setViewportSize({width:375,height:1050});await page.screenshot({path:'artifacts/crab-reward-mobile.png'});
 await page.locator('#claim').click();assert.equal(await page.locator('.card-intro,.card-status,.card-end').count(),0);
 for(const width of [375,768,1024,1440]){await page.setViewportSize({width,height:1050});await square('.card-row[data-card="ca-mau-3"] .thumb');}

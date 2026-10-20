@@ -11,7 +11,7 @@ test('Every card has a cloze paragraph and four distinct, unambiguous answer IDs
 test('Food choices contain dish names without regional spoilers or the answer in the passage',()=>{
  for(const c of data.cards.filter(x=>x.type==='food')){
   for(const mode of ['clue','image']){const q=makeQuestion(data,c,mode,fixed);for(const o of q.options)for(const r of data.regions)assert(!normalize(o.label).includes(normalize(r.name)),`${c.id}: ${o.label} leaks ${r.name}`);assert(!normalize(q.passage).includes(normalize(c.answerName)),`Passage leaks ${c.id}`);}
-  assert(c.foodArt&&existsSync(`dist/assets/food-atlas-${c.foodArt.sheet}.png`),c.id);
+  assert(c.image?.startsWith('assets/cards/'),c.id);
  }
 });
 test('Bánh tằm bì uses the requested close alternatives and is never mistaken for its regional title',()=>{

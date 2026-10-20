@@ -2,7 +2,7 @@ import {readFileSync,writeFileSync} from 'node:fs';
 import {foodEditorial} from '../dist/questions.mjs';
 const d=JSON.parse(readFileSync(new URL('../dist/data.json',import.meta.url)));
 const foods=foodEditorial(d.cards);
-for(const row of foods){const c=d.cards.find(x=>x.id===row.id);if(!row.answerName||!row.passage)throw Error('Missing food question '+c.id);c.answerName=row.answerName;c.questionPassage=row.passage;c.foodArt=row.foodArt;}
+for(const row of foods){const c=d.cards.find(x=>x.id===row.id);if(!row.answerName||!row.passage)throw Error('Missing food question '+c.id);c.answerName=row.answerName;c.questionPassage=row.passage;}
 const q=(passage,options,answer,explanation,hint,source)=>({passage,options,answer,explanation,hint,source});
 const authored={
  'Chùa Keo':q('Ngôi chùa này nổi bật với gác chuông gỗ ba tầng và hệ mái chồng diêm. Công trình hiện nay được xây dựng vào thế kỷ XVII, hoàn thành năm {{blank}}, chứ không phải năm khởi dựng ngôi chùa tiền thân.', ['1602','1632','1662','1692'],1,'Chùa Keo hiện nay hoàn thành năm 1632. Cần phân biệt mốc này với lịch sử ngôi chùa tiền thân.','Hãy chọn mốc thuộc nửa đầu thế kỷ XVII.','https://baochinhphu.vn/chua-keo-kien-truc-go-doc-dao-102133346.htm'),
@@ -22,8 +22,18 @@ for(const c of d.cards)if(authored[c.name])c.question=authored[c.name];
 const tam=d.cards.find(c=>c.name==='Bánh tằm Ngan Dừa');
 tam.intro='Bánh tằm Ngan Dừa gắn với vùng Hồng Dân, Bạc Liêu. Bột gạo được khuấy, se thành sợi rồi hấp; bánh thường ăn cùng bì, thịt, rau và nước xốt. Điểm nhận diện là sợi bánh mềm, dai và phần ăn kèm phong phú.';
 tam.source='https://congan.baclieu.gov.vn/ch10/629.prt';tam.sourceLabel='Cổng thông tin Công an Bạc Liêu';tam.reviewed=true;
-const landmarkArt=JSON.parse(readFileSync(new URL('./landmark-art.json',import.meta.url)));
 const histories=JSON.parse(readFileSync(new URL('./landmark-stories.json',import.meta.url)));
-for(const c of d.cards){if(landmarkArt[c.id])c.landmarkArt=landmarkArt[c.id];if(histories[c.name])Object.assign(c,histories[c.name]);}
+for(const c of d.cards){if(histories[c.name])Object.assign(c,histories[c.name]);}
+const foodReview=JSON.parse(readFileSync(new URL('./food-review.json',import.meta.url)));
+const removed=Object.entries(foodReview).filter(([,v])=>v.exclude).map(([id])=>id);
+d.retiredCardIds=[...new Set([...(d.retiredCardIds||[]),...removed])];
+for(const c of d.cards){const patch=foodReview[c.id];if(patch&&!patch.exclude)Object.assign(c,patch);}
+d.cards=d.cards.filter(c=>!removed.includes(c.id));
+const additions=JSON.parse(readFileSync(new URL('./new-places.json',import.meta.url)));
+for(const c of additions){const existing=d.cards.find(x=>x.id===c.id);if(existing)Object.assign(existing,c);else d.cards.push(c);}
+const individual=JSON.parse(readFileSync(new URL('./individual-art.json',import.meta.url)));
+for(const c of d.cards)if(individual[c.id])c.image=individual[c.id].image;
+for(const c of d.cards){delete c.art;delete c.foodArt;delete c.landmarkArt;}
+for(const r of d.regions)r.cards=d.cards.filter(c=>c.region===r.id).map(c=>c.id);
 writeFileSync(new URL('../dist/data.json',import.meta.url),JSON.stringify(d));
 console.log(`Updated ${foods.length} food passages and ${Object.keys(authored).length} authored landmark questions.`);

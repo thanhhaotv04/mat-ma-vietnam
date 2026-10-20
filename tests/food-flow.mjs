@@ -18,7 +18,7 @@ await page.locator('[data-answer="bac-lieu-3"]').focus();await page.keyboard.pre
 await page.waitForFunction(()=>window.__successNotes===3);
 await expect(page.locator('dialog[data-view=reward] .reward-card h2')).toHaveText('Bánh tằm Ngan Dừa');
 await expect(page.locator('.reward-story')).toContainText('Bạc Liêu');
-assert((await page.locator('.reward-art .food-atlas').getAttribute('style')).includes('food-atlas-4.png'));
+assert((await page.locator('.reward-art img').getAttribute('src')).includes('assets/cards/bac-lieu-3.'));
 await page.screenshot({path:'artifacts/food-reward-mobile.png',fullPage:true});await page.setViewportSize({width:1440,height:1050});await page.screenshot({path:'artifacts/food-reward-desktop.png',fullPage:true});
 await page.locator('.dialog-close').click();await expect(page.locator('.card-row[data-card="bac-lieu-3"]')).toHaveClass(/unlocked/);await page.getByRole('button',{name:'Tắt âm thanh',exact:true}).click();
 await page.locator('.card-row[data-card="bac-lieu-3"]').click();await page.locator('#practice').click();await page.locator('[data-answer="bac-lieu-3"]').click();await expect(page.locator('dialog[data-view=reward]')).toBeVisible();assert.equal(await page.evaluate(()=>window.__successNotes),3);

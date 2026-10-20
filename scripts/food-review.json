@@ -1,0 +1,405 @@
+{
+  "vinh-phuc-3": {
+    "source": "https://vinhphuc.edu.vn/tan-van-tam-su/thang-3-am-lich-nho-banh-trung-mat-mia-vinh-tuong-c3318-345447.aspx",
+    "sourceLabel": "Tháng 3 âm lịch, nhớ bánh trùng mật mía Vĩnh Tường | Sở GDĐT Vĩnh Phúc",
+    "reviewed": true
+  },
+  "hoa-binh-3": {
+    "source": "https://baohoabinh.com.vn/16/170210/Com-lam-Hoa-Binh--mon-an-dac-sac.htm",
+    "sourceLabel": "Cơm lam Hòa Bình - món ăn đặc sắc",
+    "reviewed": true
+  },
+  "bac-ninh-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/banh-phu-the-dinh-bang-dac-san-cua-vung-que-quan-ho-bac-ninh/",
+    "sourceLabel": "Bánh phu thê Đình Bảng – đặc sản của vùng quê quan họ Bắc Ninh – Chuyên trang quảng bá du lịch nông thôn",
+    "reviewed": true
+  },
+  "bac-giang-3": {
+    "source": "https://baobacgiang.vn/bg2/luc-ngan/khai-mac-ngay-hoi-trai-cay-luc-ngan-lan-thu-nhat-nam-2016-ton-vinh-qua-ngot-mo-rong-giao-thuong.bbg",
+    "sourceLabel": "Khai mạc Ngày hội trái cây Lục Ngạn lần thứ nhất năm 2016: Tôn vinh quả ngọt, mở rộng giao thương",
+    "reviewed": true
+  },
+  "bac-giang-4": {
+    "source": "https://baobacgiang.vn/bg2/luc-ngan/khai-mac-ngay-hoi-trai-cay-luc-ngan-lan-thu-nhat-nam-2016-ton-vinh-qua-ngot-mo-rong-giao-thuong.bbg",
+    "sourceLabel": "Khai mạc Ngày hội trái cây Lục Ngạn lần thứ nhất năm 2016: Tôn vinh quả ngọt, mở rộng giao thương",
+    "reviewed": true
+  },
+  "quang-ninh-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/cha-muc-dai-su-du-lich-cua-quang-ninh/",
+    "sourceLabel": "Chả mực – đại sứ “du lịch” của Quảng Ninh – Chuyên trang quảng bá du lịch nông thôn",
+    "reviewed": true
+  },
+  "hai-phong-3": {
+    "source": "https://haiphong.gov.vn/Hai-Phong-Thanh-Pho-Toi-Yeu/Banh-mi-cay-Hai-Phong---dac-sac-am-thuc-pho-Cang-15423",
+    "sourceLabel": "Bánh mì cay Hải Phòng - đặc sắc ẩm thực phố Cảng",
+    "reviewed": true
+  },
+  "hai-phong-4": {
+    "source": "https://haiphong.gov.vn/Hai-Phong-Thanh-Pho-Toi-Yeu/Banh-mi-cay-Hai-Phong---dac-sac-am-thuc-pho-Cang-15423",
+    "sourceLabel": "Bánh mì cay Hải Phòng - đặc sắc ẩm thực phố Cảng",
+    "reviewed": true
+  },
+  "hai-duong-3": {
+    "source": "https://baohaiduong.vn/banh-dau-xanh-hai-duong-o-dat-phuong-nam-362670.html",
+    "sourceLabel": "Bánh đậu xanh Hải Dương ở đất phương Nam",
+    "reviewed": true
+  },
+  "hung-yen-3": {
+    "source": "https://baohungyen.vn/nong-san-xuat-ngoai-28013.html",
+    "sourceLabel": "Nông sản xuất ngoại - Báo Hưng Yên điện tử",
+    "reviewed": true
+  },
+  "thai-binh-3": {
+    "source": "https://media.baothaibinh.com.vn/upload/epaper/file/98d2ebc1d48290ba3b7385bbc469ad2a.pdf",
+    "sourceLabel": "8 Thái Bình Chủ nhật, ngày 29/9/2024",
+    "reviewed": true
+  },
+  "thai-binh-4": {
+    "source": "https://media.baothaibinh.com.vn/upload/epaper/file/98d2ebc1d48290ba3b7385bbc469ad2a.pdf",
+    "sourceLabel": "8 Thái Bình Chủ nhật, ngày 29/9/2024",
+    "reviewed": true
+  },
+  "ninh-binh-3": {
+    "source": "https://csdl.vietnamtourism.gov.vn/shop/?item=436",
+    "sourceLabel": "Cơ sở dữ liệu ngành Du lịch - csdl.vietnamtourism.gov.vn",
+    "reviewed": true
+  },
+  "ha-nam-3": {
+    "source": "https://csdl.vietnamtourism.gov.vn/rest/?item=1794",
+    "sourceLabel": "Cơ sở dữ liệu ngành Du lịch - csdl.vietnamtourism.gov.vn",
+    "reviewed": true
+  },
+  "nam-dinh-3": {
+    "source": "https://baonamdinh.vn/dat-nuoc-con-nguoi/202404/nam-dinh-phat-huy-loi-the-phat-trien-du-lich-25b1379/",
+    "sourceLabel": "Nam Định - Phát huy lợi thế phát triển du lịch - Báo Nam Định điện tử",
+    "reviewed": true
+  },
+  "thanh-hoa-3": {
+    "source": "https://vnexpress.net/dac-san-nem-chua-thanh-hoa-2956335.html",
+    "sourceLabel": "Đặc sản nem chua Thanh Hóa - Báo VnExpress Du lịch",
+    "reviewed": true,
+    "intro": "Nem chua Thanh Hóa làm từ thịt lợn nạc, bì thái sợi và thính, thêm tỏi, ớt, hạt tiêu. Nem được gói lá rồi để lên men tạo vị chua và độ giòn."
+  },
+  "thanh-hoa-4": {
+    "source": "https://vnexpress.net/nhung-mon-banh-gao-ngon-o-thanh-hoa-2932632.html",
+    "sourceLabel": "Những món bánh gạo ngon ở Thanh Hóa - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "nghe-an-3": {
+    "source": "https://vnexpress.net/chao-luon-vinh-2362949.html",
+    "sourceLabel": "Cháo lươn Vinh - Báo VnExpress Đời sống",
+    "reviewed": true
+  },
+  "ha-tinh-3": {
+    "source": "https://nhandan.vn/ocop/keo-cu-do-thinh-anh-prod599.html",
+    "sourceLabel": "Kẹo cu đơ Thỉnh Anh-Thực phẩm-Kẹo cu đơ",
+    "reviewed": true
+  },
+  "quang-tri-3": {
+    "source": "https://ngoisao.vnexpress.net/7-mon-ngon-binh-di-ma-than-thuong-cua-quang-tri-3323758.html",
+    "sourceLabel": "7 món ngon bình dị mà thân thương của Quảng Trị - Ngôi sao",
+    "reviewed": true
+  },
+  "quang-binh-3": {
+    "source": "https://www.vietnamplus.vn/khoai-deo-mon-dac-san-dan-da-ma-doc-dao-cua-vung-dat-quang-binh-post912018.vnp",
+    "sourceLabel": "Khoai deo - món đặc sản dân dã mà độc đáo của vùng đất Quảng Bình",
+    "reviewed": true
+  },
+  "da-nang-3": {
+    "source": "https://www.vietnamplus.vn/huong-vi-dam-da-dau-an-kho-phai-cua-bun-cha-ca-da-nang-post909488.vnp",
+    "sourceLabel": "Hương vị đậm đà dấu ấn khó phai của bún chả cá Đà Nẵng",
+    "reviewed": true
+  },
+  "quang-nam-3": {
+    "source": "https://baotintuc.vn/kham-pha-ban-do-am-thuc-duong-pho-hoi-an-post802648.html",
+    "sourceLabel": "Khám phá bản đồ ẩm thực đường phố Hội An",
+    "reviewed": true
+  },
+  "quang-nam-4": {
+    "source": "https://baotintuc.vn/kham-pha-ban-do-am-thuc-duong-pho-hoi-an-post802648.html",
+    "sourceLabel": "Khám phá bản đồ ẩm thực đường phố Hội An",
+    "reviewed": true
+  },
+  "quang-ngai-3": {
+    "source": "https://vnexpress.net/don-dac-san-cua-quang-ngai-2348785.html",
+    "sourceLabel": "Don - đặc sản của Quảng Ngãi - Báo VnExpress Đời sống",
+    "reviewed": true
+  },
+  "kon-tum-3": {
+    "source": "https://www.vietnamplus.vn/goi-la-kon-tum-huong-vi-lan-toa-cua-nui-rung-tay-nguyen-post414719.vnp",
+    "sourceLabel": "Gỏi lá Kon Tum - hương vị lan tỏa của núi rừng Tây Nguyên",
+    "reviewed": true
+  },
+  "gia-lai-3": {
+    "source": "https://vnexpress.net/pho-kho-gia-lai-2348464.html",
+    "sourceLabel": "Phở khô Gia Lai - Báo VnExpress Đời sống",
+    "reviewed": true
+  },
+  "binh-dinh-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/banh-it-la-gai-binh-dinh/",
+    "sourceLabel": "Bánh ít lá gai Bình Định – Chuyên trang quảng bá du lịch nông thôn",
+    "reviewed": true
+  },
+  "dak-lak-3": {
+    "source": "https://vnexpress.net/nhung-mon-nen-thu-o-buon-ma-thuot-4247663.html",
+    "sourceLabel": "Những món nên thử ở Buôn Ma Thuột - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "phu-yen-3": {
+    "source": "https://vnexpress.net/banh-canh-ngap-he-o-phu-yen-4881266.html",
+    "sourceLabel": "Bánh canh ngập hẹ ở Phú Yên - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "khanh-hoa-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/nem-nuong-ninh-hoa-nam-trong-top-10-ky-luc-chau-a-moi-ve-am-thuc-va-qua-tang-dac-san-viet-nam/",
+    "sourceLabel": "Nem nướng Ninh Hòa nằm trong top 10 kỷ lục châu Á mới về ẩm thực và quà tặng đặc sản Việt Nam – Chuyên trang quảng bá du lịch nông thôn",
+    "reviewed": true
+  },
+  "ninh-thuan-3": {
+    "source": "https://vnexpress.net/an-banh-can-phan-rang-o-sai-gon-2307133.html",
+    "sourceLabel": "Ăn bánh căn Phan Rang ở Sài Gòn - Báo VnExpress Đời sống",
+    "reviewed": true
+  },
+  "lam-dong-3": {
+    "source": "https://www.vietnamplus.vn/thuong-thuc-9-mon-dac-san-doc-dao-mang-dam-dau-an-da-lat-post1087591.vnp",
+    "sourceLabel": "Khám phá 9 đặc sản Đà Lạt đậm đà nét riêng biệt",
+    "reviewed": true
+  },
+  "lam-dong-4": {
+    "source": "https://www.vietnamplus.vn/thuong-thuc-9-mon-dac-san-doc-dao-mang-dam-dau-an-da-lat-post1087591.vnp",
+    "sourceLabel": "Khám phá 9 đặc sản Đà Lạt đậm đà nét riêng biệt",
+    "reviewed": true
+  },
+  "dak-nong-3": {
+    "source": "https://baodaknong.vn/chieu-huong-moi-cua-nganh-ca-phe-dak-nong-182242.html",
+    "sourceLabel": "Chiều hướng mới của ngành cà phê Đắk Nông",
+    "reviewed": true,
+    "name": "Cà phê Robusta Đắk Nông",
+    "intro": "Đắk Nông là vùng trồng cà phê vối trên đất bazan. Địa phương phát triển cà phê Robusta theo hướng đặc sản, chú trọng chất lượng và quy trình canh tác. Đây là nông sản tiêu biểu để tìm hiểu văn hóa cà phê của vùng."
+  },
+  "binh-thuan-3": {
+    "source": "https://vnexpress.net/lau-tha-phan-thiet-4085148.html",
+    "sourceLabel": "Lẩu thả Phan Thiết - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "dong-nai-3": {
+    "source": "https://ngoisao.vnexpress.net/goi-ca-bien-hoa-2521919.html",
+    "sourceLabel": "Gỏi cá Biên Hòa - Ngôi sao",
+    "reviewed": true
+  },
+  "binh-phuoc-3": {
+    "source": "https://dantocmiennui.baotintuc.vn/dac-san-hat-dieu-binh-phuoc-co-them-10-san-pham-ocop-4-sao-post343359.html",
+    "sourceLabel": "Đặc sản hạt điều Bình Phước có thêm 10 sản phẩm OCOP 4 sao",
+    "reviewed": true
+  },
+  "tay-ninh-3": {
+    "source": "https://vietnamtourism.gov.vn/post/68640",
+    "sourceLabel": "Đặc sản và văn hóa ẩm thực Tây Ninh: Từ hương vị truyền thống đến sản phẩm du lịch OCOP đặc trưng",
+    "reviewed": true
+  },
+  "long-an-3": {
+    "source": "https://vnexpress.net/cam-nang-du-lich-long-an-4796307.html",
+    "sourceLabel": "Cẩm nang du lịch Long An",
+    "reviewed": true
+  },
+  "tphcm-3": {
+    "source": "https://vnexpress.net/10-mon-ngon-noi-tieng-o-sai-gon-va-ha-noi-3431622.html",
+    "sourceLabel": "10 món ngon nổi tiếng ở Sài Gòn và Hà Nội - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "tphcm-4": {
+    "source": "https://vnexpress.net/khac-biet-banh-mi-khap-ba-mien-4295421.html",
+    "sourceLabel": "Khác biệt bánh mì khắp ba miền - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "binh-duong-3": {
+    "source": "https://vnexpress.net/goi-ga-mang-cut-mon-ngon-mua-he-4467643.html",
+    "sourceLabel": "Gỏi gà măng cụt - món ngon mùa hè - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "ba-ria---vung-tau-3": {
+    "source": "https://csdl.vietnamtourism.gov.vn/rest/?item=124",
+    "sourceLabel": "Cơ sở dữ liệu ngành Du lịch - csdl.vietnamtourism.gov.vn",
+    "reviewed": true
+  },
+  "dong-thap-3": {
+    "source": "https://vnexpress.net/cam-nang-du-lich-lang-hoa-sa-dec-5003954.html",
+    "sourceLabel": "VnExpress",
+    "reviewed": true,
+    "intro": "Hủ tiếu Sa Đéc gắn với làng nghề bột của Đồng Tháp. Sợi hủ tiếu được trụng, thêm thịt, tôm, giá, hẹ và tóp mỡ. Nước dùng ninh xương với tôm khô, mực khô; ngoài hủ tiếu nước còn có cách ăn khô với nước dùng riêng."
+  },
+  "dong-thap-4": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/dong-thap-tiep-tuc-dua-thuong-hieu-nem-lai-vung-phat-trien-ben-vung-va-vuon-xa/",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "reviewed": true,
+    "intro": "Nem Lai Vung gắn với nghề làm nem truyền thống ở Đồng Tháp. Nem được làm từ thịt heo, da heo và gia vị, gói với lá vông, lá chuối rồi ủ."
+  },
+  "tien-giang-3": {
+    "source": "https://vnexpress.net/don-bo-vu-sua-lo-ren-4292347.html",
+    "sourceLabel": "Đốn bỏ vú sữa Lò Rèn - Báo VnExpress",
+    "reviewed": true
+  },
+  "tien-giang-4": {
+    "source": "https://www.vietnamplus.vn/tien-giang-thuong-thuc-huong-vi-hu-tiu-my-tho-post1022706.vnp",
+    "sourceLabel": "Hủ tíu Mỹ Tho - Hương vị Tiền Giang",
+    "reviewed": true,
+    "intro": "Hủ tiếu Mỹ Tho là món đặc sản của Tiền Giang. Sợi hủ tiếu nhỏ, khô và dai, làm từ gạo Gò Cát ở Mỹ Phong. Nước dùng thường ninh xương cùng tôm khô, khô mực và củ cải; món có thể dùng thêm thịt và các loại nhân."
+  },
+  "an-giang-3": {
+    "source": "https://vnexpress.net/cam-nang-du-lich-an-giang-4445399.html",
+    "sourceLabel": "Cẩm nang du lịch An Giang 2026: 12 địa điểm vui chơi phải trải nghiệm",
+    "reviewed": true
+  },
+  "an-giang-4": {
+    "source": "https://vnexpress.net/cam-nang-du-lich-an-giang-4445399.html",
+    "sourceLabel": "Cẩm nang du lịch An Giang 2026: 12 địa điểm vui chơi phải trải nghiệm",
+    "reviewed": true
+  },
+  "kien-giang-3": {
+    "source": "https://vnexpress.net/6-mon-ngon-khong-dung-hang-o-phu-quoc-4511108.html",
+    "sourceLabel": "6 món ngon không đụng hàng ở Phú Quốc - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "kien-giang-4": {
+    "source": "https://vnexpress.net/6-mon-ngon-khong-dung-hang-o-phu-quoc-4511108.html",
+    "sourceLabel": "6 món ngon không đụng hàng ở Phú Quốc - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "vinh-long-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/vinh-long-mien-song-nuoc-noi-dai-giac-mo-du-lich-xanh/",
+    "sourceLabel": "Vĩnh Long – Miền sông nước nối dài giấc mơ du lịch xanh – Chuyên trang quảng bá du lịch nông thôn",
+    "reviewed": true
+  },
+  "ben-tre-3": {
+    "source": "https://vnexpress.net/nhung-dac-san-o-xu-dua-ben-tre-3755276.html",
+    "sourceLabel": "Những đặc sản ở xứ dừa Bến Tre - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "ben-tre-4": {
+    "source": "https://vnexpress.net/nhung-dac-san-o-xu-dua-ben-tre-3755276.html",
+    "sourceLabel": "Những đặc sản ở xứ dừa Bến Tre - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "tra-vinh-3": {
+    "source": "https://vnexpress.net/net-duyen-tham-cua-thanh-pho-tra-vinh-3118337.html",
+    "sourceLabel": "Nét duyên thầm của thành phố Trà Vinh - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "tra-vinh-4": {
+    "source": "https://vnexpress.net/net-duyen-tham-cua-thanh-pho-tra-vinh-3118337.html",
+    "sourceLabel": "Nét duyên thầm của thành phố Trà Vinh - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "hau-giang-3": {
+    "source": "https://en.nhandan.vn/thac-lac-fish-a-specialty-and-pride-of-hau-giang-post57687.html",
+    "sourceLabel": "‘Thac lac’ fish, a specialty and pride of Hau Giang",
+    "reviewed": true
+  },
+  "hau-giang-4": {
+    "source": "https://vnexpress.net/tram-nam-lang-khom-cau-duc-o-mien-tay-4469201.html",
+    "sourceLabel": "Trăm năm làng khóm Cầu Đúc ở miền Tây - Báo VnExpress",
+    "reviewed": true
+  },
+  "soc-trang-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/nghe-banh-pia-vung-thom-tu-lo-banh-gia-truyen-den-di-san-van-hoa-quoc-gia/",
+    "sourceLabel": "Nghề bánh pía Vũng Thơm: Từ lò bánh gia truyền đến di sản văn hóa quốc gia – Chuyên trang quảng bá du lịch nông thôn",
+    "reviewed": true
+  },
+  "ca-mau-3": {
+    "source": "https://vnexpress.net/cam-nang-du-lich-ca-mau-4447395.html",
+    "sourceLabel": "Cẩm nang du lịch Cà Mau 2026: top 11 địa điểm phải đến mới nhất",
+    "reviewed": true
+  },
+  "bac-lieu-3": {
+    "source": "https://vnexpress.net/10-mon-an-hap-dan-o-que-huong-cong-tu-bac-lieu-3104994.html",
+    "sourceLabel": "10 món ăn hấp dẫn ở quê hương công tử Bạc Liêu - Báo VnExpress Du lịch",
+    "reviewed": true
+  },
+  "ha-noi-3": {
+    "source": "https://vietnam.travel/node/1479",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "reviewed": true
+  },
+  "tuyen-quang-3": {
+    "source": "https://baotuyenquang.com.vn/cuoi-tuan/banh-gai-chiem-hoa-180.html",
+    "sourceLabel": "Báo Tuyên Quang",
+    "reviewed": true
+  },
+  "ha-giang-3": {
+    "source": "https://vietnam.travel/node/1620",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "reviewed": true
+  },
+  "cao-bang-3": {
+    "source": "https://baocaobang.vn/Ngot-ngao-hat-de-Trung-Khanh-7309.html",
+    "sourceLabel": "Báo Cao Bằng",
+    "reviewed": true
+  },
+  "lai-chau-3": {
+    "source": "https://baolaichau.vn/van-hoa/giu-gin-ban-sac-van-hoa-dan-toc1",
+    "sourceLabel": "Báo Lai Châu",
+    "reviewed": true
+  },
+  "lao-cai-3": {
+    "source": "https://baolaocai.vn/kham-pha-nhung-mon-an-dac-san-tren-dat-bac-ha-post633488.html",
+    "sourceLabel": "Báo Lào Cai",
+    "reviewed": true
+  },
+  "yen-bai-3": {
+    "source": "https://baoyenbai.com.vn/255/187484/Huong_com_Tu_Le.aspx",
+    "sourceLabel": "Báo Yên Bái",
+    "reviewed": true
+  },
+  "thai-nguyen-3": {
+    "source": "https://nongthon.vietnamtourism.gov.vn/den-thai-nguyen-thuong-thuc-dac-san-banh-chung-bo-dau/",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "reviewed": true
+  },
+  "bac-kan-3": {
+    "source": "https://www.vietnamairlines.com/id/vi/plan-book/travel/travel-guide/dac-san-bac-kan",
+    "sourceLabel": "Vietnam Airlines",
+    "reviewed": true
+  },
+  "dien-bien-3": {
+    "source": "https://baotintuc.vn/van-hoa/doc-dao-banh-khau-xen-cua-dong-bao-thai-trang-dien-bien-20221231155227775.htm",
+    "sourceLabel": "Báo Tin tức - TTXVN",
+    "reviewed": true
+  },
+  "lang-son-3": {
+    "source": "https://baolangson.vn/vit-quay-mac-mat-vi-ngon-kho-cuong-1409666.html",
+    "sourceLabel": "Báo Lạng Sơn",
+    "reviewed": true
+  },
+  "son-la-3": {
+    "source": "https://baosonla.vn/phong-su/du-lich-cong-dong-gan-voi-xay-dung-nong-thon-moi-31481.html",
+    "sourceLabel": "Báo Sơn La",
+    "reviewed": true
+  },
+  "phu-tho-3": {
+    "source": "https://baophutho.vn/dam-da-huong-vi-thit-chua-262197.htm",
+    "sourceLabel": "Báo Phú Thọ",
+    "reviewed": true
+  },
+  "can-tho-3": {
+    "source": "https://baocantho.com.vn/ve-soc-trang-an-banh-ngon-a115106.html",
+    "sourceLabel": "Báo Cần Thơ",
+    "reviewed": true,
+    "region": "soc-trang",
+    "name": "Bánh cống Đại Tâm",
+    "intro": "Bánh cống Đại Tâm gắn với vùng Mỹ Xuyên, Sóc Trăng. Bánh chiên trong khuôn cống, làm từ bột gạo, bột đậu, đậu xanh, thịt băm và tôm. Khi ăn, cuốn bánh với rau rồi chấm nước mắm chua ngọt."
+  },
+  "hue-3": {
+    "source": "https://vietnamtourism.gov.vn/post/22327",
+    "sourceLabel": "Cục Du lịch Quốc gia Việt Nam",
+    "reviewed": true
+  },
+  "hue-4": {
+    "source": "https://www.vietnamplus.vn/xay-dung-chien-luoc-phat-trien-thuong-hieu-dac-san-hue-post246628.vnp",
+    "sourceLabel": "VietnamPlus - TTXVN",
+    "reviewed": true
+  },
+  "soc-trang-4": {
+    "exclude": true,
+    "reason": "HOLD: chưa tìm được nguồn nhà nước hoặc báo uy tín xác nhận món mang đúng tên “Bún nước sụ” là đặc sản Sóc Trăng; không tự đoán thành bún nước lèo hoặc bún suông."
+  }
+}

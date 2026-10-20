@@ -2,8 +2,8 @@ export const normalize = s => s.normalize('NFD').replace(/\p{Diacritic}/gu, '').
 export function fresh(name, region) { return {version:1,name:name.trim().slice(0,40),starts:[region],earned:[],shiny:[],lastRegion:region}; }
 export function completed(data,state,id){return data.regions.find(r=>r.id===id)?.cards.filter(c=>state.earned.includes(c)).length>=3;}
 export function access(data,state){
- const regions=new Set(state.starts),chapters=new Set();
- for(const id of state.starts){const r=data.regions.find(r=>r.id===id);if(r)chapters.add(r.chapter);}
+ const regions=new Set([...state.starts,...data.cards.filter(c=>state.earned.includes(c.id)).map(c=>c.region)]),chapters=new Set();
+ for(const id of regions){const r=data.regions.find(r=>r.id===id);if(r)chapters.add(r.chapter);}
  for(const r of data.regions)if(completed(data,state,r.id)){for(const id of data.chapters.find(c=>c.id===r.chapter).regions)regions.add(id);}
  for(const c of data.chapters)if(c.regions.every(id=>completed(data,state,id))){chapters.add(c.id);for(const n of c.neighbors)chapters.add(n);}
  return {regions,chapters};
@@ -14,8 +14,9 @@ export function award(data,state,id){const card=data.cards.find(c=>c.id===id);if
 export function restore(data,raw){
  try{const s=JSON.parse(raw);if(s.version!==1||typeof s.name!=='string'||!s.name.trim()||!Array.isArray(s.starts)||!s.starts.length||!Array.isArray(s.earned))return null;
  const rids=new Set(data.regions.map(r=>r.id)),cids=new Set(data.cards.map(c=>c.id));
- if(!s.starts.every(x=>rids.has(x))||!s.earned.every(x=>cids.has(x)))return null;
- return {version:1,name:s.name.slice(0,40),starts:[...new Set(s.starts)],earned:[...new Set(s.earned)],shiny:[...new Set((Array.isArray(s.shiny)?s.shiny:[]).filter(id=>s.earned.includes(id)))],lastRegion:rids.has(s.lastRegion)?s.lastRegion:s.starts[0]};
+ const retired=new Set(data.retiredCardIds||[]);
+ if(!s.starts.every(x=>rids.has(x))||!s.earned.every(x=>cids.has(x)||retired.has(x)))return null;
+ return {version:1,name:s.name.slice(0,40),starts:[...new Set(s.starts)],earned:[...new Set(s.earned.filter(id=>cids.has(id)))],shiny:[...new Set((Array.isArray(s.shiny)?s.shiny:[]).filter(id=>s.earned.includes(id)&&cids.has(id)))],lastRegion:rids.has(s.lastRegion)?s.lastRegion:s.starts[0]};
  }catch{return null;}
 }
 export function achievements(data,state){
