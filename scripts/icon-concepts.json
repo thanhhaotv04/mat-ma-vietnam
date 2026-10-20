@@ -15,7 +15,9 @@
     "id": "03-so-tay-kham-pha",
     "title": "Sổ tay khám phá",
     "concept": "A simple open cream travel notebook with a continuous teal S-shaped route flowing across its two pages, ending at one gold map pin. Thick contours, few elements.",
-    "image": "assets/icon-concepts/03-so-tay-kham-pha.png"
+    "image": "assets/icon-concepts/03-so-tay-kham-pha.png",
+    "selected": true,
+    "usage": "App/web icon, header, favicon, Apple touch icon and web manifest"
   },
   {
     "id": "04-trong-dong",
