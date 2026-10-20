@@ -38,6 +38,8 @@ const coordinateReview=JSON.parse(readFileSync(new URL('./coordinate-review.json
 for(const c of d.cards){const patch=coordinateReview[c.id];if(patch?.excludePin){delete c.coordinates;delete c.coordinatesSource;delete c.coordinateSource;delete c.coordinateVerified;c.pinReviewReason=patch.reason;}else if(patch){Object.assign(c,patch);delete c.coordinatesSource;delete c.pinReviewReason;}}
 const heritageReview=JSON.parse(readFileSync(new URL('./heritage-review.json',import.meta.url)));
 for(const c of d.cards)if(heritageReview[c.id])Object.assign(c,heritageReview[c.id]);
-for(const r of d.regions)r.cards=d.cards.filter(c=>c.region===r.id).map(c=>c.id);
+const eggs=JSON.parse(readFileSync(new URL('./easter-eggs.json',import.meta.url)));
+for(const row of eggs){const {existing,artPrompt,requiredChapters,requiredRegions,...fields}=row;let c=d.cards.find(x=>x.id===row.id);if(!c){c={};d.cards.push(c);}Object.assign(c,fields,{easterEgg:{requiredChapters:requiredChapters||[],requiredRegions:requiredRegions||[]}});}
+for(const r of d.regions)r.cards=d.cards.filter(c=>c.region===r.id&&!c.easterEgg).map(c=>c.id);
 writeFileSync(new URL('../dist/data.json',import.meta.url),JSON.stringify(d));
 console.log(`Updated ${foods.length} food passages and ${Object.keys(authored).length} authored landmark questions.`);
