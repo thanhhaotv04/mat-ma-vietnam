@@ -23,3 +23,5 @@ export function worldMarkup(world,data,state,currentId,zoom,pan,areaId=''){
  const islands=world.labels.map(l=>`<text class="island-label" x="${l.point[0]}" y="${l.point[1]+12}" font-size="${fs}" text-anchor="${l.name.includes('thu gọn')?'end':'middle'}" pointer-events="none">${esc(l.name.replace(' (thu gọn)',''))}${l.name.includes('thu gọn')?`<tspan x="${l.point[0]}" dy="${fs*1.1}" font-size="${fs*.8}">(thu gọn)</tspan>`:''}</text>`).join('');
  return `<svg class="geographic-map national" viewBox="${vb.join(' ')}" role="group" aria-label="Bản đồ Việt Nam và các quần đảo">${shapes}${names}${locks}${areas}${islands}</svg>`;
 }
+
+export function focusCurrentChapter(world,id){const f=world.features.find(f=>f.id===id),[x,y,right,bottom]=f.displayBounds||f.mainlandBounds,base=worldViewBox(world,1,[0,0]);return {zoom:Math.max(1,Math.min(12,base[2]/((right-x)*1.35),base[3]/((bottom-y)*1.35))),pan:[(x+right)/2-(base[0]+base[2]/2),(y+bottom)/2-(base[1]+base[3]/2)]};}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "first",
+    "image": "assets/achievements/first.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: a pair of small explorer walking boots on a winding Vietnamese village path, little warm golden star medal, bamboo and rice fields, welcoming first journey. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "Bắc",
+    "image": "assets/achievements/north.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: northern Vietnam limestone karst mountains, terraced rice fields and a simple village communal house, cool green landscape, a small golden compass medal. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "Trung",
+    "image": "assets/achievements/central.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: central Vietnam imperial tiled gate, blue coastal sea and a modest fishing boat, warm ochre architecture, small golden compass medal. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "Tây Nguyên",
+    "image": "assets/achievements/highlands.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: Vietnam Central Highlands long wooden communal house with tall thatched roof, red basalt earth and coffee branches, distant green hills, small golden compass medal. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "Nam",
+    "image": "assets/achievements/south.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: southern Vietnam Mekong river canal with wooden sampan, coconut palms and fruit orchard, peaceful flat tropical landscape, small golden compass medal. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "banh-mi",
+    "image": "assets/achievements/banh-mi.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: one complete Vietnamese banh mi baguette sandwich with pork, cucumber, pickled carrot and herbs, a small elegant golden royal crown above it, full small oval plate. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "bun",
+    "image": "assets/achievements/bun.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: one complete ceramic bowl of Vietnamese rice vermicelli with herbs, slices of meat and broth, small elegant golden royal crown above it. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "hu-tieu",
+    "image": "assets/achievements/hu-tieu.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: one complete ceramic bowl of southern Vietnamese hu tieu clear rice noodle soup with shrimp, sliced pork, chives and bean sprouts, small elegant golden royal crown above it. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "cau",
+    "image": "assets/achievements/cau.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: a complete graceful Vietnamese cable stayed bridge spanning a calm river, entire central span and both towers clearly visible, small elegant golden royal crown above it. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  },
+  {
+    "id": "unesco",
+    "image": "assets/achievements/heritage.webp",
+    "prompt": "Use case illustration-story. ONE standalone square Vietnamese cartoon achievement illustration: a golden explorer compass medal beside a small complete Vietnamese ancient citadel gate with ochre walls and tiled roofs, lush tree, symbolic cultural heritage journey, NO real logos. Match charming clean hand drawn travel journal style with dark ink contours, flat teal green and warm ochre colours and cream paper background. Main subject entirely visible within central65 percent of canvas, broad empty cream margins on all sides. No clipping of food, bowl, bridge, building, medal or props. One coherent illustration, NOT a card layout, no grid, no atlas, no collage, no text, no lettering, no logos, no frame."
+  }
+]

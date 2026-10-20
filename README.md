@@ -14,9 +14,9 @@ Mở http://localhost:4173. Có thể phục vụ `dist/` bằng static web serv
 ## Nội dung và cách chơi
 
 - 34 chapter theo tỉnh thành hiện tại, 63 vùng xuất phát; 324 thẻ gồm 246 địa danh và 78 đặc sản.
-- Bản đồ sách chọn vùng bằng cách chạm vào hình. Tab icon bên trái mở bản đồ quanh chapter hiện tại và các tỉnh tiếp giáp; nút bản đồ trong màn này đưa về toàn bộ Việt Nam với các quần đảo.
-- Màu vàng là vùng còn thẻ địa danh/đặc sản chưa mở; chỉ thu thập đủ mới xanh. Mốc 3 thẻ để mở đường giữ nguyên. Bản đồ có ba miền theo 34 tỉnh hiện tại: Bắc (15), Trung (11), Nam (8), kèm nút chuyển khung nhìn.
-- Thẻ có tỷ lệ 3:4, ảnh vuông nguyên vẹn ở trên, tên bên dưới. Tab Bộ Sưu Tập gom thẻ đã có trên toàn hành trình với hai tab nhỏ Địa Danh Nổi Tiếng / Đặc Sản. Biểu trưng Di sản thế giới ở góc thẻ đã mở thuộc hồ sơ UNESCO; nguồn và phạm vi ở `docs/unesco-badge.md`.
+- Bản đồ sách chọn vùng bằng cách chạm vào hình. Tab icon bên trái mở bản đồ sát tỉnh hiện tại; kéo, lăn chuột hoặc chụm hai ngón để đổi khung nhìn, không có các nút miền/zoom.
+- Màu vàng là vùng còn thẻ địa danh/đặc sản chưa mở; chỉ thu thập đủ mới xanh. Mốc 3 thẻ để mở đường giữ nguyên. Phân nhóm địa lý trong dữ liệu giữ theo 34 tỉnh hiện tại; giao diện bản đồ tập trung tỉnh đang chơi.
+- Thẻ có tỷ lệ 3:4, ảnh vuông nguyên vẹn ở trên, tên bên dưới. Tab Bộ Sưu Tập gom thẻ đã có trên toàn hành trình với ba tab nhỏ Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Bộ Sưu Tập hiển thị 3 thẻ mỗi hàng và số đã mở/tổng thẻ riêng cho từng nhóm. 10 thẻ Thành Tựu có ảnh riêng, bấm để xem điều kiện và tiến độ. Logo UNESCO trắng trên nền xanh ở góc thẻ đã mở thuộc hồ sơ UNESCO; nguồn và phạm vi ở `docs/unesco-badge.md`.
 - Danh sách thẻ chỉ có ảnh và tên; thẻ khóa bị mờ và ẩn tên. Trang bên phải đổi tiêu đề theo tab Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Vùng chưa có đặc sản đủ căn cứ không bị ép thêm thẻ món ăn.
 - Chạm thẻ mở thẳng câu đố Nhận diện hình ảnh: 16 ô hé ngẫu nhiên mỗi 500 ms, không lặp; bên dưới là đoạn văn điền khuyết và bốn đáp án cùng chủ đề. Không có bước chọn chế độ hoặc gợi ý.
 - Đồng hồ bắt đầu khi ảnh tải/giải mã xong. Đúng dưới 2000 ms nhận thẻ lấp lánh, lưu cùng tiến độ. Chơi lại có thể nâng thẻ thường thành lấp lánh; không nhân đôi thẻ.
@@ -58,6 +58,7 @@ node tests/minimal-map-flow.mjs
 node tests/map-progress-flow.mjs
 node tests/compact-map-flow.mjs
 node tests/collection-flow.mjs
+node tests/collection-achievements-flow.mjs
 node tests/food-flow.mjs
 node tests/card-layout.mjs
 node tests/landmark-flow.mjs

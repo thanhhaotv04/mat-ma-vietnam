@@ -1,10 +1,12 @@
-# World Heritage badge — 20/10/2026
+# UNESCO logo badge — 20/10/2026
 
-Asset: `dist/assets/unesco-heritage.svg`, nguyên bản400×400,70261bytes, không vẽ lại/đổi màu/cắt chữ. Đây là World Heritage emblem dành cho Di sản thế giới, không phải logo tổ chức UNESCO hay biểu tượng chung cho mọi chương trình UNESCO.
+Asset đang dùng theo yêu cầu mới: `dist/assets/unesco-logo.svg`, bản **UNESCO white logo** nguyên gốc từ Wikimedia Commons, hình ngôi đền có chữ UNESCO tạo thành các cột. Logo trắng có nền trong suốt; đặt trên nền xanh UNESCO `#0069B4` bằng CSS của khung. Không vẽ lại, không thay đường nét hoặc cắt logo.
 
-Nguồn: [World Heritage Logo global.svg, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Heritage_Logo_global.svg). [File SVG gốc](https://upload.wikimedia.org/wikipedia/commons/c/ce/World_Heritage_Logo_global.svg). Attribution: **UNESCO; design: Michel Olyff; via Wikimedia Commons**. Commons ghi Public domain/PD-ineligible và nhận diện đây là insignia/trademark; quyền biểu trưng tách biệt bản quyền hình. Nguồn đối chiếu chính thức: [UNESCO World Heritage Emblem](https://whc.unesco.org/en/documents/117045). Không diễn đạt rằng game được UNESCO bảo trợ. SHA256:`50be4452eef4c38f1a8042456eccd1b0346915d46a577f66527ca6e2153f6ae2`.
+Nguồn: [UNESCO white logo.svg, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UNESCO_white_logo.svg). [SVG gốc](https://upload.wikimedia.org/wikipedia/commons/5/5a/UNESCO_white_logo.svg). Attribution: **UNESCO emblem; white SVG version via Wikimedia Commons, derived from Flag of UNESCO.svg**. Commons đánh dấu Public domain/PD-UN và insignia; quyền sử dụng biểu trưng tách biệt với bản quyền ảnh. [Bộ quy chuẩn logo chính thức UNESCO](https://www.unesco.org/sites/default/files/medias/fichiers/2023/10/outside_toolkit_20221129_eng.pdf). Không diễn đạt game được UNESCO bảo trợ.
 
-SVG được parse XML: không script hoặc external href. Giữ tỷ lệ vuông khi hiển thị. Badge chỉ thể hiện thẻ địa danh thuộc tài sản Di sản thế giới; các di sản phi vật thể/dự trữ sinh quyển/công viên địa chất/di sản tư liệu cần biểu trưng và phạm vi riêng.
+Kích thước/tỷ lệ gốc: **397×306, khoảng1,297:1**. Dùng `object-fit:contain; width:100%; height:100%` bên trong nền xanh có padding; không dùng cover, không ép bản thân hình thành vuông. Ví dụ khung38×32 với padding4px cho biểu trưng30×23px; nếu tăng khung48×40 thì logo40×31px dễ đọc hơn. Không thêm chữ dài ở cỡ badge nhỏ. SVG đã parse XML, không script hoặc externalhref. SHA256:`3e7024439c4d95f83ab62a82f6d3e4dd7085fd7564aa25afc16b9db74f091e7c`.
+
+Asset trước `unesco-heritage.svg` là World Heritage emblem, giữ lại làm nguồn tham chiếu nhưng giao diện mới dùng UNESCO temple logo theo yêu cầu. Logo tổ chức UNESCO không phải một danh hiệu di sản tự thân: badge vẫn chỉ gắn theo các heritage records đủ nguồn trong phần rà phạm vi dưới đây. Không tự mở rộng nhãn sang món ăn, toàn thành phố hoặc di sản ngoài phạm vi.
 
 ## Patches
 
