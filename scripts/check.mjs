@@ -4,6 +4,9 @@ import {execFileSync} from 'node:child_process';
 const d=JSON.parse(readFileSync('dist/data.json'));
 assert.equal(d.chapters.length,34);assert.equal(d.regions.length,63);
 assert.equal(new Set(d.cards.map(c=>c.id)).size,d.cards.length);
+const questionReview=JSON.parse(readFileSync('scripts/question-review.json'));
+for(const c of d.cards){assert(questionReview[c.id],`Question requires editorial review: ${c.id}`);assert.deepEqual(c.question,questionReview[c.id].question);assert.equal(c.question.options.length,4);assert(Number.isInteger(c.question.answer)&&c.question.answer>=0&&c.question.answer<4);}
+
 for(const r of d.regions){assert(r.cards.length>=3);assert(r.geometry);assert(r.cards.every(id=>d.cards.some(c=>c.id===id&&c.region===r.id)));}
 for(const c of d.chapters){assert(c.geometry);assert(c.neighbors.length);for(const n of c.neighbors)assert(d.chapters.find(x=>x.id===n).neighbors.includes(c.id));}
 for(const c of d.cards){assert(c.intro&&c.source.startsWith('https://'));assert(d.regions.some(r=>r.id===c.region));}

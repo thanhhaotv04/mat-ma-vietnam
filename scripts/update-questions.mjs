@@ -43,6 +43,8 @@ d.retiredCardIds=[...new Set([...(d.retiredCardIds||[]),...retiredEggs])];
 d.cards=d.cards.filter(c=>!retiredEggs.includes(c.id));
 const eggs=JSON.parse(readFileSync(new URL('./easter-eggs.json',import.meta.url)));
 for(const row of eggs){const {existing,artPrompt,requiredChapters,requiredRegions,minimumRegions,...fields}=row;let c=d.cards.find(x=>x.id===row.id);if(!c){c={};d.cards.push(c);}Object.assign(c,fields,{easterEgg:{requiredChapters:requiredChapters||[],requiredRegions:requiredRegions||[],minimumRegions:minimumRegions||2}});}
+const questionReview=JSON.parse(readFileSync(new URL('./question-review.json',import.meta.url)));
+for(const c of d.cards){const row=questionReview[c.id];if(row){Object.assign(c,row.cardPatch||{});c.question=row.question;}}
 for(const r of d.regions)r.cards=d.cards.filter(c=>c.region===r.id&&!c.easterEgg).map(c=>c.id);
 writeFileSync(new URL('../dist/data.json',import.meta.url),JSON.stringify(d));
 console.log(`Updated ${foods.length} food passages and ${Object.keys(authored).length} authored landmark questions.`);

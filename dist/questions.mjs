@@ -135,8 +135,8 @@ export function distractors(data,c,rng=Math.random){
 }
 function byRegion(data,id){return data.regions.find(r=>r.id===id);}
 function obscureName(text,c,data){
- let result=text;const replacements=[c.name,...data.regions.map(r=>r.name)].sort((a,b)=>b.length-a.length);
- for(const name of replacements){const rx=new RegExp(name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'giu');result=result.replace(rx,'vùng này');}
+ let result=text;const replacements=[c.name];
+ for(const name of replacements){const rx=new RegExp(name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'giu');result=result.replace(rx,'địa danh này');}
  return result;
 }
 export function makeQuestion(data,c,mode='clue',rng=Math.random){

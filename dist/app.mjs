@@ -2,7 +2,7 @@ import {PLAYER_KEY,readPlayerSave,readPlayerOwner} from './storage.mjs?v=2026102
 import {connectCloud} from './cloud.mjs?v=20261020-clean-ui';
 import {compactIslands,compactWorld,lockMarker} from './map-layout.mjs?v=20261020-con-dao-pins';
 import {normalize,fresh,completed,collectionComplete,access,canEnter,enter,award,restore,achievements,eggUnlocked,eggRelated} from './core.mjs?v=20261020-clean-ui';
-import {makeQuestion} from './questions.mjs?v=20261020-book-expansion';
+import {makeQuestion} from './questions.mjs?v=20261020-question-review';
 import {worldMarkup,worldViewBox,focusCurrentChapter} from './world-map.mjs?v=20261020-con-dao-pins';
 import {soundEnabled,setSoundEnabled,playSuccessSound} from './sound.mjs?v=20261020-clean-ui';
 const app=document.querySelector('#app'),dialog=document.querySelector('#dialog'),toast=document.querySelector('#toast');

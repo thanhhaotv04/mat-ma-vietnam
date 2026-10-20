@@ -71,3 +71,5 @@ Kiểm tra bao gồm điều kiện mở vùng, khôi phục tiến độ cũ, c
 Link gửi cho người chơi: https://mat-ma-viet-nam-hao.web.app
 
 Xem [cấu hình, tài khoản và đồng bộ tiến trình](docs/firebase.md). Build SDK bằng `npm run build:cloud` sau khi sửa `src/cloud.mjs`.
+
+- Ngân hàng câu hỏi đã rà: `scripts/question-review.json`; quy trình, nguồn và giới hạn kiểm chứng: [docs/question-review.md](docs/question-review.md).
