@@ -20,7 +20,7 @@ export function worldMarkup(world,data,state,currentId,zoom,pan,areaId=''){
  const names=world.features.filter(f=>visible?visible.includes(f.id):zoom>=2||f.id===currentId).map(f=>`<text class="region-label" x="${f.center[0]}" y="${f.center[1]}" font-size="${fs}" text-anchor="middle" pointer-events="none">${esc(f.name)}</text>`).join('');
  const locks=world.features.filter(f=>(visible?visible.includes(f.id):zoom>=2)&&!a.chapters.has(f.id)).map(f=>lockMarker(f.center[0],f.center[1]-fs*1.5,fs*1.8)).join('');
  const areas=!areaId&&zoom<2?mapAreas.map(area=>{const fs=world.features.filter(f=>area.chapters.includes(f.id));const x=Math.min(...fs.map(f=>f.mainlandBounds[0]))-12,y=(Math.min(...fs.map(f=>f.mainlandBounds[1]))+Math.max(...fs.map(f=>f.mainlandBounds[3])))/2;return `<text class="area-label" x="${x}" y="${y}" font-size="${vb[2]*.025}" text-anchor="end" pointer-events="none">${area.name}</text>`;}).join(''):'';
- const islands=world.labels.map(l=>`<text class="island-label" x="${l.point[0]}" y="${l.point[1]+12}" font-size="${fs}" text-anchor="${l.name.includes('thu gọn')?'end':'middle'}" pointer-events="none">${esc(l.name.replace(' (thu gọn)',''))}${l.name.includes('thu gọn')?`<tspan x="${l.point[0]}" dy="${fs*1.1}" font-size="${fs*.8}">(thu gọn)</tspan>`:''}</text>`).join('');
+ const islands=world.labels.map(l=>`<text class="island-label" x="${l.point[0]}" y="${l.point[1]+12}" font-size="${fs}" text-anchor="${['QĐ. Hoàng Sa','QĐ. Trường Sa'].includes(l.name)?'end':'middle'}" pointer-events="none">${esc(l.name)}</text>`).join('');
  return `<svg class="geographic-map national" viewBox="${vb.join(' ')}" role="group" aria-label="Bản đồ Việt Nam và các quần đảo">${shapes}${names}${locks}${areas}${islands}</svg>`;
 }
 

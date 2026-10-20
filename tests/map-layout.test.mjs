@@ -12,7 +12,7 @@ test('Island insets enlarge mainland without altering canonical geography or mai
  }
 });
 test('Central view zooms in around Da Nang at both actual map aspect ratios; island labels retained',()=>{
- const compact=compactWorld(world);assert(compact.bounds[2]<world.bounds[2]*.7);assert(compact.labels.some(l=>l.name==='QĐ. Hoàng Sa (thu gọn)'));assert(compact.labels.some(l=>l.name==='QĐ. Trường Sa (thu gọn)'));
+ const compact=compactWorld(world);assert(compact.bounds[2]<world.bounds[2]*.7);assert(compact.labels.some(l=>l.name==='QĐ. Hoàng Sa'));assert(compact.labels.some(l=>l.name==='QĐ. Trường Sa'));
  for(const aspect of [.53,1.27]){compact.aspect=aspect;const f=focusArea(compact,'central'),vb=worldViewBox(compact,f.zoom,f.pan);assert(Math.abs(vb[2]/vb[3]-aspect)<1e-8);const center=compact.features.find(f=>f.id==='da-nang').center;assert(Math.abs(vb[0]+vb[2]/2-center[0])<1e-8);assert(Math.abs(vb[1]+vb[3]/2-center[1])<1e-8);assert(f.zoom>=3);}
 });
 test('Map locks are SVG geometry, not font glyphs',()=>{const markup=lockMarker(1,2,.1);assert(markup.includes('class="map-lock"'));assert(markup.includes('<rect'));assert(markup.includes('<path'));assert(!markup.includes('▣'));});
