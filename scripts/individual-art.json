@@ -20,9 +20,11 @@
     "status": "generated"
   },
   "tuyen-quang-0": {
-    "image": "assets/cards/tuyen-quang-0.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Đình Tân Trào, Vietnam (tuyen-quang). Ngôi đình gắn với Quốc dân Đại hội trước Cách mạng tháng Tám năm 1945. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/tuyen-quang-0-20261021.webp",
+    "prompt": "Real Tan Trao communal house as reference: modest raised wooden stilt house with steep simple palm-thatch roof, straight plain roof ends without elaborate curled temple ornaments, actual posts and wooden floor, green rural clearing. Maintain recognisable real building, no fantasy tiled pagoda.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vietnamtourism.vn/en/index.php/news/items/10709"
   },
   "tuyen-quang-1": {
     "image": "assets/cards/tuyen-quang-1.webp",
@@ -110,9 +112,11 @@
     "status": "generated"
   },
   "lao-cai-2": {
-    "image": "assets/cards/lao-cai-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Dinh Hoàng A Tưởng, Vietnam (lao-cai). Dinh thự tại Bắc Hà kết hợp các yếu tố kiến trúc Á và Âu. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/lao-cai-2-20261021.webp",
+    "prompt": "Faithfully depict the photographed front courtyard of Hoang A Tuong Palace, yellow two-storey symmetrical facade, authentic arch pattern, center balcony, flanking wings and proper stairs. Do not expand into grand invented palace; retain actual facade details.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://www.vntrip.vn/cam-nang/dinh-hoang-a-tuong-dia-diem-tham-quan-hap-dan-gan-sa-pa-104"
   },
   "lao-cai-3": {
     "image": "assets/cards/lao-cai-3.webp",
@@ -155,9 +159,10 @@
     "status": "generated"
   },
   "thai-nguyen-3": {
-    "image": "assets/cards/thai-nguyen-3.webp",
-    "prompt": "ONE standalone square cartoon illustration of Bánh chưng Bờ Đậu, Thái Nguyên. Complete small rectangular bamboo tray containing two square green leaf-wrapped bánh chưng and a cut slice showing sticky rice, mung bean and pork. Tray central55 percent of canvas, broad blank cream margins on all four sides, every tray corner visible. Clean ink, flat green and ochre. No clipping, text, grid, collage or frame.",
-    "status": "generated"
+    "image": "assets/cards/thai-nguyen-3-20261021.webp",
+    "prompt": "Bánh chưng Bờ Đậu: several traditional SQUARE blocks wrapped in dark green dong leaves with natural tying strips, one cut open showing white sticky rice, yellow mung bean and modest cooked pork center. Whole serving on woven bamboo tray on wooden table. Leafy northern Vietnamese rural courtyard and low red-tiled eaves in background. Not cylindrical bánh tét or triangle pyramid.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "bac-kan-0": {
     "image": "assets/cards/bac-kan-0.webp",
@@ -180,9 +185,11 @@
     "status": "generated"
   },
   "dien-bien-0": {
-    "image": "assets/cards/dien-bien-0.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Đồi A1, Vietnam (dien-bien). Cứ điểm quan trọng trong chiến dịch Điện Biên Phủ năm 1954. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/dien-bien-0-20261021.webp",
+    "prompt": "Real A1 Hill preserved large bowl-shaped explosive crater and surrounding hill vegetation, match exact photo landform and scale; historical site illustration. No invented soldiers statue or victory monument, no fantasy trenches or battle action. Remove most tourists.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://nvsk.vnanet.vn/print/-ngay-5-5-1954-quan-ta-hoan-thanh-duong-ham-ngam-de-dat-boc-pha-tren-doi-a1-145707.vna"
   },
   "dien-bien-1": {
     "image": "assets/cards/dien-bien-1.webp",
@@ -200,14 +207,18 @@
     "status": "generated"
   },
   "lang-son-0": {
-    "image": "assets/cards/lang-son-0.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Động Tam Thanh, Vietnam (lang-son). Hang động gắn với ngôi chùa trong lòng núi và cảnh quan xứ Lạng. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/lang-son-0-20261021.webp",
+    "prompt": "Real Tam Thanh cave temple interior from supplied photograph. Natural limestone cave encloses small Buddhist altar and actual stone visitor steps, preserve true rock shapes and shrine placement. No enormous separate wooden temple, artificial pond, stone arched bridge, or fantasy river. Remove most visitors; retain grounded historical architecture.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://www.traveloka.com/vi-vn/explore/destination/chua-tam-thanh/212089"
   },
   "lang-son-1": {
-    "image": "assets/cards/lang-son-1.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Núi Tô Thị, Vietnam (lang-son). Khối đá hình người bồng con gắn với câu chuyện nàng Tô Thị. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/lang-son-1-20261021.webp",
+    "prompt": "Depict the real small narrow irregular limestone rock of To Thi on the summit rock ridge exactly as photo. Preserve silhouette, rough natural texture, boulders immediately below and high viewpoint over patchwork farm fields. No giant sculpted human face/body, no river or bridge.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://baoangiang.com.vn/muc-so-thi-dinh-nui-to-thi-o-lang-son-a404245.html"
   },
   "lang-son-2": {
     "image": "assets/cards/lang-son-2.webp",
@@ -261,14 +272,18 @@
     "status": "generated"
   },
   "vinh-phuc-0": {
-    "image": "assets/cards/vinh-phuc-0.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Nhà thờ đá Tam Đảo, Vietnam (vinh-phuc). Công trình đá trên sườn núi là điểm nhận diện của khu du lịch Tam Đảo. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/vinh-phuc-0-20261021.webp",
+    "prompt": "Real Tam Dao stone church as photo: squat stone nave with gable, tall rectangular stone belltower with flat top and narrow red brick insets, side colonnade on right. Preserve recognisable proportions. No pointed spire, no Sapa church.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vnexpress.net/cam-nang-du-lich-tam-dao-4454746.html"
   },
   "vinh-phuc-1": {
-    "image": "assets/cards/vinh-phuc-1.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Tháp Bình Sơn, Vietnam (vinh-phuc). Tòa tháp gạch cổ nổi bật với những tầng thu nhỏ dần lên cao. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/vinh-phuc-1-20261021.webp",
+    "prompt": "Real Binh Son terracotta tower, preserve exactly eleven surviving progressively smaller storeys and flat damaged upper termination visible in reference. Warm weathered unglazed brick details, temple grounds and trees. No pointed finial or invented roof.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-binh-son-1294"
   },
   "vinh-phuc-2": {
     "image": "assets/cards/vinh-phuc-2.webp",
@@ -421,9 +436,11 @@
     "status": "generated"
   },
   "hung-yen-2": {
-    "image": "assets/cards/hung-yen-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Làng Nôm, Vietnam (hung-yen). Ngôi làng lưu giữ cầu đá, cổng làng và nhiều công trình truyền thống. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/hung-yen-2-20261021.webp",
+    "prompt": "Real Nom village stone bridge from photo. Flat/slightly rising walkway built on cylindrical stone posts and rectangular beams, authentic low balustrades and nine small spans. Weathered stone and green village stream. No three large semicircular masonry arches.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vov.vn/du-lich/cay-cau-da-co-dep-nhat-bac-bo-to-diem-them-net-dep-chua-nom-904586.vov"
   },
   "hung-yen-3": {
     "image": "assets/cards/hung-yen-3.webp",
@@ -451,9 +468,10 @@
     "status": "generated"
   },
   "thai-binh-4": {
-    "image": "assets/cards/thai-binh-4.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Canh cá Quỳnh Côi, Vietnam (thai-binh). Món canh dùng bánh đa và cá, gắn với vùng Quỳnh Côi. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Show ONE complete serving or plate of this regional specialty with recognizable ingredients, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/thai-binh-4-20261021.webp",
+    "prompt": "Canh cá Quỳnh Côi: complete bowl of clear golden broth containing many THIN NARROW FLAT white rice bánh đa noodles, cooked golden fish pieces, dill and scallions. Noodles are long narrow ribbon strands, never broad triangular dough sheets, wontons or dumplings. Wooden table beside peaceful northern Vietnamese village pond.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "ninh-binh-0": {
     "image": "assets/cards/ninh-binh-0.webp",
@@ -536,9 +554,10 @@
     "status": "generated"
   },
   "thanh-hoa-4": {
-    "image": "assets/cards/thanh-hoa-4.webp",
-    "prompt": "Use case: illustration-story. ONE standalone square Vietnamese cartoon food illustration: Banh Rang Bua from Thanh Hoa, also called banh te. These are SLENDER LONG NARROW rice-flour steamed dumplings wrapped in green leaves, shaped like long thin harrow teeth, NOT SQUARE and NOT CUBES. Draw three elongated green leaf parcels about six times longer than their width, plus one open long slender WHITE rice flour dumpling with a thin filling of minced pork and dark wood ear mushroom. NO yellow mung beans, no sticky rice grains, no square banh chung, no pyramids. On a small entirely visible oval plate occupying central 55 percent of canvas, generous empty cream margins around all sides. Charming clean ink cartoon, flat green and warm ochre, one coherent image, no atlas/collage/grid/text/labels, no part of food or plate cut at any edge.",
-    "status": "generated"
+    "image": "assets/cards/thanh-hoa-4-20261021.webp",
+    "prompt": "Bánh răng bừa Thanh Hóa: small SLENDER elongated rice-dough dumplings wrapped in dark green leaves, several opened to show smooth opaque white rice exterior and cooked minced pork/wood-ear mushroom filling. Thin tapered shape reminiscent of a harrow tooth, not big round bánh chưng, not rolled translucent noodles. Whole bamboo tray on wooden table, peaceful northern-central rice-farming courtyard backdrop.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "nghe-an-0": {
     "image": "assets/cards/nghe-an-0.webp",
@@ -551,9 +570,11 @@
     "status": "generated"
   },
   "nghe-an-2": {
-    "image": "assets/cards/nghe-an-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Đảo Lan Châu, Vietnam (nghe-an). Đảo đá nhỏ nằm sát bãi biển Cửa Lò. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/nghe-an-2-20261021.webp",
+    "prompt": "Vẽ lại theo ảnh toàn cảnh thật: doi đá thấp sát bãi Cửa Lò, phía xa bờ phố biển; cầu cảng thấp thẳng bằng bê tông nếu lấy đúng góc, không cầu vòm cổ, không thêm cung điện. Giữ lối minh họa hoạt hình đang dùng.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://dansinh.dantri.com.vn/dien-dan-dan-sinh/canh-dep-me-hon-cua-mien-trung-nhin-tu-tren-cao-20201118145133472.htm"
   },
   "nghe-an-3": {
     "image": "assets/cards/nghe-an-3.webp",
@@ -696,19 +717,24 @@
     "status": "generated"
   },
   "quang-ngai-1": {
-    "image": "assets/cards/quang-ngai-1.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Chùa Thiên Ấn, Vietnam (quang-ngai). Ngôi chùa trên núi Thiên Ấn, một biểu tượng cảnh quan Quảng Ngãi. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/quang-ngai-1-20261021.webp",
+    "prompt": "Vẽ theo ảnh toàn cảnh thật khuôn viên rừng bằng: chùa thấp giữa cây, sân trước có tượng Quan Âm, cổng tam quan, bảo tháp xám mái đỏ riêng bên phải. Bỏ cầu thang dài xuyên vách đá và tháp vàng.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://phatgiao.org.vn/ngoi-chua-300-nam-tuoi-noi-tieng-vung-dat-quang-ngai-d40192.html"
   },
   "quang-ngai-2": {
-    "image": "assets/cards/quang-ngai-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Đỉnh Thới Lới, Vietnam (quang-ngai). Miệng núi lửa trên đảo Lý Sơn có hồ nước và tầm nhìn ra biển. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/quang-ngai-2-20261021.webp",
+    "prompt": "Theo đúng ảnh nhìn từ trên cao: hồ chứa nhỏ hình oval/đa giác ở một phần miệng núi, sườn đá nâu xám và thảm cỏ/bụi thấp, đường ngoằn ngoèo ngoài lòng chảo, ruộng tỏi và làng đảo ở nền. Không tạo bồn hồ tròn phủ rừng hay núi lửa hình nón cao tưởng tượng.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://dantri.com.vn/du-lich/nui-lua-trieu-nam-tuoi-va-nhung-canh-dep-hut-hon-du-khach-o-dao-ly-son-20210827174641923.htm"
   },
   "quang-ngai-3": {
-    "image": "assets/cards/quang-ngai-3.webp",
-    "prompt": "Use case: illustration-story. ONE individual square cartoon food illustration of Don, the Quang Ngai specialty: a small complete ceramic bowl of clear warm broth with tiny clam-like don shellfish meat, chopped spring onions, served with a few thin toasted rice cracker pieces beside it. Whole bowl and rice crackers entirely within central 55 percent of canvas with broad blank cream margins on ALL four sides. NO tray, no chopping board, no large plate, no clipped props. Clean hand-drawn ink, flat warm ochre and teal green travel-journal colours. One coherent still-life, no collage or grid, no lettering, no text, no logo. Entire dish including every bowl edge fully visible.",
-    "status": "generated"
+    "image": "assets/cards/quang-ngai-3-20261021.webp",
+    "prompt": "Don Quảng Ngãi: complete simple ceramic bowl of light clear yellowish river-shellfish broth with MANY TINY beige Don shellfish morsels and slender onion/scallion pieces, not huge clams or noodle soup. A few whole fragments of toasted pale rice cracker sit on small plate beside. Natural wooden riverside table, gently flowing broad Trà River scenery and green bank softly behind. Both dishes whole.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "kon-tum-0": {
     "image": "assets/cards/kon-tum-0.webp",
@@ -746,9 +772,10 @@
     "status": "generated"
   },
   "gia-lai-3": {
-    "image": "assets/cards/gia-lai-3.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Phở khô Gia Lai, Vietnam (gia-lai). Phở và nước dùng được phục vụ riêng thành hai phần. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Show ONE complete serving or plate of this regional specialty with recognizable ingredients, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/gia-lai-3-20261021.webp",
+    "prompt": "Phở khô Gia Lai served in TWO complete ceramic bowls side by side. Main dry bowl has THIN SMALL nearly round white rice noodles, cooked minced pork, fried shallots, scallions; NO broad flat noodles or beef slices in dry bowl. Separate clear broth bowl contains thin cooked beef slices and scallions. Both bowls whole with generous margins. Pleiku highland garden table and distant gentle hills background.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "binh-dinh-0": {
     "image": "assets/cards/binh-dinh-0.webp",
@@ -786,9 +813,10 @@
     "status": "generated"
   },
   "dak-lak-3": {
-    "image": "assets/cards/dak-lak-3.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Bún đỏ Buôn Ma Thuột, Vietnam (dak-lak). Món bún có màu nước dùng đặc trưng, ăn cùng nhiều loại nhân và rau. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Show ONE complete serving or plate of this regional specialty with recognizable ingredients, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/dak-lak-3-20261021.webp",
+    "prompt": "Bún đỏ Buôn Ma Thuột: thick ROUND rice vermicelli visibly coated warm reddish-orange, light savory broth, SMALL crab/pork/shrimp riêu chunks, 3 whole peeled white quail eggs, chopped scallions, fried shallots and modest crackling. NO giant pork hock, no flat white pho noodles, no giant tofu blocks. Whole ceramic bowl. Central Highlands coffee-tree garden courtyard behind.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "phu-yen-0": {
     "image": "assets/cards/phu-yen-0.webp",
@@ -801,9 +829,11 @@
     "status": "generated"
   },
   "phu-yen-2": {
-    "image": "assets/cards/phu-yen-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Hải đăng Đại Lãnh, Vietnam (phu-yen). Ngọn hải đăng trên Mũi Điện nhìn ra vùng biển và Bãi Môn. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/phu-yen-2-20261021.webp",
+    "prompt": "Nếu chỉnh tiếp thì giữ vị trí cảnh quan, thay tháp bằng trụ tròn xám nhạt thật, đèn nhỏ gọn trên đỉnh và khối nhà thấp màu vàng có mái bằng/lan can. Không biến thành hải đăng cổ tích.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://baochinhphu.vn/phu-yen-khong-chi-co-hoa-vang-tren-co-xanh-102205751.htm"
   },
   "phu-yen-3": {
     "image": "assets/cards/phu-yen-3.webp",
@@ -826,9 +856,10 @@
     "status": "generated"
   },
   "khanh-hoa-3": {
-    "image": "assets/cards/khanh-hoa-3.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Nem nướng Ninh Hòa, Vietnam (khanh-hoa). Nem nướng ăn cùng rau, bánh tráng và nước chấm đặc trưng. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Show ONE complete serving or plate of this regional specialty with recognizable ingredients, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/khanh-hoa-3-20261021.webp",
+    "prompt": "Nem nướng Ninh Hòa: grilled browned minced-pork skewers/sausages on a complete platter, crisp golden rolled rice-paper sticks, fresh herbs, thin rice paper and a small complete bowl of OPAQUE thick warm orange-beige cooked peanut/pork dipping sauce, clearly spoon-coating consistency NOT transparent fish sauce. Wooden table and leafy southern-central Vietnamese courtyard backdrop.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "ninh-thuan-0": {
     "image": "assets/cards/ninh-thuan-0.webp",
@@ -886,9 +917,11 @@
     "status": "generated"
   },
   "dak-nong-2": {
-    "image": "assets/cards/dak-nong-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Hang núi lửa Chư Bluk, Vietnam (dak-nong). Hệ thống hang hình thành bởi hoạt động núi lửa cổ ở vùng Krông Nô. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/dak-nong-2-20261021.webp",
+    "prompt": "Dùng ảnh cửa hang thực tế: nhìn từ bên trong hang ống dung nham bazan tối ra một cửa/giếng trời lớn, nền đá đổ màu đen có rêu và dương xỉ, ánh sáng từ rừng phía trên, có thể một người đội mũ bảo hộ nhỏ để thể hiện tỷ lệ. Không hồ ngoài cửa, không núi lửa hình nón khổng lồ ở hậu cảnh.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://en.cand.com.vn/culture-travel/exploring-the-largest-volcanic-cave-in-vietnam-i591275/"
   },
   "dak-nong-3": {
     "image": "assets/cards/dak-nong-3.webp",
@@ -911,9 +944,10 @@
     "status": "generated"
   },
   "binh-thuan-3": {
-    "image": "assets/cards/binh-thuan-3.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Lẩu thả Phan Thiết, Vietnam (binh-thuan). Các nguyên liệu được bày riêng rồi kết hợp với nước dùng khi ăn. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Show ONE complete serving or plate of this regional specialty with recognizable ingredients, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/binh-thuan-3-20261021.webp",
+    "prompt": "Authentic Phan Thiết LẨU THẢ presentation: a wide bamboo round tray with red-pink BANANA BLOSSOM BRACTS arranged radially like a flower. Each bract holds separate shredded cooked pork, thin yellow omelette strips, shredded vegetables, herbs, rice vermicelli. A small central plate prominently holds thin silver-white MAI fish fillets dressed for the dish. Small separate simmering broth pot to side, not covering central flower tray. Whole tray and pot visible. Wooden table with quiet coastal central Vietnamese garden background.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "dong-nai-0": {
     "image": "assets/cards/dong-nai-0.webp",
@@ -966,9 +1000,11 @@
     "status": "generated"
   },
   "tay-ninh-2": {
-    "image": "assets/cards/tay-ninh-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Tháp Bình Thạnh, Vietnam (tay-ninh). Ngôi tháp cổ bằng gạch gắn với văn hóa Óc Eo. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/tay-ninh-2-20261021.webp",
+    "prompt": "Square Vietnamese travel card illustration, hand-painted warm gouache/cartoon style, warm cream highlights, lush restrained green and blue colors, clear simple composition, accurate real landmark proportions, no text, no logos, no invented buildings, entire main subject inside frame with breathing room. Faithful front view of Binh Thanh ancient brick tower in Tay Ninh: one compact roughly ten-meter tall square-plan weathered orange brick sanctuary, broad blocky lower body, single dark RECTANGULAR doorway with straight stone lintel, carved floral stone lintel panel above, shallow pilasters, upper brick roof receding through short stepped rectangular tiers to a flat worn top. Match reference proportions, no pointed Gothic arch, no tall needle spire. Level brick forecourt and shady mature trees, low rice fields beyond, no mountain backdrop or fantasy ruins.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vnexpress.net/kien-truc-doc-dao-cua-thap-co-nghin-nam-tuoi-o-tay-ninh-3814659.html"
   },
   "tay-ninh-3": {
     "image": "assets/cards/tay-ninh-3-v2.webp",
@@ -1021,9 +1057,11 @@
     "status": "generated"
   },
   "binh-duong-0": {
-    "image": "assets/cards/binh-duong-0.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Chùa Hội Khánh, Vietnam (binh-duong). Ngôi chùa cổ nổi bật với kiến trúc truyền thống và tượng Phật nằm. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/binh-duong-0-20261021.webp",
+    "prompt": "Square Vietnamese travel card illustration, hand-painted warm gouache/cartoon style, warm cream highlights, lush restrained green and blue colors, clear simple composition, accurate real landmark proportions, no text, no logos, no invented buildings, entire main subject inside frame with breathing room. Illustrate Hoi Khanh temple from a slightly elevated frontal angle. Its very large WHITE reclining Buddha rests horizontally directly on the roof terrace of a broad rectangular Buddhist cultural hall, with orange tiled eaves below the statue and courtyard stairs in front. The Buddha head lies to the LEFT, propped on the right hand, feet to the right. Surroundings are a flat urban neighborhood with trees, not mountains. Show the full white reclining statue AND the supporting building roof, no huge Buddha on a hill.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vnexpress.net/ngoi-chua-gan-300-tuoi-co-tuong-phat-nam-dai-nhat-viet-nam-3754188.html"
   },
   "binh-duong-1": {
     "image": "assets/cards/binh-duong-1.webp",
@@ -1141,14 +1179,18 @@
     "status": "generated"
   },
   "kien-giang-1": {
-    "image": "assets/cards/kien-giang-1.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Hòn Phụ Tử, Vietnam (kien-giang). Cụm đá ven biển Hà Tiên gắn với câu chuyện dân gian. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/kien-giang-1-20261021.webp",
+    "prompt": "Square Vietnamese travel card illustration, hand-painted warm gouache/cartoon style, warm cream highlights, lush restrained green and blue colors, clear simple composition, accurate real landmark proportions, no text, no logos, no invented buildings, entire main subject inside frame with breathing room. Illustrate Hon Phu Tu in its CURRENT post-2006 condition. Use the reference coastal viewpoint: the surviving narrow gray limestone Hon Tu pillar stands in the sea, leaning slightly, next to a much larger irregular vegetated limestone coastal island on the right. The taller Father pillar collapsed in 2006: do not recreate two upright Father-and-Son towers. Simplify away tourists, signs and broken boats; retain the distinctive slender survivor, low broken rock base and calm greenish sea.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://tuoitre.vn/gan-20-nam-gap-su-co-gay-do-den-nay-hon-phu-tu-ra-sao-100260629165618354.htm"
   },
   "kien-giang-2": {
-    "image": "assets/cards/kien-giang-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Hải đăng Nam Du, Vietnam (kien-giang). Ngọn hải đăng trên đảo Hòn Lớn nhìn ra quần đảo Nam Du. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/kien-giang-2-20261021.webp",
+    "prompt": "Square Vietnamese travel-card hand-painted gouache cartoon illustration, warm cream and green palette. Faithfully illustrate the real Nam Du lighthouse station facade in the reference photo, a modest modern WHITE rectangular structure among dense green hilltop trees, centered tall arched window and doorway, rectangular white parapet roof, broad white front staircase with plain white handrails, simple gray stone edging. Keep this known building facade and stair layout rather than inventing a standalone classical lighthouse. Remove people, lettering, watermarks and overhead clutter. The separate lantern close-up documents the functional gray metal glass lantern and Fresnel lens; do not invent a high cylindrical masonry tower or ornate black/gold dome. Entire building and staircase comfortably framed.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://congthuong.vn/nguoi-gac-ngon-hai-dang-o-nam-du-419076.html"
   },
   "kien-giang-3": {
     "image": "assets/cards/kien-giang-3.webp",
@@ -1221,9 +1263,10 @@
     "status": "generated"
   },
   "tra-vinh-3": {
-    "image": "assets/cards/tra-vinh-3.webp",
-    "prompt": "Use case illustration-story. ONE standalone square cartoon illustration of Bun Nuoc Leo Tra Vinh: a small complete ceramic bowl of rice vermicelli in amber fish broth, with shrimp, fish pieces, roast pork, herbs and bean sprouts, a small separate lime wedge. NO bamboo tray, NO platter, NO chopping board. Entire bowl rim and bottom wholly visible within CENTRAL55 percent of the canvas, at least20 percent empty cream margin on every side. All food and props completely within the image. Charming clean ink outlines, flat warm ochre and teal-green travel-journal cartoon. One coherent still-life, no text, no labels, no grid, no collage, no card frame.",
-    "status": "generated"
+    "image": "assets/cards/tra-vinh-3-20261021.webp",
+    "prompt": "Bún nước lèo Trà Vinh: complete ceramic bowl with thin white rice vermicelli, savory light amber fermented-fish broth, cooked white fish pieces, small peeled shrimp, scallions; modest side plate of shredded banana blossom, herbs and bean sprouts. No giant pork hock or bright red bún bò broth. Whole bowl and sides visible on wooden table, simple leafy Khmer-influenced southern Vietnamese garden setting behind.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21"
   },
   "tra-vinh-4": {
     "image": "assets/cards/tra-vinh-4.webp",
@@ -1306,9 +1349,11 @@
     "status": "generated"
   },
   "ca-mau-2": {
-    "image": "assets/cards/ca-mau-2.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Hòn Đá Bạc, Vietnam (ca-mau). Cụm đảo đá nhỏ ven biển với những khối đá xếp chồng. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/ca-mau-2-20261021.webp",
+    "prompt": "Square Vietnamese travel card illustration, hand-painted warm gouache/cartoon style, warm cream highlights, lush restrained green and blue colors, clear simple composition, accurate real landmark proportions, no text, no logos, no invented buildings, entire main subject inside frame with breathing room. Aerial oblique view of Hon Da Bac near the flat Ca Mau coast: a LOW elongated group of closely spaced small granite islets covered in dense tropical green trees, rounded gray boulders at the waterline, modest red-roofed buildings partially hidden in foliage, narrow concrete causeway along the edge linking the islets to the mainland. Calm shallow greenish brown coastal sea. No tall central cliff, no limestone pinnacle, no mountainous islands. Keep the low horizontal silhouette seen in the photo.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://www.vietnamplus.vn/ca-mau-thanh-lap-khu-bao-ton-bien-rong-27000ha-post960123.vnp"
   },
   "ca-mau-3": {
     "image": "assets/cards/ca-mau-3.webp",
@@ -1316,9 +1361,11 @@
     "status": "generated"
   },
   "bac-lieu-0": {
-    "image": "assets/cards/bac-lieu-0.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Nhà Công tử Bạc Liêu, Vietnam (bac-lieu). Ngôi biệt thự gắn với câu chuyện về gia đình Công tử Bạc Liêu. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/bac-lieu-0-20261021.webp",
+    "prompt": "Square Vietnamese travel card illustration, hand-painted warm gouache/cartoon style, warm cream highlights, lush restrained green and blue colors, clear simple composition, accurate real landmark proportions, no text, no logos, no invented buildings, entire main subject inside frame with breathing room. Faithful front three-quarter illustration of the historic Cong Tu Bac Lieu mansion in the reference: restrained off-WHITE two-storey French colonial rectangular residence, pale blue-gray louvered tall windows, flat roofline with short balustraded parapets, simple horizontal cornices and pilasters. Broad facade rather than tall palace, no grand central outdoor staircase, no gold dome or ornate pediment. Black iron fence in front, leafy street trees, only a small quiet courtyard.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://www.traveloka.com/vi-vn/explore/destination/nha-cong-tu-bac-lieu-acc/217895"
   },
   "bac-lieu-1": {
     "image": "assets/cards/bac-lieu-1.webp",
@@ -1386,9 +1433,11 @@
     "status": "generated"
   },
   "ha-giang-visit-dinh-thu-ho-vuong": {
-    "image": "assets/cards/ha-giang-visit-dinh-thu-ho-vuong.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Dinh thự họ Vương, Vietnam (ha-giang). Dinh thự tại Sà Phìn có tường đá, mái ngói và những lớp sân nối nhau, lưu giữ dấu ấn lịch sử vùng cao nguyên đá. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/ha-giang-visit-dinh-thu-ho-vuong-20261021.webp",
+    "prompt": "Real Vuong family mansion inner rectangular courtyard exactly from photo, weathered grey tiled roofs, dark timber two-storey galleries, simple columns, stone courtyard and modest authentic walls. No polygon fortress or circular enclosing castle.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://www.qdnd.vn/phong-su-anh/dac-sac-kien-truc-dinh-thu-nha-ho-vuong-o-cao-nguyen-da-dong-van-512071"
   },
   "cao-bang-visit-nui-mat-than": {
     "image": "assets/cards/cao-bang-visit-nui-mat-than.webp",
@@ -1406,9 +1455,11 @@
     "status": "generated"
   },
   "bac-kan-visit-dong-hua-ma": {
-    "image": "assets/cards/bac-kan-visit-dong-hua-ma.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Động Hua Mạ, Vietnam (bac-kan). Hang động trong khu vực Ba Bể nổi bật với nhiều nhũ đá và măng đá trong lòng núi đá vôi. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/bac-kan-visit-dong-hua-ma-20261021.webp",
+    "prompt": "Real Hua Ma dry cave matching photographed stalactite formations and dry rock floor. Warm golden lamps, natural rough limestone columns, visitor pathway as photographed. No river, lake, turquoise pool, boat or large open sky.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://arttimes.vn/ban-doc/hua-ma-de-nhat-ky-quan-dong-c50a29160.html"
   },
   "dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu": {
     "image": "assets/cards/dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu.webp",
@@ -1451,9 +1502,11 @@
     "status": "generated"
   },
   "ninh-binh-visit-tam-coc": {
-    "image": "assets/cards/ninh-binh-visit-tam-coc.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Tam Cốc, Vietnam (ninh-binh). Tuyến thuyền theo sông Ngô Đồng đi qua ruộng lúa, núi đá vôi và ba hang xuyên thủy của vùng đất Hoa Lư. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/ninh-binh-visit-tam-coc-20261021.webp",
+    "prompt": "Real Tam Coc river scene from reference, low single cave opening under limestone cliff, rowing wooden sampan on Ngo Dong river, natural plants. Three caves are sequential along route: show ONLY the one real opening in this reference, never three parallel tunnels or invented temple.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vinwonders.com/en/wonderpedia/news/tam-coc-boat-tour/"
   },
   "thanh-hoa-visit-bien-sam-son": {
     "image": "assets/cards/thanh-hoa-visit-bien-sam-son.webp",
@@ -1566,9 +1619,11 @@
     "status": "generated"
   },
   "thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam": {
-    "image": "assets/cards/thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam.webp",
-    "prompt": "Use case: illustration-story. Create ONE standalone SQUARE cartoon collectible illustration of Bảo tàng Văn hóa các dân tộc Việt Nam, Vietnam (thai-nguyen). Bảo tàng ở Thái Nguyên giới thiệu trang phục, nghề thủ công, kiến trúc và đời sống văn hóa của các dân tộc Việt Nam. Style: charming hand drawn travel journal, clean ink contours, simple flat teal green and warm ochre colours, cream light, moderate detail. Depict real recognizable local geography and iconic architecture, with the ENTIRE main subject visible and a generous 12 percent safe margin on every edge. No clipping of plate, food, building or main subject. One coherent scene only. No grid, no collage, no atlas, no split panels, no text, no lettering, no labels, no logos, no card frame. Finished individual game illustration, not a sprite sheet.",
-    "status": "generated"
+    "image": "assets/cards/thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam-20261021.webp",
+    "prompt": "Real Museum of Cultures of Vietnam Ethnic Groups Thai Nguyen entrance. Preserve actual pink-stone low horizontal facade, flat roofline, rectangular carved columns, broad steps and three doorways. No triangular steep roof, no rong house, no lake/mountains invented behind building. Omit banners/text if unreadable.",
+    "status": "generated",
+    "reviewedOn": "2026-10-21",
+    "referenceSource": "https://vietnamtourism.vn/index.php/tourism/items/1878"
   },
   "vinh-phuc-visit-thien-vien-truc-lam-tay-thien": {
     "image": "assets/cards/vinh-phuc-visit-thien-vien-truc-lam-tay-thien.webp",

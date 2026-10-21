@@ -1,0 +1,266 @@
+{
+  "scope": {
+    "cards": 346,
+    "achievements": 10,
+    "food": 82,
+    "reviewedImages": 356
+  },
+  "replacements": [
+    {
+      "id": "thai-binh-4",
+      "name": "Canh cá Quỳnh Côi",
+      "image": "assets/cards/thai-binh-4-20261021.webp",
+      "issue": "Ảnh full có các lá bột rất rộng, gấp tam giác/miếng như hoành thánh và rổ bánh đa miếng; không nhận diện đúng sợi bánh đa của canh cá Quỳnh Côi.",
+      "referenceSource": "https://media.baothaibinh.com.vn/upload/epaper/file/98d2ebc1d48290ba3b7385bbc469ad2a.pdf",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "dak-lak-3",
+      "name": "Bún đỏ Buôn Ma Thuột",
+      "image": "assets/cards/dak-lak-3-20261021.webp",
+      "issue": "Ảnh full giống bún bò/riêu pha: khoanh giò heo cực lớn, huyết và đậu phụ; sợi bún dẹt trắng, không thể hiện sợi bún to đỏ cam và trứng cút đặc trưng bún đỏ.",
+      "referenceSource": "https://vnexpress.net/nhung-mon-nen-thu-o-buon-ma-thuot-4247663.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "khanh-hoa-3",
+      "name": "Nem nướng Ninh Hòa",
+      "image": "assets/cards/khanh-hoa-3-20261021.webp",
+      "issue": "Chén chấm trông như nước mắm ớt trong loãng, khác nước chấm nấu sền sệt là đặc điểm nem nướng Ninh Hòa. Đồng thời ảnh nền kem trống lệch nhóm cảnh nền.",
+      "referenceSource": "https://nongthon.vietnamtourism.gov.vn/nem-nuong-ninh-hoa-nam-trong-top-10-ky-luc-chau-a-moi-ve-am-thuc-va-qua-tang-dac-san-viet-nam/",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "gia-lai-3",
+      "name": "Phở khô Gia Lai",
+      "image": "assets/cards/gia-lai-3-20261021.webp",
+      "issue": "Ảnh full đã đúng hai tô, nhưng sợi khô rất rộng dẹt như phở Bắc, topping bò lát phủ tô khô; đặc điểm phở khô địa phương chưa rõ.",
+      "referenceSource": "https://vnexpress.net/pho-kho-gia-lai-2348464.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "binh-thuan-3",
+      "name": "Lẩu thả Phan Thiết",
+      "image": "assets/cards/binh-thuan-3-20261021.webp",
+      "issue": "Bộ nguyên liệu trong các bát sứ và nồi giữa nhìn như lẩu hải sản chung; thiếu trình bày bẹ bắp chuối thành cánh hoa và đĩa cá mai ở tâm, nên nhận diện lẩu thả yếu.",
+      "referenceSource": "https://vnexpress.net/lau-tha-phan-thiet-4085148.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "thai-nguyen-3",
+      "name": "Bánh chưng Bờ Đậu",
+      "image": "assets/cards/thai-nguyen-3-20261021.webp",
+      "issue": "Phong cách nét và màu vẫn là minh họa, nhưng ảnh cô lập trên nền kem trống lệch bố cục với đa số ảnh có bàn và cảnh vùng phía sau. Không phải lỗi sai món hay ảnh3D.",
+      "referenceSource": "https://nongthon.vietnamtourism.gov.vn/den-thai-nguyen-thuong-thuc-dac-san-banh-chung-bo-dau/",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "thanh-hoa-4",
+      "name": "Bánh răng bừa",
+      "image": "assets/cards/thanh-hoa-4-20261021.webp",
+      "issue": "Phong cách nét và màu vẫn là minh họa, nhưng ảnh cô lập trên nền kem trống lệch bố cục với đa số ảnh có bàn và cảnh vùng phía sau. Không phải lỗi sai món hay ảnh3D.",
+      "referenceSource": "https://vnexpress.net/nhung-mon-banh-gao-ngon-o-thanh-hoa-2932632.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "quang-ngai-3",
+      "name": "Don Quảng Ngãi",
+      "image": "assets/cards/quang-ngai-3-20261021.webp",
+      "issue": "Phong cách nét và màu vẫn là minh họa, nhưng ảnh cô lập trên nền kem trống lệch bố cục với đa số ảnh có bàn và cảnh vùng phía sau. Không phải lỗi sai món hay ảnh3D.",
+      "referenceSource": "https://vnexpress.net/don-dac-san-cua-quang-ngai-2348785.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "tra-vinh-3",
+      "name": "Bún nước lèo Trà Vinh",
+      "image": "assets/cards/tra-vinh-3-20261021.webp",
+      "issue": "Phong cách nét và màu vẫn là minh họa, nhưng ảnh cô lập trên nền kem trống lệch bố cục với đa số ảnh có bàn và cảnh vùng phía sau. Không phải lỗi sai món hay ảnh3D.",
+      "referenceSource": "https://vnexpress.net/net-duyen-tham-cua-thanh-pho-tra-vinh-3118337.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "lang-son-1",
+      "name": "Núi Tô Thị",
+      "image": "assets/cards/lang-son-1-20261021.webp",
+      "issue": "Ảnh full vẽ tượng người mẹ bằng đá khổng lồ cao bằng núi, có mặt/tay rõ, đặt cạnh sông và cầu; đây là cảnh fantasy, không phải dáng tảng đá vọng phu thực.",
+      "referenceSource": "https://baoangiang.com.vn/muc-so-thi-dinh-nui-to-thi-o-lang-son-a404245.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "lao-cai-2",
+      "name": "Dinh Hoàng A Tưởng",
+      "image": "assets/cards/lao-cai-2-20261021.webp",
+      "issue": "Dinh Hoàng A Tưởng trong ảnh thành cung điện mặt tiền hai tầng nhiều cửa vòm và cầu thang thẳng lớn, sai các khối/cầu thang của dinh thực.",
+      "referenceSource": "https://www.vntrip.vn/cam-nang/dinh-hoang-a-tuong-dia-diem-tham-quan-hap-dan-gan-sa-pa-104",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "ha-giang-visit-dinh-thu-ho-vuong",
+      "name": "Dinh thự họ Vương",
+      "image": "assets/cards/ha-giang-visit-dinh-thu-ho-vuong-20261021.webp",
+      "issue": "Ảnh full biến dinh thành thành lũy đá hình đa giác gần tròn, dãy nhà uốn theo vòng tường; dáng tổng thể sai bố cục dinh nhiều lớp sân hình chữ nhật.",
+      "referenceSource": "https://www.qdnd.vn/phong-su-anh/dac-sac-kien-truc-dinh-thu-nha-ho-vuong-o-cao-nguyen-da-dong-van-512071",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "vinh-phuc-0",
+      "name": "Nhà thờ đá Tam Đảo",
+      "image": "assets/cards/vinh-phuc-0-20261021.webp",
+      "issue": "Nhà thờ đá Tam Đảo trong ảnh có tháp chuông nhọn mái nâu, thân công trình giống nhà thờ đá Gothic Sa Pa; cần đối chiếu tháp vuông và hành lang thực.",
+      "referenceSource": "https://vnexpress.net/cam-nang-du-lich-tam-dao-4454746.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "vinh-phuc-1",
+      "name": "Tháp Bình Sơn",
+      "image": "assets/cards/vinh-phuc-1-20261021.webp",
+      "issue": "Tháp Bình Sơn trong ảnh chỉ khoảng 7 tầng và thêm chóp nhọn lớn; khác hiện trạng tháp còn11 tầng, đỉnh đã mất.",
+      "referenceSource": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-binh-son-1294",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "tuyen-quang-0",
+      "name": "Đình Tân Trào",
+      "image": "assets/cards/tuyen-quang-0-20261021.webp",
+      "issue": "Mở full cho thấy mái chất liệu lá, không phải ngói như nghi ngờ thumbnail; tuy nhiên đường mái cong vút/chạm đầu đao và nền bậc đá kiểu đình đồng bằng không bám nhà sàn mái lá cọ Tân Trào thực.",
+      "referenceSource": "https://vietnamtourism.vn/en/index.php/news/items/10709",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "lang-son-0",
+      "name": "Động Tam Thanh",
+      "image": "assets/cards/lang-son-0-20261021.webp",
+      "issue": "Ảnh full ghép ngôi chùa gỗ lớn vào vòm hang khổng lồ ven hồ xanh và cầu đá cong; không mô tả cửa chùa Tam Thanh thực.",
+      "referenceSource": "https://www.traveloka.com/vi-vn/explore/destination/chua-tam-thanh/212089",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "bac-kan-visit-dong-hua-ma",
+      "name": "Động Hua Mạ",
+      "image": "assets/cards/bac-kan-visit-dong-hua-ma-20261021.webp",
+      "issue": "Ảnh full chiếm phần lớn bằng hồ nước xanh chảy trong hang, trong khi Hua Mạ là hang khô trên núi. Mâu thuẫn trực tiếp với câu hỏi hang khô đã sửa.",
+      "referenceSource": "https://arttimes.vn/ban-doc/hua-ma-de-nhat-ky-quan-dong-c50a29160.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "ninh-binh-visit-tam-coc",
+      "name": "Tam Cốc",
+      "image": "assets/cards/ninh-binh-visit-tam-coc-20261021.webp",
+      "issue": "Ảnh full vẽ ba cửa hang nằm ngang cạnh nhau trong một vách đá. Ba hang Tam Cốc là Hang Cả/Hai/Ba theo tuyến sông nối tiếp, không phải ba cửa cạnh nhau.",
+      "referenceSource": "https://vinwonders.com/en/wonderpedia/news/tam-coc-boat-tour/",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "hung-yen-2",
+      "name": "Làng Nôm",
+      "image": "assets/cards/hung-yen-2-20261021.webp",
+      "issue": "Cầu làng Nôm trong tranh là cầu vòm cao ba nhịp kiểu Tây; cầu đá làng Nôm thực có mặt cầu gần phẳng nhiều nhịp.",
+      "referenceSource": "https://vov.vn/du-lich/cay-cau-da-co-dep-nhat-bac-bo-to-diem-them-net-dep-chua-nom-904586.vov",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "dien-bien-0",
+      "name": "Đồi A1",
+      "image": "assets/cards/dien-bien-0-20261021.webp",
+      "issue": "Ảnh A1 gắn một cụm tượng người lính trên đỉnh phía sau cờ, dễ lẫn tượng đài Chiến thắng tại đồi D1; chưa có căn cứ cụm tượng ấy ở A1.",
+      "referenceSource": "https://nvsk.vnanet.vn/print/-ngay-5-5-1954-quan-ta-hoan-thanh-duong-ham-ngam-de-dat-boc-pha-tren-doi-a1-145707.vna",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam",
+      "name": "Bảo tàng Văn hóa các dân tộc Việt Nam",
+      "image": "assets/cards/thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam-20261021.webp",
+      "issue": "Ảnh full dùng công trình mái tam giác nhọn trang trí kiểu nhà rông, cạnh hồ/núi; sai mặt tiền bảo tàng Thái Nguyên thực.",
+      "referenceSource": "https://vietnamtourism.vn/index.php/tourism/items/1878",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "nghe-an-2",
+      "name": "Đảo Lan Châu",
+      "image": "assets/cards/nghe-an-2-20261021.webp",
+      "issue": "Lan Châu được vẽ với cầu đá nhiều nhịp vòm, lan can trang trí dẫn ra mỏm đá như hòn đảo ngoài khơi. Đối chiếu ảnh toàn cảnh thật: Lan Châu là doi đá sát bờ Cửa Lò, có đường/cầu cảng thấp thẳng và bãi cát, không có cầu đá vòm lớn như tranh.",
+      "referenceSource": "https://dansinh.dantri.com.vn/dien-dan-dan-sinh/canh-dep-me-hon-cua-mien-trung-nhin-tu-tren-cao-20201118145133472.htm",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "quang-ngai-2",
+      "name": "Đỉnh Thới Lới",
+      "image": "assets/cards/quang-ngai-2-20261021.webp",
+      "issue": "Thới Lới bị biến thành hồ tròn khổng lồ trong miệng núi lửa xanh rậm, gần như chiếm cả lòng chảo. Ảnh thật cho thấy hồ chứa nhỏ màu xanh xám ở một phần cao phía sau, phần lớn lòng chảo và sườn núi là đất đá/thảm cỏ thấp với đường đi, không rừng thông dày quanh hồ.",
+      "referenceSource": "https://dantri.com.vn/du-lich/nui-lua-trieu-nam-tuoi-va-nhung-canh-dep-hut-hon-du-khach-o-dao-ly-son-20210827174641923.htm",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "quang-ngai-1",
+      "name": "Chùa Thiên Ấn",
+      "image": "assets/cards/quang-ngai-1-20261021.webp",
+      "issue": "Chùa Thiên Ấn trong tranh trở thành quần thể sân bậc thang rất dốc trên vách đá, bảo tháp cao vàng. Ảnh thực tế là khu chùa giữa mặt bằng rừng trên đỉnh đồi, sân đất/đường nhỏ và tháp xám mái đỏ; bố cục đặc trưng bị thay đổi mạnh.",
+      "referenceSource": "https://phatgiao.org.vn/ngoi-chua-300-nam-tuoi-noi-tieng-vung-dat-quang-ngai-d40192.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "dak-nong-2",
+      "name": "Hang núi lửa Chư Bluk",
+      "image": "assets/cards/dak-nong-2-20261021.webp",
+      "issue": "Chư Bluk trong tranh là hai cửa vòm thông nhau ở sườn núi, phía sau là hồ nước lớn và nhiều núi lửa hình nón kiểu đảo xa lạ. Cảnh này không phản ánh hang ống dung nham ngầm Krông Nô.",
+      "referenceSource": "https://en.cand.com.vn/culture-travel/exploring-the-largest-volcanic-cave-in-vietnam-i591275/",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "phu-yen-2",
+      "name": "Hải đăng Đại Lãnh",
+      "image": "assets/cards/phu-yen-2-20261021.webp",
+      "issue": "Vị trí mũi đá và Bãi Môn có thể nhận ra nhưng thân hải đăng được vẽ nhiều cạnh, mái vòm và chóp quá trang trí, khác thân trụ xám trơn cùng đèn/đài quan sát gọn trong ảnh thật.",
+      "referenceSource": "https://baochinhphu.vn/phu-yen-khong-chi-co-hoa-vang-tren-co-xanh-102205751.htm",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "kien-giang-1",
+      "name": "Hòn Phụ Tử",
+      "image": "assets/cards/kien-giang-1-20261021.webp",
+      "issue": "Current card shows two intact upright giant karst towers, recreating pre-collapse appearance without historical labeling.",
+      "referenceSource": "https://tuoitre.vn/gan-20-nam-gap-su-co-gay-do-den-nay-hon-phu-tu-ra-sao-100260629165618354.htm",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "binh-duong-0",
+      "name": "Chùa Hội Khánh",
+      "image": "assets/cards/binh-duong-0-20261021.webp",
+      "issue": "Current Buddha placed on a green hill behind generic temple; actual rooftop placement is defining feature.",
+      "referenceSource": "https://vnexpress.net/ngoi-chua-gan-300-tuoi-co-tuong-phat-nam-dai-nhat-viet-nam-3754188.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "bac-lieu-0",
+      "name": "Nhà Công tử Bạc Liêu",
+      "image": "assets/cards/bac-lieu-0-20261021.webp",
+      "issue": "Current yellow palatial mansion with invented monumental stairs/pediments differs from actual white flat-roofed residence.",
+      "referenceSource": "https://www.traveloka.com/vi-vn/explore/destination/nha-cong-tu-bac-lieu-acc/217895",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "ca-mau-2",
+      "name": "Hòn Đá Bạc",
+      "image": "assets/cards/ca-mau-2-20261021.webp",
+      "issue": "Current card depicts high steep granite pinnacle; actual islands are low and tree-covered.",
+      "referenceSource": "https://www.vietnamplus.vn/ca-mau-thanh-lap-khu-bao-ton-bien-rong-27000ha-post960123.vnp",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "tay-ninh-2",
+      "name": "Tháp Bình Thạnh",
+      "image": "assets/cards/tay-ninh-2-20261021.webp",
+      "issue": "Current tower has tall pointed arch doorway, overly high jagged silhouette and invented mountain landscape.",
+      "referenceSource": "https://vnexpress.net/kien-truc-doc-dao-cua-thap-co-nghin-nam-tuoi-o-tay-ninh-3814659.html",
+      "reviewedOn": "2026-10-21"
+    },
+    {
+      "id": "kien-giang-2",
+      "name": "Hải đăng Nam Du",
+      "image": "assets/cards/kien-giang-2-20261021.webp",
+      "issue": "Current card invents an ornate tall tapering cylindrical stone lighthouse. Reported on-site2025 photo shows functional modern white light-station facade among trees; tower/gallery details in separate photo. Many tourism sites use photos of Dai Lanh/Ke Ga under NamDu captions, so do not copy those.",
+      "referenceSource": "https://congthuong.vn/nguoi-gac-ngon-hai-dang-o-nam-du-419076.html",
+      "reviewedOn": "2026-10-21"
+    }
+  ]
+}

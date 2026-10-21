@@ -18,7 +18,8 @@
       "tien-giang",
       "vinh-long"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Một nhịp nối đầu tiên đã đổi cách người ta qua sông Tiền."
   },
   {
     "id": "egg-cau-rach-mieu-1",
@@ -37,7 +38,8 @@
       "tien-giang",
       "ben-tre"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Bên kia dòng sông, những vườn dừa đang chờ một nhịp nối."
   },
   {
     "id": "egg-cau-vam-cong",
@@ -56,7 +58,8 @@
       "dong-thap",
       "can-tho"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Có một nhịp nối qua sông Hậu, nơi những chuyến phà thành ký ức."
   },
   {
     "id": "egg-hai-van",
@@ -76,7 +79,8 @@
       "hue",
       "da-nang"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Qua dải núi ôm biển, một cửa ải xưa vẫn nhìn mây trôi."
   },
   {
     "id": "egg-deo-ca",
@@ -95,7 +99,8 @@
       "phu-yen",
       "khanh-hoa"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Nơi núi chạm biển, một cung đường nối hai miền nắng gió."
   },
   {
     "id": "dong-nai-visit-vuon-quoc-gia-cat-tien",
@@ -117,7 +122,8 @@
       "binh-phuoc",
       "lam-dong"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Những trang rừng bên nhau đang giấu một vùng đất ngập nước xanh."
   },
   {
     "id": "egg-vuon-quoc-gia-cuc-phuong",
@@ -137,7 +143,8 @@
       "hoa-binh",
       "thanh-hoa"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Một khu rừng lâu đời đang nối những trang đá vôi xanh."
   },
   {
     "id": "egg-vuon-quoc-gia-tam-dao",
@@ -157,7 +164,8 @@
       "thai-nguyen",
       "tuyen-quang"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Ba đỉnh núi trong sương đang giấu một khu rừng giữa các vùng đất."
   },
   {
     "id": "egg-vuon-quoc-gia-hoang-lien",
@@ -176,7 +184,8 @@
       "lao-cai",
       "lai-chau"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Theo rừng lên cao, có một đỉnh núi chạm tầng mây."
   },
   {
     "id": "egg-ha-long-cat-ba",
@@ -204,7 +213,8 @@
       "quang-ninh",
       "hai-phong"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Những đảo đá nối hai miền biển thành một bức tranh lớn."
   },
   {
     "id": "egg-dan-ca-quan-ho",
@@ -244,7 +254,8 @@
       "source": "https://ich.unesco.org/en/RL/quan-ho-bac-ninh-folk-songs-00183",
       "hint": "Một hình thức hát đối đáp ở Kinh Bắc."
     },
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Có lời hát tìm người đối đáp ở hai bờ miền Kinh Bắc."
   },
   {
     "id": "egg-vuon-quoc-gia-yok-don",
@@ -284,7 +295,8 @@
       "dak-lak",
       "dak-nong"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Trên thảm lá rừng khô, dấu chân voi nối những vùng đất."
   },
   {
     "id": "egg-dan-ca-vi-giam",
@@ -325,6 +337,7 @@
       "nghe-an",
       "ha-tinh"
     ],
-    "minimumRegions": 2
+    "minimumRegions": 2,
+    "secretHint": "Có lời hát theo nhịp lao động, vọng qua hai miền quê liền nhau."
   }
 ]

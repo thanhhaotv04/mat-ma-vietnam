@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';import {normalize,fresh,eggUnlocked,eggRegions} from '../dist/core.mjs';
+const d=JSON.parse(readFileSync('dist/data.json'));
+test('All thirteen secrets have short non-spoiler hints without changing region requirements',()=>{const eggs=d.cards.filter(c=>c.easterEgg);assert.equal(eggs.length,13);for(const c of eggs){assert(typeof c.secretHint==='string'&&c.secretHint.length>20&&c.secretHint.length<140,c.id);assert(!normalize(c.secretHint).includes(normalize(c.name)),c.id);const regions=eggRegions(d,c),s=fresh('A',regions[0]);assert(!eggUnlocked(d,s,c),c.id);s.starts.push(regions[1]);assert(eggUnlocked(d,s,c),c.id);}});
