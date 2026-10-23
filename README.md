@@ -1,6 +1,56 @@
 # Mật Mã Việt Nam
 
-Game trình duyệt khám phá Việt Nam qua bản đồ, câu đố hình ảnh và thẻ sưu tập. Bản static HTML/CSS/JavaScript, dùng Firebase Authentication và Cloud Firestore để lưu tiến trình riêng theo tài khoản.
+**Giải mật mã, khám phá Việt Nam.** Game trình duyệt đưa bạn qua các vùng đất bằng bản đồ tương tác, câu đố nhận diện hình ảnh và thẻ sưu tập về địa danh, di sản và đặc sản.
+
+<p align="center">
+  <a href="https://mat-ma-viet-nam.web.app"><strong>🎮 Chơi ngay trên trình duyệt →</strong></a><br>
+  <sub>Không cần cài đặt · Chơi trên máy tính hoặc điện thoại</sub>
+</p>
+
+[![Màn hình bắt đầu Mật Mã Việt Nam với lựa chọn điểm xuất phát và các thẻ địa danh, đặc sản](docs/images/01-start.jpg)](https://mat-ma-viet-nam.web.app)
+
+## Khám phá và sưu tập
+
+1. **Chọn điểm xuất phát:** đặt tên người chơi và chọn nơi bắt đầu hành trình.
+2. **Giải câu đố:** quan sát ảnh dần hé lộ, ghép chữ tên địa danh hoặc chọn đáp án về đặc sản.
+3. **Nhận thẻ và mở đường:** đọc giới thiệu sau mỗi đáp án đúng, bổ sung bộ sưu tập và mở khóa những vùng tiếp theo.
+
+Hành trình gồm **34 chương, 63 vùng khám phá và 346 thẻ địa danh, đặc sản**, cùng các thẻ thành tựu. Bạn có thể chơi với hồ sơ khách hoặc đăng nhập để đồng bộ tiến trình giữa các thiết bị.
+
+### Sổ hành trình và câu đố hình ảnh
+
+| Chọn thẻ trên bản đồ | Quan sát ảnh và ghép tên địa danh |
+| --- | --- |
+| ![Sổ hành trình tại Hà Nội, bản đồ bên trái và các thẻ bí ẩn bên phải](docs/images/02-journey.jpg) | ![Câu đố Chùa Một Cột với ảnh hé lộ từng ô và các chữ cái để ghép đáp án](docs/images/03-image-quiz.jpg) |
+
+### Bộ sưu tập của bạn
+
+| Địa danh nổi tiếng | Đặc sản từng vùng |
+| --- | --- |
+| ![Bộ sưu tập địa danh đã mở, gồm Hồ Hoàn Kiếm, Văn Miếu, Chùa Một Cột và Ngọ Môn](docs/images/04-collection.jpg) | ![Bộ sưu tập đặc sản đã mở, gồm Phở Hà Nội, Bún bò Huế, Mì Quảng và Cua Cà Mau](docs/images/05-specialties.jpg) |
+
+### Một vài thẻ trong game
+
+<p align="center">
+  <img src="docs/images/card-chua-mot-cot.png" width="220" alt="Thẻ địa danh Chùa Một Cột">
+  <img src="docs/images/card-hoang-thanh.png" width="220" alt="Thẻ Hoàng thành Thăng Long với huy hiệu UNESCO">
+  <img src="docs/images/card-specialty.png" width="220" alt="Thẻ đặc sản Phở Hà Nội">
+</p>
+
+Mỗi thẻ có tranh minh họa riêng. Sau khi mở thẻ, bạn có thể xem lại hình ảnh, phần giới thiệu và nguồn tham khảo trong game.
+
+<details>
+<summary><strong>Xem giao diện trên điện thoại</strong></summary>
+
+<p align="center"><img src="docs/images/06-mobile.jpg" width="300" alt="Giao diện điện thoại với bản đồ phía trên và bộ sưu tập đặc sản phía dưới"></p>
+
+</details>
+
+*Ảnh chụp từ bản chạy cục bộ; bộ sưu tập dùng tiến trình mẫu để minh họa. Tranh thẻ là hình minh họa, không phải ảnh chụp địa điểm hoặc món ăn.*
+
+## Công nghệ
+
+Bản static **HTML/CSS/JavaScript**, dùng **Firebase Authentication** và **Cloud Firestore** để lưu tiến trình riêng theo tài khoản; có lưu cục bộ trên trình duyệt.
 
 ## Chạy
 
