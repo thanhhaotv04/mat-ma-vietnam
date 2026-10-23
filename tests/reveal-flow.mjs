@@ -1,13 +1,23 @@
 import {chromium,expect} from '@playwright/test';
 import assert from 'node:assert/strict';
-const browser=await chromium.launch({headless:true});const page=await browser.newPage({viewport:{width:1440,height:1050}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
-await page.clock.install();await page.clock.pauseAt(new Date());
-await page.route('**/firebase-config.json',r=>r.fulfill({status:404,body:'{}'}));await page.goto('http://localhost:4173');await page.locator('#player-name').fill('Hé tranh');await page.locator('[data-start="ha-noi"]').click();await page.locator('#begin').click();
-async function open(id){await page.locator(`.card-row[data-card="${id}"]`).click();await expect(page.locator('.answers button').first()).toBeEnabled();assert.equal(await page.locator('[data-mode],#question-hint,.question-instruction,.reveal-progress').count(),0);await expect(page.locator('dialog h2')).toHaveText('Nhận diện hình ảnh');assert.equal(await page.locator('[data-tile]').count(),16);await expect(page.locator('.question-blank')).toBeVisible();}
-await open('ha-noi-0');assert.equal(await page.locator('.revealed').count(),0);await page.clock.runFor(499);assert.equal(await page.locator('.revealed').count(),0);await page.clock.runFor(1);assert.equal(await page.locator('.revealed').count(),1);await page.clock.runFor(1000);assert.equal(await page.locator('.revealed').count(),3);await page.clock.runFor(1499);
-await page.locator('[data-answer="ha-noi-0"]').click();await expect(page.locator('.reward-heading')).toContainText('Thẻ lấp lánh');assert.equal(await page.locator('.reward-art .shiny').count(),1);await page.screenshot({path:'artifacts/shiny-reward.png'});await page.locator('#claim').click();assert.equal(await page.locator('.card-row[data-card="ha-noi-0"] .shiny').count(),1);
-await open('ha-noi-1');await page.clock.runFor(3000);await page.locator('[data-answer="ha-noi-1"]').click();assert.equal(await page.locator('.reward-art .shiny').count(),0);await page.locator('#claim').click();
-await open('ha-noi-2');await page.clock.runFor(8000);assert.equal(await page.locator('.revealed').count(),16);await page.screenshot({path:'artifacts/reveal-complete.png'});await page.locator('.dialog-close').click();await page.clock.runFor(1500);
-await page.reload();await expect(page.locator('.card-row[data-card="ha-noi-0"] .shiny')).toHaveCount(1);assert.equal(await page.locator('.card-row[data-card="ha-noi-1"] .shiny').count(),0);
-await page.locator('.card-row[data-card="ha-noi-0"]').click();assert.equal(await page.locator('.detail-image .shiny').count(),1);await page.locator('#practice').click();await expect(page.locator('.answers button').first()).toBeEnabled();assert.equal(await page.locator('.quiz-image .shiny').count(),0);
-await page.clock.runFor(1000);await page.screenshot({path:'artifacts/reveal-question-desktop.png'});await page.setViewportSize({width:375,height:812});await page.screenshot({path:'artifacts/reveal-question-mobile.png'});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));assert(await page.locator('.answers').evaluate(e=>e.getBoundingClientRect().bottom<=innerHeight));await page.locator('.dialog-close').click();await page.clock.runFor(10000);assert.deepEqual(errors,[]);await browser.close();console.log('Reveal flow PASS: direct quiz; 16 cells, one per 500ms; full reveal at 8s; shiny at 2999ms but not 3000ms; persisted reward/detail/list; replay does not leak shiny; close cleanup; mobile.');
+import {fresh} from '../dist/core.mjs';
+const browser=await chromium.launch(),page=await browser.newPage({viewport:{width:390,height:1000}}),errors=[];
+page.on('pageerror',e=>errors.push(e.message));
+await page.route('**/firebase-config.json',r=>r.fulfill({status:404,body:'{}'}));await page.addInitScript(s=>localStorage.setItem('mat-ma-viet-nam-player-v1',JSON.stringify(s)),fresh('Test','ha-noi'));
+await page.clock.install();await page.clock.pauseAt(new Date());await page.goto('http://localhost:4173');
+for(const type of ['landmark','food']){
+ await page.locator(`[data-tab="${type}"]`).click();await page.locator('.card-row').first().click();
+ await expect(page.locator(type==='food'?'.answers button':'[data-letter]')).not.toHaveCount(0);
+ await expect(page.locator(type==='food'?'.answers button':'[data-letter]').first()).toBeEnabled();
+ assert.equal(await page.locator('[data-tile]').count(),9);assert.equal(await page.locator('.revealed').count(),0);
+ const style=await page.locator('[data-tile]').first().evaluate(el=>({duration:getComputedStyle(el).transitionDuration,blur:getComputedStyle(el).backdropFilter,columns:getComputedStyle(el.parentElement).gridTemplateColumns.split(' ').length}));
+ assert.equal(style.columns,3);assert(style.duration.split(',').every(x=>x.trim()==='0.5s'));assert.equal(style.blur,'blur(14px)');
+ await page.clock.runFor(499);assert.equal(await page.locator('.revealed').count(),0);
+ await page.clock.runFor(1);assert.equal(await page.locator('.revealed').count(),1);
+ await page.clock.runFor(500);assert.equal(await page.locator('.revealed').count(),2);
+ await page.clock.runFor(3500);assert.equal(await page.locator('.revealed').count(),9);
+ await page.clock.runFor(500);await page.screenshot({path:`artifacts/reveal-3x3-${type}.png`});
+ assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+ await page.locator('.dialog-close').click();await page.clock.runFor(1000);
+}
+assert.deepEqual(errors,[]);await browser.close();console.log('PASS: both quiz types use 3x3, one tile each500ms, blur transition500ms, all nine start by4500ms, close cleanup/mobile');

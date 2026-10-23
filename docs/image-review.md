@@ -49,5 +49,5 @@ Không thay các ảnh Côn Đảo, Hỏa Lò và Phú Quốc vừa được ng�
 
 ## Hành vi đi kèm
 
-- Lấp lánh: đúng ngay lần chọn đầu trong lượt thử thách, thời gian dưới 3.000 ms, chỉ khi nhận mới thẻ. Thẻ đã có không nâng độ lấp lánh khi chơi lại. Các thẻ lấp lánh cũ được giữ nguyên.
+- Lấp lánh: đúng ngay lần chọn đầu trong lượt thử thách, địa danh dưới 10.000 ms, đặc sản dưới 3.000 ms, chỉ khi nhận mới thẻ. Thẻ đã có không nâng độ lấp lánh khi chơi lại. Các thẻ lấp lánh cũ được giữ nguyên.
 - Gợi ý bí mật: một câu gợi mở ở vùng có liên quan, không lộ tên hoặc ảnh thẻ khóa; không đổi điều kiện mở bằng hai vùng nhỏ.

@@ -1,0 +1,11 @@
+{
+  "id": "quang-ninh-visit-bao-tang-quang-ninh",
+  "image": "assets/cards/quang-ninh-visit-bao-tang-quang-ninh-v2.webp",
+  "original": "output/card-originals/quang-ninh-visit-bao-tang-quang-ninh-v2.png",
+  "revision": "Giữ bố cục ảnh tham chiếu, giảm độ bóng kính và màu xanh rực, màu gouache ấm, nét viền mềm; bỏ chữ mặt tiền tránh lộ đáp án.",
+  "styleReferences": [
+    "ha-noi-extra-4",
+    "lam-dong-1"
+  ],
+  "previousImage": "assets/cards/quang-ninh-visit-bao-tang-quang-ninh.webp"
+}

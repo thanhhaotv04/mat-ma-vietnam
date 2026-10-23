@@ -1,0 +1,1641 @@
+{
+  "ha-noi-0": {
+    "province": "Thành phố Hà Nội",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Hoàn Kiếm",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Ho%C3%A0n_Ki%E1%BA%BFm_Lake"
+  },
+  "ha-noi-1": {
+    "province": "Thành phố Hà Nội",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Văn Miếu - Quốc Tử Giám",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_%E2%80%93_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m"
+  },
+  "ha-noi-2": {
+    "province": "Thành phố Hà Nội",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Ba Đình",
+    "coordinateSource": "https://en.wikipedia.org/wiki/One_Pillar_Pagoda"
+  },
+  "tuyen-quang-0": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Tân Trào",
+    "coordinateSource": "https://moit.gov.vn/upload/2005517/20210623/_TT22-2013-BTNMT.pdf"
+  },
+  "tuyen-quang-1": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "https://www.google.com/maps/search/L%C3%A1n%20N%C3%A0%20N%C6%B0a%20Tuy%C3%AAn%20Quang/@22.0978135,105.16841204058693,11z?hl=vi&gl=vn",
+    "commune": "Xã Tân Trào",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QFFM+XX2, Tân Trào, Tuyên Quang, Việt Nam",
+    "mapsName": "Lán Nà Nưa"
+  },
+  "tuyen-quang-2": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-giang-0": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Lũng Cú",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q28197259"
+  },
+  "ha-giang-1": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-giang-2": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "cao-bang-0": {
+    "province": "Tỉnh Cao Bằng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Đàm Thuỷ",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_B%E1%BA%A3n_Gi%E1%BB%91c"
+  },
+  "cao-bang-1": {
+    "province": "Tỉnh Cao Bằng",
+    "source": "https://www.google.com/maps/search/Su%E1%BB%91i%20L%C3%AA%20Nin%20Cao%20B%E1%BA%B1ng/@22.7382685,106.2561520931851,11z?hl=vi&gl=vn",
+    "commune": "Xã Trường Hà",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Trường Hà, Cao Bằng, Việt Nam",
+    "mapsName": "suối Lê Nin"
+  },
+  "cao-bang-2": {
+    "province": "Tỉnh Cao Bằng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Đàm Thuỷ",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Ngao"
+  },
+  "lai-chau-0": {
+    "province": "Tỉnh Lai Châu",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Sin Suối Hồ",
+    "coordinateSource": "https://dulich.laichau.gov.vn/vi/place/details/sin-suoi-ho-20"
+  },
+  "lai-chau-1": {
+    "province": "Tỉnh Lai Châu",
+    "source": "https://baolaichau.vn/du-lich/khoi-sac-du-lich-tan-uyen-775547",
+    "commune": "Xã Tân Uyên"
+  },
+  "lai-chau-2": {
+    "province": "Tỉnh Lai Châu",
+    "source": "https://www.google.com/maps/search/%C4%90%E1%BB%99ng%20Pu%20Sam%20C%C3%A1p%20Lai%20Ch%C3%A2u/@22.248486,103.26573071970577,11z?hl=vi&gl=vn",
+    "commune": "Phường Đoàn Kết",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "99VR+7CH, Bế Văn Đàn, Đoàn Kết, Lai Châu, Việt Nam",
+    "mapsName": "Động PuSamCap"
+  },
+  "lao-cai-0": {
+    "province": "Tỉnh Lào Cai",
+    "source": "https://cdn.baolaocai.vn/files/c20a495f62b93c228222b86242e215b84a89361aa5c0f89d43511aa315fad1ba2c5511e927874c28f6a4d3102c222f0c/cuoi-tuan-3.pdf",
+    "commune": "Phường Sa Pa"
+  },
+  "lao-cai-1": {
+    "province": "Tỉnh Lào Cai",
+    "source": "https://paivietnam.vn/vi/locations/all-locations/nha-tho-da-sapa-1176?from=location",
+    "commune": "Phường Sa Pa"
+  },
+  "lao-cai-2": {
+    "province": "Tỉnh Lào Cai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Bắc Hà",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Dinh_Ho%C3%A0ng_A_T%C6%B0%E1%BB%9Fng"
+  },
+  "yen-bai-0": {
+    "province": "Tỉnh Lào Cai",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "yen-bai-1": {
+    "province": "Tỉnh Lào Cai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Thác Bà",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Th%C3%A1c_B%C3%A0"
+  },
+  "yen-bai-2": {
+    "province": "Tỉnh Lào Cai",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "thai-nguyen-0": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%93i+Ch%C3%A8+T%C3%A2n+C%C6%B0%C6%A1ng+-+HTX+Ti%E1%BA%BFn+Y%C3%AAn/data=!4m7!3m6!1s0x3134df855f8a25cf:0xf817203590e3aed0!8m2!3d21.5429972!4d105.762811!16s%2Fg%2F11l26xzb53!19sChIJzyWKX4XfNDER0K7jkDUgF_g?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Tân Cương",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "GQV7+54V, Tân Cương, Thái Nguyên, Việt Nam",
+    "mapsName": "Đồi Chè Tân Cương - HTX Tiến Yên"
+  },
+  "thai-nguyen-1": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Vạn Phú",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_N%C3%BAi_C%E1%BB%91c"
+  },
+  "thai-nguyen-2": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "https://www.google.com/maps/search/ATK%20%C4%90%E1%BB%8Bnh%20H%C3%B3a%20Th%C3%A1i%20Nguy%C3%AAn/@21.686712999999997,105.85639024200711,11z?hl=vi&gl=vn",
+    "commune": "Xã Phú Đình",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tỉn Keo - ATK, Phú Đình, Thái Nguyên, Việt Nam",
+    "mapsName": "ATK Định Hóa"
+  },
+  "bac-kan-0": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "bac-kan-1": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Ba Bể",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Pu%C3%B4ng"
+  },
+  "bac-kan-2": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Ba Bể",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_%C4%90%E1%BA%A7u_%C4%90%E1%BA%B3ng"
+  },
+  "dien-bien-0": {
+    "province": "Tỉnh Điện Biên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Điện Biên Phủ",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q31400429"
+  },
+  "dien-bien-1": {
+    "province": "Tỉnh Điện Biên",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "dien-bien-2": {
+    "province": "Tỉnh Điện Biên",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "lang-son-0": {
+    "province": "Tỉnh Lạng Sơn",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Tam Thanh",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748541"
+  },
+  "lang-son-1": {
+    "province": "Tỉnh Lạng Sơn",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Tam Thanh",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_T%C3%B4_Th%E1%BB%8B"
+  },
+  "lang-son-2": {
+    "province": "Tỉnh Lạng Sơn",
+    "source": "https://www.google.com/maps/place/%E1%BA%A2i+Chi+L%C4%83ng/data=!4m7!3m6!1s0x314aa8244b471e1d:0x27c117709c314123!8m2!3d21.6199437!4d106.5420561!16s%2Fg%2F11gf1rcyt8!19sChIJHR5HSySoSjERI0ExnHAXwSc?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Chi Lăng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "JG9R+XRF thời 1950, QL1, Chi Lăng, Lạng Sơn, Việt Nam",
+    "mapsName": "Ải Chi Lăng"
+  },
+  "son-la-0": {
+    "province": "Tỉnh Sơn La",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%93i+Ch%C3%A8+M%E1%BB%99c+Ch%C3%A2u/data=!4m7!3m6!1s0x3133eb72899919f1:0x92aa361862dee80c!8m2!3d20.8337431!4d104.693191!16s%2Fg%2F11pz3jqtyx!19sChIJ8RmZiXLrMzERDOjeYhg2qpI?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Thảo Nguyên",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      104.693191,
+      20.8337431
+    ],
+    "mapsName": "Đồi Chè Mộc Châu"
+  },
+  "son-la-1": {
+    "province": "Tỉnh Sơn La",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Mộc Châu",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_D%E1%BA%A3i_Y%E1%BA%BFm"
+  },
+  "son-la-2": {
+    "province": "Tỉnh Sơn La",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20t%C3%B9%20S%C6%A1n%20La%20S%C6%A1n%20La/@21.302243,104.13824301163724,11z?hl=vi&gl=vn",
+    "commune": "Phường Tô Hiệu",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Khau Cả, Tô Hiệu, Sơn La, Việt Nam",
+    "mapsName": "Di Tích Nhà Tù Sơn La"
+  },
+  "phu-tho-0": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Hy Cương",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng"
+  },
+  "phu-tho-1": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "https://phutho.gov.vn/gia-han-tien-do-su-dung-dat-doi-voi-du-an-cua-hang-kinh-doanh-dich-vu-tong-hop-phuc-vu-phat-trien-du-lich-doi-che-long-coc-cua-doanh-nghiep-tu-nhan-vy-linh-ngoc-viet-tai-xa-long-coc-tinh-phu-tho-111539",
+    "commune": "Xã Long Cốc"
+  },
+  "phu-tho-2": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "https://congan.phutho.gov.vn/article/LUC-LUONG-AN-NINH-DOI-NGOAI-TANG-CUONG-CONG-TAC-31278-48",
+    "commune": "Phường Vân Phú"
+  },
+  "vinh-phuc-0": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "vinh-phuc-1": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "vinh-phuc-2": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Xuân Hoà",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_%C4%90%E1%BA%A1i_L%E1%BA%A3i"
+  },
+  "hoa-binh-0": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hoa-binh-1": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Hoà Bình",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_Th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh"
+  },
+  "hoa-binh-2": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "bac-ninh-0": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20D%C3%A2u%20B%E1%BA%AFc%20Ninh/@21.1167565,106.10905814770527,11z?hl=vi&gl=vn",
+    "commune": "Phường Trí Quả",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "22PV+628, Lạc Long Quân, Đại Tự, Trí Quả, Bắc Ninh 790000, Việt Nam",
+    "mapsName": "Chùa Dâu"
+  },
+  "bac-ninh-1": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Trí Quả",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p"
+  },
+  "bac-ninh-2": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Từ Sơn",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90%C3%B4"
+  },
+  "bac-giang-0": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "https://www.google.com/maps/place/Ch%C3%B9a+V%C4%A9nh+Nghi%C3%AAm/data=!4m7!3m6!1s0x3135706a90ed42fd:0xe8759c0fb2522cad!8m2!3d21.2135393!4d106.3243371!16s%2Fg%2F1hm20kgwg!19sChIJ_ULtkGpwNTERrSxSsg-cdeg?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Tân An",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Quốc Khánh, Tân An, Bắc Ninh 220000, Việt Nam",
+    "mapsName": "Chùa Vĩnh Nghiêm"
+  },
+  "bac-giang-1": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20B%E1%BB%95%20%C4%90%C3%A0%20B%E1%BA%AFc%20Giang/@21.3743035,106.46619346614952,11z?hl=vi&gl=vn",
+    "commune": "Phường Vân Hà",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đ. Vành Đai 4, Thượng Lát, Vân Hà, Bắc Ninh, Việt Nam",
+    "mapsName": "Chùa Bổ Đà"
+  },
+  "bac-giang-2": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Sơn Hải",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_C%E1%BA%A5m_S%C6%A1n"
+  },
+  "quang-ninh-0": {
+    "province": "Tỉnh Quảng Ninh",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "quang-ninh-1": {
+    "province": "Tỉnh Quảng Ninh",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20%C4%90%E1%BB%93ng%20Y%C3%AAn%20T%E1%BB%AD%20Qu%E1%BA%A3ng%20Ninh/@21.2389965,107.21156383268712,11z?hl=vi&gl=vn",
+    "commune": "Phường Yên Tử",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "5P67+9X8, 5P67+9XF Đỉnh Yên Tử, Yên Tử, Nam Mẫu, Yên Tử, Quảng Ninh 207900, Việt Nam",
+    "mapsName": "Chùa Đồng Yên Tử"
+  },
+  "quang-ninh-2": {
+    "province": "Tỉnh Quảng Ninh",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hai-phong-0": {
+    "province": "Thành phố Hải Phòng",
+    "source": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A1t+Th%C3%A0nh+ph%E1%BB%91+H%E1%BA%A3i+Ph%C3%B2ng/data=!4m7!3m6!1s0x314a7b15a4559941:0xaaead3b47e5359a2!8m2!3d20.8573109!4d106.681815!16s%2Fm%2F0k2lv0g!19sChIJQZlVpBV7SjERollTfrTT6qo?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Hồng Bàng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "28 P. Trần Hưng Đạo, Hồng Bàng, Hải Phòng, Việt Nam",
+    "mapsName": "Nhà hát Thành phố Hải Phòng"
+  },
+  "hai-phong-1": {
+    "province": "Thành phố Hải Phòng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hai-phong-2": {
+    "province": "Thành phố Hải Phòng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hai-duong-0": {
+    "province": "Thành phố Hải Phòng",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20C%C3%B4n%20S%C6%A1n%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng/@20.961045,106.36007468849455,11z?hl=vi&gl=vn",
+    "commune": "Phường Trần Hưng Đạo",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "núi Côn Sơn, Trần Hưng Đạo, Hải Phòng 174251, Việt Nam",
+    "mapsName": "Chùa Côn Sơn"
+  },
+  "hai-duong-1": {
+    "province": "Thành phố Hải Phòng",
+    "source": "https://www.google.com/maps/search/%C4%90%E1%BB%81n%20Ki%E1%BA%BFp%20B%E1%BA%A1c%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng/@20.961045,106.36007468849455,11z?hl=vi&gl=vn",
+    "commune": "Phường Trần Hưng Đạo",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Côn Sơn-Kiếp Bạc, Trần Hưng Đạo, Hải Phòng 170000, Việt Nam",
+    "mapsName": "Đền Kiếp Bạc"
+  },
+  "hai-duong-2": {
+    "province": "Thành phố Hải Phòng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Mao Điền",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Mao_%C4%90i%E1%BB%81n"
+  },
+  "hung-yen-0": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "https://dulich.hungyen.gov.vn/vi/chuachuonphohiendenhatdanhlam",
+    "commune": "Phường Phố Hiến"
+  },
+  "hung-yen-1": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Sơn Nam",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_X%C3%ADch_%C4%90%E1%BA%B1ng"
+  },
+  "hung-yen-2": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "https://congan.hungyen.gov.vn/cong-an-xa-dai-dong-dam-bao-antt-le-cong-bo-quyet-dinh-cong-nhan-diem-du-lich-di-tich-lich-su-van-ho-c239537.html",
+    "commune": "Xã Đại Đồng"
+  },
+  "thai-binh-0": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Vũ Tiên",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Keo_Th%C3%A1i_B%C3%ACnh"
+  },
+  "thai-binh-1": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Long Hưng",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_(Long_H%C6%B0ng)"
+  },
+  "thai-binh-2": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20%C4%90%E1%BB%93ng%20Ch%C3%A2u%20Th%C3%A1i%20B%C3%ACnh/@20.4888045,106.38782511156084,11z?hl=vi&gl=vn",
+    "commune": "Xã Đồng Châu",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đồng Châu, Hưng Yên, Việt Nam",
+    "mapsName": "Khu Du Lịch Biển Đồng Châu"
+  },
+  "ninh-binh-0": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Tây Hoa Lư",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_danh_th%E1%BA%AFng_Tr%C3%A0ng_An"
+  },
+  "ninh-binh-1": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Nam Hoa Lư",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Hang_M%C3%BAa"
+  },
+  "ninh-binh-2": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Tây Hoa Lư",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%A1i_%C4%90%C3%ADnh"
+  },
+  "ha-nam-0": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "https://www.google.com/maps/place/Ch%C3%B9a+Tam+Ch%C3%BAc/data=!4m7!3m6!1s0x3135cd00135b7f1f:0x41115bcf136136e4!8m2!3d20.5705071!4d105.8143322!16s%2Fg%2F11x374vdqm!19sChIJH39bEwDNNTER5DZhE89bEUE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Tam Chúc",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "HRC7+6P4, Tam Chúc, Ninh Bình, Việt Nam",
+    "mapsName": "Chùa Tam Chúc"
+  },
+  "ha-nam-1": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-nam-2": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Trần Thương",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_Th%C6%B0%C6%A1ng"
+  },
+  "nam-dinh-0": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Nam Định",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748515"
+  },
+  "nam-dinh-1": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20th%E1%BB%9D%20%C4%91%E1%BB%95%20H%E1%BA%A3i%20L%C3%BD%20Nam%20%C4%90%E1%BB%8Bnh/@20.191273000000002,106.27232415166517,11z?hl=vi&gl=vn",
+    "commune": "Xã Hải Tiến",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tổ dân phố 13, Hải Tiến, Ninh Bình 07942, Việt Nam",
+    "mapsName": "Nhà thờ đổ Hải Lý"
+  },
+  "nam-dinh-2": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "https://www.google.com/maps/search/C%E1%BA%A7u%20ng%C3%B3i%20ch%C3%B9a%20L%C6%B0%C6%A1ng%20Nam%20%C4%90%E1%BB%8Bnh/@20.191273000000002,106.27232415166517,11z?hl=vi&gl=vn",
+    "commune": "Xã Hải Anh",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Hai Anh Commune, Xóm 3, Hải Anh, Ninh Bình, Việt Nam",
+    "mapsName": "Cầu ngói chùa Lương"
+  },
+  "thanh-hoa-0": {
+    "province": "Tỉnh Thanh Hoá",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Tây Đô",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_nh%C3%A0_H%E1%BB%93"
+  },
+  "thanh-hoa-1": {
+    "province": "Tỉnh Thanh Hoá",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Pù Luông",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/P%C3%B9_Lu%C3%B4ng"
+  },
+  "thanh-hoa-2": {
+    "province": "Tỉnh Thanh Hoá",
+    "source": "https://www.google.com/maps/place/Khu+Di+t%C3%ADch+L%E1%BB%8Bch+s%E1%BB%AD+Lam+kinh/data=!4m7!3m6!1s0x3136e9fd289f5539:0xc17e6b6b431b1f09!8m2!3d19.9253941!4d105.4070605!16s%2Fg%2F1235kd6xh!19sChIJOVWfKP3pNjERCR8bQ2trfsE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Lam Sơn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đường Lê Thái Tổ, Lam Sơn, Thanh Hóa, Việt Nam",
+    "mapsName": "Khu Di tích Lịch sử Lam kinh"
+  },
+  "nghe-an-0": {
+    "province": "Tỉnh Nghệ An",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Kim Liên",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn"
+  },
+  "nghe-an-1": {
+    "province": "Tỉnh Nghệ An",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BA%A3o+Ch%C3%A8+Thanh+Ch%C6%B0%C6%A1ng/data=!4m10!3m9!1s0x3139effa20fc9553:0x24b8ec00ffff694a!5m2!4m1!1i2!8m2!3d18.731346!4d105.2812454!16s%2Fg%2F11mv4vy83x!19sChIJU5X8IPrvOTERSmn__wDsuCQ?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Hoa Quân",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Xóm An Ngọc xã, Hoa Quân, Nghệ An 44727, Việt Nam",
+    "mapsName": "Đảo Chè Thanh Chương"
+  },
+  "nghe-an-2": {
+    "province": "Tỉnh Nghệ An",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-tinh-0": {
+    "province": "Tỉnh Hà Tĩnh",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-tinh-1": {
+    "province": "Tỉnh Hà Tĩnh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Can Lộc",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%C6%B0%C6%A1ng_T%C3%ADch"
+  },
+  "ha-tinh-2": {
+    "province": "Tỉnh Hà Tĩnh",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20Thi%C3%AAn%20C%E1%BA%A7m%20H%C3%A0%20T%C4%A9nh/@18.339983,105.60929002640103,11z?hl=vi&gl=vn",
+    "commune": "Xã Thiên Cầm",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Thiên Cầm, Hà Tĩnh, Việt Nam",
+    "mapsName": "Bãi biển Thiên Cầm"
+  },
+  "quang-tri-0": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Quảng Trị",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B"
+  },
+  "quang-tri-1": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Bến Hải",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng"
+  },
+  "quang-tri-2": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Cửa Tùng",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_V%E1%BB%8Bnh_M%E1%BB%91c"
+  },
+  "quang-binh-0": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Phong Nha",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha"
+  },
+  "quang-binh-1": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Phong Nha",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng"
+  },
+  "quang-binh-2": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hue-0": {
+    "province": "Thành phố Huế",
+    "source": "https://www.google.com/maps/place/Ng%E1%BB%8D+M%C3%B4n/data=!4m7!3m6!1s0x3141a133c94c1643:0x43fd52385dcfacbf!8m2!3d16.4676928!4d107.5791741!16s%2Fm%2F0gtwzxc!19sChIJQxZMyTOhQTERv6zPXThS_UM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Phú Xuân",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "FH9H+3MF, Phú Xuân, Huế, Việt Nam",
+    "mapsName": "Ngọ Môn"
+  },
+  "hue-1": {
+    "province": "Thành phố Huế",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Kim Long",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q975568"
+  },
+  "hue-2": {
+    "province": "Thành phố Huế",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Phú Xuân",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C6%B0%E1%BB%9Dng_Ti%E1%BB%81n"
+  },
+  "da-nang-0": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "da-nang-1": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "https://www.google.com/maps/search/Ng%C5%A9%20H%C3%A0nh%20S%C6%A1n%20%C4%90%C3%A0%20N%E1%BA%B5ng/@16.0669805,108.0341959067696,11z?hl=vi&gl=vn",
+    "commune": "Phường Ngũ Hành Sơn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+    "mapsName": "Ngũ Hành Sơn"
+  },
+  "da-nang-2": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "https://www.google.com/maps/place/C%E1%BA%A7u+V%C3%A0ng/data=!4m7!3m6!1s0x3141f73d19c5d38f:0x63766c11470ab50d!8m2!3d15.9949375!4d107.9965625!16s%2Fg%2F11f7r5z2l1!19sChIJj9PFGT33QTERDbUKRxFsdmM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Bà Nà",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      107.9965625,
+      15.9949375
+    ],
+    "mapsName": "Cầu Vàng"
+  },
+  "quang-nam-0": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20C%E1%BA%A7u%20H%E1%BB%99i%20An%20Qu%E1%BA%A3ng%20Nam/@15.5097325,108.00249983436507,11z?hl=vi&gl=vn",
+    "commune": "Phường Hội An",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Nguyễn Thị Minh Khai, Hội An, Đà Nẵng 564010, Việt Nam",
+    "mapsName": "Chùa Cầu"
+  },
+  "quang-nam-1": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Thu Bồn",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+  },
+  "quang-nam-2": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Tân Hiệp",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Ch%C3%A0m"
+  },
+  "quang-ngai-0": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "quang-ngai-1": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Thi%C3%AAn%20%E1%BA%A4n%20Qu%E1%BA%A3ng%20Ng%C3%A3i/@14.9787575,108.45014729000559,11z?hl=vi&gl=vn",
+    "commune": "Phường Trương Quang Trọng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "4RX9+87P, Trương Quang Trọng, Quảng Ngãi, Việt Nam",
+    "mapsName": "Chùa Thiên Ấn"
+  },
+  "quang-ngai-2": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Đặc khu Lý Sơn",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q78339129"
+  },
+  "kon-tum-0": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Kon Tum",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10800901"
+  },
+  "kon-tum-1": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20r%C3%B4ng%20Kon%20Klor%20Kon%20Tum/@14.670559,108.0284276133815,11z?hl=vi&gl=vn",
+    "commune": "Phường Kon Tum",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Nhà rông KonK'lor, Trần Hưng Đạo, Kon Tum, Quảng Ngãi, Việt Nam",
+    "mapsName": "Nhà Rông Konklor Kon Tum"
+  },
+  "kon-tum-2": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "https://www.google.com/maps/place/KDL+Th%C3%A1c+Pa+S%E1%BB%B9/data=!4m7!3m6!1s0x3169432a9374abc5:0x1f99d0152cbffebf!8m2!3d14.5951015!4d108.256702!16s%2Fg%2F11bz0b2bc1!19sChIJxat0kypDaTERv_6_LBXQmR8?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Măng Đen",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Măng Đen, Quảng Ngãi 60000, Việt Nam",
+    "mapsName": "KDL Thác Pa Sỹ"
+  },
+  "gia-lai-0": {
+    "province": "Tỉnh Gia Lai",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20H%E1%BB%93%20T%C6%A1%20N%C6%B0ng%20Gia%20Lai/@13.799813499999999,108.13795388304175,11z?hl=vi&gl=vn",
+    "commune": "Xã Biển Hồ",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Biển Hồ, Gia Lai, Việt Nam",
+    "mapsName": "Biển Hồ"
+  },
+  "gia-lai-1": {
+    "province": "Tỉnh Gia Lai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Biển Hồ",
+    "coordinateSource": "https://vbpl.vn/FileData/TW/Lists/vbpq/Attachments/148042/VanBanGoc_04-2021-tt-btnmt.pdf"
+  },
+  "gia-lai-2": {
+    "province": "Tỉnh Gia Lai",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Minh%20Th%C3%A0nh%20Gia%20Lai/@13.799813499999999,108.13795388304175,11z?hl=vi&gl=vn",
+    "commune": "Phường Hội Phú",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "348 đường Nguyễn Viết Xuân, Hội Phú, Gia Lai 600000, Việt Nam",
+    "mapsName": "Chùa Minh Thành"
+  },
+  "binh-dinh-0": {
+    "province": "Tỉnh Gia Lai",
+    "source": "https://www.google.com/maps/place/Khu+Du+L%E1%BB%8Bch+Eo+Gi%C3%B3/data=!4m7!3m6!1s0x316f43bbd047c227:0xb6f5a42174801909!8m2!3d13.8844244!4d109.2918356!16s%2Fg%2F11j9cz2zrs!19sChIJJ8JH0LtDbzERCRmAdCGk9bY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Quy Nhơn Đông",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed Road, Hưng Lương, Quy Nhơn Đông, Gia Lai, Việt Nam",
+    "mapsName": "Khu Du Lịch Eo Gió"
+  },
+  "binh-dinh-1": {
+    "province": "Tỉnh Gia Lai",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "binh-dinh-2": {
+    "province": "Tỉnh Gia Lai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Quy Nhơn",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10825860"
+  },
+  "dak-lak-0": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Liên Sơn Lắk",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_L%E1%BA%AFk"
+  },
+  "dak-lak-1": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "https://www.google.com/maps/search/Th%C3%A1c%20Dray%20Nur%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk/@12.788586,108.41738198571116,11z?hl=vi&gl=vn",
+    "commune": "Xã Ea Na",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "thôn Buôn Kuốp, Ea Na, Đắk Lắk, Việt Nam",
+    "mapsName": "Thác Đray Nur"
+  },
+  "dak-lak-2": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20%C4%91%C3%A0y%20Bu%C3%B4n%20Ma%20Thu%E1%BB%99t%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk/@12.788586,108.41738198571116,11z?hl=vi&gl=vn",
+    "commune": "Phường Buôn Ma Thuột",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "27 Phạm Hồng Thái, Buôn Ma Thuột, Đắk Lắk 63000, Việt Nam",
+    "mapsName": "Nhà Đày Buôn Ma Thuột"
+  },
+  "phu-yen-0": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "https://www.google.com/maps/place/G%C3%A0nh+%C4%90%C3%A1+%C4%90%C4%A9a/data=!4m7!3m6!1s0x316f9bd2d7763f91:0xbf05c47b09caa799!8m2!3d13.3539579!4d109.2937518!16s%2Fg%2F11jm5jj1bz!19sChIJkT9219KbbzERmafKCXvEBb8?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Tuy An Đông",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed Road, Tuy An Đông, Đắk Lắk, Việt Nam",
+    "mapsName": "Gành Đá Đĩa"
+  },
+  "phu-yen-1": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Tuy Hoà",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10825850"
+  },
+  "phu-yen-2": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "https://www.google.com/maps/search/H%E1%BA%A3i%20%C4%91%C4%83ng%20%C4%90%E1%BA%A1i%20L%C3%A3nh%20Ph%C3%BA%20Y%C3%AAn/@13.1998745,109.07334919817603,11z?hl=vi&gl=vn",
+    "commune": "Xã Hoà Xuân",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "thôn Đồng Bé, xã, Hòa Xuân, Đắk Lắk, Việt Nam",
+    "mapsName": "Hải đăng Đại Lãnh"
+  },
+  "khanh-hoa-0": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "https://www.google.com/maps/search/Th%C3%A1p%20B%C3%A0%20Ponagar%20Kh%C3%A1nh%20H%C3%B2a/@12.3360305,108.94155221009035,11z?hl=vi&gl=vn",
+    "commune": "Phường Bắc Nha Trang",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "61 Hai Tháng Tư, Bắc Nha Trang, Khánh Hòa 650000, Việt Nam",
+    "mapsName": "Tháp Bà Ponagar"
+  },
+  "khanh-hoa-1": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "https://www.google.com/maps/place/H%C3%B2n+Ch%E1%BB%93ng/data=!4m7!3m6!1s0x317067ebf764f3e1:0x669216540dfca111!8m2!3d12.27292!4d109.2064934!16s%2Fg%2F11b6nt3f42!19sChIJ4fNk9-tncDEREaH8DVQWkmY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Bắc Nha Trang",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Bắc Nha Trang, Khánh Hòa 650000, Việt Nam",
+    "mapsName": "Hòn Chồng"
+  },
+  "khanh-hoa-2": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Nha Trang",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C3%BAi_Nha_Trang"
+  },
+  "ninh-thuan-0": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Đô Vinh",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q1069757"
+  },
+  "ninh-thuan-1": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ninh-thuan-2": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "lam-dong-0": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "lam-dong-1": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Xuân Hương - Đà Lạt",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t"
+  },
+  "lam-dong-2": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/search/N%C3%BAi%20Langbiang%20L%C3%A2m%20%C4%90%E1%BB%93ng/@11.766276999999999,108.06675880040086,11z?hl=vi&gl=vn",
+    "commune": "Phường Lang Biang - Đà Lạt",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Lang Biang - Đà Lạt, Lâm Đồng, Việt Nam",
+    "mapsName": "Lang Bian"
+  },
+  "dak-nong-0": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "dak-nong-1": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Đông Gia Nghĩa",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Li%C3%AAng_Nung"
+  },
+  "dak-nong-2": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/search/Hang%20n%C3%BAi%20l%E1%BB%ADa%20Ch%C6%B0%20Bluk%20%C4%90%E1%BA%AFk%20N%C3%B4ng/@12.280572,107.74131099438398,11z?hl=vi&gl=vn",
+    "commune": "Xã Nam Đà",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "FWGV+8XV, Unnamed, Road, Nam Đà, Lâm Đồng, Việt Nam",
+    "mapsName": "Quần thể hang động - núi lửa Chư Blúk"
+  },
+  "binh-thuan-0": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/search/B%C3%A0u%20Tr%E1%BA%AFng%20B%C3%ACnh%20Thu%E1%BA%ADn/@11.0618965,107.95074581689735,11z?hl=vi&gl=vn",
+    "commune": "Xã Hoà Thắng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Hòa Thắng, Lâm Đồng, Việt Nam",
+    "mapsName": "Bàu Trắng"
+  },
+  "binh-thuan-1": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/place/H%E1%BA%A3i+%C4%90%C4%83ng+K%C3%AA+G%C3%A0/data=!4m7!3m6!1s0x3175d68ee1e9fd13:0x3c0f966dd4c667d9!8m2!3d10.6952887!4d107.9915644!16s%2Fg%2F1212mg_3!19sChIJE_3p4Y7WdTER2WfG1G2WDzw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Tân Thành",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed Rd, Kê Gà, Tân Thành, Lâm Đồng, Việt Nam",
+    "mapsName": "Hải Đăng Kê Gà"
+  },
+  "binh-thuan-2": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Hàm Thuận Nam",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_T%C3%A0_C%C3%BA"
+  },
+  "dong-nai-0": {
+    "province": "Thành phố Đồng Nai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Xuân Lộc",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_Ch%E1%BB%A9a_Chan"
+  },
+  "dong-nai-1": {
+    "province": "Thành phố Đồng Nai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Trấn Biên",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn"
+  },
+  "dong-nai-2": {
+    "province": "Thành phố Đồng Nai",
+    "source": "https://www.google.com/maps/place/Th%C3%A1c+Giang+%C4%90i%E1%BB%81n/data=!4m7!3m6!1s0x3174e16c1f7b43a7:0x9a4673251bc5d1d5!8m2!3d10.9185234!4d106.9892328!16s%2Fg%2F1vqtd8s6!19sChIJp0N7H2zhdDER1dHFGyVzRpo?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Trảng Bom",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "104/4 ấp Hoà Bình, Trảng Bom, Đồng Nai, Việt Nam",
+    "mapsName": "Thác Giang Điền"
+  },
+  "binh-phuoc-0": {
+    "province": "Thành phố Đồng Nai",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Phước Long",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_R%C3%A1"
+  },
+  "binh-phuoc-1": {
+    "province": "Thành phố Đồng Nai",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "binh-phuoc-2": {
+    "province": "Thành phố Đồng Nai",
+    "source": "https://www.google.com/maps/search/S%C3%B3c%20Bom%20Bo%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc/@11.799986,106.91510652401746,11z?hl=vi&gl=vn",
+    "commune": "Xã Bom Bo",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "R5QQ+FH, Unnamed, Road, Bom Bo, Đồng Nai, Việt Nam",
+    "mapsName": "Sóc Bom Bo"
+  },
+  "tay-ninh-0": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Bình Minh",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_%C4%90en"
+  },
+  "tay-ninh-1": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Long Hoa",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/T%C3%B2a_Th%C3%A1nh_T%C3%A2y_Ninh"
+  },
+  "tay-ninh-2": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "https://www.google.com/maps/search/Th%C3%A1p%20B%C3%ACnh%20Th%E1%BA%A1nh%20T%C3%A2y%20Ninh/@11.372991500000001,106.10898811404856,11z?hl=vi&gl=vn",
+    "commune": "Xã Phước Chỉ",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Bình Phú, Phước Chỉ, Tây Ninh, Việt Nam",
+    "mapsName": "Tháp Cổ Bình Thạnh"
+  },
+  "long-an-0": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Long Hựu",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_tr%C4%83m_c%E1%BB%99t"
+  },
+  "long-an-1": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "https://www.google.com/maps/search/L%C3%A0ng%20n%E1%BB%95i%20T%C3%A2n%20L%E1%BA%ADp%20Long%20An/@10.713355,106.12515132120582,11z?hl=vi&gl=vn",
+    "commune": "Xã Mộc Hoá",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QL62, ấp 3, Mộc Hóa, Tây Ninh 850000, Việt Nam",
+    "mapsName": "Làng Nổi Tân Lập"
+  },
+  "long-an-2": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "tphcm-0": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Bến Thành",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh"
+  },
+  "tphcm-1": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Bến Thành",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp"
+  },
+  "tphcm-2": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Sài Gòn",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%A0i_G%C3%B2n"
+  },
+  "binh-duong-0": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Thủ Dầu Một",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q5877747"
+  },
+  "binh-duong-1": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20Tr%E1%BA%A7n%20V%C4%83n%20H%E1%BB%95%20B%C3%ACnh%20D%C6%B0%C6%A1ng/@11.183341500000001,106.67364540055965,11z?hl=vi&gl=vn",
+    "commune": "Phường Thủ Dầu Một",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "XMH2+57R, Bạch Đằng, Thủ Dầu Một, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Nhà cổ Trần Văn Hổ"
+  },
+  "binh-duong-2": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "https://www.google.com/maps/place/L%C3%A0ng+s%C6%A1n+M%C3%A0i+T%C6%B0%C6%A1ng+B%C3%ACnh+Hi%E1%BB%87p+%2F+Tuong+Binh+Hiep+Lacquer+Handicraft+village/data=!4m7!3m6!1s0x3174d1fd66c095f9:0x4d0cd8467b8467ad!8m2!3d11.0054741!4d106.6435221!16s%2Fg%2F11wppgwb3_!19sChIJ-ZXAZv3RdDERrWeEe0bYDE0?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Chánh Hiệp",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "17 Hồ Văn Cống, Chánh Hiệp, Hồ Chí Minh 820000, Việt Nam",
+    "mapsName": "Làng sơn Mài Tương Bình Hiệp / Tuong Binh Hiep Lacquer Handicraft village"
+  },
+  "ba-ria---vung-tau-0": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "https://www.google.com/maps/place/H%E1%BA%A3i+%C4%91%C4%83ng+V%C5%A9ng+T%C3%A0u/data=!4m7!3m6!1s0x31756552a003a9b9:0x32769656e2f73fb9!8m2!3d10.334091!4d107.077663!16s%2Fg%2F12z65svxw!19sChIJuakDoFJldTERuT_34laWdjI?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Vũng Tàu",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "40 Hải Đăng, Vũng Tàu, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Hải đăng Vũng Tàu"
+  },
+  "ba-ria---vung-tau-1": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Vũng Tàu",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/T%C6%B0%E1%BB%A3ng_Ch%C3%BAa_Kit%C3%B4_Vua_(V%C5%A9ng_T%C3%A0u)"
+  },
+  "ba-ria---vung-tau-2": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "https://www.google.com/maps/place/B%E1%BA%A1ch+Dinh/data=!4m7!3m6!1s0x31756f0059e18389:0x7846a65c55dcaed4!8m2!3d10.3508458!4d107.0686614!16s%2Fg%2F11wc5wdcgw!19sChIJiYPhWQBvdTER1K7cVVymRng?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Vũng Tàu",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "6 Trần Phú, Vũng Tàu, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Bạch Dinh"
+  },
+  "dong-thap-0": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "dong-thap-1": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "dong-thap-2": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Đốc Binh Kiều",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10763514"
+  },
+  "tien-giang-0": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20V%C4%A9nh%20Tr%C3%A0ng%20Ti%E1%BB%81n%20Giang/@10.390146000000001,106.31728457019065,11z?hl=vi&gl=vn",
+    "commune": "Phường Mỹ Phong",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Khu phố Mỹ An, Mỹ Phong, Đồng Tháp, Việt Nam",
+    "mapsName": "Chùa Vĩnh Tràng"
+  },
+  "tien-giang-1": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Thới Sơn",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n"
+  },
+  "tien-giang-2": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20%C3%B4ng%20Ki%E1%BB%87t%20Ti%E1%BB%81n%20Giang/@10.390146000000001,106.31728457019065,11z?hl=vi&gl=vn",
+    "commune": "Xã Cái Bè",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Số 22 ấp Phú Hòa, Cái Bè, Đồng Tháp, Việt Nam",
+    "mapsName": "Nhà cổ Ông Kiệt"
+  },
+  "an-giang-0": {
+    "province": "Tỉnh An Giang",
+    "source": "https://www.google.com/maps/place/Mi%E1%BA%BFu+B%C3%A0+Ch%C3%BAa+X%E1%BB%A9+N%C3%BAi+Sam/data=!4m7!3m6!1s0x310a212738470c33:0xd5bd168bc8d1ddc7!8m2!3d10.6823393!4d105.0802997!16s%2Fg%2F121bq847!19sChIJMwxHOCchCjERx93RyIsWvdU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Vĩnh Tế",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "925 Phạm Văn Bạch Khóm, Vĩnh Tây 1, Vĩnh Tế, An Giang, Việt Nam",
+    "mapsName": "Miếu Bà Chúa Xứ Núi Sam"
+  },
+  "an-giang-1": {
+    "province": "Tỉnh An Giang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "an-giang-2": {
+    "province": "Tỉnh An Giang",
+    "source": "https://www.google.com/maps/place/H%E1%BB%93+%C4%90%C3%A1+%C4%90%E1%BB%93i+T%C3%A0+P%E1%BA%A1/data=!4m7!3m6!1s0x3109f84c7ff0cca9:0x66de19436e8705f3!8m2!3d10.4135479!4d104.9895143!16s%2Fg%2F1th5x7k0!19sChIJqczwf0z4CTER8wWHbkMZ3mY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Tri Tôn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tri Tôn, An Giang, Việt Nam",
+    "mapsName": "Hồ Đá Đồi Tà Pạ"
+  },
+  "kien-giang-0": {
+    "province": "Tỉnh An Giang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "kien-giang-1": {
+    "province": "Tỉnh An Giang",
+    "source": "https://www.google.com/maps/place/h%C3%B2n+Ph%E1%BB%A5+T%E1%BB%AD/data=!4m7!3m6!1s0x31a767967a9a5ff3:0x474ebc2d372179b2!8m2!3d10.1356854!4d104.6374669!16s%2Fg%2F120rlpy1!19sChIJ81-aepZnpzERsnkhNy28Tkc?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Kiên Lương",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      104.6374669,
+      10.1356854
+    ],
+    "mapsName": "hòn Phụ Tử"
+  },
+  "kien-giang-2": {
+    "province": "Tỉnh An Giang",
+    "source": "https://www.google.com/maps/search/H%E1%BA%A3i%20%C4%91%C4%83ng%20Nam%20Du%20Ki%C3%AAn%20Giang/@9.9615485,105.29253676400052,11z?hl=vi&gl=vn",
+    "commune": "Đặc khu Kiên Hải",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "M9H3+C6W, Kiên Hải, An Giang, Việt Nam",
+    "mapsName": "Hải Đăng Nam Du"
+  },
+  "vinh-long-0": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "vinh-long-1": {
+    "province": "Tỉnh Đồng Tháp / Tỉnh Vĩnh Long",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "vinh-long-2": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "https://www.google.com/maps/search/L%C3%A0ng%20g%E1%BA%A1ch%20Mang%20Th%C3%ADt%20V%C4%A9nh%20Long/@10.1072915,105.98567866054574,11z?hl=vi&gl=vn",
+    "commune": "Xã Nhơn Phú",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "63G9+RHW, Nhơn Phú, Vĩnh Long, Việt Nam",
+    "mapsName": "Làng Gốm Vĩnh Long"
+  },
+  "ben-tre-0": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Phú Túc",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng"
+  },
+  "ben-tre-1": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ben-tre-2": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "tra-vinh-0": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "https://www.google.com/maps/search/Ao%20B%C3%A0%20Om%20Tr%C3%A0%20Vinh/@9.8048285,106.28578724362245,11z?hl=vi&gl=vn",
+    "commune": "Phường Nguyệt Hoá",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "khóm 3, Nguyệt Hóa, Vĩnh Long, Việt Nam",
+    "mapsName": "Ao Bà Om"
+  },
+  "tra-vinh-1": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Nguyệt Hoá",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C3%82ng"
+  },
+  "tra-vinh-2": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Hang%20Tr%C3%A0%20Vinh%20Tr%C3%A0%20Vinh/@9.8048285,106.28578724362245,11z?hl=vi&gl=vn",
+    "commune": "Xã Châu Thành",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Hai Tháng Chín, ấp 4, Châu Thành, Vĩnh Long, Việt Nam",
+    "mapsName": "Chùa Hang"
+  },
+  "can-tho-0": {
+    "province": "Thành phố Cần Thơ",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Cái Răng",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748803"
+  },
+  "can-tho-1": {
+    "province": "Thành phố Cần Thơ",
+    "source": "https://www.google.com/maps/place/B%E1%BA%BFn+Ninh+Ki%E1%BB%81u/data=!4m7!3m6!1s0x31a06298aae43e71:0xc6a64bdac582285d!8m2!3d10.0322715!4d105.7882308!16s%2Fg%2F11_ygvs77!19sChIJcT7kqphioDERXSiCxdpLpsY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Ninh Kiều",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "106 Đ. Hai Bà Trưng, Ninh Kiều, Cần Thơ, Việt Nam",
+    "mapsName": "Bến Ninh Kiều"
+  },
+  "can-tho-2": {
+    "province": "Thành phố Cần Thơ",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20B%C3%ACnh%20Th%E1%BB%A7y%20C%E1%BA%A7n%20Th%C6%A1/@10.122256,105.51843513236201,11z?hl=vi&gl=vn",
+    "commune": "Phường Bình Thuỷ",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "144 Đ. Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ, Việt Nam",
+    "mapsName": "Nhà cổ Bình Thủy"
+  },
+  "hau-giang-0": {
+    "province": "Thành phố Cần Thơ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hau-giang-1": {
+    "province": "Thành phố Cần Thơ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hau-giang-2": {
+    "province": "Thành phố Cần Thơ",
+    "source": "https://www.google.com/maps/place/Di+t%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Chi%E1%BA%BFn+th%E1%BA%AFng+Ch%C6%B0%C6%A1ng+Thi%E1%BB%87n/data=!4m7!3m6!1s0x31a0e97f96accc8d:0xd346717dfe046ce9!8m2!3d9.7934558!4d105.4799333!16s%2Fg%2F11r131454g!19sChIJjcysln_poDER6WwE_n1xRtM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Vị Tân",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QFVH+9XM, Unnamed Road, Vị Tân, Cần Thơ, Việt Nam",
+    "mapsName": "Di tích lịch sử Chiến thắng Chương Thiện"
+  },
+  "soc-trang-0": {
+    "province": "Thành phố Cần Thơ",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Phú Lợi",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10748406"
+  },
+  "soc-trang-1": {
+    "province": "Thành phố Cần Thơ",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Som%20Rong%20S%C3%B3c%20Tr%C4%83ng/@9.591527,105.9209102790041,11z?hl=vi&gl=vn",
+    "commune": "Phường Sóc Trăng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "367 đường Tôn Đức Thắng, Sóc Trăng, Cần Thơ, Việt Nam",
+    "mapsName": "Chùa Som Rong - Phường Sóc Trăng"
+  },
+  "soc-trang-2": {
+    "province": "Thành phố Cần Thơ",
+    "source": "https://www.google.com/maps/place/Ch%C3%B9a+S%C3%A0+L%C3%B4n+%28Ch%C3%B9a+Ch%C3%A9n+Ki%E1%BB%83u%29/data=!4m7!3m6!1s0x31a053285856b929:0x1b52d486c9c69998!8m2!3d9.5381435!4d105.9203096!16s%2Fg%2F119vp8gzp!19sChIJKblWWChToDERmJnGyYbUUhs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Mỹ Xuyên",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QL1A, Khu vực Đại Thành, Mỹ Xuyên, Cần Thơ, Việt Nam",
+    "mapsName": "Chùa Sà Lôn (Chùa Chén Kiểu)"
+  },
+  "ca-mau-0": {
+    "province": "Tỉnh Cà Mau",
+    "source": "https://www.google.com/maps/place/Khu+Du+l%E1%BB%8Bch+M%C5%A9i+C%C3%A0+Mau/data=!4m7!3m6!1s0x31a4150072e894e7:0xbc2ce63aeb38d825!8m2!3d8.6066232!4d104.7218061!16s%2Fg%2F11xf65fdd8!19sChIJ55TocgAVpDERJdg46zrmLLw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Đất Mũi",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "JP4C+GPW, Đất Mũi, Cà Mau, Việt Nam",
+    "mapsName": "Khu Du lịch Mũi Cà Mau"
+  },
+  "ca-mau-1": {
+    "province": "Tỉnh Cà Mau",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ca-mau-2": {
+    "province": "Tỉnh Cà Mau",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Đá Bạc",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/H%C3%B2n_%C4%90%C3%A1_B%E1%BA%A1c"
+  },
+  "bac-lieu-0": {
+    "province": "Tỉnh Cà Mau",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20C%C3%B4ng%20t%E1%BB%AD%20B%E1%BA%A1c%20Li%C3%AAu%20B%E1%BA%A1c%20Li%C3%AAu/@9.328808,105.53200191883768,11z?hl=vi&gl=vn",
+    "commune": "Phường Bạc Liêu",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "13 Điện Biên Phủ, Bạc Liêu, Cà Mau 84291, Việt Nam",
+    "mapsName": "Nhà Công tử Bạc Liêu"
+  },
+  "bac-lieu-1": {
+    "province": "Tỉnh Cà Mau",
+    "source": "https://www.google.com/maps/search/C%C3%A1nh%20%C4%91%E1%BB%93ng%20%C4%91i%E1%BB%87n%20gi%C3%B3%20B%E1%BA%A1c%20Li%C3%AAu%20B%E1%BA%A1c%20Li%C3%AAu/@9.328808,105.53200191883768,11z?hl=vi&gl=vn",
+    "commune": "Phường Hiệp Thành",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "6RM3+WW3, Điện gió Bạc Liêu, Hiệp Thành, Cà Mau, Việt Nam",
+    "mapsName": "Cánh Đồng Điện Gió Bạc Liêu"
+  },
+  "bac-lieu-2": {
+    "province": "Tỉnh Cà Mau",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Châu Thới",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Th%C3%A1p_V%C4%A9nh_H%C6%B0ng"
+  },
+  "ha-noi-extra-4": {
+    "province": "Thành phố Hà Nội",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Ba Đình",
+    "coordinateSource": "https://whc.unesco.org/en/list/1328/"
+  },
+  "thanh-hoa-extra-5": {
+    "province": "Tỉnh Thanh Hoá",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "thanh-hoa-extra-6": {
+    "province": "Tỉnh Thanh Hoá",
+    "source": "https://www.google.com/maps/search/Su%E1%BB%91i%20c%C3%A1%20C%E1%BA%A9m%20L%C6%B0%C6%A1ng%20Thanh%20H%C3%B3a/@19.9786715,105.4954750436278,11z?hl=vi&gl=vn",
+    "commune": "Xã Cẩm Tú",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "thôn Lương Ngọc, Cẩm Tú, Thanh Hóa, Việt Nam",
+    "mapsName": "Suối Cá thần Cẩm Lương"
+  },
+  "quang-nam-extra-5": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Hội An",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_c%E1%BB%95_H%E1%BB%99i_An"
+  },
+  "hai-phong-extra-5": {
+    "province": "Thành phố Hải Phòng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "lam-dong-extra-5": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%93i+Ch%C3%A8+C%E1%BA%A7u+%C4%90%E1%BA%A5t/data=!4m7!3m6!1s0x317116dda7eb76c3:0x653f7aed2c2bff4e!8m2!3d11.8790807!4d108.5605075!16s%2Fg%2F11gf1yz65w!19sChIJw3brp90WcTERTv8rLO16P2U?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Xuân Trường - Đà Lạt",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Xuân Trường - Đà Lạt, Lâm Đồng, Việt Nam",
+    "mapsName": "Đồi Chè Cầu Đất"
+  },
+  "kien-giang-extra-5": {
+    "province": "Tỉnh An Giang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "tphcm-extra-5": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Xóm Chiếu",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q16481264"
+  },
+  "da-nang-extra-4": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Hải Châu",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%B4ng_H%C3%A0n"
+  },
+  "ha-noi-visit-cau-long-bien": {
+    "province": "Thành phố Hà Nội",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-giang-visit-dinh-thu-ho-vuong": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Sà Phìn",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Dinh_th%E1%BB%B1_h%E1%BB%8D_V%C6%B0%C6%A1ng"
+  },
+  "cao-bang-visit-nui-mat-than": {
+    "province": "Tỉnh Cao Bằng",
+    "source": "https://www.google.com/maps/search/N%C3%BAi%20M%E1%BA%AFt%20Th%E1%BA%A7n%20Cao%20B%E1%BA%B1ng/@22.7382685,106.2561520931851,11z?hl=vi&gl=vn",
+    "commune": "Xã Trà Lĩnh",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Trà Lĩnh, Cao Bằng, Việt Nam",
+    "mapsName": "Núi Mắt Thần"
+  },
+  "lai-chau-visit-thac-tac-tinh": {
+    "province": "Tỉnh Lai Châu",
+    "source": "https://www.google.com/maps/place/Th%C3%A1c+T%C3%A1c+T%C3%ACnh/data=!4m7!3m6!1s0x36cd5ec0bb2f2cfd:0x1cb83bd8fdbc8d51!8m2!3d22.3473478!4d103.6135992!16s%2Fg%2F12j3sfhfq!19sChIJ_Swvu8BezTYRUY28_dg7uBw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Tả Lèng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tả Lèng, Lai Châu, Việt Nam",
+    "mapsName": "Thác Tác Tình"
+  },
+  "lao-cai-visit-ban-cat-cat": {
+    "province": "Tỉnh Lào Cai",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "bac-kan-visit-dong-hua-ma": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Ba Bể",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Hua_M%E1%BA%A1"
+  },
+  "dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu": {
+    "province": "Tỉnh Điện Biên",
+    "source": "https://www.google.com/maps/place/T%C6%B0%E1%BB%A3ng+%C4%91%C3%A0i+Chi%E1%BA%BFn+Th%E1%BA%AFng+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7/data=!4m7!3m6!1s0x312d085f702bb3bf:0x1b4a0ebcc9e088b7!8m2!3d21.3924324!4d103.0165036!16s%2Fg%2F1239vjtp!19sChIJv7MrcF8ILTERt4jgybwOShs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Điện Biên Phủ",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      103.0165036,
+      21.3924324
+    ],
+    "mapsName": "Tượng đài Chiến Thắng Điện Biên Phủ"
+  },
+  "lang-son-visit-thanh-nha-mac-lang-son": {
+    "province": "Tỉnh Lạng Sơn",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%89nh+n%C3%BAi+Th%C3%A0nh+Nh%C3%A0+M%E1%BA%A1c+-+L%E1%BA%A1ng+S%C6%A1n/data=!4m7!3m6!1s0x36b54f0039ad775b:0xe1d48acce65da13e!8m2!3d21.8565978!4d106.7478512!16s%2Fg%2F11ntskhw71!19sChIJW3etOQBPtTYRPqFd5syK1OE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Tam Thanh",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "VP4X+J4Q, Tam Thanh, Lạng Sơn, Việt Nam",
+    "mapsName": "Đỉnh núi Thành Nhà Mạc - Lạng Sơn"
+  },
+  "son-la-visit-rung-thong-ban-ang": {
+    "province": "Tỉnh Sơn La",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "hoa-binh-visit-thung-nai": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "bac-ninh-visit-lang-tranh-dong-ho": {
+    "province": "Tỉnh Bắc Ninh",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "quang-ninh-visit-bao-tang-quang-ninh": {
+    "province": "Tỉnh Quảng Ninh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Hồng Gai",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Qu%E1%BA%A3ng_Ninh"
+  },
+  "hai-phong-visit-bien-do-son": {
+    "province": "Thành phố Hải Phòng",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20%C4%90%E1%BB%93%20S%C6%A1n%20H%E1%BA%A3i%20Ph%C3%B2ng/@20.809183,106.67468793182069,11z?hl=vi&gl=vn",
+    "commune": "Phường Đồ Sơn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Khu du lịch Đồ Sơn, Đồ Sơn, Hải Phòng, Việt Nam",
+    "mapsName": "Bãi biển Đồ Sơn"
+  },
+  "thai-binh-visit-con-den": {
+    "province": "Tỉnh Hưng Yên",
+    "source": "https://www.google.com/maps/place/Khu+du+l%E1%BB%8Bch+sinh+th%C3%A1i+bi%E1%BB%83n+C%E1%BB%93n+%C4%90en/data=!4m7!3m6!1s0x314a0897462c2595:0xb8463f16dbc4a9b0!8m2!3d20.4874692!4d106.6025731!16s%2Fg%2F1tlbr67q!19sChIJlSUsRpcISjERsKnE2xY_Rrg?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Đông Thái Ninh",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đông Thái Ninh, Hưng Yên, Việt Nam",
+    "mapsName": "Khu du lịch sinh thái biển Cồn Đen"
+  },
+  "ninh-binh-visit-tam-coc": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Nam Hoa Lư",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Tam_C%E1%BB%91c_%E2%80%93_B%C3%ADch_%C4%90%E1%BB%99ng"
+  },
+  "thanh-hoa-visit-bien-sam-son": {
+    "province": "Tỉnh Thanh Hoá",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "nghe-an-visit-bien-cua-lo": {
+    "province": "Tỉnh Nghệ An",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ha-tinh-visit-ho-ke-go": {
+    "province": "Tỉnh Hà Tĩnh",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "quang-binh-visit-song-chay-hang-toi": {
+    "province": "Tỉnh Quảng Trị",
+    "source": "https://www.google.com/maps/place/S%C3%B4ng+Ch%C3%A0y+-+Hang+T%E1%BB%91i/data=!4m7!3m6!1s0x3138b9001708194d:0x518a9ea61f6427ef!8m2!3d17.5743659!4d106.2514176!16s%2Fg%2F11z5gswdyy!19sChIJTRkIFwC5ODER7ydkH6aeilE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Phong Nha",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      106.2514176,
+      17.5743659
+    ],
+    "mapsName": "Sông Chày - Hang Tối"
+  },
+  "hue-visit-lang-tu-duc": {
+    "province": "Thành phố Huế",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Thuỷ Xuân",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c"
+  },
+  "da-nang-visit-ban-dao-son-tra": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "quang-ngai-visit-bien-my-khe-quang-ngai": {
+    "province": "Tỉnh Quảng Ngãi",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "binh-dinh-visit-ghenh-rang-tien-sa": {
+    "province": "Tỉnh Gia Lai",
+    "source": "https://www.google.com/maps/search/Gh%E1%BB%81nh%20R%C3%A1ng%20Ti%C3%AAn%20Sa%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh/@14.112835,108.95221928233029,11z?hl=vi&gl=vn",
+    "commune": "Phường Quy Nhơn Nam",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "P6R8+W8, Quy Nhơn Nam, Gia Lai, Việt Nam",
+    "mapsName": "Bãi trứng - khu du lịch Ghềnh Ráng"
+  },
+  "phu-yen-visit-dam-o-loan": {
+    "province": "Tỉnh Đắk Lắk",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Ô Loan",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7m_%C3%94_Loan"
+  },
+  "ninh-thuan-visit-bien-ninh-chu": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "https://www.google.com/maps/place/B%C3%A3i+bi%E1%BB%83n+Ninh+Ch%E1%BB%AF/data=!4m7!3m6!1s0x3170cf9758f74a37:0xbcc94f46b4909c03!8m2!3d11.586519!4d109.0332441!16s%2Fg%2F11gyysbczs!19sChIJN0r3WJfPcDERA5yQtEZPybw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Ninh Chử",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Ninh Chử, Khánh Hòa, Việt Nam",
+    "mapsName": "Bãi biển Ninh Chữ"
+  },
+  "binh-thuan-visit-doi-cat-mui-ne": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/search/%C4%90%E1%BB%93i%20c%C3%A1t%20M%C5%A9i%20N%C3%A9%20B%C3%ACnh%20Thu%E1%BA%ADn/@11.0618965,107.95074581689735,11z?hl=vi&gl=vn",
+    "commune": "Phường Mũi Né",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "01 Hòn Rơm, ĐT716, Mũi Né, Lâm Đồng, Việt Nam",
+    "mapsName": "Đồi Cát Đỏ"
+  },
+  "dong-nai-visit-vuon-quoc-gia-cat-tien": {
+    "province": "Thành phố Đồng Nai / Tỉnh Lâm Đồng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "tay-ninh-visit-thung-lung-ma-thien-lanh": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "https://www.google.com/maps/search/Thung%20l%C5%A9ng%20Ma%20Thi%C3%AAn%20L%C3%A3nh%20T%C3%A2y%20Ninh/@11.372991500000001,106.10898811404856,11z?hl=vi&gl=vn",
+    "commune": "Phường Bình Minh",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "94PV+R8F, Ma Thiên Lãnh, Bình Minh, Tây Ninh, Việt Nam",
+    "mapsName": "Ma thiên lãnh"
+  },
+  "tphcm-visit-nha-tho-duc-ba-sai-gon": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Sài Gòn",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%E1%BB%A9c_B%C3%A0_S%C3%A0i_G%C3%B2n"
+  },
+  "dong-thap-visit-nha-co-huynh-thuy-le": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20Hu%E1%BB%B3nh%20Th%E1%BB%A7y%20L%C3%AA%20%C4%90%E1%BB%93ng%20Th%C3%A1p/@10.554067,105.65344785223643,11z?hl=vi&gl=vn",
+    "commune": "Phường Sa Đéc",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "255A Đường Nguyễn Huệ, Sa Đéc, Đồng Tháp, Việt Nam",
+    "mapsName": "Nhà cổ Huỳnh Thuỷ Lê"
+  },
+  "kien-giang-visit-bai-dai-phu-quoc": {
+    "province": "Tỉnh An Giang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "vinh-long-visit-cu-lao-an-binh": {
+    "province": "Tỉnh Vĩnh Long",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã An Bình",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_An_B%C3%ACnh"
+  },
+  "can-tho-visit-thien-vien-truc-lam-phuong-nam": {
+    "province": "Thành phố Cần Thơ",
+    "source": "https://www.google.com/maps/search/Thi%E1%BB%81n%20vi%E1%BB%87n%20Tr%C3%BAc%20L%C3%A2m%20Ph%C6%B0%C6%A1ng%20Nam%20C%E1%BA%A7n%20Th%C6%A1/@10.122256,105.51843513236201,11z?hl=vi&gl=vn",
+    "commune": "Xã Phong Điền",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Phong Điền, Cần Thơ, Việt Nam",
+    "mapsName": "Thiền viện Trúc Lâm Phương Nam Cần Thơ"
+  },
+  "bac-lieu-visit-khu-luu-niem-nhac-si-cao-van-lau": {
+    "province": "Tỉnh Cà Mau",
+    "source": "https://www.google.com/maps/search/Khu%20l%C6%B0u%20ni%E1%BB%87m%20nh%E1%BA%A1c%20s%C4%A9%20Cao%20V%C4%83n%20L%E1%BA%A7u%20B%E1%BA%A1c%20Li%C3%AAu/@9.328808,105.53200191883768,11z?hl=vi&gl=vn",
+    "commune": "Phường Bạc Liêu",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "7PGG+F34, Ninh Bình, Bạc Liêu, Cà Mau, Việt Nam",
+    "mapsName": "Khu tưởng niệm Nhạc sĩ Cao Văn Lầu"
+  },
+  "ha-noi-visit-pho-co-ha-noi": {
+    "province": "Thành phố Hà Nội",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "tuyen-quang-visit-cay-da-tan-trao": {
+    "province": "Tỉnh Tuyên Quang",
+    "source": "https://www.google.com/maps/search/C%C3%A2y%20%C4%91a%20T%C3%A2n%20Tr%C3%A0o%20Tuy%C3%AAn%20Quang/@22.0978135,105.16841204058693,11z?hl=vi&gl=vn",
+    "commune": "Xã Tân Trào",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QFGG+4VM, Làng Tân Lập, Tân Trào, Tuyên Quang, Việt Nam",
+    "mapsName": "Cây đa Tân Trào"
+  },
+  "yen-bai-visit-doi-mam-xoi": {
+    "province": "Tỉnh Lào Cai",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam": {
+    "province": "Tỉnh Thái Nguyên",
+    "source": "https://www.google.com/maps/search/B%E1%BA%A3o%20t%C3%A0ng%20V%C4%83n%20h%C3%B3a%20c%C3%A1c%20d%C3%A2n%20t%E1%BB%99c%20Vi%E1%BB%87t%20Nam%20Th%C3%A1i%20Nguy%C3%AAn/@21.686712999999997,105.85639024200711,11z?hl=vi&gl=vn",
+    "commune": "Phường Phan Đình Phùng",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đường Đội Cấn, Phan Đình Phùng, Thái Nguyên, Việt Nam",
+    "mapsName": "Bảo tàng Văn hóa các Dân tộc Việt Nam"
+  },
+  "vinh-phuc-visit-thien-vien-truc-lam-tay-thien": {
+    "province": "Tỉnh Phú Thọ",
+    "source": "https://www.google.com/maps/place/Thi%E1%BB%81n+vi%E1%BB%87n+Tr%C3%BAc+l%C3%A2m+T%C3%A2y+Thi%C3%AAn/data=!4m7!3m6!1s0x3134e871667dec33:0x334f79898cb98568!8m2!3d21.4670146!4d105.5858559!16s%2Fg%2F120pnrl0!19sChIJM-x9ZnHoNDERaIW5jIl5TzM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Đại Đình",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      105.5858559,
+      21.4670146
+    ],
+    "mapsName": "Thiền viện Trúc lâm Tây Thiên"
+  },
+  "hai-phong-visit-cau-binh": {
+    "province": "Thành phố Hải Phòng",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Thuỷ Nguyên",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ADnh"
+  },
+  "hue-visit-lang-khai-dinh": {
+    "province": "Thành phố Huế",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Thuỷ Xuân",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh"
+  },
+  "quang-nam-visit-rung-dua-bay-mau": {
+    "province": "Thành phố Đà Nẵng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "khanh-hoa-visit-chua-long-son": {
+    "province": "Tỉnh Khánh Hoà",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Long%20S%C6%A1n%20Kh%C3%A1nh%20H%C3%B2a/@12.3360305,108.94155221009035,11z?hl=vi&gl=vn",
+    "commune": "Phường Tây Nha Trang",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "22 Đ. 23 Tháng 10, Tây Nha Trang, Khánh Hòa 650000, Việt Nam",
+    "mapsName": "Chùa Long Sơn"
+  },
+  "lam-dong-visit-quang-truong-lam-vien": {
+    "province": "Tỉnh Lâm Đồng",
+    "source": "https://www.google.com/maps/place/Qu%E1%BA%A3ng+tr%C6%B0%E1%BB%9Dng+L%C3%A2m+Vi%C3%AAn/data=!4m7!3m6!1s0x31711324a3fe0629:0x66eb8ed37afe5989!8m2!3d11.9393622!4d108.445203!16s%2Fg%2F11f2sw5q3l!19sChIJKQb-oyQTcTERiVn-etOO62Y?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Xuân Hương - Đà Lạt",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đ. Trần Quốc Toản, Xuân Hương - Đà Lạt, Lâm Đồng, Việt Nam",
+    "mapsName": "Quảng trường Lâm Viên"
+  },
+  "binh-phuoc-visit-di-tich-phu-rieng-do": {
+    "province": "Thành phố Đồng Nai",
+    "source": "https://www.google.com/maps/search/Di%20t%C3%ADch%20Ph%C3%BA%20Ri%E1%BB%81ng%20%C4%90%E1%BB%8F%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc/@11.799986,106.91510652401746,11z?hl=vi&gl=vn",
+    "commune": "Xã Thuận Lợi",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed, Road, Thuận Lợi, Đồng Nai, Việt Nam",
+    "mapsName": "Di tích Phú Riềng Đỏ 1930"
+  },
+  "long-an-visit-vam-nhut-tao": {
+    "province": "Tỉnh Tây Ninh",
+    "source": "https://www.google.com/maps/search/V%C3%A0m%20Nh%E1%BB%B1t%20T%E1%BA%A3o%20Long%20An/@10.713355,106.12515132120582,11z?hl=vi&gl=vn",
+    "commune": "Xã Nhựt Tảo",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Ấp 2, Nhựt Tảo, Tây Ninh, Việt Nam",
+    "mapsName": "Khu di tích lịch sử Vàm Nhựt Tảo"
+  },
+  "ba-ria---vung-tau-visit-ho-da-xanh": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "https://www.google.com/maps/place/H%E1%BB%93+%C4%90%C3%A1+Xanh+B%C3%A0+R%E1%BB%8Ba/data=!4m7!3m6!1s0x31750d5a4a7c558b:0xb148b65dbf38d6f!8m2!3d10.5086427!4d107.1472241!16s%2Fg%2F11mqxf2xms!19sChIJi1V8SloNdTERb43z22WLFAs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Phường Long Hương",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "G45W+FV5, Unnamed Road, Long Hương, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Hồ Đá Xanh Bà Rịa"
+  },
+  "an-giang-visit-nui-cam": {
+    "province": "Tỉnh An Giang",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Núi Cấm",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/N%C3%BAi_C%E1%BA%A5m"
+  },
+  "egg-cau-rach-mieu-1": {
+    "province": "Tỉnh Đồng Tháp / Tỉnh Vĩnh Long",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-cau-vam-cong": {
+    "province": "Tỉnh Đồng Tháp / Thành phố Cần Thơ",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-hai-van": {
+    "province": "Thành phố Huế / Thành phố Đà Nẵng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-deo-ca": {
+    "province": "Tỉnh Đắk Lắk / Tỉnh Khánh Hoà",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-vuon-quoc-gia-cuc-phuong": {
+    "province": "Tỉnh Ninh Bình / Tỉnh Phú Thọ / Tỉnh Thanh Hoá",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-vuon-quoc-gia-tam-dao": {
+    "province": "Tỉnh Phú Thọ / Tỉnh Thái Nguyên / Tỉnh Tuyên Quang",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-vuon-quoc-gia-hoang-lien": {
+    "province": "Tỉnh Lào Cai / Tỉnh Lai Châu",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "egg-ha-long-cat-ba": {
+    "province": "Tỉnh Quảng Ninh / Thành phố Hải Phòng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  },
+  "ba-ria---vung-tau-visit-con-dao": {
+    "province": "Thành phố Hồ Chí Minh",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Đặc khu Côn Đảo",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q2879088"
+  },
+  "ha-noi-visit-nha-tu-hoa-lo": {
+    "province": "Thành phố Hà Nội",
+    "source": "https://hoalo.vn/Articles/4/gioi-thieu",
+    "commune": "Phường Cửa Nam",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_H%E1%BB%8Fa_L%C3%B2"
+  },
+  "kien-giang-visit-nha-tu-phu-quoc": {
+    "province": "Tỉnh An Giang",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Đặc khu Phú Quốc",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_Ph%C3%BA_Qu%E1%BB%91c"
+  },
+  "lang-son-visit-mau-son": {
+    "province": "Tỉnh Lạng Sơn",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Ba Sơn",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Mount_M%E1%BA%ABu_S%C6%A1n"
+  },
+  "nam-dinh-visit-phu-day": {
+    "province": "Tỉnh Ninh Bình",
+    "source": "https://www.google.com/maps/place/Ph%E1%BB%A7+Ch%C3%ADnh+Ph%E1%BB%A7+D%E1%BA%A7y+-+N%C6%A1i+Th%C3%A1nh+M%E1%BA%ABu+gi%C3%A1ng+sinh/data=!4m7!3m6!1s0x3135dfda698432fd:0xe4e6ca9d791f57d0!8m2!3d20.3608669!4d106.0776755!16s%2Fg%2F11q2fgcr68!19sChIJ_TKEadrfNTER0FcfeZ3K5uQ?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "commune": "Xã Vụ Bản",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "936F+6V3, xom 2, Vụ Bản, Ninh Bình, Việt Nam",
+    "mapsName": "Phủ Chính Phủ Dầy - Nơi Thánh Mẫu giáng sinh"
+  },
+  "hue-visit-lang-minh-mang": {
+    "province": "Thành phố Huế",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Phường Kim Long",
+    "coordinateSource": "https://vi.wikipedia.org/wiki/L%C4%83ng_Minh_M%E1%BA%A1ng"
+  },
+  "tien-giang-visit-trai-ran-dong-tam": {
+    "province": "Tỉnh Đồng Tháp",
+    "source": "Verified landmark pin + current ward polygon",
+    "commune": "Xã Kim Sơn",
+    "coordinateSource": "https://dulich.dongthap.gov.vn/vi/trairandongtam"
+  },
+  "egg-vuon-quoc-gia-yok-don": {
+    "province": "Tỉnh Đắk Lắk / Tỉnh Lâm Đồng",
+    "source": "Vietnamese Provinces Database (34 provinces)"
+  }
+}

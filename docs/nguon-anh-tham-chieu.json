@@ -1,0 +1,3116 @@
+[
+  {
+    "id": "ha-noi-0",
+    "name": "Hồ Hoàn Kiếm",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-1",
+    "name": "Văn Miếu – Quốc Tử Giám",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-2",
+    "name": "Chùa Một Cột",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-3",
+    "name": "Phở Hà Nội",
+    "type": "food",
+    "image": "assets/cards/ha-noi-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tuyen-quang-0",
+    "name": "Đình Tân Trào",
+    "type": "landmark",
+    "image": "assets/cards/tuyen-quang-0-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vietnamtourism.vn/en/index.php/news/items/10709",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "tuyen-quang-1",
+    "name": "Lán Nà Nưa",
+    "type": "landmark",
+    "image": "assets/cards/tuyen-quang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tuyen-quang-2",
+    "name": "Hồ Na Hang",
+    "type": "landmark",
+    "image": "assets/cards/tuyen-quang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tuyen-quang-3",
+    "name": "Bánh gai Chiêm Hóa",
+    "type": "food",
+    "image": "assets/cards/tuyen-quang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-giang-0",
+    "name": "Cột cờ Lũng Cú",
+    "type": "landmark",
+    "image": "assets/cards/ha-giang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-giang-1",
+    "name": "Đèo Mã Pì Lèng",
+    "type": "landmark",
+    "image": "assets/cards/ha-giang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-giang-2",
+    "name": "Núi đôi Quản Bạ",
+    "type": "landmark",
+    "image": "assets/cards/ha-giang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-giang-3",
+    "name": "Bánh tam giác mạch",
+    "type": "food",
+    "image": "assets/cards/ha-giang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "cao-bang-0",
+    "name": "Thác Bản Giốc",
+    "type": "landmark",
+    "image": "assets/cards/cao-bang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "cao-bang-1",
+    "name": "Suối Lê Nin",
+    "type": "landmark",
+    "image": "assets/cards/cao-bang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "cao-bang-2",
+    "name": "Động Ngườm Ngao",
+    "type": "landmark",
+    "image": "assets/cards/cao-bang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "cao-bang-3",
+    "name": "Hạt dẻ Trùng Khánh",
+    "type": "food",
+    "image": "assets/cards/cao-bang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lai-chau-0",
+    "name": "Bản Sin Suối Hồ",
+    "type": "landmark",
+    "image": "assets/cards/lai-chau-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lai-chau-1",
+    "name": "Đồi chè Tân Uyên",
+    "type": "landmark",
+    "image": "assets/cards/lai-chau-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lai-chau-2",
+    "name": "Động Pu Sam Cáp",
+    "type": "landmark",
+    "image": "assets/cards/lai-chau-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lai-chau-3",
+    "name": "Xôi tím Lai Châu",
+    "type": "food",
+    "image": "assets/cards/lai-chau-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lao-cai-0",
+    "name": "Đỉnh Fansipan",
+    "type": "landmark",
+    "image": "assets/cards/lao-cai-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lao-cai-1",
+    "name": "Nhà thờ đá Sa Pa",
+    "type": "landmark",
+    "image": "assets/cards/lao-cai-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lao-cai-2",
+    "name": "Dinh Hoàng A Tưởng",
+    "type": "landmark",
+    "image": "assets/cards/lao-cai-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://www.vntrip.vn/cam-nang/dinh-hoang-a-tuong-dia-diem-tham-quan-hap-dan-gan-sa-pa-104",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "lao-cai-3",
+    "name": "Thắng cố Bắc Hà",
+    "type": "food",
+    "image": "assets/cards/lao-cai-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "yen-bai-0",
+    "name": "Ruộng bậc thang Mù Cang Chải",
+    "type": "landmark",
+    "image": "assets/cards/yen-bai-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "yen-bai-1",
+    "name": "Hồ Thác Bà",
+    "type": "landmark",
+    "image": "assets/cards/yen-bai-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "yen-bai-2",
+    "name": "Đèo Khau Phạ",
+    "type": "landmark",
+    "image": "assets/cards/yen-bai-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "yen-bai-3",
+    "name": "Cốm Tú Lệ",
+    "type": "food",
+    "image": "assets/cards/yen-bai-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-nguyen-0",
+    "name": "Đồi chè Tân Cương",
+    "type": "landmark",
+    "image": "assets/cards/thai-nguyen-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-nguyen-1",
+    "name": "Hồ Núi Cốc",
+    "type": "landmark",
+    "image": "assets/cards/thai-nguyen-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-nguyen-2",
+    "name": "ATK Định Hóa",
+    "type": "landmark",
+    "image": "assets/cards/thai-nguyen-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-nguyen-3",
+    "name": "Bánh chưng Bờ Đậu",
+    "type": "food",
+    "image": "assets/cards/thai-nguyen-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://nongthon.vietnamtourism.gov.vn/den-thai-nguyen-thuong-thuc-dac-san-banh-chung-bo-dau/",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "bac-kan-0",
+    "name": "Hồ Ba Bể",
+    "type": "landmark",
+    "image": "assets/cards/bac-kan-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-kan-1",
+    "name": "Động Puông",
+    "type": "landmark",
+    "image": "assets/cards/bac-kan-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-kan-2",
+    "name": "Thác Đầu Đẳng",
+    "type": "landmark",
+    "image": "assets/cards/bac-kan-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-kan-3",
+    "name": "Miến dong Na Rì",
+    "type": "food",
+    "image": "assets/cards/bac-kan-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dien-bien-0",
+    "name": "Đồi A1",
+    "type": "landmark",
+    "image": "assets/cards/dien-bien-0-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://nvsk.vnanet.vn/print/-ngay-5-5-1954-quan-ta-hoan-thanh-duong-ham-ngam-de-dat-boc-pha-tren-doi-a1-145707.vna",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "dien-bien-1",
+    "name": "Hầm Đờ Cát",
+    "type": "landmark",
+    "image": "assets/cards/dien-bien-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dien-bien-2",
+    "name": "Di tích Mường Phăng",
+    "type": "landmark",
+    "image": "assets/cards/dien-bien-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dien-bien-3",
+    "name": "Khẩu xén Mường Lay",
+    "type": "food",
+    "image": "assets/cards/dien-bien-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lang-son-0",
+    "name": "Động Tam Thanh",
+    "type": "landmark",
+    "image": "assets/cards/lang-son-0-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://www.traveloka.com/vi-vn/explore/destination/chua-tam-thanh/212089",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "lang-son-1",
+    "name": "Núi Tô Thị",
+    "type": "landmark",
+    "image": "assets/cards/lang-son-1-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://baoangiang.com.vn/muc-so-thi-dinh-nui-to-thi-o-lang-son-a404245.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "lang-son-2",
+    "name": "Ải Chi Lăng",
+    "type": "landmark",
+    "image": "assets/cards/lang-son-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lang-son-3",
+    "name": "Vịt quay Lạng Sơn",
+    "type": "food",
+    "image": "assets/cards/lang-son-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "son-la-0",
+    "name": "Đồi chè Mộc Châu",
+    "type": "landmark",
+    "image": "assets/cards/son-la-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "son-la-1",
+    "name": "Thác Dải Yếm",
+    "type": "landmark",
+    "image": "assets/cards/son-la-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "son-la-2",
+    "name": "Nhà tù Sơn La",
+    "type": "landmark",
+    "image": "assets/cards/son-la-2-v2.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nhatusonla.jpg",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "son-la-3",
+    "name": "Nậm pịa",
+    "type": "food",
+    "image": "assets/cards/son-la-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-tho-0",
+    "name": "Đền Hùng",
+    "type": "landmark",
+    "image": "assets/cards/phu-tho-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-tho-1",
+    "name": "Đồi chè Long Cốc",
+    "type": "landmark",
+    "image": "assets/cards/phu-tho-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-tho-2",
+    "name": "Đình Hùng Lô",
+    "type": "landmark",
+    "image": "assets/cards/phu-tho-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-tho-3",
+    "name": "Thịt chua Thanh Sơn",
+    "type": "food",
+    "image": "assets/cards/phu-tho-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-phuc-0",
+    "name": "Nhà thờ đá Tam Đảo",
+    "type": "landmark",
+    "image": "assets/cards/vinh-phuc-0-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/cam-nang-du-lich-tam-dao-4454746.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "vinh-phuc-1",
+    "name": "Tháp Bình Sơn",
+    "type": "landmark",
+    "image": "assets/cards/vinh-phuc-1-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-binh-son-1294",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "vinh-phuc-2",
+    "name": "Hồ Đại Lải",
+    "type": "landmark",
+    "image": "assets/cards/vinh-phuc-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-phuc-3",
+    "name": "Bánh trùng mật mía",
+    "type": "food",
+    "image": "assets/cards/vinh-phuc-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hoa-binh-0",
+    "name": "Bản Lác",
+    "type": "landmark",
+    "image": "assets/cards/hoa-binh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hoa-binh-1",
+    "name": "Thủy điện Hòa Bình",
+    "type": "landmark",
+    "image": "assets/cards/hoa-binh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hoa-binh-2",
+    "name": "Đèo Thung Khe",
+    "type": "landmark",
+    "image": "assets/cards/hoa-binh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hoa-binh-3",
+    "name": "Cơm lam Hòa Bình",
+    "type": "food",
+    "image": "assets/cards/hoa-binh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-ninh-0",
+    "name": "Chùa Dâu",
+    "type": "landmark",
+    "image": "assets/cards/bac-ninh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-ninh-1",
+    "name": "Chùa Bút Tháp",
+    "type": "landmark",
+    "image": "assets/cards/bac-ninh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-ninh-2",
+    "name": "Đền Đô",
+    "type": "landmark",
+    "image": "assets/cards/bac-ninh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-ninh-3",
+    "name": "Bánh phu thê Đình Bảng",
+    "type": "food",
+    "image": "assets/cards/bac-ninh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-giang-0",
+    "name": "Chùa Vĩnh Nghiêm",
+    "type": "landmark",
+    "image": "assets/cards/bac-giang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-giang-1",
+    "name": "Chùa Bổ Đà",
+    "type": "landmark",
+    "image": "assets/cards/bac-giang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-giang-2",
+    "name": "Hồ Cấm Sơn",
+    "type": "landmark",
+    "image": "assets/cards/bac-giang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-giang-3",
+    "name": "Mì Chũ",
+    "type": "food",
+    "image": "assets/cards/bac-giang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-giang-4",
+    "name": "Vải thiều Lục Ngạn",
+    "type": "food",
+    "image": "assets/cards/bac-giang-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ninh-0",
+    "name": "Hòn Trống Mái",
+    "type": "landmark",
+    "image": "assets/cards/quang-ninh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ninh-1",
+    "name": "Chùa Đồng Yên Tử",
+    "type": "landmark",
+    "image": "assets/cards/quang-ninh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ninh-2",
+    "name": "Bãi đá Cầu Mỵ",
+    "type": "landmark",
+    "image": "assets/cards/quang-ninh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ninh-3",
+    "name": "Chả mực Hạ Long",
+    "type": "food",
+    "image": "assets/cards/quang-ninh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-0",
+    "name": "Nhà hát Hải Phòng",
+    "type": "landmark",
+    "image": "assets/cards/hai-phong-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-1",
+    "name": "Vịnh Lan Hạ",
+    "type": "landmark",
+    "image": "assets/cards/hai-phong-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-2",
+    "name": "Hải đăng Hòn Dấu",
+    "type": "landmark",
+    "image": "assets/cards/hai-phong-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-3",
+    "name": "Bánh đa cua",
+    "type": "food",
+    "image": "assets/cards/hai-phong-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-4",
+    "name": "Bánh mì cay Hải Phòng",
+    "type": "food",
+    "image": "assets/cards/hai-phong-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-duong-0",
+    "name": "Chùa Côn Sơn",
+    "type": "landmark",
+    "image": "assets/cards/hai-duong-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-duong-1",
+    "name": "Đền Kiếp Bạc",
+    "type": "landmark",
+    "image": "assets/cards/hai-duong-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-duong-2",
+    "name": "Văn miếu Mao Điền",
+    "type": "landmark",
+    "image": "assets/cards/hai-duong-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-duong-3",
+    "name": "Bánh đậu xanh Hải Dương",
+    "type": "food",
+    "image": "assets/cards/hai-duong-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hung-yen-0",
+    "name": "Chùa Chuông",
+    "type": "landmark",
+    "image": "assets/cards/hung-yen-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hung-yen-1",
+    "name": "Văn miếu Xích Đằng",
+    "type": "landmark",
+    "image": "assets/cards/hung-yen-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hung-yen-2",
+    "name": "Làng Nôm",
+    "type": "landmark",
+    "image": "assets/cards/hung-yen-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vov.vn/du-lich/cay-cau-da-co-dep-nhat-bac-bo-to-diem-them-net-dep-chua-nom-904586.vov",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "hung-yen-3",
+    "name": "Nhãn lồng Hưng Yên",
+    "type": "food",
+    "image": "assets/cards/hung-yen-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-binh-0",
+    "name": "Chùa Keo",
+    "type": "landmark",
+    "image": "assets/cards/thai-binh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-binh-1",
+    "name": "Đền Trần Thái Bình",
+    "type": "landmark",
+    "image": "assets/cards/thai-binh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-binh-2",
+    "name": "Biển Đồng Châu",
+    "type": "landmark",
+    "image": "assets/cards/thai-binh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-binh-3",
+    "name": "Bánh cáy làng Nguyễn",
+    "type": "food",
+    "image": "assets/cards/thai-binh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-binh-4",
+    "name": "Canh cá Quỳnh Côi",
+    "type": "food",
+    "image": "assets/cards/thai-binh-4-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://media.baothaibinh.com.vn/upload/epaper/file/98d2ebc1d48290ba3b7385bbc469ad2a.pdf",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "ninh-binh-0",
+    "name": "Danh thắng Tràng An",
+    "type": "landmark",
+    "image": "assets/cards/ninh-binh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-binh-1",
+    "name": "Hang Múa",
+    "type": "landmark",
+    "image": "assets/cards/ninh-binh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-binh-2",
+    "name": "Chùa Bái Đính",
+    "type": "landmark",
+    "image": "assets/cards/ninh-binh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-binh-3",
+    "name": "Cơm cháy Ninh Bình",
+    "type": "food",
+    "image": "assets/cards/ninh-binh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-nam-0",
+    "name": "Chùa Tam Chúc",
+    "type": "landmark",
+    "image": "assets/cards/ha-nam-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-nam-1",
+    "name": "Chùa Địa Tạng Phi Lai",
+    "type": "landmark",
+    "image": "assets/cards/ha-nam-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-nam-2",
+    "name": "Đền Trần Thương",
+    "type": "landmark",
+    "image": "assets/cards/ha-nam-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-nam-3",
+    "name": "Cá kho làng Vũ Đại",
+    "type": "food",
+    "image": "assets/cards/ha-nam-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nam-dinh-0",
+    "name": "Tháp Phổ Minh",
+    "type": "landmark",
+    "image": "assets/cards/nam-dinh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nam-dinh-1",
+    "name": "Nhà thờ đổ Hải Lý",
+    "type": "landmark",
+    "image": "assets/cards/nam-dinh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nam-dinh-2",
+    "name": "Cầu ngói chùa Lương",
+    "type": "landmark",
+    "image": "assets/cards/nam-dinh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nam-dinh-3",
+    "name": "Kẹo Sìu Châu",
+    "type": "food",
+    "image": "assets/cards/nam-dinh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-0",
+    "name": "Thành nhà Hồ",
+    "type": "landmark",
+    "image": "assets/cards/thanh-hoa-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-1",
+    "name": "Pù Luông",
+    "type": "landmark",
+    "image": "assets/cards/thanh-hoa-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-2",
+    "name": "Di tích Lam Kinh",
+    "type": "landmark",
+    "image": "assets/cards/thanh-hoa-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-3",
+    "name": "Nem chua Thanh Hóa",
+    "type": "food",
+    "image": "assets/cards/thanh-hoa-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-4",
+    "name": "Bánh răng bừa",
+    "type": "food",
+    "image": "assets/cards/thanh-hoa-4-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/nhung-mon-banh-gao-ngon-o-thanh-hoa-2932632.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "nghe-an-0",
+    "name": "Làng Sen",
+    "type": "landmark",
+    "image": "assets/cards/nghe-an-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nghe-an-1",
+    "name": "Đồi chè Thanh Chương",
+    "type": "landmark",
+    "image": "assets/cards/nghe-an-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nghe-an-2",
+    "name": "Đảo Lan Châu",
+    "type": "landmark",
+    "image": "assets/cards/nghe-an-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://dansinh.dantri.com.vn/dien-dan-dan-sinh/canh-dep-me-hon-cua-mien-trung-nhin-tu-tren-cao-20201118145133472.htm",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "nghe-an-3",
+    "name": "Cháo lươn Vinh",
+    "type": "food",
+    "image": "assets/cards/nghe-an-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-tinh-0",
+    "name": "Ngã ba Đồng Lộc",
+    "type": "landmark",
+    "image": "assets/cards/ha-tinh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-tinh-1",
+    "name": "Chùa Hương Tích",
+    "type": "landmark",
+    "image": "assets/cards/ha-tinh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-tinh-2",
+    "name": "Biển Thiên Cầm",
+    "type": "landmark",
+    "image": "assets/cards/ha-tinh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-tinh-3",
+    "name": "Kẹo cu đơ",
+    "type": "food",
+    "image": "assets/cards/ha-tinh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-tri-0",
+    "name": "Thành cổ Quảng Trị",
+    "type": "landmark",
+    "image": "assets/cards/quang-tri-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-tri-1",
+    "name": "Cầu Hiền Lương",
+    "type": "landmark",
+    "image": "assets/cards/quang-tri-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-tri-2",
+    "name": "Địa đạo Vịnh Mốc",
+    "type": "landmark",
+    "image": "assets/cards/quang-tri-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-tri-3",
+    "name": "Bánh bột lọc Mỹ Chánh",
+    "type": "food",
+    "image": "assets/cards/quang-tri-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-binh-0",
+    "name": "Động Phong Nha",
+    "type": "landmark",
+    "image": "assets/cards/quang-binh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-binh-1",
+    "name": "Động Thiên Đường",
+    "type": "landmark",
+    "image": "assets/cards/quang-binh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-binh-2",
+    "name": "Bãi Đá Nhảy",
+    "type": "landmark",
+    "image": "assets/cards/quang-binh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-binh-3",
+    "name": "Khoai deo",
+    "type": "food",
+    "image": "assets/cards/quang-binh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-0",
+    "name": "Ngọ Môn",
+    "type": "landmark",
+    "image": "assets/cards/hue-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-1",
+    "name": "Chùa Thiên Mụ",
+    "type": "landmark",
+    "image": "assets/cards/hue-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-2",
+    "name": "Cầu Trường Tiền",
+    "type": "landmark",
+    "image": "assets/cards/hue-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-3",
+    "name": "Bún bò Huế",
+    "type": "food",
+    "image": "assets/cards/hue-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-4",
+    "name": "Mè xửng",
+    "type": "food",
+    "image": "assets/cards/hue-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "da-nang-0",
+    "name": "Cầu Rồng",
+    "type": "landmark",
+    "image": "assets/cards/da-nang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "da-nang-1",
+    "name": "Ngũ Hành Sơn",
+    "type": "landmark",
+    "image": "assets/cards/da-nang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "da-nang-2",
+    "name": "Cầu Vàng",
+    "type": "landmark",
+    "image": "assets/cards/da-nang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "da-nang-3",
+    "name": "Bún chả cá Đà Nẵng",
+    "type": "food",
+    "image": "assets/cards/da-nang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-0",
+    "name": "Chùa Cầu Hội An",
+    "type": "landmark",
+    "image": "assets/cards/quang-nam-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-1",
+    "name": "Thánh địa Mỹ Sơn",
+    "type": "landmark",
+    "image": "assets/cards/quang-nam-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-2",
+    "name": "Cù Lao Chàm",
+    "type": "landmark",
+    "image": "assets/cards/quang-nam-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-3",
+    "name": "Cao lầu Hội An",
+    "type": "food",
+    "image": "assets/cards/quang-nam-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-4",
+    "name": "Mì Quảng",
+    "type": "food",
+    "image": "assets/cards/quang-nam-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ngai-0",
+    "name": "Cổng Tò Vò",
+    "type": "landmark",
+    "image": "assets/cards/quang-ngai-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ngai-1",
+    "name": "Chùa Thiên Ấn",
+    "type": "landmark",
+    "image": "assets/cards/quang-ngai-1-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://phatgiao.org.vn/ngoi-chua-300-nam-tuoi-noi-tieng-vung-dat-quang-ngai-d40192.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "quang-ngai-2",
+    "name": "Đỉnh Thới Lới",
+    "type": "landmark",
+    "image": "assets/cards/quang-ngai-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://dantri.com.vn/du-lich/nui-lua-trieu-nam-tuoi-va-nhung-canh-dep-hut-hon-du-khach-o-dao-ly-son-20210827174641923.htm",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "quang-ngai-3",
+    "name": "Don Quảng Ngãi",
+    "type": "food",
+    "image": "assets/cards/quang-ngai-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/don-dac-san-cua-quang-ngai-2348785.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "kon-tum-0",
+    "name": "Nhà thờ gỗ Kon Tum",
+    "type": "landmark",
+    "image": "assets/cards/kon-tum-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kon-tum-1",
+    "name": "Nhà rông Kon Klor",
+    "type": "landmark",
+    "image": "assets/cards/kon-tum-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kon-tum-2",
+    "name": "Thác Pa Sỹ",
+    "type": "landmark",
+    "image": "assets/cards/kon-tum-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kon-tum-3",
+    "name": "Gỏi lá Kon Tum",
+    "type": "food",
+    "image": "assets/cards/kon-tum-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "gia-lai-0",
+    "name": "Biển Hồ Tơ Nưng",
+    "type": "landmark",
+    "image": "assets/cards/gia-lai-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "gia-lai-1",
+    "name": "Núi lửa Chư Đang Ya",
+    "type": "landmark",
+    "image": "assets/cards/gia-lai-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "gia-lai-2",
+    "name": "Chùa Minh Thành",
+    "type": "landmark",
+    "image": "assets/cards/gia-lai-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "gia-lai-3",
+    "name": "Phở khô Gia Lai",
+    "type": "food",
+    "image": "assets/cards/gia-lai-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/pho-kho-gia-lai-2348464.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "binh-dinh-0",
+    "name": "Eo Gió",
+    "type": "landmark",
+    "image": "assets/cards/binh-dinh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-dinh-1",
+    "name": "Bãi biển Kỳ Co",
+    "type": "landmark",
+    "image": "assets/cards/binh-dinh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-dinh-2",
+    "name": "Tháp Đôi",
+    "type": "landmark",
+    "image": "assets/cards/binh-dinh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-dinh-3",
+    "name": "Bánh ít lá gai",
+    "type": "food",
+    "image": "assets/cards/binh-dinh-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-lak-0",
+    "name": "Hồ Lắk",
+    "type": "landmark",
+    "image": "assets/cards/dak-lak-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-lak-1",
+    "name": "Thác Dray Nur",
+    "type": "landmark",
+    "image": "assets/cards/dak-lak-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-lak-2",
+    "name": "Nhà đày Buôn Ma Thuột",
+    "type": "landmark",
+    "image": "assets/cards/dak-lak-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-lak-3",
+    "name": "Bún đỏ Buôn Ma Thuột",
+    "type": "food",
+    "image": "assets/cards/dak-lak-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/nhung-mon-nen-thu-o-buon-ma-thuot-4247663.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "phu-yen-0",
+    "name": "Gành Đá Đĩa",
+    "type": "landmark",
+    "image": "assets/cards/phu-yen-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-yen-1",
+    "name": "Tháp Nhạn",
+    "type": "landmark",
+    "image": "assets/cards/phu-yen-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-yen-2",
+    "name": "Hải đăng Đại Lãnh",
+    "type": "landmark",
+    "image": "assets/cards/phu-yen-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://baochinhphu.vn/phu-yen-khong-chi-co-hoa-vang-tren-co-xanh-102205751.htm",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "phu-yen-3",
+    "name": "Bánh canh hẹ",
+    "type": "food",
+    "image": "assets/cards/phu-yen-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "khanh-hoa-0",
+    "name": "Tháp Bà Ponagar",
+    "type": "landmark",
+    "image": "assets/cards/khanh-hoa-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "khanh-hoa-1",
+    "name": "Hòn Chồng",
+    "type": "landmark",
+    "image": "assets/cards/khanh-hoa-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "khanh-hoa-2",
+    "name": "Nhà thờ Núi Nha Trang",
+    "type": "landmark",
+    "image": "assets/cards/khanh-hoa-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "khanh-hoa-3",
+    "name": "Nem nướng Ninh Hòa",
+    "type": "food",
+    "image": "assets/cards/khanh-hoa-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://nongthon.vietnamtourism.gov.vn/nem-nuong-ninh-hoa-nam-trong-top-10-ky-luc-chau-a-moi-ve-am-thuc-va-qua-tang-dac-san-viet-nam/",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "ninh-thuan-0",
+    "name": "Tháp Po Klong Garai",
+    "type": "landmark",
+    "image": "assets/cards/ninh-thuan-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-thuan-1",
+    "name": "Vịnh Vĩnh Hy",
+    "type": "landmark",
+    "image": "assets/cards/ninh-thuan-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-thuan-2",
+    "name": "Hang Rái",
+    "type": "landmark",
+    "image": "assets/cards/ninh-thuan-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-thuan-3",
+    "name": "Bánh căn Phan Rang",
+    "type": "food",
+    "image": "assets/cards/ninh-thuan-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-0",
+    "name": "Hồ Xuân Hương",
+    "type": "landmark",
+    "image": "assets/cards/lam-dong-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-1",
+    "name": "Ga Đà Lạt",
+    "type": "landmark",
+    "image": "assets/cards/lam-dong-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-2",
+    "name": "Núi Langbiang",
+    "type": "landmark",
+    "image": "assets/cards/lam-dong-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-3",
+    "name": "Bánh tráng nướng Đà Lạt",
+    "type": "food",
+    "image": "assets/cards/lam-dong-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-4",
+    "name": "Kem bơ Đà Lạt",
+    "type": "food",
+    "image": "assets/cards/lam-dong-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-nong-0",
+    "name": "Hồ Tà Đùng",
+    "type": "landmark",
+    "image": "assets/cards/dak-nong-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-nong-1",
+    "name": "Thác Liêng Nung",
+    "type": "landmark",
+    "image": "assets/cards/dak-nong-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dak-nong-2",
+    "name": "Hang núi lửa Chư Bluk",
+    "type": "landmark",
+    "image": "assets/cards/dak-nong-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://en.cand.com.vn/culture-travel/exploring-the-largest-volcanic-cave-in-vietnam-i591275/",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "dak-nong-3",
+    "name": "Cà phê Robusta Đắk Nông",
+    "type": "food",
+    "image": "assets/cards/dak-nong-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-thuan-0",
+    "name": "Bàu Trắng",
+    "type": "landmark",
+    "image": "assets/cards/binh-thuan-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-thuan-1",
+    "name": "Hải đăng Kê Gà",
+    "type": "landmark",
+    "image": "assets/cards/binh-thuan-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-thuan-2",
+    "name": "Núi Tà Cú",
+    "type": "landmark",
+    "image": "assets/cards/binh-thuan-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-thuan-3",
+    "name": "Lẩu thả Phan Thiết",
+    "type": "food",
+    "image": "assets/cards/binh-thuan-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/lau-tha-phan-thiet-4085148.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "dong-nai-0",
+    "name": "Núi Chứa Chan",
+    "type": "landmark",
+    "image": "assets/cards/dong-nai-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-nai-1",
+    "name": "Văn miếu Trấn Biên",
+    "type": "landmark",
+    "image": "assets/cards/dong-nai-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-nai-2",
+    "name": "Thác Giang Điền",
+    "type": "landmark",
+    "image": "assets/cards/dong-nai-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-nai-3",
+    "name": "Gỏi cá Biên Hòa",
+    "type": "food",
+    "image": "assets/cards/dong-nai-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-phuoc-0",
+    "name": "Núi Bà Rá",
+    "type": "landmark",
+    "image": "assets/cards/binh-phuoc-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-phuoc-1",
+    "name": "Vườn quốc gia Bù Gia Mập",
+    "type": "landmark",
+    "image": "assets/cards/binh-phuoc-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-phuoc-2",
+    "name": "Sóc Bom Bo",
+    "type": "landmark",
+    "image": "assets/cards/binh-phuoc-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-phuoc-3",
+    "name": "Hạt điều Bình Phước",
+    "type": "food",
+    "image": "assets/cards/binh-phuoc-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tay-ninh-0",
+    "name": "Núi Bà Đen",
+    "type": "landmark",
+    "image": "assets/cards/tay-ninh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tay-ninh-1",
+    "name": "Tòa thánh Tây Ninh",
+    "type": "landmark",
+    "image": "assets/cards/tay-ninh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tay-ninh-2",
+    "name": "Tháp Bình Thạnh",
+    "type": "landmark",
+    "image": "assets/cards/tay-ninh-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/kien-truc-doc-dao-cua-thap-co-nghin-nam-tuoi-o-tay-ninh-3814659.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "tay-ninh-3",
+    "name": "Bánh tráng phơi sương",
+    "type": "food",
+    "image": "assets/cards/tay-ninh-3-v2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "long-an-0",
+    "name": "Nhà trăm cột",
+    "type": "landmark",
+    "image": "assets/cards/long-an-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "long-an-1",
+    "name": "Làng nổi Tân Lập",
+    "type": "landmark",
+    "image": "assets/cards/long-an-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "long-an-2",
+    "name": "Khu bảo tồn Láng Sen",
+    "type": "landmark",
+    "image": "assets/cards/long-an-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "long-an-3",
+    "name": "Lạp xưởng Cần Đước",
+    "type": "food",
+    "image": "assets/cards/long-an-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-0",
+    "name": "Chợ Bến Thành",
+    "type": "landmark",
+    "image": "assets/cards/tphcm-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-1",
+    "name": "Dinh Độc Lập",
+    "type": "landmark",
+    "image": "assets/cards/tphcm-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-2",
+    "name": "Bưu điện Trung tâm Sài Gòn",
+    "type": "landmark",
+    "image": "assets/cards/tphcm-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-3",
+    "name": "Cơm tấm Sài Gòn",
+    "type": "food",
+    "image": "assets/cards/tphcm-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-4",
+    "name": "Bánh mì Sài Gòn",
+    "type": "food",
+    "image": "assets/cards/tphcm-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-duong-0",
+    "name": "Chùa Hội Khánh",
+    "type": "landmark",
+    "image": "assets/cards/binh-duong-0-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/ngoi-chua-gan-300-tuoi-co-tuong-phat-nam-dai-nhat-viet-nam-3754188.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "binh-duong-1",
+    "name": "Nhà cổ Trần Văn Hổ",
+    "type": "landmark",
+    "image": "assets/cards/binh-duong-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-duong-2",
+    "name": "Làng sơn mài Tương Bình Hiệp",
+    "type": "landmark",
+    "image": "assets/cards/binh-duong-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-duong-3",
+    "name": "Gỏi gà măng cụt",
+    "type": "food",
+    "image": "assets/cards/binh-duong-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ba-ria---vung-tau-0",
+    "name": "Hải đăng Vũng Tàu",
+    "type": "landmark",
+    "image": "assets/cards/ba-ria---vung-tau-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ba-ria---vung-tau-1",
+    "name": "Tượng Chúa Kitô",
+    "type": "landmark",
+    "image": "assets/cards/ba-ria---vung-tau-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ba-ria---vung-tau-2",
+    "name": "Bạch Dinh",
+    "type": "landmark",
+    "image": "assets/cards/ba-ria---vung-tau-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ba-ria---vung-tau-3",
+    "name": "Bánh khọt Vũng Tàu",
+    "type": "food",
+    "image": "assets/cards/ba-ria---vung-tau-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-thap-0",
+    "name": "Vườn quốc gia Tràm Chim",
+    "type": "landmark",
+    "image": "assets/cards/dong-thap-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-thap-1",
+    "name": "Làng hoa Sa Đéc",
+    "type": "landmark",
+    "image": "assets/cards/dong-thap-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-thap-2",
+    "name": "Di tích Gò Tháp",
+    "type": "landmark",
+    "image": "assets/cards/dong-thap-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-thap-3",
+    "name": "Hủ tiếu Sa Đéc",
+    "type": "food",
+    "image": "assets/cards/dong-thap-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-thap-4",
+    "name": "Nem Lai Vung",
+    "type": "food",
+    "image": "assets/cards/dong-thap-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tien-giang-0",
+    "name": "Chùa Vĩnh Tràng",
+    "type": "landmark",
+    "image": "assets/cards/tien-giang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tien-giang-1",
+    "name": "Cù lao Thới Sơn",
+    "type": "landmark",
+    "image": "assets/cards/tien-giang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tien-giang-2",
+    "name": "Nhà cổ ông Kiệt",
+    "type": "landmark",
+    "image": "assets/cards/tien-giang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tien-giang-3",
+    "name": "Vú sữa Lò Rèn",
+    "type": "food",
+    "image": "assets/cards/tien-giang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tien-giang-4",
+    "name": "Hủ tiếu Mỹ Tho",
+    "type": "food",
+    "image": "assets/cards/tien-giang-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "an-giang-0",
+    "name": "Miếu Bà Chúa Xứ Núi Sam",
+    "type": "landmark",
+    "image": "assets/cards/an-giang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "an-giang-1",
+    "name": "Rừng tràm Trà Sư",
+    "type": "landmark",
+    "image": "assets/cards/an-giang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "an-giang-2",
+    "name": "Hồ Tà Pạ",
+    "type": "landmark",
+    "image": "assets/cards/an-giang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "an-giang-3",
+    "name": "Bún cá Châu Đốc",
+    "type": "food",
+    "image": "assets/cards/an-giang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "an-giang-4",
+    "name": "Bánh bò thốt nốt",
+    "type": "food",
+    "image": "assets/cards/an-giang-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kien-giang-0",
+    "name": "Dinh Cậu",
+    "type": "landmark",
+    "image": "assets/cards/kien-giang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kien-giang-1",
+    "name": "Hòn Phụ Tử",
+    "type": "landmark",
+    "image": "assets/cards/kien-giang-1-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://tuoitre.vn/gan-20-nam-gap-su-co-gay-do-den-nay-hon-phu-tu-ra-sao-100260629165618354.htm",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "kien-giang-2",
+    "name": "Hải đăng Nam Du",
+    "type": "landmark",
+    "image": "assets/cards/kien-giang-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://congthuong.vn/nguoi-gac-ngon-hai-dang-o-nam-du-419076.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "kien-giang-3",
+    "name": "Bún quậy Phú Quốc",
+    "type": "food",
+    "image": "assets/cards/kien-giang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kien-giang-4",
+    "name": "Gỏi cá trích",
+    "type": "food",
+    "image": "assets/cards/kien-giang-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-long-0",
+    "name": "Văn Thánh Miếu Vĩnh Long",
+    "type": "landmark",
+    "image": "assets/cards/vinh-long-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-long-1",
+    "name": "Cầu Mỹ Thuận",
+    "type": "landmark",
+    "image": "assets/cards/vinh-long-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-long-2",
+    "name": "Làng gạch Mang Thít",
+    "type": "landmark",
+    "image": "assets/cards/vinh-long-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-long-3",
+    "name": "Khoai lang Bình Tân",
+    "type": "food",
+    "image": "assets/cards/vinh-long-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ben-tre-0",
+    "name": "Cồn Phụng",
+    "type": "landmark",
+    "image": "assets/cards/ben-tre-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ben-tre-1",
+    "name": "Làng hoa Cái Mơn",
+    "type": "landmark",
+    "image": "assets/cards/ben-tre-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ben-tre-2",
+    "name": "Khu lưu niệm Nguyễn Đình Chiểu",
+    "type": "landmark",
+    "image": "assets/cards/ben-tre-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ben-tre-3",
+    "name": "Kẹo dừa Bến Tre",
+    "type": "food",
+    "image": "assets/cards/ben-tre-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ben-tre-4",
+    "name": "Bánh tráng Mỹ Lồng",
+    "type": "food",
+    "image": "assets/cards/ben-tre-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tra-vinh-0",
+    "name": "Ao Bà Om",
+    "type": "landmark",
+    "image": "assets/cards/tra-vinh-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tra-vinh-1",
+    "name": "Chùa Âng",
+    "type": "landmark",
+    "image": "assets/cards/tra-vinh-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tra-vinh-2",
+    "name": "Chùa Hang Trà Vinh",
+    "type": "landmark",
+    "image": "assets/cards/tra-vinh-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tra-vinh-3",
+    "name": "Bún nước lèo Trà Vinh",
+    "type": "food",
+    "image": "assets/cards/tra-vinh-3-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vnexpress.net/net-duyen-tham-cua-thanh-pho-tra-vinh-3118337.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "tra-vinh-4",
+    "name": "Bánh tét Trà Cuôn",
+    "type": "food",
+    "image": "assets/cards/tra-vinh-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "can-tho-0",
+    "name": "Chợ nổi Cái Răng",
+    "type": "landmark",
+    "image": "assets/cards/can-tho-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "can-tho-1",
+    "name": "Bến Ninh Kiều",
+    "type": "landmark",
+    "image": "assets/cards/can-tho-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "can-tho-2",
+    "name": "Nhà cổ Bình Thủy",
+    "type": "landmark",
+    "image": "assets/cards/can-tho-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "can-tho-3",
+    "name": "Bánh cống Đại Tâm",
+    "type": "food",
+    "image": "assets/cards/can-tho-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hau-giang-0",
+    "name": "Khu bảo tồn Lung Ngọc Hoàng",
+    "type": "landmark",
+    "image": "assets/cards/hau-giang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hau-giang-1",
+    "name": "Kênh xáng Xà No",
+    "type": "landmark",
+    "image": "assets/cards/hau-giang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hau-giang-2",
+    "name": "Di tích Chiến thắng Chương Thiện",
+    "type": "landmark",
+    "image": "assets/cards/hau-giang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hau-giang-3",
+    "name": "Chả cá thác lác",
+    "type": "food",
+    "image": "assets/cards/hau-giang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hau-giang-4",
+    "name": "Khóm Cầu Đúc",
+    "type": "food",
+    "image": "assets/cards/hau-giang-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "soc-trang-0",
+    "name": "Chùa Dơi",
+    "type": "landmark",
+    "image": "assets/cards/soc-trang-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "soc-trang-1",
+    "name": "Chùa Som Rong",
+    "type": "landmark",
+    "image": "assets/cards/soc-trang-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "soc-trang-2",
+    "name": "Chùa Chén Kiểu",
+    "type": "landmark",
+    "image": "assets/cards/soc-trang-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "soc-trang-3",
+    "name": "Bánh pía Sóc Trăng",
+    "type": "food",
+    "image": "assets/cards/soc-trang-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ca-mau-0",
+    "name": "Mũi Cà Mau",
+    "type": "landmark",
+    "image": "assets/cards/ca-mau-0.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ca-mau-1",
+    "name": "Rừng U Minh Hạ",
+    "type": "landmark",
+    "image": "assets/cards/ca-mau-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ca-mau-2",
+    "name": "Hòn Đá Bạc",
+    "type": "landmark",
+    "image": "assets/cards/ca-mau-2-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://www.vietnamplus.vn/ca-mau-thanh-lap-khu-bao-ton-bien-rong-27000ha-post960123.vnp",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "ca-mau-3",
+    "name": "Cua Cà Mau",
+    "type": "food",
+    "image": "assets/cards/ca-mau-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-lieu-0",
+    "name": "Nhà Công tử Bạc Liêu",
+    "type": "landmark",
+    "image": "assets/cards/bac-lieu-0-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://www.traveloka.com/vi-vn/explore/destination/nha-cong-tu-bac-lieu-acc/217895",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "bac-lieu-1",
+    "name": "Cánh đồng điện gió Bạc Liêu",
+    "type": "landmark",
+    "image": "assets/cards/bac-lieu-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-lieu-2",
+    "name": "Tháp Vĩnh Hưng",
+    "type": "landmark",
+    "image": "assets/cards/bac-lieu-2.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-lieu-3",
+    "name": "Bánh tằm Ngan Dừa",
+    "type": "food",
+    "image": "assets/cards/bac-lieu-3.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-extra-4",
+    "name": "Hoàng thành Thăng Long",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-extra-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-extra-5",
+    "name": "Hòn Trống Mái",
+    "type": "landmark",
+    "image": "assets/cards/thanh-hoa-extra-5.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thanh-hoa-extra-6",
+    "name": "Suối cá Cẩm Lương",
+    "type": "landmark",
+    "image": "assets/cards/thanh-hoa-extra-6.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-extra-5",
+    "name": "Phố cổ Hội An",
+    "type": "landmark",
+    "image": "assets/cards/quang-nam-extra-5.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-extra-5",
+    "name": "Quần đảo Cát Bà",
+    "type": "landmark",
+    "image": "assets/cards/hai-phong-extra-5.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-extra-5",
+    "name": "Đồi chè Cầu Đất",
+    "type": "landmark",
+    "image": "assets/cards/lam-dong-extra-5.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kien-giang-extra-5",
+    "name": "Bãi Sao Phú Quốc",
+    "type": "landmark",
+    "image": "assets/cards/kien-giang-extra-5.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-extra-5",
+    "name": "Cầu Mống",
+    "type": "landmark",
+    "image": "assets/cards/tphcm-extra-5.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "da-nang-extra-4",
+    "name": "Cầu Sông Hàn",
+    "type": "landmark",
+    "image": "assets/cards/da-nang-extra-4.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-visit-cau-long-bien",
+    "name": "Cầu Long Biên",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-visit-cau-long-bien.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-giang-visit-dinh-thu-ho-vuong",
+    "name": "Dinh thự họ Vương",
+    "type": "landmark",
+    "image": "assets/cards/ha-giang-visit-dinh-thu-ho-vuong-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://www.qdnd.vn/phong-su-anh/dac-sac-kien-truc-dinh-thu-nha-ho-vuong-o-cao-nguyen-da-dong-van-512071",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "cao-bang-visit-nui-mat-than",
+    "name": "Núi Mắt Thần",
+    "type": "landmark",
+    "image": "assets/cards/cao-bang-visit-nui-mat-than.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lai-chau-visit-thac-tac-tinh",
+    "name": "Thác Tác Tình",
+    "type": "landmark",
+    "image": "assets/cards/lai-chau-visit-thac-tac-tinh.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lao-cai-visit-ban-cat-cat",
+    "name": "Bản Cát Cát",
+    "type": "landmark",
+    "image": "assets/cards/lao-cai-visit-ban-cat-cat.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-kan-visit-dong-hua-ma",
+    "name": "Động Hua Mạ",
+    "type": "landmark",
+    "image": "assets/cards/bac-kan-visit-dong-hua-ma-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://arttimes.vn/ban-doc/hua-ma-de-nhat-ky-quan-dong-c50a29160.html",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu",
+    "name": "Tượng đài Chiến thắng Điện Biên Phủ",
+    "type": "landmark",
+    "image": "assets/cards/dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lang-son-visit-thanh-nha-mac-lang-son",
+    "name": "Thành nhà Mạc Lạng Sơn",
+    "type": "landmark",
+    "image": "assets/cards/lang-son-visit-thanh-nha-mac-lang-son.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "son-la-visit-rung-thong-ban-ang",
+    "name": "Rừng thông Bản Áng",
+    "type": "landmark",
+    "image": "assets/cards/son-la-visit-rung-thong-ban-ang.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hoa-binh-visit-thung-nai",
+    "name": "Thung Nai",
+    "type": "landmark",
+    "image": "assets/cards/hoa-binh-visit-thung-nai.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-ninh-visit-lang-tranh-dong-ho",
+    "name": "Làng tranh Đông Hồ",
+    "type": "landmark",
+    "image": "assets/cards/bac-ninh-visit-lang-tranh-dong-ho.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ninh-visit-bao-tang-quang-ninh",
+    "name": "Bảo tàng Quảng Ninh",
+    "type": "landmark",
+    "image": "assets/cards/quang-ninh-visit-bao-tang-quang-ninh-v2.webp",
+    "status": "Xác nhận chuỗi tham chiếu ảnh thật",
+    "referenceSource": "",
+    "note": "Bản đầu dùng ảnh người dùng gửi; bản v2 chỉnh từ bản đó cùng hai ảnh mẫu phong cách. Không có nghĩa mọi chi tiết minh họa đều chính xác."
+  },
+  {
+    "id": "hai-phong-visit-bien-do-son",
+    "name": "Biển Đồ Sơn",
+    "type": "landmark",
+    "image": "assets/cards/hai-phong-visit-bien-do-son.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-binh-visit-con-den",
+    "name": "Cồn Đen",
+    "type": "landmark",
+    "image": "assets/cards/thai-binh-visit-con-den.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-binh-visit-tam-coc",
+    "name": "Tam Cốc",
+    "type": "landmark",
+    "image": "assets/cards/ninh-binh-visit-tam-coc-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vinwonders.com/en/wonderpedia/news/tam-coc-boat-tour/",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "thanh-hoa-visit-bien-sam-son",
+    "name": "Biển Sầm Sơn",
+    "type": "landmark",
+    "image": "assets/cards/thanh-hoa-visit-bien-sam-son.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nghe-an-visit-bien-cua-lo",
+    "name": "Biển Cửa Lò",
+    "type": "landmark",
+    "image": "assets/cards/nghe-an-visit-bien-cua-lo.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-tinh-visit-ho-ke-go",
+    "name": "Hồ Kẻ Gỗ",
+    "type": "landmark",
+    "image": "assets/cards/ha-tinh-visit-ho-ke-go.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-binh-visit-song-chay-hang-toi",
+    "name": "Sông Chày – Hang Tối",
+    "type": "landmark",
+    "image": "assets/cards/quang-binh-visit-song-chay-hang-toi.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-visit-lang-tu-duc",
+    "name": "Lăng Tự Đức",
+    "type": "landmark",
+    "image": "assets/cards/hue-visit-lang-tu-duc.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "da-nang-visit-ban-dao-son-tra",
+    "name": "Bán đảo Sơn Trà",
+    "type": "landmark",
+    "image": "assets/cards/da-nang-visit-ban-dao-son-tra.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-ngai-visit-bien-my-khe-quang-ngai",
+    "name": "Biển Mỹ Khê Quảng Ngãi",
+    "type": "landmark",
+    "image": "assets/cards/quang-ngai-visit-bien-my-khe-quang-ngai.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-dinh-visit-ghenh-rang-tien-sa",
+    "name": "Ghềnh Ráng Tiên Sa",
+    "type": "landmark",
+    "image": "assets/cards/binh-dinh-visit-ghenh-rang-tien-sa.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "phu-yen-visit-dam-o-loan",
+    "name": "Đầm Ô Loan",
+    "type": "landmark",
+    "image": "assets/cards/phu-yen-visit-dam-o-loan.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ninh-thuan-visit-bien-ninh-chu",
+    "name": "Biển Ninh Chữ",
+    "type": "landmark",
+    "image": "assets/cards/ninh-thuan-visit-bien-ninh-chu.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-thuan-visit-doi-cat-mui-ne",
+    "name": "Đồi cát Mũi Né",
+    "type": "landmark",
+    "image": "assets/cards/binh-thuan-visit-doi-cat-mui-ne.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-nai-visit-vuon-quoc-gia-cat-tien",
+    "name": "Vườn quốc gia Cát Tiên",
+    "type": "landmark",
+    "image": "assets/cards/dong-nai-visit-vuon-quoc-gia-cat-tien.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tay-ninh-visit-thung-lung-ma-thien-lanh",
+    "name": "Thung lũng Ma Thiên Lãnh",
+    "type": "landmark",
+    "image": "assets/cards/tay-ninh-visit-thung-lung-ma-thien-lanh.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tphcm-visit-nha-tho-duc-ba-sai-gon",
+    "name": "Nhà thờ Đức Bà Sài Gòn",
+    "type": "landmark",
+    "image": "assets/cards/tphcm-visit-nha-tho-duc-ba-sai-gon.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "dong-thap-visit-nha-co-huynh-thuy-le",
+    "name": "Nhà cổ Huỳnh Thủy Lê",
+    "type": "landmark",
+    "image": "assets/cards/dong-thap-visit-nha-co-huynh-thuy-le.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "kien-giang-visit-bai-dai-phu-quoc",
+    "name": "Bãi Dài Phú Quốc",
+    "type": "landmark",
+    "image": "assets/cards/kien-giang-visit-bai-dai-phu-quoc.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "vinh-long-visit-cu-lao-an-binh",
+    "name": "Cù lao An Bình",
+    "type": "landmark",
+    "image": "assets/cards/vinh-long-visit-cu-lao-an-binh.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "can-tho-visit-thien-vien-truc-lam-phuong-nam",
+    "name": "Thiền viện Trúc Lâm Phương Nam",
+    "type": "landmark",
+    "image": "assets/cards/can-tho-visit-thien-vien-truc-lam-phuong-nam.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "bac-lieu-visit-khu-luu-niem-nhac-si-cao-van-lau",
+    "name": "Khu lưu niệm nhạc sĩ Cao Văn Lầu",
+    "type": "landmark",
+    "image": "assets/cards/bac-lieu-visit-khu-luu-niem-nhac-si-cao-van-lau.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-visit-pho-co-ha-noi",
+    "name": "Phố cổ Hà Nội",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-visit-pho-co-ha-noi.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tuyen-quang-visit-cay-da-tan-trao",
+    "name": "Cây đa Tân Trào",
+    "type": "landmark",
+    "image": "assets/cards/tuyen-quang-visit-cay-da-tan-trao.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "yen-bai-visit-doi-mam-xoi",
+    "name": "Đồi Mâm Xôi",
+    "type": "landmark",
+    "image": "assets/cards/yen-bai-visit-doi-mam-xoi.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam",
+    "name": "Bảo tàng Văn hóa các dân tộc Việt Nam",
+    "type": "landmark",
+    "image": "assets/cards/thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam-20261021.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://vietnamtourism.vn/index.php/tourism/items/1878",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "vinh-phuc-visit-thien-vien-truc-lam-tay-thien",
+    "name": "Thiền viện Trúc Lâm Tây Thiên",
+    "type": "landmark",
+    "image": "assets/cards/vinh-phuc-visit-thien-vien-truc-lam-tay-thien.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hai-phong-visit-cau-binh",
+    "name": "Cầu Bính",
+    "type": "landmark",
+    "image": "assets/cards/hai-phong-visit-cau-binh.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-visit-lang-khai-dinh",
+    "name": "Lăng Khải Định",
+    "type": "landmark",
+    "image": "assets/cards/hue-visit-lang-khai-dinh.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "quang-nam-visit-rung-dua-bay-mau",
+    "name": "Rừng dừa Bảy Mẫu",
+    "type": "landmark",
+    "image": "assets/cards/quang-nam-visit-rung-dua-bay-mau.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "khanh-hoa-visit-chua-long-son",
+    "name": "Chùa Long Sơn",
+    "type": "landmark",
+    "image": "assets/cards/khanh-hoa-visit-chua-long-son.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "lam-dong-visit-quang-truong-lam-vien",
+    "name": "Quảng trường Lâm Viên",
+    "type": "landmark",
+    "image": "assets/cards/lam-dong-visit-quang-truong-lam-vien.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "binh-phuoc-visit-di-tich-phu-rieng-do",
+    "name": "Di tích Phú Riềng Đỏ",
+    "type": "landmark",
+    "image": "assets/cards/binh-phuoc-visit-di-tich-phu-rieng-do.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "long-an-visit-vam-nhut-tao",
+    "name": "Vàm Nhựt Tảo",
+    "type": "landmark",
+    "image": "assets/cards/long-an-visit-vam-nhut-tao.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ba-ria---vung-tau-visit-ho-da-xanh",
+    "name": "Hồ Đá Xanh",
+    "type": "landmark",
+    "image": "assets/cards/ba-ria---vung-tau-visit-ho-da-xanh.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "an-giang-visit-nui-cam",
+    "name": "Núi Cấm",
+    "type": "landmark",
+    "image": "assets/cards/an-giang-visit-nui-cam.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-cau-rach-mieu-1",
+    "name": "Cầu Rạch Miễu",
+    "type": "landmark",
+    "image": "assets/cards/egg-cau-rach-mieu-1.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-cau-vam-cong",
+    "name": "Cầu Vàm Cống",
+    "type": "landmark",
+    "image": "assets/cards/egg-cau-vam-cong.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-hai-van",
+    "name": "Đèo Hải Vân",
+    "type": "landmark",
+    "image": "assets/cards/egg-hai-van.webp",
+    "status": "Có nguồn đối chiếu, chưa xác nhận ảnh đầu vào",
+    "referenceSource": "https://baotangdanang.vn/hai-van-quan-mo-cua-don-khach-tham-quan",
+    "note": "Có URL tư liệu nhưng chưa lưu bằng chứng tệp ảnh chụp được truyền vào công cụ."
+  },
+  {
+    "id": "egg-deo-ca",
+    "name": "Đèo Cả",
+    "type": "landmark",
+    "image": "assets/cards/egg-deo-ca.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-vuon-quoc-gia-cuc-phuong",
+    "name": "Vườn quốc gia Cúc Phương",
+    "type": "landmark",
+    "image": "assets/cards/egg-vuon-quoc-gia-cuc-phuong.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-vuon-quoc-gia-tam-dao",
+    "name": "Vườn quốc gia Tam Đảo",
+    "type": "landmark",
+    "image": "assets/cards/egg-vuon-quoc-gia-tam-dao.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-vuon-quoc-gia-hoang-lien",
+    "name": "Vườn quốc gia Hoàng Liên",
+    "type": "landmark",
+    "image": "assets/cards/egg-vuon-quoc-gia-hoang-lien.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-ha-long-cat-ba",
+    "name": "Vịnh Hạ Long – Quần đảo Cát Bà",
+    "type": "landmark",
+    "image": "assets/cards/egg-ha-long-cat-ba.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-dan-ca-quan-ho",
+    "name": "Dân ca Quan họ Bắc Ninh",
+    "type": "landmark",
+    "image": "assets/cards/egg-dan-ca-quan-ho.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại. Di sản phi vật thể: phải dùng ảnh tư liệu buổi diễn/trang phục đúng cộng đồng, không có một công trình cố định."
+  },
+  {
+    "id": "ba-ria---vung-tau-visit-con-dao",
+    "name": "Nhà tù Côn Đảo",
+    "type": "landmark",
+    "image": "assets/cards/ba-ria---vung-tau-visit-con-dao-v2.webp",
+    "status": "Có ảnh người dùng gửi, cần truy vết lần tạo",
+    "referenceSource": "",
+    "note": "Hội thoại có ảnh thật tham chiếu; chưa truy vết đủ lệnh tạo ảnh cho phiên bản đang dùng."
+  },
+  {
+    "id": "ha-noi-visit-nha-tu-hoa-lo",
+    "name": "Nhà tù Hỏa Lò",
+    "type": "landmark",
+    "image": "assets/cards/ha-noi-visit-nha-tu-hoa-lo-v2.webp",
+    "status": "Có ảnh người dùng gửi, cần truy vết lần tạo",
+    "referenceSource": "User-approved illustration exec-262fa06b-025a-4790-980e-a024b164dd84.png",
+    "note": "Hội thoại có ảnh thật tham chiếu; chưa truy vết đủ lệnh tạo ảnh cho phiên bản đang dùng."
+  },
+  {
+    "id": "kien-giang-visit-nha-tu-phu-quoc",
+    "name": "Nhà tù Phú Quốc",
+    "type": "landmark",
+    "image": "assets/cards/kien-giang-visit-nha-tu-phu-quoc-v2.webp",
+    "status": "Có ảnh người dùng gửi, cần truy vết lần tạo",
+    "referenceSource": "User-approved aerial illustration, exec-4abe6fb3-8450-40a1-8873-fe17e1cf3b89.png",
+    "note": "Hội thoại có ảnh thật tham chiếu; chưa truy vết đủ lệnh tạo ảnh cho phiên bản đang dùng."
+  },
+  {
+    "id": "lang-son-visit-mau-son",
+    "name": "Đỉnh Mẫu Sơn",
+    "type": "landmark",
+    "image": "assets/cards/lang-son-visit-mau-son.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "nam-dinh-visit-phu-day",
+    "name": "Phủ Dầy",
+    "type": "landmark",
+    "image": "assets/cards/nam-dinh-visit-phu-day.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-visit-lang-minh-mang",
+    "name": "Lăng Minh Mạng",
+    "type": "landmark",
+    "image": "assets/cards/hue-visit-lang-minh-mang.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tien-giang-visit-trai-ran-dong-tam",
+    "name": "Trại rắn Đồng Tâm",
+    "type": "landmark",
+    "image": "assets/cards/tien-giang-visit-trai-ran-dong-tam.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "ha-noi-food-banh-cuon-thanh-tri",
+    "name": "Bánh cuốn Thanh Trì",
+    "type": "food",
+    "image": "assets/cards/ha-noi-food-banh-cuon-thanh-tri.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "hue-food-banh-khoai",
+    "name": "Bánh khoái Huế",
+    "type": "food",
+    "image": "assets/cards/hue-food-banh-khoai.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "khanh-hoa-food-bun-sua-nha-trang",
+    "name": "Bún sứa Nha Trang",
+    "type": "food",
+    "image": "assets/cards/khanh-hoa-food-bun-sua-nha-trang.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "tay-ninh-food-banh-canh-trang-bang",
+    "name": "Bánh canh Trảng Bàng",
+    "type": "food",
+    "image": "assets/cards/tay-ninh-food-banh-canh-trang-bang.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-vuon-quoc-gia-yok-don",
+    "name": "Vườn quốc gia Yok Đôn",
+    "type": "landmark",
+    "image": "assets/cards/egg-vuon-quoc-gia-yok-don.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại."
+  },
+  {
+    "id": "egg-dan-ca-vi-giam",
+    "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+    "type": "landmark",
+    "image": "assets/cards/egg-dan-ca-vi-giam.webp",
+    "status": "Chưa có bằng chứng ảnh chụp đầu vào",
+    "referenceSource": "",
+    "note": "Hồ sơ ban đầu chỉ có prompt tên/mô tả; không đủ kết luận lịch sử mọi lần tạo lại. Di sản phi vật thể: phải dùng ảnh tư liệu buổi diễn/trang phục đúng cộng đồng, không có một công trình cố định."
+  }
+]

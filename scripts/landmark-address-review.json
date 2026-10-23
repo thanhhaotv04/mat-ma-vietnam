@@ -1,0 +1,694 @@
+{
+  "phu-tho-1": {
+    "commune": "Xã Long Cốc",
+    "source": "https://phutho.gov.vn/gia-han-tien-do-su-dung-dat-doi-voi-du-an-cua-hang-kinh-doanh-dich-vu-tong-hop-phuc-vu-phat-trien-du-lich-doi-che-long-coc-cua-doanh-nghiep-tu-nhan-vy-linh-ngoc-viet-tai-xa-long-coc-tinh-phu-tho-111539"
+  },
+  "phu-tho-2": {
+    "commune": "Phường Vân Phú",
+    "source": "https://congan.phutho.gov.vn/article/LUC-LUONG-AN-NINH-DOI-NGOAI-TANG-CUONG-CONG-TAC-31278-48"
+  },
+  "lao-cai-1": {
+    "commune": "Phường Sa Pa",
+    "source": "https://paivietnam.vn/vi/locations/all-locations/nha-tho-da-sapa-1176?from=location"
+  },
+  "lao-cai-0": {
+    "commune": "Phường Sa Pa",
+    "source": "https://cdn.baolaocai.vn/files/c20a495f62b93c228222b86242e215b84a89361aa5c0f89d43511aa315fad1ba2c5511e927874c28f6a4d3102c222f0c/cuoi-tuan-3.pdf"
+  },
+  "hung-yen-0": {
+    "commune": "Phường Phố Hiến",
+    "source": "https://dulich.hungyen.gov.vn/vi/chuachuonphohiendenhatdanhlam"
+  },
+  "hung-yen-2": {
+    "commune": "Xã Đại Đồng",
+    "source": "https://congan.hungyen.gov.vn/cong-an-xa-dai-dong-dam-bao-antt-le-cong-bo-quyet-dinh-cong-nhan-diem-du-lich-di-tich-lich-su-van-ho-c239537.html"
+  },
+  "tuyen-quang-1": {
+    "commune": "Xã Tân Trào",
+    "source": "https://www.google.com/maps/search/L%C3%A1n%20N%C3%A0%20N%C6%B0a%20Tuy%C3%AAn%20Quang/@22.0978135,105.16841204058693,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QFFM+XX2, Tân Trào, Tuyên Quang, Việt Nam",
+    "mapsName": "Lán Nà Nưa"
+  },
+  "cao-bang-1": {
+    "commune": "Xã Trường Hà",
+    "source": "https://www.google.com/maps/search/Su%E1%BB%91i%20L%C3%AA%20Nin%20Cao%20B%E1%BA%B1ng/@22.7382685,106.2561520931851,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Trường Hà, Cao Bằng, Việt Nam",
+    "mapsName": "suối Lê Nin"
+  },
+  "lai-chau-2": {
+    "commune": "Phường Đoàn Kết",
+    "source": "https://www.google.com/maps/search/%C4%90%E1%BB%99ng%20Pu%20Sam%20C%C3%A1p%20Lai%20Ch%C3%A2u/@22.248486,103.26573071970577,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "99VR+7CH, Bế Văn Đàn, Đoàn Kết, Lai Châu, Việt Nam",
+    "mapsName": "Động PuSamCap"
+  },
+  "thai-nguyen-0": {
+    "commune": "Xã Tân Cương",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%93i+Ch%C3%A8+T%C3%A2n+C%C6%B0%C6%A1ng+-+HTX+Ti%E1%BA%BFn+Y%C3%AAn/data=!4m7!3m6!1s0x3134df855f8a25cf:0xf817203590e3aed0!8m2!3d21.5429972!4d105.762811!16s%2Fg%2F11l26xzb53!19sChIJzyWKX4XfNDER0K7jkDUgF_g?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "GQV7+54V, Tân Cương, Thái Nguyên, Việt Nam",
+    "mapsName": "Đồi Chè Tân Cương - HTX Tiến Yên"
+  },
+  "thai-nguyen-2": {
+    "commune": "Xã Phú Đình",
+    "source": "https://www.google.com/maps/search/ATK%20%C4%90%E1%BB%8Bnh%20H%C3%B3a%20Th%C3%A1i%20Nguy%C3%AAn/@21.686712999999997,105.85639024200711,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tỉn Keo - ATK, Phú Đình, Thái Nguyên, Việt Nam",
+    "mapsName": "ATK Định Hóa"
+  },
+  "lang-son-2": {
+    "commune": "Xã Chi Lăng",
+    "source": "https://www.google.com/maps/place/%E1%BA%A2i+Chi+L%C4%83ng/data=!4m7!3m6!1s0x314aa8244b471e1d:0x27c117709c314123!8m2!3d21.6199437!4d106.5420561!16s%2Fg%2F11gf1rcyt8!19sChIJHR5HSySoSjERI0ExnHAXwSc?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "JG9R+XRF thời 1950, QL1, Chi Lăng, Lạng Sơn, Việt Nam",
+    "mapsName": "Ải Chi Lăng"
+  },
+  "son-la-2": {
+    "commune": "Phường Tô Hiệu",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20t%C3%B9%20S%C6%A1n%20La%20S%C6%A1n%20La/@21.302243,104.13824301163724,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Khau Cả, Tô Hiệu, Sơn La, Việt Nam",
+    "mapsName": "Di Tích Nhà Tù Sơn La"
+  },
+  "bac-ninh-0": {
+    "commune": "Phường Trí Quả",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20D%C3%A2u%20B%E1%BA%AFc%20Ninh/@21.1167565,106.10905814770527,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "22PV+628, Lạc Long Quân, Đại Tự, Trí Quả, Bắc Ninh 790000, Việt Nam",
+    "mapsName": "Chùa Dâu"
+  },
+  "bac-giang-0": {
+    "commune": "Phường Tân An",
+    "source": "https://www.google.com/maps/place/Ch%C3%B9a+V%C4%A9nh+Nghi%C3%AAm/data=!4m7!3m6!1s0x3135706a90ed42fd:0xe8759c0fb2522cad!8m2!3d21.2135393!4d106.3243371!16s%2Fg%2F1hm20kgwg!19sChIJ_ULtkGpwNTERrSxSsg-cdeg?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Quốc Khánh, Tân An, Bắc Ninh 220000, Việt Nam",
+    "mapsName": "Chùa Vĩnh Nghiêm"
+  },
+  "bac-giang-1": {
+    "commune": "Phường Vân Hà",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20B%E1%BB%95%20%C4%90%C3%A0%20B%E1%BA%AFc%20Giang/@21.3743035,106.46619346614952,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đ. Vành Đai 4, Thượng Lát, Vân Hà, Bắc Ninh, Việt Nam",
+    "mapsName": "Chùa Bổ Đà"
+  },
+  "quang-ninh-1": {
+    "commune": "Phường Yên Tử",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20%C4%90%E1%BB%93ng%20Y%C3%AAn%20T%E1%BB%AD%20Qu%E1%BA%A3ng%20Ninh/@21.2389965,107.21156383268712,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "5P67+9X8, 5P67+9XF Đỉnh Yên Tử, Yên Tử, Nam Mẫu, Yên Tử, Quảng Ninh 207900, Việt Nam",
+    "mapsName": "Chùa Đồng Yên Tử"
+  },
+  "hai-phong-0": {
+    "commune": "Phường Hồng Bàng",
+    "source": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A1t+Th%C3%A0nh+ph%E1%BB%91+H%E1%BA%A3i+Ph%C3%B2ng/data=!4m7!3m6!1s0x314a7b15a4559941:0xaaead3b47e5359a2!8m2!3d20.8573109!4d106.681815!16s%2Fm%2F0k2lv0g!19sChIJQZlVpBV7SjERollTfrTT6qo?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "28 P. Trần Hưng Đạo, Hồng Bàng, Hải Phòng, Việt Nam",
+    "mapsName": "Nhà hát Thành phố Hải Phòng"
+  },
+  "hai-duong-0": {
+    "commune": "Phường Trần Hưng Đạo",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20C%C3%B4n%20S%C6%A1n%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng/@20.961045,106.36007468849455,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "núi Côn Sơn, Trần Hưng Đạo, Hải Phòng 174251, Việt Nam",
+    "mapsName": "Chùa Côn Sơn"
+  },
+  "hai-duong-1": {
+    "commune": "Phường Trần Hưng Đạo",
+    "source": "https://www.google.com/maps/search/%C4%90%E1%BB%81n%20Ki%E1%BA%BFp%20B%E1%BA%A1c%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng/@20.961045,106.36007468849455,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Côn Sơn-Kiếp Bạc, Trần Hưng Đạo, Hải Phòng 170000, Việt Nam",
+    "mapsName": "Đền Kiếp Bạc"
+  },
+  "thai-binh-2": {
+    "commune": "Xã Đồng Châu",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20%C4%90%E1%BB%93ng%20Ch%C3%A2u%20Th%C3%A1i%20B%C3%ACnh/@20.4888045,106.38782511156084,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đồng Châu, Hưng Yên, Việt Nam",
+    "mapsName": "Khu Du Lịch Biển Đồng Châu"
+  },
+  "ha-nam-0": {
+    "commune": "Phường Tam Chúc",
+    "source": "https://www.google.com/maps/place/Ch%C3%B9a+Tam+Ch%C3%BAc/data=!4m7!3m6!1s0x3135cd00135b7f1f:0x41115bcf136136e4!8m2!3d20.5705071!4d105.8143322!16s%2Fg%2F11x374vdqm!19sChIJH39bEwDNNTER5DZhE89bEUE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "HRC7+6P4, Tam Chúc, Ninh Bình, Việt Nam",
+    "mapsName": "Chùa Tam Chúc"
+  },
+  "nam-dinh-1": {
+    "commune": "Xã Hải Tiến",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20th%E1%BB%9D%20%C4%91%E1%BB%95%20H%E1%BA%A3i%20L%C3%BD%20Nam%20%C4%90%E1%BB%8Bnh/@20.191273000000002,106.27232415166517,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tổ dân phố 13, Hải Tiến, Ninh Bình 07942, Việt Nam",
+    "mapsName": "Nhà thờ đổ Hải Lý"
+  },
+  "nam-dinh-2": {
+    "commune": "Xã Hải Anh",
+    "source": "https://www.google.com/maps/search/C%E1%BA%A7u%20ng%C3%B3i%20ch%C3%B9a%20L%C6%B0%C6%A1ng%20Nam%20%C4%90%E1%BB%8Bnh/@20.191273000000002,106.27232415166517,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Hai Anh Commune, Xóm 3, Hải Anh, Ninh Bình, Việt Nam",
+    "mapsName": "Cầu ngói chùa Lương"
+  },
+  "thanh-hoa-2": {
+    "commune": "Xã Lam Sơn",
+    "source": "https://www.google.com/maps/place/Khu+Di+t%C3%ADch+L%E1%BB%8Bch+s%E1%BB%AD+Lam+kinh/data=!4m7!3m6!1s0x3136e9fd289f5539:0xc17e6b6b431b1f09!8m2!3d19.9253941!4d105.4070605!16s%2Fg%2F1235kd6xh!19sChIJOVWfKP3pNjERCR8bQ2trfsE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đường Lê Thái Tổ, Lam Sơn, Thanh Hóa, Việt Nam",
+    "mapsName": "Khu Di tích Lịch sử Lam kinh"
+  },
+  "nghe-an-1": {
+    "commune": "Xã Hoa Quân",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BA%A3o+Ch%C3%A8+Thanh+Ch%C6%B0%C6%A1ng/data=!4m10!3m9!1s0x3139effa20fc9553:0x24b8ec00ffff694a!5m2!4m1!1i2!8m2!3d18.731346!4d105.2812454!16s%2Fg%2F11mv4vy83x!19sChIJU5X8IPrvOTERSmn__wDsuCQ?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Xóm An Ngọc xã, Hoa Quân, Nghệ An 44727, Việt Nam",
+    "mapsName": "Đảo Chè Thanh Chương"
+  },
+  "ha-tinh-2": {
+    "commune": "Xã Thiên Cầm",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20Thi%C3%AAn%20C%E1%BA%A7m%20H%C3%A0%20T%C4%A9nh/@18.339983,105.60929002640103,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Thiên Cầm, Hà Tĩnh, Việt Nam",
+    "mapsName": "Bãi biển Thiên Cầm"
+  },
+  "hue-0": {
+    "commune": "Phường Phú Xuân",
+    "source": "https://www.google.com/maps/place/Ng%E1%BB%8D+M%C3%B4n/data=!4m7!3m6!1s0x3141a133c94c1643:0x43fd52385dcfacbf!8m2!3d16.4676928!4d107.5791741!16s%2Fm%2F0gtwzxc!19sChIJQxZMyTOhQTERv6zPXThS_UM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "FH9H+3MF, Phú Xuân, Huế, Việt Nam",
+    "mapsName": "Ngọ Môn"
+  },
+  "da-nang-1": {
+    "commune": "Phường Ngũ Hành Sơn",
+    "source": "https://www.google.com/maps/search/Ng%C5%A9%20H%C3%A0nh%20S%C6%A1n%20%C4%90%C3%A0%20N%E1%BA%B5ng/@16.0669805,108.0341959067696,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+    "mapsName": "Ngũ Hành Sơn"
+  },
+  "quang-nam-0": {
+    "commune": "Phường Hội An",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20C%E1%BA%A7u%20H%E1%BB%99i%20An%20Qu%E1%BA%A3ng%20Nam/@15.5097325,108.00249983436507,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Nguyễn Thị Minh Khai, Hội An, Đà Nẵng 564010, Việt Nam",
+    "mapsName": "Chùa Cầu"
+  },
+  "quang-ngai-1": {
+    "commune": "Phường Trương Quang Trọng",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Thi%C3%AAn%20%E1%BA%A4n%20Qu%E1%BA%A3ng%20Ng%C3%A3i/@14.9787575,108.45014729000559,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "4RX9+87P, Trương Quang Trọng, Quảng Ngãi, Việt Nam",
+    "mapsName": "Chùa Thiên Ấn"
+  },
+  "kon-tum-1": {
+    "commune": "Phường Kon Tum",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20r%C3%B4ng%20Kon%20Klor%20Kon%20Tum/@14.670559,108.0284276133815,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Nhà rông KonK'lor, Trần Hưng Đạo, Kon Tum, Quảng Ngãi, Việt Nam",
+    "mapsName": "Nhà Rông Konklor Kon Tum"
+  },
+  "kon-tum-2": {
+    "commune": "Xã Măng Đen",
+    "source": "https://www.google.com/maps/place/KDL+Th%C3%A1c+Pa+S%E1%BB%B9/data=!4m7!3m6!1s0x3169432a9374abc5:0x1f99d0152cbffebf!8m2!3d14.5951015!4d108.256702!16s%2Fg%2F11bz0b2bc1!19sChIJxat0kypDaTERv_6_LBXQmR8?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Măng Đen, Quảng Ngãi 60000, Việt Nam",
+    "mapsName": "KDL Thác Pa Sỹ"
+  },
+  "gia-lai-0": {
+    "commune": "Xã Biển Hồ",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20H%E1%BB%93%20T%C6%A1%20N%C6%B0ng%20Gia%20Lai/@13.799813499999999,108.13795388304175,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Biển Hồ, Gia Lai, Việt Nam",
+    "mapsName": "Biển Hồ"
+  },
+  "gia-lai-2": {
+    "commune": "Phường Hội Phú",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Minh%20Th%C3%A0nh%20Gia%20Lai/@13.799813499999999,108.13795388304175,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "348 đường Nguyễn Viết Xuân, Hội Phú, Gia Lai 600000, Việt Nam",
+    "mapsName": "Chùa Minh Thành"
+  },
+  "binh-dinh-0": {
+    "commune": "Phường Quy Nhơn Đông",
+    "source": "https://www.google.com/maps/place/Khu+Du+L%E1%BB%8Bch+Eo+Gi%C3%B3/data=!4m7!3m6!1s0x316f43bbd047c227:0xb6f5a42174801909!8m2!3d13.8844244!4d109.2918356!16s%2Fg%2F11j9cz2zrs!19sChIJJ8JH0LtDbzERCRmAdCGk9bY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed Road, Hưng Lương, Quy Nhơn Đông, Gia Lai, Việt Nam",
+    "mapsName": "Khu Du Lịch Eo Gió"
+  },
+  "dak-lak-1": {
+    "commune": "Xã Ea Na",
+    "source": "https://www.google.com/maps/search/Th%C3%A1c%20Dray%20Nur%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk/@12.788586,108.41738198571116,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "thôn Buôn Kuốp, Ea Na, Đắk Lắk, Việt Nam",
+    "mapsName": "Thác Đray Nur"
+  },
+  "dak-lak-2": {
+    "commune": "Phường Buôn Ma Thuột",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20%C4%91%C3%A0y%20Bu%C3%B4n%20Ma%20Thu%E1%BB%99t%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk/@12.788586,108.41738198571116,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "27 Phạm Hồng Thái, Buôn Ma Thuột, Đắk Lắk 63000, Việt Nam",
+    "mapsName": "Nhà Đày Buôn Ma Thuột"
+  },
+  "phu-yen-0": {
+    "commune": "Xã Tuy An Đông",
+    "source": "https://www.google.com/maps/place/G%C3%A0nh+%C4%90%C3%A1+%C4%90%C4%A9a/data=!4m7!3m6!1s0x316f9bd2d7763f91:0xbf05c47b09caa799!8m2!3d13.3539579!4d109.2937518!16s%2Fg%2F11jm5jj1bz!19sChIJkT9219KbbzERmafKCXvEBb8?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed Road, Tuy An Đông, Đắk Lắk, Việt Nam",
+    "mapsName": "Gành Đá Đĩa"
+  },
+  "phu-yen-2": {
+    "commune": "Xã Hoà Xuân",
+    "source": "https://www.google.com/maps/search/H%E1%BA%A3i%20%C4%91%C4%83ng%20%C4%90%E1%BA%A1i%20L%C3%A3nh%20Ph%C3%BA%20Y%C3%AAn/@13.1998745,109.07334919817603,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "thôn Đồng Bé, xã, Hòa Xuân, Đắk Lắk, Việt Nam",
+    "mapsName": "Hải đăng Đại Lãnh"
+  },
+  "khanh-hoa-0": {
+    "commune": "Phường Bắc Nha Trang",
+    "source": "https://www.google.com/maps/search/Th%C3%A1p%20B%C3%A0%20Ponagar%20Kh%C3%A1nh%20H%C3%B2a/@12.3360305,108.94155221009035,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "61 Hai Tháng Tư, Bắc Nha Trang, Khánh Hòa 650000, Việt Nam",
+    "mapsName": "Tháp Bà Ponagar"
+  },
+  "khanh-hoa-1": {
+    "commune": "Phường Bắc Nha Trang",
+    "source": "https://www.google.com/maps/place/H%C3%B2n+Ch%E1%BB%93ng/data=!4m7!3m6!1s0x317067ebf764f3e1:0x669216540dfca111!8m2!3d12.27292!4d109.2064934!16s%2Fg%2F11b6nt3f42!19sChIJ4fNk9-tncDEREaH8DVQWkmY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Bắc Nha Trang, Khánh Hòa 650000, Việt Nam",
+    "mapsName": "Hòn Chồng"
+  },
+  "lam-dong-2": {
+    "commune": "Phường Lang Biang - Đà Lạt",
+    "source": "https://www.google.com/maps/search/N%C3%BAi%20Langbiang%20L%C3%A2m%20%C4%90%E1%BB%93ng/@11.766276999999999,108.06675880040086,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Lang Biang - Đà Lạt, Lâm Đồng, Việt Nam",
+    "mapsName": "Lang Bian"
+  },
+  "dak-nong-2": {
+    "commune": "Xã Nam Đà",
+    "source": "https://www.google.com/maps/search/Hang%20n%C3%BAi%20l%E1%BB%ADa%20Ch%C6%B0%20Bluk%20%C4%90%E1%BA%AFk%20N%C3%B4ng/@12.280572,107.74131099438398,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "FWGV+8XV, Unnamed, Road, Nam Đà, Lâm Đồng, Việt Nam",
+    "mapsName": "Quần thể hang động - núi lửa Chư Blúk"
+  },
+  "binh-thuan-0": {
+    "commune": "Xã Hoà Thắng",
+    "source": "https://www.google.com/maps/search/B%C3%A0u%20Tr%E1%BA%AFng%20B%C3%ACnh%20Thu%E1%BA%ADn/@11.0618965,107.95074581689735,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Hòa Thắng, Lâm Đồng, Việt Nam",
+    "mapsName": "Bàu Trắng"
+  },
+  "binh-thuan-1": {
+    "commune": "Xã Tân Thành",
+    "source": "https://www.google.com/maps/place/H%E1%BA%A3i+%C4%90%C4%83ng+K%C3%AA+G%C3%A0/data=!4m7!3m6!1s0x3175d68ee1e9fd13:0x3c0f966dd4c667d9!8m2!3d10.6952887!4d107.9915644!16s%2Fg%2F1212mg_3!19sChIJE_3p4Y7WdTER2WfG1G2WDzw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed Rd, Kê Gà, Tân Thành, Lâm Đồng, Việt Nam",
+    "mapsName": "Hải Đăng Kê Gà"
+  },
+  "dong-nai-2": {
+    "commune": "Phường Trảng Bom",
+    "source": "https://www.google.com/maps/place/Th%C3%A1c+Giang+%C4%90i%E1%BB%81n/data=!4m7!3m6!1s0x3174e16c1f7b43a7:0x9a4673251bc5d1d5!8m2!3d10.9185234!4d106.9892328!16s%2Fg%2F1vqtd8s6!19sChIJp0N7H2zhdDER1dHFGyVzRpo?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "104/4 ấp Hoà Bình, Trảng Bom, Đồng Nai, Việt Nam",
+    "mapsName": "Thác Giang Điền"
+  },
+  "binh-phuoc-2": {
+    "commune": "Xã Bom Bo",
+    "source": "https://www.google.com/maps/search/S%C3%B3c%20Bom%20Bo%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc/@11.799986,106.91510652401746,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "R5QQ+FH, Unnamed, Road, Bom Bo, Đồng Nai, Việt Nam",
+    "mapsName": "Sóc Bom Bo"
+  },
+  "tay-ninh-2": {
+    "commune": "Xã Phước Chỉ",
+    "source": "https://www.google.com/maps/search/Th%C3%A1p%20B%C3%ACnh%20Th%E1%BA%A1nh%20T%C3%A2y%20Ninh/@11.372991500000001,106.10898811404856,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Bình Phú, Phước Chỉ, Tây Ninh, Việt Nam",
+    "mapsName": "Tháp Cổ Bình Thạnh"
+  },
+  "long-an-1": {
+    "commune": "Xã Mộc Hoá",
+    "source": "https://www.google.com/maps/search/L%C3%A0ng%20n%E1%BB%95i%20T%C3%A2n%20L%E1%BA%ADp%20Long%20An/@10.713355,106.12515132120582,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QL62, ấp 3, Mộc Hóa, Tây Ninh 850000, Việt Nam",
+    "mapsName": "Làng Nổi Tân Lập"
+  },
+  "binh-duong-1": {
+    "commune": "Phường Thủ Dầu Một",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20Tr%E1%BA%A7n%20V%C4%83n%20H%E1%BB%95%20B%C3%ACnh%20D%C6%B0%C6%A1ng/@11.183341500000001,106.67364540055965,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "XMH2+57R, Bạch Đằng, Thủ Dầu Một, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Nhà cổ Trần Văn Hổ"
+  },
+  "binh-duong-2": {
+    "commune": "Phường Chánh Hiệp",
+    "source": "https://www.google.com/maps/place/L%C3%A0ng+s%C6%A1n+M%C3%A0i+T%C6%B0%C6%A1ng+B%C3%ACnh+Hi%E1%BB%87p+%2F+Tuong+Binh+Hiep+Lacquer+Handicraft+village/data=!4m7!3m6!1s0x3174d1fd66c095f9:0x4d0cd8467b8467ad!8m2!3d11.0054741!4d106.6435221!16s%2Fg%2F11wppgwb3_!19sChIJ-ZXAZv3RdDERrWeEe0bYDE0?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "17 Hồ Văn Cống, Chánh Hiệp, Hồ Chí Minh 820000, Việt Nam",
+    "mapsName": "Làng sơn Mài Tương Bình Hiệp / Tuong Binh Hiep Lacquer Handicraft village"
+  },
+  "ba-ria---vung-tau-0": {
+    "commune": "Phường Vũng Tàu",
+    "source": "https://www.google.com/maps/place/H%E1%BA%A3i+%C4%91%C4%83ng+V%C5%A9ng+T%C3%A0u/data=!4m7!3m6!1s0x31756552a003a9b9:0x32769656e2f73fb9!8m2!3d10.334091!4d107.077663!16s%2Fg%2F12z65svxw!19sChIJuakDoFJldTERuT_34laWdjI?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "40 Hải Đăng, Vũng Tàu, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Hải đăng Vũng Tàu"
+  },
+  "ba-ria---vung-tau-2": {
+    "commune": "Phường Vũng Tàu",
+    "source": "https://www.google.com/maps/place/B%E1%BA%A1ch+Dinh/data=!4m7!3m6!1s0x31756f0059e18389:0x7846a65c55dcaed4!8m2!3d10.3508458!4d107.0686614!16s%2Fg%2F11wc5wdcgw!19sChIJiYPhWQBvdTER1K7cVVymRng?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "6 Trần Phú, Vũng Tàu, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Bạch Dinh"
+  },
+  "tien-giang-0": {
+    "commune": "Phường Mỹ Phong",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20V%C4%A9nh%20Tr%C3%A0ng%20Ti%E1%BB%81n%20Giang/@10.390146000000001,106.31728457019065,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Khu phố Mỹ An, Mỹ Phong, Đồng Tháp, Việt Nam",
+    "mapsName": "Chùa Vĩnh Tràng"
+  },
+  "tien-giang-2": {
+    "commune": "Xã Cái Bè",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20%C3%B4ng%20Ki%E1%BB%87t%20Ti%E1%BB%81n%20Giang/@10.390146000000001,106.31728457019065,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Số 22 ấp Phú Hòa, Cái Bè, Đồng Tháp, Việt Nam",
+    "mapsName": "Nhà cổ Ông Kiệt"
+  },
+  "an-giang-0": {
+    "commune": "Phường Vĩnh Tế",
+    "source": "https://www.google.com/maps/place/Mi%E1%BA%BFu+B%C3%A0+Ch%C3%BAa+X%E1%BB%A9+N%C3%BAi+Sam/data=!4m7!3m6!1s0x310a212738470c33:0xd5bd168bc8d1ddc7!8m2!3d10.6823393!4d105.0802997!16s%2Fg%2F121bq847!19sChIJMwxHOCchCjERx93RyIsWvdU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "925 Phạm Văn Bạch Khóm, Vĩnh Tây 1, Vĩnh Tế, An Giang, Việt Nam",
+    "mapsName": "Miếu Bà Chúa Xứ Núi Sam"
+  },
+  "an-giang-2": {
+    "commune": "Xã Tri Tôn",
+    "source": "https://www.google.com/maps/place/H%E1%BB%93+%C4%90%C3%A1+%C4%90%E1%BB%93i+T%C3%A0+P%E1%BA%A1/data=!4m7!3m6!1s0x3109f84c7ff0cca9:0x66de19436e8705f3!8m2!3d10.4135479!4d104.9895143!16s%2Fg%2F1th5x7k0!19sChIJqczwf0z4CTER8wWHbkMZ3mY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tri Tôn, An Giang, Việt Nam",
+    "mapsName": "Hồ Đá Đồi Tà Pạ"
+  },
+  "kien-giang-2": {
+    "commune": "Đặc khu Kiên Hải",
+    "source": "https://www.google.com/maps/search/H%E1%BA%A3i%20%C4%91%C4%83ng%20Nam%20Du%20Ki%C3%AAn%20Giang/@9.9615485,105.29253676400052,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "M9H3+C6W, Kiên Hải, An Giang, Việt Nam",
+    "mapsName": "Hải Đăng Nam Du"
+  },
+  "vinh-long-2": {
+    "commune": "Xã Nhơn Phú",
+    "source": "https://www.google.com/maps/search/L%C3%A0ng%20g%E1%BA%A1ch%20Mang%20Th%C3%ADt%20V%C4%A9nh%20Long/@10.1072915,105.98567866054574,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "63G9+RHW, Nhơn Phú, Vĩnh Long, Việt Nam",
+    "mapsName": "Làng Gốm Vĩnh Long"
+  },
+  "tra-vinh-0": {
+    "commune": "Phường Nguyệt Hoá",
+    "source": "https://www.google.com/maps/search/Ao%20B%C3%A0%20Om%20Tr%C3%A0%20Vinh/@9.8048285,106.28578724362245,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "khóm 3, Nguyệt Hóa, Vĩnh Long, Việt Nam",
+    "mapsName": "Ao Bà Om"
+  },
+  "tra-vinh-2": {
+    "commune": "Xã Châu Thành",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Hang%20Tr%C3%A0%20Vinh%20Tr%C3%A0%20Vinh/@9.8048285,106.28578724362245,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Hai Tháng Chín, ấp 4, Châu Thành, Vĩnh Long, Việt Nam",
+    "mapsName": "Chùa Hang"
+  },
+  "can-tho-1": {
+    "commune": "Phường Ninh Kiều",
+    "source": "https://www.google.com/maps/place/B%E1%BA%BFn+Ninh+Ki%E1%BB%81u/data=!4m7!3m6!1s0x31a06298aae43e71:0xc6a64bdac582285d!8m2!3d10.0322715!4d105.7882308!16s%2Fg%2F11_ygvs77!19sChIJcT7kqphioDERXSiCxdpLpsY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "106 Đ. Hai Bà Trưng, Ninh Kiều, Cần Thơ, Việt Nam",
+    "mapsName": "Bến Ninh Kiều"
+  },
+  "can-tho-2": {
+    "commune": "Phường Bình Thuỷ",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20B%C3%ACnh%20Th%E1%BB%A7y%20C%E1%BA%A7n%20Th%C6%A1/@10.122256,105.51843513236201,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "144 Đ. Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ, Việt Nam",
+    "mapsName": "Nhà cổ Bình Thủy"
+  },
+  "hau-giang-2": {
+    "commune": "Phường Vị Tân",
+    "source": "https://www.google.com/maps/place/Di+t%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Chi%E1%BA%BFn+th%E1%BA%AFng+Ch%C6%B0%C6%A1ng+Thi%E1%BB%87n/data=!4m7!3m6!1s0x31a0e97f96accc8d:0xd346717dfe046ce9!8m2!3d9.7934558!4d105.4799333!16s%2Fg%2F11r131454g!19sChIJjcysln_poDER6WwE_n1xRtM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QFVH+9XM, Unnamed Road, Vị Tân, Cần Thơ, Việt Nam",
+    "mapsName": "Di tích lịch sử Chiến thắng Chương Thiện"
+  },
+  "soc-trang-1": {
+    "commune": "Phường Sóc Trăng",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Som%20Rong%20S%C3%B3c%20Tr%C4%83ng/@9.591527,105.9209102790041,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "367 đường Tôn Đức Thắng, Sóc Trăng, Cần Thơ, Việt Nam",
+    "mapsName": "Chùa Som Rong - Phường Sóc Trăng"
+  },
+  "soc-trang-2": {
+    "commune": "Phường Mỹ Xuyên",
+    "source": "https://www.google.com/maps/place/Ch%C3%B9a+S%C3%A0+L%C3%B4n+%28Ch%C3%B9a+Ch%C3%A9n+Ki%E1%BB%83u%29/data=!4m7!3m6!1s0x31a053285856b929:0x1b52d486c9c69998!8m2!3d9.5381435!4d105.9203096!16s%2Fg%2F119vp8gzp!19sChIJKblWWChToDERmJnGyYbUUhs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QL1A, Khu vực Đại Thành, Mỹ Xuyên, Cần Thơ, Việt Nam",
+    "mapsName": "Chùa Sà Lôn (Chùa Chén Kiểu)"
+  },
+  "ca-mau-0": {
+    "commune": "Xã Đất Mũi",
+    "source": "https://www.google.com/maps/place/Khu+Du+l%E1%BB%8Bch+M%C5%A9i+C%C3%A0+Mau/data=!4m7!3m6!1s0x31a4150072e894e7:0xbc2ce63aeb38d825!8m2!3d8.6066232!4d104.7218061!16s%2Fg%2F11xf65fdd8!19sChIJ55TocgAVpDERJdg46zrmLLw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "JP4C+GPW, Đất Mũi, Cà Mau, Việt Nam",
+    "mapsName": "Khu Du lịch Mũi Cà Mau"
+  },
+  "bac-lieu-0": {
+    "commune": "Phường Bạc Liêu",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20C%C3%B4ng%20t%E1%BB%AD%20B%E1%BA%A1c%20Li%C3%AAu%20B%E1%BA%A1c%20Li%C3%AAu/@9.328808,105.53200191883768,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "13 Điện Biên Phủ, Bạc Liêu, Cà Mau 84291, Việt Nam",
+    "mapsName": "Nhà Công tử Bạc Liêu"
+  },
+  "bac-lieu-1": {
+    "commune": "Phường Hiệp Thành",
+    "source": "https://www.google.com/maps/search/C%C3%A1nh%20%C4%91%E1%BB%93ng%20%C4%91i%E1%BB%87n%20gi%C3%B3%20B%E1%BA%A1c%20Li%C3%AAu%20B%E1%BA%A1c%20Li%C3%AAu/@9.328808,105.53200191883768,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "6RM3+WW3, Điện gió Bạc Liêu, Hiệp Thành, Cà Mau, Việt Nam",
+    "mapsName": "Cánh Đồng Điện Gió Bạc Liêu"
+  },
+  "thanh-hoa-extra-6": {
+    "commune": "Xã Cẩm Tú",
+    "source": "https://www.google.com/maps/search/Su%E1%BB%91i%20c%C3%A1%20C%E1%BA%A9m%20L%C6%B0%C6%A1ng%20Thanh%20H%C3%B3a/@19.9786715,105.4954750436278,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "thôn Lương Ngọc, Cẩm Tú, Thanh Hóa, Việt Nam",
+    "mapsName": "Suối Cá thần Cẩm Lương"
+  },
+  "lam-dong-extra-5": {
+    "commune": "Phường Xuân Trường - Đà Lạt",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%93i+Ch%C3%A8+C%E1%BA%A7u+%C4%90%E1%BA%A5t/data=!4m7!3m6!1s0x317116dda7eb76c3:0x653f7aed2c2bff4e!8m2!3d11.8790807!4d108.5605075!16s%2Fg%2F11gf1yz65w!19sChIJw3brp90WcTERTv8rLO16P2U?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Xuân Trường - Đà Lạt, Lâm Đồng, Việt Nam",
+    "mapsName": "Đồi Chè Cầu Đất"
+  },
+  "cao-bang-visit-nui-mat-than": {
+    "commune": "Xã Trà Lĩnh",
+    "source": "https://www.google.com/maps/search/N%C3%BAi%20M%E1%BA%AFt%20Th%E1%BA%A7n%20Cao%20B%E1%BA%B1ng/@22.7382685,106.2561520931851,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Trà Lĩnh, Cao Bằng, Việt Nam",
+    "mapsName": "Núi Mắt Thần"
+  },
+  "lai-chau-visit-thac-tac-tinh": {
+    "commune": "Xã Tả Lèng",
+    "source": "https://www.google.com/maps/place/Th%C3%A1c+T%C3%A1c+T%C3%ACnh/data=!4m7!3m6!1s0x36cd5ec0bb2f2cfd:0x1cb83bd8fdbc8d51!8m2!3d22.3473478!4d103.6135992!16s%2Fg%2F12j3sfhfq!19sChIJ_Swvu8BezTYRUY28_dg7uBw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Tả Lèng, Lai Châu, Việt Nam",
+    "mapsName": "Thác Tác Tình"
+  },
+  "lang-son-visit-thanh-nha-mac-lang-son": {
+    "commune": "Phường Tam Thanh",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%89nh+n%C3%BAi+Th%C3%A0nh+Nh%C3%A0+M%E1%BA%A1c+-+L%E1%BA%A1ng+S%C6%A1n/data=!4m7!3m6!1s0x36b54f0039ad775b:0xe1d48acce65da13e!8m2!3d21.8565978!4d106.7478512!16s%2Fg%2F11ntskhw71!19sChIJW3etOQBPtTYRPqFd5syK1OE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "VP4X+J4Q, Tam Thanh, Lạng Sơn, Việt Nam",
+    "mapsName": "Đỉnh núi Thành Nhà Mạc - Lạng Sơn"
+  },
+  "hai-phong-visit-bien-do-son": {
+    "commune": "Phường Đồ Sơn",
+    "source": "https://www.google.com/maps/search/Bi%E1%BB%83n%20%C4%90%E1%BB%93%20S%C6%A1n%20H%E1%BA%A3i%20Ph%C3%B2ng/@20.809183,106.67468793182069,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Khu du lịch Đồ Sơn, Đồ Sơn, Hải Phòng, Việt Nam",
+    "mapsName": "Bãi biển Đồ Sơn"
+  },
+  "thai-binh-visit-con-den": {
+    "commune": "Xã Đông Thái Ninh",
+    "source": "https://www.google.com/maps/place/Khu+du+l%E1%BB%8Bch+sinh+th%C3%A1i+bi%E1%BB%83n+C%E1%BB%93n+%C4%90en/data=!4m7!3m6!1s0x314a0897462c2595:0xb8463f16dbc4a9b0!8m2!3d20.4874692!4d106.6025731!16s%2Fg%2F1tlbr67q!19sChIJlSUsRpcISjERsKnE2xY_Rrg?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đông Thái Ninh, Hưng Yên, Việt Nam",
+    "mapsName": "Khu du lịch sinh thái biển Cồn Đen"
+  },
+  "binh-dinh-visit-ghenh-rang-tien-sa": {
+    "commune": "Phường Quy Nhơn Nam",
+    "source": "https://www.google.com/maps/search/Gh%E1%BB%81nh%20R%C3%A1ng%20Ti%C3%AAn%20Sa%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh/@14.112835,108.95221928233029,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "P6R8+W8, Quy Nhơn Nam, Gia Lai, Việt Nam",
+    "mapsName": "Bãi trứng - khu du lịch Ghềnh Ráng"
+  },
+  "ninh-thuan-visit-bien-ninh-chu": {
+    "commune": "Phường Ninh Chử",
+    "source": "https://www.google.com/maps/place/B%C3%A3i+bi%E1%BB%83n+Ninh+Ch%E1%BB%AF/data=!4m7!3m6!1s0x3170cf9758f74a37:0xbcc94f46b4909c03!8m2!3d11.586519!4d109.0332441!16s%2Fg%2F11gyysbczs!19sChIJN0r3WJfPcDERA5yQtEZPybw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Ninh Chử, Khánh Hòa, Việt Nam",
+    "mapsName": "Bãi biển Ninh Chữ"
+  },
+  "binh-thuan-visit-doi-cat-mui-ne": {
+    "commune": "Phường Mũi Né",
+    "source": "https://www.google.com/maps/search/%C4%90%E1%BB%93i%20c%C3%A1t%20M%C5%A9i%20N%C3%A9%20B%C3%ACnh%20Thu%E1%BA%ADn/@11.0618965,107.95074581689735,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "01 Hòn Rơm, ĐT716, Mũi Né, Lâm Đồng, Việt Nam",
+    "mapsName": "Đồi Cát Đỏ"
+  },
+  "tay-ninh-visit-thung-lung-ma-thien-lanh": {
+    "commune": "Phường Bình Minh",
+    "source": "https://www.google.com/maps/search/Thung%20l%C5%A9ng%20Ma%20Thi%C3%AAn%20L%C3%A3nh%20T%C3%A2y%20Ninh/@11.372991500000001,106.10898811404856,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "94PV+R8F, Ma Thiên Lãnh, Bình Minh, Tây Ninh, Việt Nam",
+    "mapsName": "Ma thiên lãnh"
+  },
+  "dong-thap-visit-nha-co-huynh-thuy-le": {
+    "commune": "Phường Sa Đéc",
+    "source": "https://www.google.com/maps/search/Nh%C3%A0%20c%E1%BB%95%20Hu%E1%BB%B3nh%20Th%E1%BB%A7y%20L%C3%AA%20%C4%90%E1%BB%93ng%20Th%C3%A1p/@10.554067,105.65344785223643,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "255A Đường Nguyễn Huệ, Sa Đéc, Đồng Tháp, Việt Nam",
+    "mapsName": "Nhà cổ Huỳnh Thuỷ Lê"
+  },
+  "can-tho-visit-thien-vien-truc-lam-phuong-nam": {
+    "commune": "Xã Phong Điền",
+    "source": "https://www.google.com/maps/search/Thi%E1%BB%81n%20vi%E1%BB%87n%20Tr%C3%BAc%20L%C3%A2m%20Ph%C6%B0%C6%A1ng%20Nam%20C%E1%BA%A7n%20Th%C6%A1/@10.122256,105.51843513236201,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Phong Điền, Cần Thơ, Việt Nam",
+    "mapsName": "Thiền viện Trúc Lâm Phương Nam Cần Thơ"
+  },
+  "bac-lieu-visit-khu-luu-niem-nhac-si-cao-van-lau": {
+    "commune": "Phường Bạc Liêu",
+    "source": "https://www.google.com/maps/search/Khu%20l%C6%B0u%20ni%E1%BB%87m%20nh%E1%BA%A1c%20s%C4%A9%20Cao%20V%C4%83n%20L%E1%BA%A7u%20B%E1%BA%A1c%20Li%C3%AAu/@9.328808,105.53200191883768,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "7PGG+F34, Ninh Bình, Bạc Liêu, Cà Mau, Việt Nam",
+    "mapsName": "Khu tưởng niệm Nhạc sĩ Cao Văn Lầu"
+  },
+  "tuyen-quang-visit-cay-da-tan-trao": {
+    "commune": "Xã Tân Trào",
+    "source": "https://www.google.com/maps/search/C%C3%A2y%20%C4%91a%20T%C3%A2n%20Tr%C3%A0o%20Tuy%C3%AAn%20Quang/@22.0978135,105.16841204058693,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "QFGG+4VM, Làng Tân Lập, Tân Trào, Tuyên Quang, Việt Nam",
+    "mapsName": "Cây đa Tân Trào"
+  },
+  "thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam": {
+    "commune": "Phường Phan Đình Phùng",
+    "source": "https://www.google.com/maps/search/B%E1%BA%A3o%20t%C3%A0ng%20V%C4%83n%20h%C3%B3a%20c%C3%A1c%20d%C3%A2n%20t%E1%BB%99c%20Vi%E1%BB%87t%20Nam%20Th%C3%A1i%20Nguy%C3%AAn/@21.686712999999997,105.85639024200711,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đường Đội Cấn, Phan Đình Phùng, Thái Nguyên, Việt Nam",
+    "mapsName": "Bảo tàng Văn hóa các Dân tộc Việt Nam"
+  },
+  "khanh-hoa-visit-chua-long-son": {
+    "commune": "Phường Tây Nha Trang",
+    "source": "https://www.google.com/maps/search/Ch%C3%B9a%20Long%20S%C6%A1n%20Kh%C3%A1nh%20H%C3%B2a/@12.3360305,108.94155221009035,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "22 Đ. 23 Tháng 10, Tây Nha Trang, Khánh Hòa 650000, Việt Nam",
+    "mapsName": "Chùa Long Sơn"
+  },
+  "lam-dong-visit-quang-truong-lam-vien": {
+    "commune": "Phường Xuân Hương - Đà Lạt",
+    "source": "https://www.google.com/maps/place/Qu%E1%BA%A3ng+tr%C6%B0%E1%BB%9Dng+L%C3%A2m+Vi%C3%AAn/data=!4m7!3m6!1s0x31711324a3fe0629:0x66eb8ed37afe5989!8m2!3d11.9393622!4d108.445203!16s%2Fg%2F11f2sw5q3l!19sChIJKQb-oyQTcTERiVn-etOO62Y?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Đ. Trần Quốc Toản, Xuân Hương - Đà Lạt, Lâm Đồng, Việt Nam",
+    "mapsName": "Quảng trường Lâm Viên"
+  },
+  "binh-phuoc-visit-di-tich-phu-rieng-do": {
+    "commune": "Xã Thuận Lợi",
+    "source": "https://www.google.com/maps/search/Di%20t%C3%ADch%20Ph%C3%BA%20Ri%E1%BB%81ng%20%C4%90%E1%BB%8F%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc/@11.799986,106.91510652401746,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Unnamed, Road, Thuận Lợi, Đồng Nai, Việt Nam",
+    "mapsName": "Di tích Phú Riềng Đỏ 1930"
+  },
+  "long-an-visit-vam-nhut-tao": {
+    "commune": "Xã Nhựt Tảo",
+    "source": "https://www.google.com/maps/search/V%C3%A0m%20Nh%E1%BB%B1t%20T%E1%BA%A3o%20Long%20An/@10.713355,106.12515132120582,11z?hl=vi&gl=vn",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "Ấp 2, Nhựt Tảo, Tây Ninh, Việt Nam",
+    "mapsName": "Khu di tích lịch sử Vàm Nhựt Tảo"
+  },
+  "ba-ria---vung-tau-visit-ho-da-xanh": {
+    "commune": "Phường Long Hương",
+    "source": "https://www.google.com/maps/place/H%E1%BB%93+%C4%90%C3%A1+Xanh+B%C3%A0+R%E1%BB%8Ba/data=!4m7!3m6!1s0x31750d5a4a7c558b:0xb148b65dbf38d6f!8m2!3d10.5086427!4d107.1472241!16s%2Fg%2F11mqxf2xms!19sChIJi1V8SloNdTERb43z22WLFAs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "G45W+FV5, Unnamed Road, Long Hương, Hồ Chí Minh, Việt Nam",
+    "mapsName": "Hồ Đá Xanh Bà Rịa"
+  },
+  "nam-dinh-visit-phu-day": {
+    "commune": "Xã Vụ Bản",
+    "source": "https://www.google.com/maps/place/Ph%E1%BB%A7+Ch%C3%ADnh+Ph%E1%BB%A7+D%E1%BA%A7y+-+N%C6%A1i+Th%C3%A1nh+M%E1%BA%ABu+gi%C3%A1ng+sinh/data=!4m7!3m6!1s0x3135dfda698432fd:0xe4e6ca9d791f57d0!8m2!3d20.3608669!4d106.0776755!16s%2Fg%2F11q2fgcr68!19sChIJ_TKEadrfNTER0FcfeZ3K5uQ?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressEvidence": "936F+6V3, xom 2, Vụ Bản, Ninh Bình, Việt Nam",
+    "mapsName": "Phủ Chính Phủ Dầy - Nơi Thánh Mẫu giáng sinh"
+  },
+  "son-la-0": {
+    "commune": "Phường Thảo Nguyên",
+    "source": "https://www.google.com/maps/place/%C4%90%E1%BB%93i+Ch%C3%A8+M%E1%BB%99c+Ch%C3%A2u/data=!4m7!3m6!1s0x3133eb72899919f1:0x92aa361862dee80c!8m2!3d20.8337431!4d104.693191!16s%2Fg%2F11pz3jqtyx!19sChIJ8RmZiXLrMzERDOjeYhg2qpI?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      104.693191,
+      20.8337431
+    ],
+    "mapsName": "Đồi Chè Mộc Châu"
+  },
+  "da-nang-2": {
+    "commune": "Xã Bà Nà",
+    "source": "https://www.google.com/maps/place/C%E1%BA%A7u+V%C3%A0ng/data=!4m7!3m6!1s0x3141f73d19c5d38f:0x63766c11470ab50d!8m2!3d15.9949375!4d107.9965625!16s%2Fg%2F11f7r5z2l1!19sChIJj9PFGT33QTERDbUKRxFsdmM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      107.9965625,
+      15.9949375
+    ],
+    "mapsName": "Cầu Vàng"
+  },
+  "kien-giang-1": {
+    "commune": "Xã Kiên Lương",
+    "source": "https://www.google.com/maps/place/h%C3%B2n+Ph%E1%BB%A5+T%E1%BB%AD/data=!4m7!3m6!1s0x31a767967a9a5ff3:0x474ebc2d372179b2!8m2!3d10.1356854!4d104.6374669!16s%2Fg%2F120rlpy1!19sChIJ81-aepZnpzERsnkhNy28Tkc?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      104.6374669,
+      10.1356854
+    ],
+    "mapsName": "hòn Phụ Tử"
+  },
+  "dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu": {
+    "commune": "Phường Điện Biên Phủ",
+    "source": "https://www.google.com/maps/place/T%C6%B0%E1%BB%A3ng+%C4%91%C3%A0i+Chi%E1%BA%BFn+Th%E1%BA%AFng+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7/data=!4m7!3m6!1s0x312d085f702bb3bf:0x1b4a0ebcc9e088b7!8m2!3d21.3924324!4d103.0165036!16s%2Fg%2F1239vjtp!19sChIJv7MrcF8ILTERt4jgybwOShs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      103.0165036,
+      21.3924324
+    ],
+    "mapsName": "Tượng đài Chiến Thắng Điện Biên Phủ"
+  },
+  "quang-binh-visit-song-chay-hang-toi": {
+    "commune": "Xã Phong Nha",
+    "source": "https://www.google.com/maps/place/S%C3%B4ng+Ch%C3%A0y+-+Hang+T%E1%BB%91i/data=!4m7!3m6!1s0x3138b9001708194d:0x518a9ea61f6427ef!8m2!3d17.5743659!4d106.2514176!16s%2Fg%2F11z5gswdyy!19sChIJTRkIFwC5ODER7ydkH6aeilE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      106.2514176,
+      17.5743659
+    ],
+    "mapsName": "Sông Chày - Hang Tối"
+  },
+  "vinh-phuc-visit-thien-vien-truc-lam-tay-thien": {
+    "commune": "Xã Đại Đình",
+    "source": "https://www.google.com/maps/place/Thi%E1%BB%81n+vi%E1%BB%87n+Tr%C3%BAc+l%C3%A2m+T%C3%A2y+Thi%C3%AAn/data=!4m7!3m6!1s0x3134e871667dec33:0x334f79898cb98568!8m2!3d21.4670146!4d105.5858559!16s%2Fg%2F120pnrl0!19sChIJM-x9ZnHoNDERaIW5jIl5TzM?authuser=0&hl=vi&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+    "verifiedOn": "2026-10-22",
+    "addressMethod": "Inspected Google Maps POI inside current ward polygon",
+    "referenceCoordinates": [
+      105.5858559,
+      21.4670146
+    ],
+    "mapsName": "Thiền viện Trúc lâm Tây Thiên"
+  }
+}

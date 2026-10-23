@@ -74,7 +74,8 @@
           }
         ]
       }
-    ]
+    ],
+    "site": "mat-ma-viet-nam"
   },
   "firestore": {
     "rules": "firestore.rules"

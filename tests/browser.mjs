@@ -21,6 +21,6 @@ for(const width of [768,1024]){await page.setViewportSize({width,height:1050});a
 await page.setViewportSize({width:1440,height:1050});await page.locator('.card-row[data-card="thai-binh-0"]').click();await page.locator('#practice').click();await page.locator('[data-answer="thai-binh-0"]').click();await page.locator('#claim').click();
 assert.equal(JSON.parse(await page.evaluate(()=>localStorage.getItem('mat-ma-viet-nam-player-v1'))).earned.length,3);
 
-await page.locator('.profile').click();const download=page.waitForEvent('download');await page.locator('#export').click();assert.equal((await download).suggestedFilename(),'mat-ma-viet-nam-tien-do.json');await page.locator('.dialog-close').click();
+await page.locator('.profile').click();assert.equal(await page.locator('#export,#import').count(),0);await page.locator('.dialog-close').click();
 assert.deepEqual(errors,[]);console.log('Browser PASS: onboarding, quiz x3, unlock, persistence, all four tabs, accent-insensitive search, map zoom, 375/768/1024/1440 layouts, image practice, export, no runtime errors.');
 await browser.close();

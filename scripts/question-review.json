@@ -17,7 +17,7 @@
   },
   "ha-noi-1": {
     "question": {
-      "passage": "Khuê Văn Các và hệ thống bia tiến sĩ nằm trong quần thể {{blank}} – Quốc Tử Giám tại Hà Nội.",
+      "passage": "Khuê Văn Các và hệ thống bia tiến sĩ nằm trong quần thể {{blank}} tại Hà Nội.",
       "options": [
         "Văn Miếu – Quốc Tử Giám",
         "Văn miếu Mao Điền",
@@ -723,7 +723,7 @@
     "question": {
       "passage": "Thịt gia cầm được tẩm ướp với lá mắc mật rồi quay cho da lên màu vàng nâu. Hương lá và lớp da là đặc điểm quan trọng để nhận ra món {{blank}}.",
       "options": [
-        "Cá kho niêu",
+        "Cá kho",
         "Vịt quay",
         "Thắng cố",
         "Thịt chua"
@@ -1656,7 +1656,7 @@
       "passage": "Cá được xếp trong niêu đất và kho lâu với gia vị. Thành phẩm có vị đậm, không dùng cách trộn sống hay chiên thành chả. Món được nhắc đến là {{blank}}.",
       "options": [
         "Thắng cố",
-        "Cá kho niêu",
+        "Cá kho",
         "Nậm pịa",
         "Vịt quay"
       ],
@@ -3473,7 +3473,7 @@
       "options": [
         "Làng nổi Tân Lập",
         "Làng sơn mài Tương Bình Hiệp",
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Láng Sen"
       ],
       "answer": 1,
@@ -3509,7 +3509,7 @@
       "options": [
         "Bạch Dinh",
         "Hải đăng Vũng Tàu",
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Hải đăng Nam Du"
       ],
       "answer": 1,
@@ -3524,7 +3524,7 @@
       "passage": "Tượng Chúa dang tay đứng trên Núi Nhỏ là điểm nhận diện của Vũng Tàu. Địa danh được mô tả trong đoạn này là {{blank}}.",
       "options": [
         "Làng sơn mài Tương Bình Hiệp",
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Hải đăng Vũng Tàu",
         "Bạch Dinh"
       ],
@@ -3542,7 +3542,7 @@
         "Hải đăng Vũng Tàu",
         "Bạch Dinh",
         "Sóc Bom Bo",
-        "Tượng Chúa Kitô Vua"
+        "Tượng Chúa Kitô"
       ],
       "answer": 1,
       "hint": "So sánh loại công trình hoặc cảnh quan với từng lựa chọn.",
@@ -3985,7 +3985,7 @@
       "options": [
         "Chợ nổi Cái Răng",
         "Cái Mơn",
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Cồn Phụng"
       ],
       "answer": 1,
@@ -4351,7 +4351,7 @@
     "question": {
       "passage": "Vùng đất cực Nam trên đất liền gắn với rừng ngập mặn. Địa danh được mô tả trong đoạn này là {{blank}}.",
       "options": [
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Mũi Cà Mau",
         "Sóc Bom Bo",
         "Rừng U Minh Hạ"
@@ -4417,7 +4417,7 @@
       "options": [
         "Nhà trăm cột",
         "Nhà Công tử Bạc Liêu",
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Cánh đồng điện gió Bạc Liêu"
       ],
       "answer": 1,
@@ -5075,7 +5075,7 @@
     "question": {
       "passage": "Thung lũng giữa các ngọn núi vùng núi Bà Đen có những tảng đá và cây rừng, tạo cảnh quan khác biệt giữa đồng bằng Tây Ninh. Địa danh được mô tả trong đoạn này là {{blank}}.",
       "options": [
-        "Tượng Chúa Kitô Vua",
+        "Tượng Chúa Kitô",
         "Thung lũng Ma Thiên Lãnh",
         "Sóc Bom Bo",
         "Lung Ngọc Hoàng"

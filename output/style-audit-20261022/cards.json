@@ -1,0 +1,3462 @@
+[
+  {
+    "number": 1,
+    "id": "ha-noi-0",
+    "name": "Hồ Hoàn Kiếm",
+    "image": "assets/cards/ha-noi-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 2,
+    "id": "ha-noi-1",
+    "name": "Văn Miếu – Quốc Tử Giám",
+    "image": "assets/cards/ha-noi-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 3,
+    "id": "ha-noi-2",
+    "name": "Chùa Một Cột",
+    "image": "assets/cards/ha-noi-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 4,
+    "id": "ha-noi-3",
+    "name": "Phở Hà Nội",
+    "image": "assets/cards/ha-noi-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 5,
+    "id": "tuyen-quang-0",
+    "name": "Đình Tân Trào",
+    "image": "assets/cards/tuyen-quang-0-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 6,
+    "id": "tuyen-quang-1",
+    "name": "Lán Nà Nưa",
+    "image": "assets/cards/tuyen-quang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 7,
+    "id": "tuyen-quang-2",
+    "name": "Hồ Na Hang",
+    "image": "assets/cards/tuyen-quang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 8,
+    "id": "tuyen-quang-3",
+    "name": "Bánh gai Chiêm Hóa",
+    "image": "assets/cards/tuyen-quang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 9,
+    "id": "ha-giang-0",
+    "name": "Cột cờ Lũng Cú",
+    "image": "assets/cards/ha-giang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 10,
+    "id": "ha-giang-1",
+    "name": "Đèo Mã Pì Lèng",
+    "image": "assets/cards/ha-giang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 11,
+    "id": "ha-giang-2",
+    "name": "Núi đôi Quản Bạ",
+    "image": "assets/cards/ha-giang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 12,
+    "id": "ha-giang-3",
+    "name": "Bánh tam giác mạch",
+    "image": "assets/cards/ha-giang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 13,
+    "id": "cao-bang-0",
+    "name": "Thác Bản Giốc",
+    "image": "assets/cards/cao-bang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 14,
+    "id": "cao-bang-1",
+    "name": "Suối Lê Nin",
+    "image": "assets/cards/cao-bang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 15,
+    "id": "cao-bang-2",
+    "name": "Động Ngườm Ngao",
+    "image": "assets/cards/cao-bang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 16,
+    "id": "cao-bang-3",
+    "name": "Hạt dẻ Trùng Khánh",
+    "image": "assets/cards/cao-bang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 17,
+    "id": "lai-chau-0",
+    "name": "Bản Sin Suối Hồ",
+    "image": "assets/cards/lai-chau-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 18,
+    "id": "lai-chau-1",
+    "name": "Đồi chè Tân Uyên",
+    "image": "assets/cards/lai-chau-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 19,
+    "id": "lai-chau-2",
+    "name": "Động Pu Sam Cáp",
+    "image": "assets/cards/lai-chau-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 20,
+    "id": "lai-chau-3",
+    "name": "Xôi tím Lai Châu",
+    "image": "assets/cards/lai-chau-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 21,
+    "id": "lao-cai-0",
+    "name": "Đỉnh Fansipan",
+    "image": "assets/cards/lao-cai-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 22,
+    "id": "lao-cai-1",
+    "name": "Nhà thờ đá Sa Pa",
+    "image": "assets/cards/lao-cai-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 23,
+    "id": "lao-cai-2",
+    "name": "Dinh Hoàng A Tưởng",
+    "image": "assets/cards/lao-cai-2-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 24,
+    "id": "lao-cai-3",
+    "name": "Thắng cố Bắc Hà",
+    "image": "assets/cards/lao-cai-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 25,
+    "id": "yen-bai-0",
+    "name": "Ruộng bậc thang Mù Cang Chải",
+    "image": "assets/cards/yen-bai-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 26,
+    "id": "yen-bai-1",
+    "name": "Hồ Thác Bà",
+    "image": "assets/cards/yen-bai-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 27,
+    "id": "yen-bai-2",
+    "name": "Đèo Khau Phạ",
+    "image": "assets/cards/yen-bai-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 28,
+    "id": "yen-bai-3",
+    "name": "Cốm Tú Lệ",
+    "image": "assets/cards/yen-bai-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 29,
+    "id": "thai-nguyen-0",
+    "name": "Đồi chè Tân Cương",
+    "image": "assets/cards/thai-nguyen-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 30,
+    "id": "thai-nguyen-1",
+    "name": "Hồ Núi Cốc",
+    "image": "assets/cards/thai-nguyen-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 31,
+    "id": "thai-nguyen-2",
+    "name": "ATK Định Hóa",
+    "image": "assets/cards/thai-nguyen-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 32,
+    "id": "thai-nguyen-3",
+    "name": "Bánh chưng Bờ Đậu",
+    "image": "assets/cards/thai-nguyen-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 33,
+    "id": "bac-kan-0",
+    "name": "Hồ Ba Bể",
+    "image": "assets/cards/bac-kan-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 34,
+    "id": "bac-kan-1",
+    "name": "Động Puông",
+    "image": "assets/cards/bac-kan-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 35,
+    "id": "bac-kan-2",
+    "name": "Thác Đầu Đẳng",
+    "image": "assets/cards/bac-kan-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 36,
+    "id": "bac-kan-3",
+    "name": "Miến dong Na Rì",
+    "image": "assets/cards/bac-kan-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 37,
+    "id": "dien-bien-0",
+    "name": "Đồi A1",
+    "image": "assets/cards/dien-bien-0-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 38,
+    "id": "dien-bien-1",
+    "name": "Hầm Đờ Cát",
+    "image": "assets/cards/dien-bien-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 39,
+    "id": "dien-bien-2",
+    "name": "Di tích Mường Phăng",
+    "image": "assets/cards/dien-bien-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 40,
+    "id": "dien-bien-3",
+    "name": "Khẩu xén Mường Lay",
+    "image": "assets/cards/dien-bien-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 41,
+    "id": "lang-son-0",
+    "name": "Động Tam Thanh",
+    "image": "assets/cards/lang-son-0-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 42,
+    "id": "lang-son-1",
+    "name": "Núi Tô Thị",
+    "image": "assets/cards/lang-son-1-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 43,
+    "id": "lang-son-2",
+    "name": "Ải Chi Lăng",
+    "image": "assets/cards/lang-son-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 44,
+    "id": "lang-son-3",
+    "name": "Vịt quay Lạng Sơn",
+    "image": "assets/cards/lang-son-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 45,
+    "id": "son-la-0",
+    "name": "Đồi chè Mộc Châu",
+    "image": "assets/cards/son-la-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 46,
+    "id": "son-la-1",
+    "name": "Thác Dải Yếm",
+    "image": "assets/cards/son-la-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 47,
+    "id": "son-la-2",
+    "name": "Nhà tù Sơn La",
+    "image": "assets/cards/son-la-2-v2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 48,
+    "id": "son-la-3",
+    "name": "Nậm pịa",
+    "image": "assets/cards/son-la-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 49,
+    "id": "phu-tho-0",
+    "name": "Đền Hùng",
+    "image": "assets/cards/phu-tho-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 50,
+    "id": "phu-tho-1",
+    "name": "Đồi chè Long Cốc",
+    "image": "assets/cards/phu-tho-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 51,
+    "id": "phu-tho-2",
+    "name": "Đình Hùng Lô",
+    "image": "assets/cards/phu-tho-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 52,
+    "id": "phu-tho-3",
+    "name": "Thịt chua Thanh Sơn",
+    "image": "assets/cards/phu-tho-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 53,
+    "id": "vinh-phuc-0",
+    "name": "Nhà thờ đá Tam Đảo",
+    "image": "assets/cards/vinh-phuc-0-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 54,
+    "id": "vinh-phuc-1",
+    "name": "Tháp Bình Sơn",
+    "image": "assets/cards/vinh-phuc-1-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 55,
+    "id": "vinh-phuc-2",
+    "name": "Hồ Đại Lải",
+    "image": "assets/cards/vinh-phuc-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 56,
+    "id": "vinh-phuc-3",
+    "name": "Bánh trùng mật mía",
+    "image": "assets/cards/vinh-phuc-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 57,
+    "id": "hoa-binh-0",
+    "name": "Bản Lác",
+    "image": "assets/cards/hoa-binh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 58,
+    "id": "hoa-binh-1",
+    "name": "Thủy điện Hòa Bình",
+    "image": "assets/cards/hoa-binh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 59,
+    "id": "hoa-binh-2",
+    "name": "Đèo Thung Khe",
+    "image": "assets/cards/hoa-binh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 60,
+    "id": "hoa-binh-3",
+    "name": "Cơm lam Hòa Bình",
+    "image": "assets/cards/hoa-binh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 61,
+    "id": "bac-ninh-0",
+    "name": "Chùa Dâu",
+    "image": "assets/cards/bac-ninh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 62,
+    "id": "bac-ninh-1",
+    "name": "Chùa Bút Tháp",
+    "image": "assets/cards/bac-ninh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 63,
+    "id": "bac-ninh-2",
+    "name": "Đền Đô",
+    "image": "assets/cards/bac-ninh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 64,
+    "id": "bac-ninh-3",
+    "name": "Bánh phu thê Đình Bảng",
+    "image": "assets/cards/bac-ninh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 65,
+    "id": "bac-giang-0",
+    "name": "Chùa Vĩnh Nghiêm",
+    "image": "assets/cards/bac-giang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 66,
+    "id": "bac-giang-1",
+    "name": "Chùa Bổ Đà",
+    "image": "assets/cards/bac-giang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 67,
+    "id": "bac-giang-2",
+    "name": "Hồ Cấm Sơn",
+    "image": "assets/cards/bac-giang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 68,
+    "id": "bac-giang-3",
+    "name": "Mì Chũ",
+    "image": "assets/cards/bac-giang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 69,
+    "id": "bac-giang-4",
+    "name": "Vải thiều Lục Ngạn",
+    "image": "assets/cards/bac-giang-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 70,
+    "id": "quang-ninh-0",
+    "name": "Hòn Trống Mái",
+    "image": "assets/cards/quang-ninh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 71,
+    "id": "quang-ninh-1",
+    "name": "Chùa Đồng Yên Tử",
+    "image": "assets/cards/quang-ninh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 72,
+    "id": "quang-ninh-2",
+    "name": "Bãi đá Cầu Mỵ",
+    "image": "assets/cards/quang-ninh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 73,
+    "id": "quang-ninh-3",
+    "name": "Chả mực Hạ Long",
+    "image": "assets/cards/quang-ninh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 74,
+    "id": "hai-phong-0",
+    "name": "Nhà hát Hải Phòng",
+    "image": "assets/cards/hai-phong-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 75,
+    "id": "hai-phong-1",
+    "name": "Vịnh Lan Hạ",
+    "image": "assets/cards/hai-phong-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 76,
+    "id": "hai-phong-2",
+    "name": "Hải đăng Hòn Dấu",
+    "image": "assets/cards/hai-phong-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 77,
+    "id": "hai-phong-3",
+    "name": "Bánh đa cua",
+    "image": "assets/cards/hai-phong-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 78,
+    "id": "hai-phong-4",
+    "name": "Bánh mì cay Hải Phòng",
+    "image": "assets/cards/hai-phong-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 79,
+    "id": "hai-duong-0",
+    "name": "Chùa Côn Sơn",
+    "image": "assets/cards/hai-duong-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 80,
+    "id": "hai-duong-1",
+    "name": "Đền Kiếp Bạc",
+    "image": "assets/cards/hai-duong-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 81,
+    "id": "hai-duong-2",
+    "name": "Văn miếu Mao Điền",
+    "image": "assets/cards/hai-duong-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 82,
+    "id": "hai-duong-3",
+    "name": "Bánh đậu xanh Hải Dương",
+    "image": "assets/cards/hai-duong-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 83,
+    "id": "hung-yen-0",
+    "name": "Chùa Chuông",
+    "image": "assets/cards/hung-yen-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 84,
+    "id": "hung-yen-1",
+    "name": "Văn miếu Xích Đằng",
+    "image": "assets/cards/hung-yen-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 85,
+    "id": "hung-yen-2",
+    "name": "Làng Nôm",
+    "image": "assets/cards/hung-yen-2-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 86,
+    "id": "hung-yen-3",
+    "name": "Nhãn lồng Hưng Yên",
+    "image": "assets/cards/hung-yen-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 87,
+    "id": "thai-binh-0",
+    "name": "Chùa Keo",
+    "image": "assets/cards/thai-binh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 88,
+    "id": "thai-binh-1",
+    "name": "Đền Trần Thái Bình",
+    "image": "assets/cards/thai-binh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 89,
+    "id": "thai-binh-2",
+    "name": "Biển Đồng Châu",
+    "image": "assets/cards/thai-binh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 90,
+    "id": "thai-binh-3",
+    "name": "Bánh cáy làng Nguyễn",
+    "image": "assets/cards/thai-binh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 91,
+    "id": "thai-binh-4",
+    "name": "Canh cá Quỳnh Côi",
+    "image": "assets/cards/thai-binh-4-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 92,
+    "id": "ninh-binh-0",
+    "name": "Danh thắng Tràng An",
+    "image": "assets/cards/ninh-binh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 93,
+    "id": "ninh-binh-1",
+    "name": "Hang Múa",
+    "image": "assets/cards/ninh-binh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 94,
+    "id": "ninh-binh-2",
+    "name": "Chùa Bái Đính",
+    "image": "assets/cards/ninh-binh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 95,
+    "id": "ninh-binh-3",
+    "name": "Cơm cháy Ninh Bình",
+    "image": "assets/cards/ninh-binh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 96,
+    "id": "ha-nam-0",
+    "name": "Chùa Tam Chúc",
+    "image": "assets/cards/ha-nam-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 97,
+    "id": "ha-nam-1",
+    "name": "Chùa Địa Tạng Phi Lai",
+    "image": "assets/cards/ha-nam-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 98,
+    "id": "ha-nam-2",
+    "name": "Đền Trần Thương",
+    "image": "assets/cards/ha-nam-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 99,
+    "id": "ha-nam-3",
+    "name": "Cá kho làng Vũ Đại",
+    "image": "assets/cards/ha-nam-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 100,
+    "id": "nam-dinh-0",
+    "name": "Tháp Phổ Minh",
+    "image": "assets/cards/nam-dinh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 101,
+    "id": "nam-dinh-1",
+    "name": "Nhà thờ đổ Hải Lý",
+    "image": "assets/cards/nam-dinh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 102,
+    "id": "nam-dinh-2",
+    "name": "Cầu ngói chùa Lương",
+    "image": "assets/cards/nam-dinh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 103,
+    "id": "nam-dinh-3",
+    "name": "Kẹo Sìu Châu",
+    "image": "assets/cards/nam-dinh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 104,
+    "id": "thanh-hoa-0",
+    "name": "Thành nhà Hồ",
+    "image": "assets/cards/thanh-hoa-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 105,
+    "id": "thanh-hoa-1",
+    "name": "Pù Luông",
+    "image": "assets/cards/thanh-hoa-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 106,
+    "id": "thanh-hoa-2",
+    "name": "Di tích Lam Kinh",
+    "image": "assets/cards/thanh-hoa-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 107,
+    "id": "thanh-hoa-3",
+    "name": "Nem chua Thanh Hóa",
+    "image": "assets/cards/thanh-hoa-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 108,
+    "id": "thanh-hoa-4",
+    "name": "Bánh răng bừa",
+    "image": "assets/cards/thanh-hoa-4-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 109,
+    "id": "nghe-an-0",
+    "name": "Làng Sen",
+    "image": "assets/cards/nghe-an-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 110,
+    "id": "nghe-an-1",
+    "name": "Đồi chè Thanh Chương",
+    "image": "assets/cards/nghe-an-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 111,
+    "id": "nghe-an-2",
+    "name": "Đảo Lan Châu",
+    "image": "assets/cards/nghe-an-2-20261021.webp",
+    "type": "landmark",
+    "status": "Lệch nhẹ",
+    "note": "Biển xanh cyan rực; viền đen và mảng màu phẳng rõ hơn nhóm tranh màu ấm.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 112,
+    "id": "nghe-an-3",
+    "name": "Cháo lươn Vinh",
+    "image": "assets/cards/nghe-an-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 113,
+    "id": "ha-tinh-0",
+    "name": "Ngã ba Đồng Lộc",
+    "image": "assets/cards/ha-tinh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 114,
+    "id": "ha-tinh-1",
+    "name": "Chùa Hương Tích",
+    "image": "assets/cards/ha-tinh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 115,
+    "id": "ha-tinh-2",
+    "name": "Biển Thiên Cầm",
+    "image": "assets/cards/ha-tinh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 116,
+    "id": "ha-tinh-3",
+    "name": "Kẹo cu đơ",
+    "image": "assets/cards/ha-tinh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 117,
+    "id": "quang-tri-0",
+    "name": "Thành cổ Quảng Trị",
+    "image": "assets/cards/quang-tri-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 118,
+    "id": "quang-tri-1",
+    "name": "Cầu Hiền Lương",
+    "image": "assets/cards/quang-tri-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 119,
+    "id": "quang-tri-2",
+    "name": "Địa đạo Vịnh Mốc",
+    "image": "assets/cards/quang-tri-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 120,
+    "id": "quang-tri-3",
+    "name": "Bánh bột lọc Mỹ Chánh",
+    "image": "assets/cards/quang-tri-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 121,
+    "id": "quang-binh-0",
+    "name": "Động Phong Nha",
+    "image": "assets/cards/quang-binh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 122,
+    "id": "quang-binh-1",
+    "name": "Động Thiên Đường",
+    "image": "assets/cards/quang-binh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 123,
+    "id": "quang-binh-2",
+    "name": "Bãi Đá Nhảy",
+    "image": "assets/cards/quang-binh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 124,
+    "id": "quang-binh-3",
+    "name": "Khoai deo",
+    "image": "assets/cards/quang-binh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 125,
+    "id": "hue-0",
+    "name": "Ngọ Môn",
+    "image": "assets/cards/hue-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 126,
+    "id": "hue-1",
+    "name": "Chùa Thiên Mụ",
+    "image": "assets/cards/hue-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 127,
+    "id": "hue-2",
+    "name": "Cầu Trường Tiền",
+    "image": "assets/cards/hue-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 128,
+    "id": "hue-3",
+    "name": "Bún bò Huế",
+    "image": "assets/cards/hue-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 129,
+    "id": "hue-4",
+    "name": "Mè xửng",
+    "image": "assets/cards/hue-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 130,
+    "id": "da-nang-0",
+    "name": "Cầu Rồng",
+    "image": "assets/cards/da-nang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 131,
+    "id": "da-nang-1",
+    "name": "Ngũ Hành Sơn",
+    "image": "assets/cards/da-nang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 132,
+    "id": "da-nang-2",
+    "name": "Cầu Vàng",
+    "image": "assets/cards/da-nang-2.webp",
+    "type": "landmark",
+    "status": "Lệch nhẹ",
+    "note": "Bầu trời kem rộng; bảng màu lạnh, mảng cây và bàn tay thiên về cel shading.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 133,
+    "id": "da-nang-3",
+    "name": "Bún chả cá Đà Nẵng",
+    "image": "assets/cards/da-nang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 134,
+    "id": "quang-nam-0",
+    "name": "Chùa Cầu Hội An",
+    "image": "assets/cards/quang-nam-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 135,
+    "id": "quang-nam-1",
+    "name": "Thánh địa Mỹ Sơn",
+    "image": "assets/cards/quang-nam-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 136,
+    "id": "quang-nam-2",
+    "name": "Cù Lao Chàm",
+    "image": "assets/cards/quang-nam-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 137,
+    "id": "quang-nam-3",
+    "name": "Cao lầu Hội An",
+    "image": "assets/cards/quang-nam-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 138,
+    "id": "quang-nam-4",
+    "name": "Mì Quảng",
+    "image": "assets/cards/quang-nam-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 139,
+    "id": "quang-ngai-0",
+    "name": "Cổng Tò Vò",
+    "image": "assets/cards/quang-ngai-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 140,
+    "id": "quang-ngai-1",
+    "name": "Chùa Thiên Ấn",
+    "image": "assets/cards/quang-ngai-1-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 141,
+    "id": "quang-ngai-2",
+    "name": "Đỉnh Thới Lới",
+    "image": "assets/cards/quang-ngai-2-20261021.webp",
+    "type": "landmark",
+    "status": "Lệch nhẹ",
+    "note": "Viền đen liên tục quanh địa hình, mảng màu phẳng hơn chất màu gouache phổ biến.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 142,
+    "id": "quang-ngai-3",
+    "name": "Don Quảng Ngãi",
+    "image": "assets/cards/quang-ngai-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 143,
+    "id": "kon-tum-0",
+    "name": "Nhà thờ gỗ Kon Tum",
+    "image": "assets/cards/kon-tum-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 144,
+    "id": "kon-tum-1",
+    "name": "Nhà rông Kon Klor",
+    "image": "assets/cards/kon-tum-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 145,
+    "id": "kon-tum-2",
+    "name": "Thác Pa Sỹ",
+    "image": "assets/cards/kon-tum-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 146,
+    "id": "kon-tum-3",
+    "name": "Gỏi lá Kon Tum",
+    "image": "assets/cards/kon-tum-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 147,
+    "id": "gia-lai-0",
+    "name": "Biển Hồ Tơ Nưng",
+    "image": "assets/cards/gia-lai-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 148,
+    "id": "gia-lai-1",
+    "name": "Núi lửa Chư Đang Ya",
+    "image": "assets/cards/gia-lai-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 149,
+    "id": "gia-lai-2",
+    "name": "Chùa Minh Thành",
+    "image": "assets/cards/gia-lai-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 150,
+    "id": "gia-lai-3",
+    "name": "Phở khô Gia Lai",
+    "image": "assets/cards/gia-lai-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 151,
+    "id": "binh-dinh-0",
+    "name": "Eo Gió",
+    "image": "assets/cards/binh-dinh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 152,
+    "id": "binh-dinh-1",
+    "name": "Bãi biển Kỳ Co",
+    "image": "assets/cards/binh-dinh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 153,
+    "id": "binh-dinh-2",
+    "name": "Tháp Đôi",
+    "image": "assets/cards/binh-dinh-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 154,
+    "id": "binh-dinh-3",
+    "name": "Bánh ít lá gai",
+    "image": "assets/cards/binh-dinh-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 155,
+    "id": "dak-lak-0",
+    "name": "Hồ Lắk",
+    "image": "assets/cards/dak-lak-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 156,
+    "id": "dak-lak-1",
+    "name": "Thác Dray Nur",
+    "image": "assets/cards/dak-lak-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 157,
+    "id": "dak-lak-2",
+    "name": "Nhà đày Buôn Ma Thuột",
+    "image": "assets/cards/dak-lak-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 158,
+    "id": "dak-lak-3",
+    "name": "Bún đỏ Buôn Ma Thuột",
+    "image": "assets/cards/dak-lak-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 159,
+    "id": "phu-yen-0",
+    "name": "Gành Đá Đĩa",
+    "image": "assets/cards/phu-yen-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 160,
+    "id": "phu-yen-1",
+    "name": "Tháp Nhạn",
+    "image": "assets/cards/phu-yen-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 161,
+    "id": "phu-yen-2",
+    "name": "Hải đăng Đại Lãnh",
+    "image": "assets/cards/phu-yen-2-20261021.webp",
+    "type": "landmark",
+    "status": "Lệch nhẹ",
+    "note": "Trời xanh sáng, khối kiến trúc phẳng và nét viền mạnh, ít chất cọ.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 162,
+    "id": "phu-yen-3",
+    "name": "Bánh canh hẹ",
+    "image": "assets/cards/phu-yen-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 163,
+    "id": "khanh-hoa-0",
+    "name": "Tháp Bà Ponagar",
+    "image": "assets/cards/khanh-hoa-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 164,
+    "id": "khanh-hoa-1",
+    "name": "Hòn Chồng",
+    "image": "assets/cards/khanh-hoa-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 165,
+    "id": "khanh-hoa-2",
+    "name": "Nhà thờ Núi Nha Trang",
+    "image": "assets/cards/khanh-hoa-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 166,
+    "id": "khanh-hoa-3",
+    "name": "Nem nướng Ninh Hòa",
+    "image": "assets/cards/khanh-hoa-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 167,
+    "id": "ninh-thuan-0",
+    "name": "Tháp Po Klong Garai",
+    "image": "assets/cards/ninh-thuan-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 168,
+    "id": "ninh-thuan-1",
+    "name": "Vịnh Vĩnh Hy",
+    "image": "assets/cards/ninh-thuan-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 169,
+    "id": "ninh-thuan-2",
+    "name": "Hang Rái",
+    "image": "assets/cards/ninh-thuan-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 170,
+    "id": "ninh-thuan-3",
+    "name": "Bánh căn Phan Rang",
+    "image": "assets/cards/ninh-thuan-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 171,
+    "id": "lam-dong-0",
+    "name": "Hồ Xuân Hương",
+    "image": "assets/cards/lam-dong-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 172,
+    "id": "lam-dong-1",
+    "name": "Ga Đà Lạt",
+    "image": "assets/cards/lam-dong-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 173,
+    "id": "lam-dong-2",
+    "name": "Núi Langbiang",
+    "image": "assets/cards/lam-dong-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 174,
+    "id": "lam-dong-3",
+    "name": "Bánh tráng nướng Đà Lạt",
+    "image": "assets/cards/lam-dong-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 175,
+    "id": "lam-dong-4",
+    "name": "Kem bơ Đà Lạt",
+    "image": "assets/cards/lam-dong-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 176,
+    "id": "dak-nong-0",
+    "name": "Hồ Tà Đùng",
+    "image": "assets/cards/dak-nong-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 177,
+    "id": "dak-nong-1",
+    "name": "Thác Liêng Nung",
+    "image": "assets/cards/dak-nong-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 178,
+    "id": "dak-nong-2",
+    "name": "Hang núi lửa Chư Bluk",
+    "image": "assets/cards/dak-nong-2-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 179,
+    "id": "dak-nong-3",
+    "name": "Cà phê Robusta Đắk Nông",
+    "image": "assets/cards/dak-nong-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 180,
+    "id": "binh-thuan-0",
+    "name": "Bàu Trắng",
+    "image": "assets/cards/binh-thuan-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 181,
+    "id": "binh-thuan-1",
+    "name": "Hải đăng Kê Gà",
+    "image": "assets/cards/binh-thuan-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 182,
+    "id": "binh-thuan-2",
+    "name": "Núi Tà Cú",
+    "image": "assets/cards/binh-thuan-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 183,
+    "id": "binh-thuan-3",
+    "name": "Lẩu thả Phan Thiết",
+    "image": "assets/cards/binh-thuan-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 184,
+    "id": "dong-nai-0",
+    "name": "Núi Chứa Chan",
+    "image": "assets/cards/dong-nai-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 185,
+    "id": "dong-nai-1",
+    "name": "Văn miếu Trấn Biên",
+    "image": "assets/cards/dong-nai-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 186,
+    "id": "dong-nai-2",
+    "name": "Thác Giang Điền",
+    "image": "assets/cards/dong-nai-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 187,
+    "id": "dong-nai-3",
+    "name": "Gỏi cá Biên Hòa",
+    "image": "assets/cards/dong-nai-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 188,
+    "id": "binh-phuoc-0",
+    "name": "Núi Bà Rá",
+    "image": "assets/cards/binh-phuoc-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 189,
+    "id": "binh-phuoc-1",
+    "name": "Vườn quốc gia Bù Gia Mập",
+    "image": "assets/cards/binh-phuoc-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 190,
+    "id": "binh-phuoc-2",
+    "name": "Sóc Bom Bo",
+    "image": "assets/cards/binh-phuoc-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 191,
+    "id": "binh-phuoc-3",
+    "name": "Hạt điều Bình Phước",
+    "image": "assets/cards/binh-phuoc-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 192,
+    "id": "tay-ninh-0",
+    "name": "Núi Bà Đen",
+    "image": "assets/cards/tay-ninh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 193,
+    "id": "tay-ninh-1",
+    "name": "Tòa thánh Tây Ninh",
+    "image": "assets/cards/tay-ninh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 194,
+    "id": "tay-ninh-2",
+    "name": "Tháp Bình Thạnh",
+    "image": "assets/cards/tay-ninh-2-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 195,
+    "id": "tay-ninh-3",
+    "name": "Bánh tráng phơi sương",
+    "image": "assets/cards/tay-ninh-3-v2.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 196,
+    "id": "long-an-0",
+    "name": "Nhà trăm cột",
+    "image": "assets/cards/long-an-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 197,
+    "id": "long-an-1",
+    "name": "Làng nổi Tân Lập",
+    "image": "assets/cards/long-an-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 198,
+    "id": "long-an-2",
+    "name": "Khu bảo tồn Láng Sen",
+    "image": "assets/cards/long-an-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 199,
+    "id": "long-an-3",
+    "name": "Lạp xưởng Cần Đước",
+    "image": "assets/cards/long-an-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 200,
+    "id": "tphcm-0",
+    "name": "Chợ Bến Thành",
+    "image": "assets/cards/tphcm-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 201,
+    "id": "tphcm-1",
+    "name": "Dinh Độc Lập",
+    "image": "assets/cards/tphcm-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 202,
+    "id": "tphcm-2",
+    "name": "Bưu điện Trung tâm Sài Gòn",
+    "image": "assets/cards/tphcm-2.webp",
+    "type": "landmark",
+    "status": "Lệch rõ",
+    "note": "Bố cục vật thể tách nền; khoảng trống kem lớn trên và dưới, khác đa số cảnh phủ khung.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 203,
+    "id": "tphcm-3",
+    "name": "Cơm tấm Sài Gòn",
+    "image": "assets/cards/tphcm-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 204,
+    "id": "tphcm-4",
+    "name": "Bánh mì Sài Gòn",
+    "image": "assets/cards/tphcm-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 205,
+    "id": "binh-duong-0",
+    "name": "Chùa Hội Khánh",
+    "image": "assets/cards/binh-duong-0-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 206,
+    "id": "binh-duong-1",
+    "name": "Nhà cổ Trần Văn Hổ",
+    "image": "assets/cards/binh-duong-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 207,
+    "id": "binh-duong-2",
+    "name": "Làng sơn mài Tương Bình Hiệp",
+    "image": "assets/cards/binh-duong-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 208,
+    "id": "binh-duong-3",
+    "name": "Gỏi gà măng cụt",
+    "image": "assets/cards/binh-duong-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 209,
+    "id": "ba-ria---vung-tau-0",
+    "name": "Hải đăng Vũng Tàu",
+    "image": "assets/cards/ba-ria---vung-tau-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 210,
+    "id": "ba-ria---vung-tau-1",
+    "name": "Tượng Chúa Kitô",
+    "image": "assets/cards/ba-ria---vung-tau-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 211,
+    "id": "ba-ria---vung-tau-2",
+    "name": "Bạch Dinh",
+    "image": "assets/cards/ba-ria---vung-tau-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 212,
+    "id": "ba-ria---vung-tau-3",
+    "name": "Bánh khọt Vũng Tàu",
+    "image": "assets/cards/ba-ria---vung-tau-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 213,
+    "id": "dong-thap-0",
+    "name": "Vườn quốc gia Tràm Chim",
+    "image": "assets/cards/dong-thap-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 214,
+    "id": "dong-thap-1",
+    "name": "Làng hoa Sa Đéc",
+    "image": "assets/cards/dong-thap-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 215,
+    "id": "dong-thap-2",
+    "name": "Di tích Gò Tháp",
+    "image": "assets/cards/dong-thap-2.webp",
+    "type": "landmark",
+    "status": "Lệch rõ",
+    "note": "Nền kem và rìa loang kiểu minh họa tư liệu, thiếu cảnh phủ khung như nhóm địa danh.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 216,
+    "id": "dong-thap-3",
+    "name": "Hủ tiếu Sa Đéc",
+    "image": "assets/cards/dong-thap-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 217,
+    "id": "dong-thap-4",
+    "name": "Nem Lai Vung",
+    "image": "assets/cards/dong-thap-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 218,
+    "id": "tien-giang-0",
+    "name": "Chùa Vĩnh Tràng",
+    "image": "assets/cards/tien-giang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 219,
+    "id": "tien-giang-1",
+    "name": "Cù lao Thới Sơn",
+    "image": "assets/cards/tien-giang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 220,
+    "id": "tien-giang-2",
+    "name": "Nhà cổ ông Kiệt",
+    "image": "assets/cards/tien-giang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 221,
+    "id": "tien-giang-3",
+    "name": "Vú sữa Lò Rèn",
+    "image": "assets/cards/tien-giang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 222,
+    "id": "tien-giang-4",
+    "name": "Hủ tiếu Mỹ Tho",
+    "image": "assets/cards/tien-giang-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 223,
+    "id": "an-giang-0",
+    "name": "Miếu Bà Chúa Xứ Núi Sam",
+    "image": "assets/cards/an-giang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 224,
+    "id": "an-giang-1",
+    "name": "Rừng tràm Trà Sư",
+    "image": "assets/cards/an-giang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 225,
+    "id": "an-giang-2",
+    "name": "Hồ Tà Pạ",
+    "image": "assets/cards/an-giang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 226,
+    "id": "an-giang-3",
+    "name": "Bún cá Châu Đốc",
+    "image": "assets/cards/an-giang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 227,
+    "id": "an-giang-4",
+    "name": "Bánh bò thốt nốt",
+    "image": "assets/cards/an-giang-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 228,
+    "id": "kien-giang-0",
+    "name": "Dinh Cậu",
+    "image": "assets/cards/kien-giang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 229,
+    "id": "kien-giang-1",
+    "name": "Hòn Phụ Tử",
+    "image": "assets/cards/kien-giang-1-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 230,
+    "id": "kien-giang-2",
+    "name": "Hải đăng Nam Du",
+    "image": "assets/cards/kien-giang-2-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 231,
+    "id": "kien-giang-3",
+    "name": "Bún quậy Phú Quốc",
+    "image": "assets/cards/kien-giang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 232,
+    "id": "kien-giang-4",
+    "name": "Gỏi cá trích",
+    "image": "assets/cards/kien-giang-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 233,
+    "id": "vinh-long-0",
+    "name": "Văn Thánh Miếu Vĩnh Long",
+    "image": "assets/cards/vinh-long-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 234,
+    "id": "vinh-long-1",
+    "name": "Cầu Mỹ Thuận",
+    "image": "assets/cards/vinh-long-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 235,
+    "id": "vinh-long-2",
+    "name": "Làng gạch Mang Thít",
+    "image": "assets/cards/vinh-long-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 236,
+    "id": "vinh-long-3",
+    "name": "Khoai lang Bình Tân",
+    "image": "assets/cards/vinh-long-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 237,
+    "id": "ben-tre-0",
+    "name": "Cồn Phụng",
+    "image": "assets/cards/ben-tre-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 238,
+    "id": "ben-tre-1",
+    "name": "Làng hoa Cái Mơn",
+    "image": "assets/cards/ben-tre-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 239,
+    "id": "ben-tre-2",
+    "name": "Khu lưu niệm Nguyễn Đình Chiểu",
+    "image": "assets/cards/ben-tre-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 240,
+    "id": "ben-tre-3",
+    "name": "Kẹo dừa Bến Tre",
+    "image": "assets/cards/ben-tre-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 241,
+    "id": "ben-tre-4",
+    "name": "Bánh tráng Mỹ Lồng",
+    "image": "assets/cards/ben-tre-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 242,
+    "id": "tra-vinh-0",
+    "name": "Ao Bà Om",
+    "image": "assets/cards/tra-vinh-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 243,
+    "id": "tra-vinh-1",
+    "name": "Chùa Âng",
+    "image": "assets/cards/tra-vinh-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 244,
+    "id": "tra-vinh-2",
+    "name": "Chùa Hang Trà Vinh",
+    "image": "assets/cards/tra-vinh-2.webp",
+    "type": "landmark",
+    "status": "Lệch rõ",
+    "note": "Cổng chùa tách trên nền kem; màu phẳng, viền đậm và ít chiều sâu hơn đa số thẻ.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 245,
+    "id": "tra-vinh-3",
+    "name": "Bún nước lèo Trà Vinh",
+    "image": "assets/cards/tra-vinh-3-20261021.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 246,
+    "id": "tra-vinh-4",
+    "name": "Bánh tét Trà Cuôn",
+    "image": "assets/cards/tra-vinh-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 247,
+    "id": "can-tho-0",
+    "name": "Chợ nổi Cái Răng",
+    "image": "assets/cards/can-tho-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 248,
+    "id": "can-tho-1",
+    "name": "Bến Ninh Kiều",
+    "image": "assets/cards/can-tho-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 249,
+    "id": "can-tho-2",
+    "name": "Nhà cổ Bình Thủy",
+    "image": "assets/cards/can-tho-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 250,
+    "id": "can-tho-3",
+    "name": "Bánh cống Đại Tâm",
+    "image": "assets/cards/can-tho-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 251,
+    "id": "hau-giang-0",
+    "name": "Khu bảo tồn Lung Ngọc Hoàng",
+    "image": "assets/cards/hau-giang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 252,
+    "id": "hau-giang-1",
+    "name": "Kênh xáng Xà No",
+    "image": "assets/cards/hau-giang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 253,
+    "id": "hau-giang-2",
+    "name": "Di tích Chiến thắng Chương Thiện",
+    "image": "assets/cards/hau-giang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 254,
+    "id": "hau-giang-3",
+    "name": "Chả cá thác lác",
+    "image": "assets/cards/hau-giang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 255,
+    "id": "hau-giang-4",
+    "name": "Khóm Cầu Đúc",
+    "image": "assets/cards/hau-giang-4.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 256,
+    "id": "soc-trang-0",
+    "name": "Chùa Dơi",
+    "image": "assets/cards/soc-trang-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 257,
+    "id": "soc-trang-1",
+    "name": "Chùa Som Rong",
+    "image": "assets/cards/soc-trang-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 258,
+    "id": "soc-trang-2",
+    "name": "Chùa Chén Kiểu",
+    "image": "assets/cards/soc-trang-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 259,
+    "id": "soc-trang-3",
+    "name": "Bánh pía Sóc Trăng",
+    "image": "assets/cards/soc-trang-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 260,
+    "id": "ca-mau-0",
+    "name": "Mũi Cà Mau",
+    "image": "assets/cards/ca-mau-0.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 261,
+    "id": "ca-mau-1",
+    "name": "Rừng U Minh Hạ",
+    "image": "assets/cards/ca-mau-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 262,
+    "id": "ca-mau-2",
+    "name": "Hòn Đá Bạc",
+    "image": "assets/cards/ca-mau-2-20261021.webp",
+    "type": "landmark",
+    "status": "Lệch nhẹ",
+    "note": "Mảng nước và cây lớn, viền tối rõ, ít chi tiết cọ nhỏ hơn phần lớn cảnh biển.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 263,
+    "id": "ca-mau-3",
+    "name": "Cua Cà Mau",
+    "image": "assets/cards/ca-mau-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 264,
+    "id": "bac-lieu-0",
+    "name": "Nhà Công tử Bạc Liêu",
+    "image": "assets/cards/bac-lieu-0-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 265,
+    "id": "bac-lieu-1",
+    "name": "Cánh đồng điện gió Bạc Liêu",
+    "image": "assets/cards/bac-lieu-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 266,
+    "id": "bac-lieu-2",
+    "name": "Tháp Vĩnh Hưng",
+    "image": "assets/cards/bac-lieu-2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 267,
+    "id": "bac-lieu-3",
+    "name": "Bánh tằm Ngan Dừa",
+    "image": "assets/cards/bac-lieu-3.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 268,
+    "id": "ha-noi-extra-4",
+    "name": "Hoàng thành Thăng Long",
+    "image": "assets/cards/ha-noi-extra-4.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 269,
+    "id": "thanh-hoa-extra-5",
+    "name": "Hòn Trống Mái",
+    "image": "assets/cards/thanh-hoa-extra-5.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 270,
+    "id": "thanh-hoa-extra-6",
+    "name": "Suối cá Cẩm Lương",
+    "image": "assets/cards/thanh-hoa-extra-6.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 271,
+    "id": "quang-nam-extra-5",
+    "name": "Phố cổ Hội An",
+    "image": "assets/cards/quang-nam-extra-5.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 272,
+    "id": "hai-phong-extra-5",
+    "name": "Quần đảo Cát Bà",
+    "image": "assets/cards/hai-phong-extra-5.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 273,
+    "id": "lam-dong-extra-5",
+    "name": "Đồi chè Cầu Đất",
+    "image": "assets/cards/lam-dong-extra-5.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 274,
+    "id": "kien-giang-extra-5",
+    "name": "Bãi Sao Phú Quốc",
+    "image": "assets/cards/kien-giang-extra-5.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 275,
+    "id": "tphcm-extra-5",
+    "name": "Cầu Mống",
+    "image": "assets/cards/tphcm-extra-5.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 276,
+    "id": "da-nang-extra-4",
+    "name": "Cầu Sông Hàn",
+    "image": "assets/cards/da-nang-extra-4.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 277,
+    "id": "ha-noi-visit-cau-long-bien",
+    "name": "Cầu Long Biên",
+    "image": "assets/cards/ha-noi-visit-cau-long-bien.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 278,
+    "id": "ha-giang-visit-dinh-thu-ho-vuong",
+    "name": "Dinh thự họ Vương",
+    "image": "assets/cards/ha-giang-visit-dinh-thu-ho-vuong-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 279,
+    "id": "cao-bang-visit-nui-mat-than",
+    "name": "Núi Mắt Thần",
+    "image": "assets/cards/cao-bang-visit-nui-mat-than.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 280,
+    "id": "lai-chau-visit-thac-tac-tinh",
+    "name": "Thác Tác Tình",
+    "image": "assets/cards/lai-chau-visit-thac-tac-tinh.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 281,
+    "id": "lao-cai-visit-ban-cat-cat",
+    "name": "Bản Cát Cát",
+    "image": "assets/cards/lao-cai-visit-ban-cat-cat.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 282,
+    "id": "bac-kan-visit-dong-hua-ma",
+    "name": "Động Hua Mạ",
+    "image": "assets/cards/bac-kan-visit-dong-hua-ma-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 283,
+    "id": "dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu",
+    "name": "Tượng đài Chiến thắng Điện Biên Phủ",
+    "image": "assets/cards/dien-bien-visit-tuong-dai-chien-thang-dien-bien-phu.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 284,
+    "id": "lang-son-visit-thanh-nha-mac-lang-son",
+    "name": "Thành nhà Mạc Lạng Sơn",
+    "image": "assets/cards/lang-son-visit-thanh-nha-mac-lang-son.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 285,
+    "id": "son-la-visit-rung-thong-ban-ang",
+    "name": "Rừng thông Bản Áng",
+    "image": "assets/cards/son-la-visit-rung-thong-ban-ang.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 286,
+    "id": "hoa-binh-visit-thung-nai",
+    "name": "Thung Nai",
+    "image": "assets/cards/hoa-binh-visit-thung-nai.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 287,
+    "id": "bac-ninh-visit-lang-tranh-dong-ho",
+    "name": "Làng tranh Đông Hồ",
+    "image": "assets/cards/bac-ninh-visit-lang-tranh-dong-ho.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 288,
+    "id": "quang-ninh-visit-bao-tang-quang-ninh",
+    "name": "Bảo tàng Quảng Ninh",
+    "image": "assets/cards/quang-ninh-visit-bao-tang-quang-ninh-v2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Đã thay bằng v2 trong lượt này: màu ấm hơn, mặt kính bớt bóng, bỏ chữ mặt tiền.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 289,
+    "id": "hai-phong-visit-bien-do-son",
+    "name": "Biển Đồ Sơn",
+    "image": "assets/cards/hai-phong-visit-bien-do-son.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 290,
+    "id": "thai-binh-visit-con-den",
+    "name": "Cồn Đen",
+    "image": "assets/cards/thai-binh-visit-con-den.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 291,
+    "id": "ninh-binh-visit-tam-coc",
+    "name": "Tam Cốc",
+    "image": "assets/cards/ninh-binh-visit-tam-coc-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 292,
+    "id": "thanh-hoa-visit-bien-sam-son",
+    "name": "Biển Sầm Sơn",
+    "image": "assets/cards/thanh-hoa-visit-bien-sam-son.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 293,
+    "id": "nghe-an-visit-bien-cua-lo",
+    "name": "Biển Cửa Lò",
+    "image": "assets/cards/nghe-an-visit-bien-cua-lo.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 294,
+    "id": "ha-tinh-visit-ho-ke-go",
+    "name": "Hồ Kẻ Gỗ",
+    "image": "assets/cards/ha-tinh-visit-ho-ke-go.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 295,
+    "id": "quang-binh-visit-song-chay-hang-toi",
+    "name": "Sông Chày – Hang Tối",
+    "image": "assets/cards/quang-binh-visit-song-chay-hang-toi.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 296,
+    "id": "hue-visit-lang-tu-duc",
+    "name": "Lăng Tự Đức",
+    "image": "assets/cards/hue-visit-lang-tu-duc.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 297,
+    "id": "da-nang-visit-ban-dao-son-tra",
+    "name": "Bán đảo Sơn Trà",
+    "image": "assets/cards/da-nang-visit-ban-dao-son-tra.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 298,
+    "id": "quang-ngai-visit-bien-my-khe-quang-ngai",
+    "name": "Biển Mỹ Khê Quảng Ngãi",
+    "image": "assets/cards/quang-ngai-visit-bien-my-khe-quang-ngai.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 299,
+    "id": "binh-dinh-visit-ghenh-rang-tien-sa",
+    "name": "Ghềnh Ráng Tiên Sa",
+    "image": "assets/cards/binh-dinh-visit-ghenh-rang-tien-sa.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 300,
+    "id": "phu-yen-visit-dam-o-loan",
+    "name": "Đầm Ô Loan",
+    "image": "assets/cards/phu-yen-visit-dam-o-loan.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 301,
+    "id": "ninh-thuan-visit-bien-ninh-chu",
+    "name": "Biển Ninh Chữ",
+    "image": "assets/cards/ninh-thuan-visit-bien-ninh-chu.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 302,
+    "id": "binh-thuan-visit-doi-cat-mui-ne",
+    "name": "Đồi cát Mũi Né",
+    "image": "assets/cards/binh-thuan-visit-doi-cat-mui-ne.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 303,
+    "id": "dong-nai-visit-vuon-quoc-gia-cat-tien",
+    "name": "Vườn quốc gia Cát Tiên",
+    "image": "assets/cards/dong-nai-visit-vuon-quoc-gia-cat-tien.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 304,
+    "id": "tay-ninh-visit-thung-lung-ma-thien-lanh",
+    "name": "Thung lũng Ma Thiên Lãnh",
+    "image": "assets/cards/tay-ninh-visit-thung-lung-ma-thien-lanh.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 305,
+    "id": "tphcm-visit-nha-tho-duc-ba-sai-gon",
+    "name": "Nhà thờ Đức Bà Sài Gòn",
+    "image": "assets/cards/tphcm-visit-nha-tho-duc-ba-sai-gon.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 306,
+    "id": "dong-thap-visit-nha-co-huynh-thuy-le",
+    "name": "Nhà cổ Huỳnh Thủy Lê",
+    "image": "assets/cards/dong-thap-visit-nha-co-huynh-thuy-le.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 307,
+    "id": "kien-giang-visit-bai-dai-phu-quoc",
+    "name": "Bãi Dài Phú Quốc",
+    "image": "assets/cards/kien-giang-visit-bai-dai-phu-quoc.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 308,
+    "id": "vinh-long-visit-cu-lao-an-binh",
+    "name": "Cù lao An Bình",
+    "image": "assets/cards/vinh-long-visit-cu-lao-an-binh.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 309,
+    "id": "can-tho-visit-thien-vien-truc-lam-phuong-nam",
+    "name": "Thiền viện Trúc Lâm Phương Nam",
+    "image": "assets/cards/can-tho-visit-thien-vien-truc-lam-phuong-nam.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 310,
+    "id": "bac-lieu-visit-khu-luu-niem-nhac-si-cao-van-lau",
+    "name": "Khu lưu niệm nhạc sĩ Cao Văn Lầu",
+    "image": "assets/cards/bac-lieu-visit-khu-luu-niem-nhac-si-cao-van-lau.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 311,
+    "id": "ha-noi-visit-pho-co-ha-noi",
+    "name": "Phố cổ Hà Nội",
+    "image": "assets/cards/ha-noi-visit-pho-co-ha-noi.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 312,
+    "id": "tuyen-quang-visit-cay-da-tan-trao",
+    "name": "Cây đa Tân Trào",
+    "image": "assets/cards/tuyen-quang-visit-cay-da-tan-trao.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 313,
+    "id": "yen-bai-visit-doi-mam-xoi",
+    "name": "Đồi Mâm Xôi",
+    "image": "assets/cards/yen-bai-visit-doi-mam-xoi.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 314,
+    "id": "thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam",
+    "name": "Bảo tàng Văn hóa các dân tộc Việt Nam",
+    "image": "assets/cards/thai-nguyen-visit-bao-tang-van-hoa-cac-dan-toc-viet-nam-20261021.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 315,
+    "id": "vinh-phuc-visit-thien-vien-truc-lam-tay-thien",
+    "name": "Thiền viện Trúc Lâm Tây Thiên",
+    "image": "assets/cards/vinh-phuc-visit-thien-vien-truc-lam-tay-thien.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 316,
+    "id": "hai-phong-visit-cau-binh",
+    "name": "Cầu Bính",
+    "image": "assets/cards/hai-phong-visit-cau-binh.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 317,
+    "id": "hue-visit-lang-khai-dinh",
+    "name": "Lăng Khải Định",
+    "image": "assets/cards/hue-visit-lang-khai-dinh.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 318,
+    "id": "quang-nam-visit-rung-dua-bay-mau",
+    "name": "Rừng dừa Bảy Mẫu",
+    "image": "assets/cards/quang-nam-visit-rung-dua-bay-mau.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 319,
+    "id": "khanh-hoa-visit-chua-long-son",
+    "name": "Chùa Long Sơn",
+    "image": "assets/cards/khanh-hoa-visit-chua-long-son.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 320,
+    "id": "lam-dong-visit-quang-truong-lam-vien",
+    "name": "Quảng trường Lâm Viên",
+    "image": "assets/cards/lam-dong-visit-quang-truong-lam-vien.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 321,
+    "id": "binh-phuoc-visit-di-tich-phu-rieng-do",
+    "name": "Di tích Phú Riềng Đỏ",
+    "image": "assets/cards/binh-phuoc-visit-di-tich-phu-rieng-do.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 322,
+    "id": "long-an-visit-vam-nhut-tao",
+    "name": "Vàm Nhựt Tảo",
+    "image": "assets/cards/long-an-visit-vam-nhut-tao.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 323,
+    "id": "ba-ria---vung-tau-visit-ho-da-xanh",
+    "name": "Hồ Đá Xanh",
+    "image": "assets/cards/ba-ria---vung-tau-visit-ho-da-xanh.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 324,
+    "id": "an-giang-visit-nui-cam",
+    "name": "Núi Cấm",
+    "image": "assets/cards/an-giang-visit-nui-cam.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 325,
+    "id": "egg-cau-rach-mieu-1",
+    "name": "Cầu Rạch Miễu",
+    "image": "assets/cards/egg-cau-rach-mieu-1.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 326,
+    "id": "egg-cau-vam-cong",
+    "name": "Cầu Vàm Cống",
+    "image": "assets/cards/egg-cau-vam-cong.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 327,
+    "id": "egg-hai-van",
+    "name": "Đèo Hải Vân",
+    "image": "assets/cards/egg-hai-van.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 328,
+    "id": "egg-deo-ca",
+    "name": "Đèo Cả",
+    "image": "assets/cards/egg-deo-ca.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 329,
+    "id": "egg-vuon-quoc-gia-cuc-phuong",
+    "name": "Vườn quốc gia Cúc Phương",
+    "image": "assets/cards/egg-vuon-quoc-gia-cuc-phuong.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 330,
+    "id": "egg-vuon-quoc-gia-tam-dao",
+    "name": "Vườn quốc gia Tam Đảo",
+    "image": "assets/cards/egg-vuon-quoc-gia-tam-dao.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 331,
+    "id": "egg-vuon-quoc-gia-hoang-lien",
+    "name": "Vườn quốc gia Hoàng Liên",
+    "image": "assets/cards/egg-vuon-quoc-gia-hoang-lien.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 332,
+    "id": "egg-ha-long-cat-ba",
+    "name": "Vịnh Hạ Long – Quần đảo Cát Bà",
+    "image": "assets/cards/egg-ha-long-cat-ba.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 333,
+    "id": "egg-dan-ca-quan-ho",
+    "name": "Dân ca Quan họ Bắc Ninh",
+    "image": "assets/cards/egg-dan-ca-quan-ho.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Nhân vật có mảng màu cel rõ; nền và chất màu vẫn gần nhóm chung. Không coi khác chủ đề là lỗi.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 334,
+    "id": "ba-ria---vung-tau-visit-con-dao",
+    "name": "Nhà tù Côn Đảo",
+    "image": "assets/cards/ba-ria---vung-tau-visit-con-dao-v2.webp",
+    "type": "landmark",
+    "status": "Lệch nhẹ",
+    "note": "Nét kiến trúc sắc và bề mặt sân/tường gần kiểu ảnh chuyển tranh hơn nhóm màu mềm; ảnh đã được người dùng duyệt nên giữ nguyên.",
+    "review": "contact-sheet+ individual full-size"
+  },
+  {
+    "number": 335,
+    "id": "ha-noi-visit-nha-tu-hoa-lo",
+    "name": "Nhà tù Hỏa Lò",
+    "image": "assets/cards/ha-noi-visit-nha-tu-hoa-lo-v2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 336,
+    "id": "kien-giang-visit-nha-tu-phu-quoc",
+    "name": "Nhà tù Phú Quốc",
+    "image": "assets/cards/kien-giang-visit-nha-tu-phu-quoc-v2.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 337,
+    "id": "lang-son-visit-mau-son",
+    "name": "Đỉnh Mẫu Sơn",
+    "image": "assets/cards/lang-son-visit-mau-son.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 338,
+    "id": "nam-dinh-visit-phu-day",
+    "name": "Phủ Dầy",
+    "image": "assets/cards/nam-dinh-visit-phu-day.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 339,
+    "id": "hue-visit-lang-minh-mang",
+    "name": "Lăng Minh Mạng",
+    "image": "assets/cards/hue-visit-lang-minh-mang.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 340,
+    "id": "tien-giang-visit-trai-ran-dong-tam",
+    "name": "Trại rắn Đồng Tâm",
+    "image": "assets/cards/tien-giang-visit-trai-ran-dong-tam.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 341,
+    "id": "ha-noi-food-banh-cuon-thanh-tri",
+    "name": "Bánh cuốn Thanh Trì",
+    "image": "assets/cards/ha-noi-food-banh-cuon-thanh-tri.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 342,
+    "id": "hue-food-banh-khoai",
+    "name": "Bánh khoái Huế",
+    "image": "assets/cards/hue-food-banh-khoai.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 343,
+    "id": "khanh-hoa-food-bun-sua-nha-trang",
+    "name": "Bún sứa Nha Trang",
+    "image": "assets/cards/khanh-hoa-food-bun-sua-nha-trang.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 344,
+    "id": "tay-ninh-food-banh-canh-trang-bang",
+    "name": "Bánh canh Trảng Bàng",
+    "image": "assets/cards/tay-ninh-food-banh-canh-trang-bang.webp",
+    "type": "food",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 345,
+    "id": "egg-vuon-quoc-gia-yok-don",
+    "name": "Vườn quốc gia Yok Đôn",
+    "image": "assets/cards/egg-vuon-quoc-gia-yok-don.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Không thấy lệch nổi bật khi xem bảng đối chiếu.",
+    "review": "contact-sheet"
+  },
+  {
+    "number": 346,
+    "id": "egg-dan-ca-vi-giam",
+    "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+    "image": "assets/cards/egg-dan-ca-vi-giam.webp",
+    "type": "landmark",
+    "status": "Gần phong cách chung",
+    "note": "Nhân vật có mảng màu cel rõ; nền và chất màu vẫn gần nhóm chung. Không coi khác chủ đề là lỗi.",
+    "review": "contact-sheet+ individual full-size"
+  }
+]

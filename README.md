@@ -18,10 +18,10 @@ Mở http://localhost:4173. Có thể phục vụ `dist/` bằng static web serv
 - Màu vàng là vùng còn thẻ địa danh/đặc sản chưa mở; chỉ thu thập đủ mới xanh. Mốc 3 thẻ để mở đường giữ nguyên. Phân nhóm địa lý trong dữ liệu giữ theo 34 tỉnh hiện tại; giao diện bản đồ tập trung tỉnh đang chơi.
 - Thẻ có tỷ lệ 3:4, ảnh vuông nguyên vẹn ở trên, tên bên dưới. Tab Bộ Sưu Tập gom thẻ đã có trên toàn hành trình với ba tab nhỏ Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Bộ Sưu Tập hiển thị 3 thẻ mỗi hàng và số đã mở/tổng thẻ riêng cho từng nhóm. 10 thẻ Thành Tựu có ảnh riêng, bấm để xem điều kiện và tiến độ. Logo UNESCO trắng trên nền xanh ở góc thẻ đã mở thuộc hồ sơ UNESCO; nguồn và phạm vi ở `docs/unesco-badge.md`.
 - Danh sách thẻ chỉ có ảnh và tên; thẻ khóa bị mờ và ẩn tên. Trang bên phải đổi tiêu đề theo tab Địa Danh Nổi Tiếng / Đặc Sản / Thành Tựu. Vùng chưa có đặc sản đủ căn cứ không bị ép thêm thẻ món ăn.
-- Chạm thẻ mở thẳng câu đố Nhận diện hình ảnh: 16 ô hé ngẫu nhiên mỗi 500 ms, không lặp; bên dưới là đoạn văn điền khuyết và bốn đáp án cùng chủ đề. Không có bước chọn chế độ hoặc gợi ý.
-- Đồng hồ bắt đầu khi ảnh tải/giải mã xong. Đúng ngay lần chọn đầu của lượt thử thách và dưới 3000 ms nhận thẻ lấp lánh, lưu cùng tiến độ. Chơi lại thẻ đã nhận không nâng độ lấp lánh hoặc nhân đôi thẻ.
+- Chạm thẻ mở thẳng câu đố Nhận diện hình ảnh: 9 ô (3×3) hé ngẫu nhiên mỗi 500 ms, không lặp; mỗi ô chuyển từ mờ sang rõ trong 500 ms. Địa danh ghép chữ, đặc sản trắc nghiệm; địa danh có gợi ý theo từng mức.
+- Đồng hồ bắt đầu khi ảnh tải/giải mã xong. Không dùng gợi ý và đúng ngay lần kiểm tra đầu của lượt thử thách: địa danh dưới 10000 ms, đặc sản dưới 3000 ms nhận thẻ lấp lánh, lưu cùng tiến độ. Chơi lại thẻ đã nhận không nâng độ lấp lánh hoặc nhân đôi thẻ.
 - Đáp án đúng tự hiện ảnh thẻ, giới thiệu ngắn và nguồn. Ba thẻ khác nhau mở các vùng còn lại trong chapter; hoàn thành mọi vùng mở chapter tiếp giáp.
-- Hồ sơ khách hoặc email/mật khẩu, đồng bộ Firebase theo UID; vẫn lưu cục bộ và hỗ trợ xuất/nhập JSON. Tiến trình chưa có chống gian lận ở server.
+- Hồ sơ khách hoặc email/mật khẩu, đồng bộ Firebase theo UID; vẫn lưu cục bộ khi chơi trên trình duyệt. Đã bỏ nhập/xuất tiến độ khỏi giao diện. Tiến trình chưa có chống gian lận ở server.
 
 ## Ảnh riêng cho từng thẻ
 
@@ -64,11 +64,11 @@ node tests/card-layout.mjs
 node tests/landmark-flow.mjs
 ```
 
-Kiểm tra bao gồm điều kiện mở vùng, khôi phục tiến độ cũ, chuyển vùng đặc sản, 55 địa danh bổ sung, tiêu điểm bản đồ và đảo, các mốc 499/500/2999/3000/8000 ms, ảnh vuông, bố cục điện thoại và lưu thẻ lấp lánh. Ảnh QA nằm trong `artifacts/` (gitignored).
+Kiểm tra bao gồm điều kiện mở vùng, khôi phục tiến độ cũ, chuyển vùng đặc sản, 55 địa danh bổ sung, tiêu điểm bản đồ và đảo, các mốc 499/500/2999/3000/4500/5000/9999/10000 ms, ảnh vuông, bố cục điện thoại và lưu thẻ lấp lánh. Ảnh QA nằm trong `artifacts/` (gitignored).
 
 ## Chơi qua Firebase
 
-Link gửi cho người chơi: https://mat-ma-viet-nam-hao.web.app
+Link gửi cho người chơi: https://mat-ma-viet-nam.web.app
 
 Xem [cấu hình, tài khoản và đồng bộ tiến trình](docs/firebase.md). Build SDK bằng `npm run build:cloud` sau khi sửa `src/cloud.mjs`.
 
